@@ -30,33 +30,6 @@ const CSS = `
     color: var(--text);
     line-height: 1.5;
   }
-  .header {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    margin-bottom: 28px;
-  }
-  .header-logo {
-    width: 52px; height: 52px;
-    border-radius: 12px;
-    object-fit: cover;
-    background: var(--orange-pale);
-    flex-shrink: 0;
-  }
-  .header-logo-placeholder {
-    width: 52px; height: 52px;
-    border-radius: 12px;
-    background: var(--orange);
-    display: flex; align-items: center; justify-content: center;
-    flex-shrink: 0;
-  }
-  .header-logo-placeholder svg { width: 28px; height: 28px; fill: white; }
-  .header-text { flex: 1; min-width: 0; }
-  .header-club-name {
-    font-size: 22px; font-weight: 700;
-    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-  }
-  .header-meta { font-size: 13px; color: var(--muted); margin-top: 2px; }
   .strava-badge {
     display: flex; align-items: center; gap: 6px;
     background: var(--orange); color: white;
@@ -389,21 +362,12 @@ class StravaDashboard extends HTMLElement {
   render(data) {
     const currentMonthLabel = monthName(data.generatedAt);
     this._container.innerHTML = `
-      <div class="header">
-        ${data.clubProfile
-          ? `<img class="header-logo" src="${data.clubProfile}" alt="${data.clubName}">`
-          : `<div class="header-logo-placeholder">${ICONS.strava}</div>`}
-        <div class="header-text">
-          <div class="header-club-name">${data.clubName}</div>
-          <div class="header-meta">${data.totalActivities.toLocaleString()} activities &middot; Updated ${formatRelativeTime(data.generatedAt)}</div>
-        </div>
-        <a class="strava-badge" href="${CLUB_URL}" target="_blank" rel="noopener">
-          ${ICONS.strava} View Club
-        </a>
-      </div>
       ${millionProgressBar(data.allTimeStats.totalDistance)}
       <div class="section-header">
         <span class="section-title">All-Time Stats</span>
+        <a class="strava-badge" href="${CLUB_URL}" target="_blank" rel="noopener" style="margin-left:auto">
+          ${ICONS.strava} View Club
+        </a>
       </div>
       <div class="stats-grid">
         ${statCard("distance", "Total Distance", metersToKm(data.allTimeStats.totalDistance), "km", false)}

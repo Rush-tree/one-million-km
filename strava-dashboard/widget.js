@@ -487,7 +487,6 @@ class StravaDashboard extends HTMLElement {
     });
 
     const shadow = this._shadow;
-    const currentMonthLabel = monthName(data.generatedAt);
 
     shadow.querySelectorAll("#lb-tabs .tab").forEach(tab => {
       tab.addEventListener("click", () => {

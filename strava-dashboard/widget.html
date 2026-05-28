@@ -611,7 +611,7 @@ function renderDashboard(data) {
     <!-- Header -->
     <div class="header">
       ${data.clubProfile
-        ? `<img class="header-logo" src="${data.clubProfile}" alt="${data.clubName}" onerror="this.parentNode.replaceChild(stravaLogoPlaceholder(), this)">`
+        ? `<img class="header-logo" src="${data.clubProfile}" alt="${data.clubName}" onerror="this.style.display='none'">`
         : `<div class="header-logo-placeholder">${ICONS.strava}</div>`
       }
       <div class="header-text">

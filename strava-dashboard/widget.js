@@ -342,7 +342,7 @@ function leaderboardCard(type, title, entries, key) {
         ${avatar}
         <div class="athlete-info">
           <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} Aktivität${count === 1 ? "" : "en"} &middot; ${time}</div>
+          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"} &middot; ${time}</div>
         </div>
         <div class="athlete-distance">${dist}<span>km</span></div>
       </li>`;
@@ -355,13 +355,13 @@ function leaderboardCard(type, title, entries, key) {
         <span class="section-badge" style="margin-left:auto">${entries.length}</span>
       </div>
       <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:#5c5c5c;font-size:13px">Noch keine Aktivitäten.</li>'}
+        ${rows || '<li style="padding:16px 20px;color:#5c5c5c;font-size:13px">No activities yet.</li>'}
       </ul>
-      ${hasMore ? `<button class="show-more-btn">Alle ${entries.length} Athleten ▾</button>` : ""}
+      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
     </div>`;
 }
 
-function relativeLeaderboardCard(entries) {
+function relativeLeaderboardCard(entries, title) {
   const limit = DEFAULT_LEADERBOARD_LIMIT;
   const hasMore = entries.length > limit;
   const rows = entries.map((a, i) => {
@@ -379,22 +379,24 @@ function relativeLeaderboardCard(entries) {
         ${avatar}
         <div class="athlete-info">
           <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} Aktivität${count === 1 ? "" : "en"}</div>
+          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"}</div>
         </div>
         <div class="athlete-distance">${cals}<span>kJ</span></div>
       </li>`;
   }).join("");
+  const iconClass = title && title.includes("All-Time") ? "alltime" : "month";
+  const iconName = iconClass === "alltime" ? "trophy" : "calendar";
   return `
     <div class="leaderboard-card">
       <div class="leaderboard-header">
-        <div class="leaderboard-icon alltime">${ICONS.trophy}</div>
-        <span class="leaderboard-title">Relative Leistung (kJ)</span>
+        <div class="leaderboard-icon ${iconClass}">${ICONS[iconName]}</div>
+        <span class="leaderboard-title">${title || "Performance"}</span>
         <span class="section-badge" style="margin-left:auto">${entries.length}</span>
       </div>
       <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:#5c5c5c;font-size:13px">Noch keine Aktivitäten.</li>'}
+        ${rows || '<li style="padding:16px 20px;color:#5c5c5c;font-size:13px">No activities yet.</li>'}
       </ul>
-      ${hasMore ? `<button class="show-more-btn">Alle ${entries.length} Athleten ▾</button>` : ""}
+      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
     </div>`;
 }
 
@@ -459,31 +461,19 @@ class StravaDashboard extends HTMLElement {
       </div>
       <div class="section-header" style="margin-top:8px">
         <span class="section-title">Leaderboards</span>
-      </div>
-      <div class="tabs" id="lb-tabs">
-        <button class="tab active" data-panel="panel-alltime">Gesamt</button>
-        <button class="tab" data-panel="panel-month">Dieser Monat</button>
-        <button class="tab" data-panel="panel-run">🏃 Laufen</button>
-        <button class="tab" data-panel="panel-ride">🚴 Radfahren</button>
-        <button class="tab" data-panel="panel-relative">⚡ Relative Leistung</button>
-      </div>
-      <div id="panel-alltime" class="leaderboard-panel active">
-        ${leaderboardCard("alltime", "All-Time Gesamt", data.allTimeLeaderboard, "allTime")}
-      </div>
-      <div id="panel-month" class="leaderboard-panel">
-        ${leaderboardCard("month", currentMonthLabel, data.monthLeaderboard, "month")}
-      </div>
-      <div id="panel-run" class="leaderboard-panel">
-        ${leaderboardCard("month", "Nur Laufen", data.runLeaderboard || [], "run")}
-      </div>
-      <div id="panel-ride" class="leaderboard-panel">
-        ${leaderboardCard("month", "Nur Radfahren", data.rideLeaderboard || [], "ride")}
-      </div>
-      <div id="panel-relative" class="leaderboard-panel">
-        <div class="relative-info">
-          ⚡ <strong>Relative Leistung</strong> — Ranking nach Kalorienverbrauch (kJ). Laufen verbrennt pro km deutlich mehr als Radfahren, daher ist dieser Vergleich sportartübergreifend fair.
+        <div class="tabs" id="lb-tabs" style="margin-bottom:0;margin-left:auto">
+          <button class="tab active" data-view="all">All Activities</button>
+          <button class="tab" data-view="run">🏃 Running</button>
+          <button class="tab" data-view="ride">🚴 Cycling</button>
+          <button class="tab" data-view="relative">⚡ Performance</button>
         </div>
-        ${relativeLeaderboardCard(data.relativeLeaderboard || [])}
+      </div>
+      <div id="relative-info-box" class="relative-info" style="display:none">
+        ⚡ <strong>Relative Performance</strong> — Ranked by energy expenditure (kJ). Running burns significantly more calories per km than cycling, making this comparison fair across sport types.
+      </div>
+      <div class="leaderboards" id="leaderboard-grid">
+        ${leaderboardCard("alltime", "All-Time", data.allTimeLeaderboard, "allTime")}
+        ${leaderboardCard("month", currentMonthLabel, data.monthLeaderboard, "month")}
       </div>
       <div class="footer">
         <span>Last updated ${new Date(data.generatedAt).toLocaleString()}</span>
@@ -496,22 +486,49 @@ class StravaDashboard extends HTMLElement {
       this.loadData(true);
     });
 
-    this._shadow.querySelectorAll("#lb-tabs .tab").forEach(tab => {
+    const shadow = this._shadow;
+    const currentMonthLabel = monthName(data.generatedAt);
+
+    shadow.querySelectorAll("#lb-tabs .tab").forEach(tab => {
       tab.addEventListener("click", () => {
-        this._shadow.querySelectorAll("#lb-tabs .tab").forEach(t => t.classList.remove("active"));
-        this._shadow.querySelectorAll(".leaderboard-panel").forEach(p => p.classList.remove("active"));
+        shadow.querySelectorAll("#lb-tabs .tab").forEach(t => t.classList.remove("active"));
         tab.classList.add("active");
-        this._shadow.getElementById(tab.dataset.panel).classList.add("active");
+        const view = tab.dataset.view;
+        const infoBox = shadow.getElementById("relative-info-box");
+        infoBox.style.display = view === "relative" ? "block" : "none";
+        const grid = shadow.getElementById("leaderboard-grid");
+
+        if (view === "relative") {
+          grid.innerHTML =
+            relativeLeaderboardCard(data.relativeLeaderboard || [], "All-Time · Performance") +
+            relativeLeaderboardCard(data.relativeLeaderboard || [], currentMonthLabel + " · Performance");
+        } else if (view === "all") {
+          grid.innerHTML =
+            leaderboardCard("alltime", "All-Time",        data.allTimeLeaderboard, "allTime") +
+            leaderboardCard("month",   currentMonthLabel, data.monthLeaderboard,   "month");
+        } else if (view === "run") {
+          grid.innerHTML =
+            leaderboardCard("alltime", "All-Time · Running",            data.runLeaderboard || [], "run") +
+            leaderboardCard("month",   currentMonthLabel + " · Running", data.runLeaderboard || [], "run");
+        } else if (view === "ride") {
+          grid.innerHTML =
+            leaderboardCard("alltime", "All-Time · Cycling",            data.rideLeaderboard || [], "ride") +
+            leaderboardCard("month",   currentMonthLabel + " · Cycling", data.rideLeaderboard || [], "ride");
+        }
+        wireShowMore(shadow);
       });
     });
 
-    this._shadow.querySelectorAll(".show-more-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
-        btn.previousElementSibling.querySelectorAll(".leaderboard-item[style*='none']")
-          .forEach(el => el.style.display = "");
-        btn.style.display = "none";
+    function wireShowMore(root) {
+      root.querySelectorAll(".show-more-btn").forEach(btn => {
+        btn.addEventListener("click", () => {
+          btn.previousElementSibling.querySelectorAll(".leaderboard-item[style*='none']")
+            .forEach(el => el.style.display = "");
+          btn.style.display = "none";
+        });
       });
-    });
+    }
+    wireShowMore(shadow);
   }
 }
 

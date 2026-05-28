@@ -261,11 +261,14 @@ function computeStats(cachedActivities) {
     athletes[key].relative.calories += cals;
     athletes[key].relative.count += 1;
 
-    if (type === "run") {
+    const RUN_TYPES = new Set(["run", "walk", "hike", "weighttraining", "workout", "yoga", "swim", "rowing", "elliptical", "stairstepper", "nordicski", "alpineski", "snowboard", "iceskate", "inlineskate", "handcycle", "wheelchair"]);
+    const RIDE_TYPES = new Set(["ride", "virtualride", "ebikeride", "velomobile", "handcycle"]);
+
+    if (RUN_TYPES.has(type)) {
       athletes[key].run.distance += dist;
       athletes[key].run.movingTime += time;
       athletes[key].run.count += 1;
-    } else if (type === "ride" || type === "virtualride") {
+    } else if (RIDE_TYPES.has(type)) {
       athletes[key].ride.distance += dist;
       athletes[key].ride.movingTime += time;
       athletes[key].ride.count += 1;

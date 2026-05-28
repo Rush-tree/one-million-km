@@ -478,14 +478,13 @@
     background: #e5e7eb;
     border-radius: 12px;
     padding: 4px;
-    margin-bottom: 20px;
     flex-wrap: wrap;
   }
 
   .tab {
-    padding: 8px 14px;
+    padding: 6px 12px;
     border-radius: 9px;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 600;
     cursor: pointer;
     border: none;
@@ -496,9 +495,6 @@
   }
   .tab.active { background: white; color: var(--text); box-shadow: 0 1px 4px rgba(0,0,0,0.12); }
   .tab:hover:not(.active) { color: var(--text); }
-
-  .leaderboard-panel { display: none; }
-  .leaderboard-panel.active { display: block; }
 
   .relative-info {
     font-size: 12px;
@@ -660,32 +656,20 @@ function renderDashboard(data) {
     <!-- Leaderboards -->
     <div class="section-header" style="margin-top:8px">
       <span class="section-title">Leaderboards</span>
-    </div>
-    <div class="tabs" id="lb-tabs">
-      <button class="tab active" data-panel="panel-alltime">Gesamt</button>
-      <button class="tab" data-panel="panel-month">Dieser Monat</button>
-      <button class="tab" data-panel="panel-run">🏃 Laufen</button>
-      <button class="tab" data-panel="panel-ride">🚴 Radfahren</button>
-      <button class="tab" data-panel="panel-relative">⚡ Relative Leistung</button>
+      <div class="tabs" id="lb-tabs" style="margin-bottom:0;margin-left:auto">
+        <button class="tab active" data-view="all">All Activities</button>
+        <button class="tab" data-view="run">🏃 Running</button>
+        <button class="tab" data-view="ride">🚴 Cycling</button>
+        <button class="tab" data-view="relative">⚡ Performance</button>
+      </div>
     </div>
 
-    <div id="panel-alltime" class="leaderboard-panel active">
-      ${leaderboardCard("alltime", "All-Time Gesamt", data.allTimeLeaderboard, "allTime", "distance")}
+    <div id="leaderboard-grid" class="leaderboards">
+      ${leaderboardCard("alltime", "All-Time", data.allTimeLeaderboard, "allTime")}
+      ${leaderboardCard("month", currentMonthLabel, data.monthLeaderboard, "month")}
     </div>
-    <div id="panel-month" class="leaderboard-panel">
-      ${leaderboardCard("month", currentMonthLabel, data.monthLeaderboard, "month", "distance")}
-    </div>
-    <div id="panel-run" class="leaderboard-panel">
-      ${leaderboardCard("run", "Nur Laufen", data.runLeaderboard || [], "run", "distance")}
-    </div>
-    <div id="panel-ride" class="leaderboard-panel">
-      ${leaderboardCard("ride", "Nur Radfahren", data.rideLeaderboard || [], "ride", "distance")}
-    </div>
-    <div id="panel-relative" class="leaderboard-panel">
-      <div class="relative-info">
-        ⚡ <strong>Relative Leistung</strong> — Ranking nach Kalorienverbrauch (kJ). Laufen verbrennt pro km deutlich mehr als Radfahren, daher ist dieser Vergleich sportartübergreifend fair. Quelle: Strava-Kalorienberechnung je Aktivität.
-      </div>
-      ${relativeLeaderboardCard(data.relativeLeaderboard || [])}
+    <div id="relative-info-box" class="relative-info" style="display:none">
+      ⚡ <strong>Relative Performance</strong> — Ranked by energy expenditure (kJ). Running burns significantly more calories per km than cycling, making this comparison fair across sport types.
     </div>
 
     <!-- Footer -->
@@ -701,21 +685,52 @@ function renderDashboard(data) {
   document.querySelectorAll("#lb-tabs .tab").forEach(tab => {
     tab.addEventListener("click", () => {
       document.querySelectorAll("#lb-tabs .tab").forEach(t => t.classList.remove("active"));
-      document.querySelectorAll(".leaderboard-panel").forEach(p => p.classList.remove("active"));
       tab.classList.add("active");
-      document.getElementById(tab.dataset.panel).classList.add("active");
+      const view = tab.dataset.view;
+      const infoBox = document.getElementById("relative-info-box");
+      infoBox.style.display = view === "relative" ? "block" : "none";
+
+      const keyMap = { all: ["allTime", "month"], run: ["run", "run"], ride: ["ride", "ride"], relative: [null, null] };
+      const titleMap = {
+        all: ["All-Time", currentMonthLabel],
+        run: ["All-Time · Running", currentMonthLabel + " · Running"],
+        ride: ["All-Time · Cycling", currentMonthLabel + " · Cycling"],
+      };
+
+      const grid = document.getElementById("leaderboard-grid");
+      if (view === "relative") {
+        grid.innerHTML =
+          relativeLeaderboardCard(data.relativeLeaderboard || [], "All-Time · Performance") +
+          relativeLeaderboardCard(data.relativeLeaderboard || [], currentMonthLabel + " · Performance");
+      } else if (view === "all") {
+        grid.innerHTML =
+          leaderboardCard("alltime", "All-Time",        data.allTimeLeaderboard, "allTime") +
+          leaderboardCard("month",   currentMonthLabel, data.monthLeaderboard,   "month");
+      } else if (view === "run") {
+        grid.innerHTML =
+          leaderboardCard("alltime", "All-Time · Running",        data.runLeaderboard || [], "run") +
+          leaderboardCard("month",   currentMonthLabel + " · Running", data.runLeaderboard || [], "run");
+      } else if (view === "ride") {
+        grid.innerHTML =
+          leaderboardCard("alltime", "All-Time · Cycling",        data.rideLeaderboard || [], "ride") +
+          leaderboardCard("month",   currentMonthLabel + " · Cycling", data.rideLeaderboard || [], "ride");
+      }
+
+      wireShowMore();
     });
   });
 
-  // Wire up show-more buttons
-  document.querySelectorAll(".show-more-btn").forEach(btn => {
-    btn.addEventListener("click", () => {
-      const list = btn.previousElementSibling;
-      const hidden = list.querySelectorAll(".leaderboard-item[style*='none']");
-      hidden.forEach(el => el.style.display = "");
-      btn.style.display = "none";
+  function wireShowMore() {
+    document.querySelectorAll(".show-more-btn").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const list = btn.previousElementSibling;
+        list.querySelectorAll(".leaderboard-item[style*='none']").forEach(el => el.style.display = "");
+        btn.style.display = "none";
+      });
     });
-  });
+  }
+
+  wireShowMore();
 }
 
 function statCard(iconName, label, value, unit, accent) {
@@ -750,7 +765,7 @@ function leaderboardCard(type, title, entries, key, metric) {
         ${avatar}
         <div class="athlete-info">
           <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} Aktivität${count === 1 ? "" : "en"} &middot; ${time}</div>
+          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"} &middot; ${time}</div>
         </div>
         <div class="athlete-distance">
           ${dist}<span>km</span>
@@ -769,21 +784,23 @@ function leaderboardCard(type, title, entries, key, metric) {
         <span class="section-badge" style="margin-left:auto">${entries.length}</span>
       </div>
       <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:var(--muted);font-size:13px">Noch keine Aktivitäten.</li>'}
+        ${rows || '<li style="padding:16px 20px;color:var(--muted);font-size:13px">No activities yet.</li>'}
       </ul>
-      ${hasMore ? `<button class="show-more-btn">Alle ${entries.length} Athleten ▾</button>` : ""}
+      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
     </div>`;
 }
 
-function relativeLeaderboardCard(entries) {
+function relativeLeaderboardCard(entries, title) {
   const limit = DEFAULT_LEADERBOARD_LIMIT;
   const hasMore = entries.length > limit;
+  const iconClass = title && title.includes(new Date().toLocaleString("default", { month: "long" })) ? "month" : "alltime";
+  const iconName = iconClass === "month" ? "calendar" : "trophy";
 
   const rows = entries.map((a, i) => {
     const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
     const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
     const hidden = i >= limit ? ' style="display:none"' : "";
-    const cals = Math.round(a.relative.calories).toLocaleString("de-DE");
+    const cals = Math.round(a.relative.calories).toLocaleString("en");
     const count = a.relative.count;
 
     const avatar = a.profile
@@ -796,7 +813,7 @@ function relativeLeaderboardCard(entries) {
         ${avatar}
         <div class="athlete-info">
           <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} Aktivität${count === 1 ? "" : "en"}</div>
+          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"}</div>
         </div>
         <div class="athlete-distance">
           ${cals}<span>kJ</span>
@@ -807,14 +824,14 @@ function relativeLeaderboardCard(entries) {
   return `
     <div class="leaderboard-card">
       <div class="leaderboard-header">
-        <div class="leaderboard-icon alltime">${ICONS.trophy}</div>
-        <span class="leaderboard-title">Relative Leistung (kJ)</span>
+        <div class="leaderboard-icon ${iconClass}">${ICONS[iconName]}</div>
+        <span class="leaderboard-title">${title || "Performance"}</span>
         <span class="section-badge" style="margin-left:auto">${entries.length}</span>
       </div>
       <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:var(--muted);font-size:13px">Noch keine Aktivitäten.</li>'}
+        ${rows || '<li style="padding:16px 20px;color:var(--muted);font-size:13px">No activities yet.</li>'}
       </ul>
-      ${hasMore ? `<button class="show-more-btn">Alle ${entries.length} Athleten ▾</button>` : ""}
+      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
     </div>`;
 }
 

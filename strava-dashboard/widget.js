@@ -420,7 +420,9 @@ class StravaDashboard extends HTMLElement {
   }
 
   async loadData(forceRefresh = false) {
-    const url = DATA_URL + (forceRefresh ? `?_=${Date.now()}` : "");
+    // Cache-bust every 10 minutes so updates from the hourly GitHub Action propagate
+    const cacheBust = forceRefresh ? Date.now() : Math.floor(Date.now() / (10 * 60 * 1000));
+    const url = `${DATA_URL}?v=${cacheBust}`;
     try {
       const res = await fetch(url);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);

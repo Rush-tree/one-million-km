@@ -174,7 +174,13 @@ function mergeIntoCache(cache, freshActivities) {
   for (const act of freshActivities) {
     const key = activityKey(act);
     if (!seen.has(key)) {
-      cache.activities.push({ ...act, _key: key, _fetchedAt: now });
+      cache.activities.push({
+        ...act,
+        type: act.type || "Unknown",
+        kilojoules: act.kilojoules || 0,
+        _key: key,
+        _fetchedAt: now,
+      });
       seen.add(key);
       newCount++;
     }
@@ -187,6 +193,19 @@ function mergeIntoCache(cache, freshActivities) {
 // ---------------------------------------------------------------------------
 // Stats computation
 // ---------------------------------------------------------------------------
+// Kalorien (kJ → kcal) als Maßstab für relative Leistung.
+// 1 kJ = 0.239 kcal, aber Strava's kilojoules sind bereits mechanische Energie —
+// wir nutzen kJ direkt als einheitliche Vergleichsgröße.
+function activityCalories(act) {
+  if (act.kilojoules && act.kilojoules > 0) return act.kilojoules;
+  // Fallback: MET-basierte Schätzung wenn keine Kalorienangabe vorhanden
+  const type = (act.type || "").toLowerCase();
+  const distKm = (act.distance || 0) / 1000;
+  const met = type === "run" ? 10 : type === "ride" ? 7 : 6;
+  // kJ ≈ MET × distKm × 0.9 (Annäherung ohne Körpergewicht)
+  return met * distKm * 0.9;
+}
+
 function computeStats(cachedActivities) {
   const now = new Date();
   const currentYear = now.getFullYear();
@@ -195,7 +214,7 @@ function computeStats(cachedActivities) {
   const allTimeStats = { totalDistance: 0, totalMovingTime: 0, totalElevation: 0 };
   const monthStats = { totalDistance: 0, totalMovingTime: 0 };
 
-  // athlete key → { name, profile, allTime, month }
+  // athlete key → { name, profile, allTime, month, run, ride }
   const athletes = {};
 
   for (const act of cachedActivities) {
@@ -210,13 +229,18 @@ function computeStats(cachedActivities) {
           : "Unknown",
         profile: act.athlete?.profile_medium || act.athlete?.profile || null,
         allTime: { distance: 0, movingTime: 0, count: 0 },
-        month: { distance: 0, movingTime: 0, count: 0 },
+        month:   { distance: 0, movingTime: 0, count: 0 },
+        run:     { distance: 0, movingTime: 0, count: 0 },
+        ride:    { distance: 0, movingTime: 0, count: 0 },
+        relative:{ calories: 0, count: 0 },
       };
     }
 
     const dist = act.distance || 0;
     const time = act.moving_time || 0;
     const elev = act.total_elevation_gain || 0;
+    const type = (act.type || "").toLowerCase();
+    const cals = activityCalories(act);
 
     // Use _fetchedAt as a proxy for when the activity happened, since the
     // club activities endpoint does not expose start_date.
@@ -233,6 +257,19 @@ function computeStats(cachedActivities) {
     athletes[key].allTime.distance += dist;
     athletes[key].allTime.movingTime += time;
     athletes[key].allTime.count += 1;
+
+    athletes[key].relative.calories += cals;
+    athletes[key].relative.count += 1;
+
+    if (type === "run") {
+      athletes[key].run.distance += dist;
+      athletes[key].run.movingTime += time;
+      athletes[key].run.count += 1;
+    } else if (type === "ride" || type === "virtualride") {
+      athletes[key].ride.distance += dist;
+      athletes[key].ride.movingTime += time;
+      athletes[key].ride.count += 1;
+    }
 
     if (isThisMonth) {
       monthStats.totalDistance += dist;
@@ -253,7 +290,30 @@ function computeStats(cachedActivities) {
     .sort((a, b) => b.month.distance - a.month.distance)
     .map((a, i) => ({ rank: i + 1, ...a }));
 
-  return { allTimeStats, monthStats, allTimeLeaderboard, monthLeaderboard };
+  const runLeaderboard = Object.values(athletes)
+    .filter((a) => a.run.distance > 0)
+    .sort((a, b) => b.run.distance - a.run.distance)
+    .map((a, i) => ({ rank: i + 1, ...a }));
+
+  const rideLeaderboard = Object.values(athletes)
+    .filter((a) => a.ride.distance > 0)
+    .sort((a, b) => b.ride.distance - a.ride.distance)
+    .map((a, i) => ({ rank: i + 1, ...a }));
+
+  const relativeLeaderboard = Object.values(athletes)
+    .filter((a) => a.relative.calories > 0)
+    .sort((a, b) => b.relative.calories - a.relative.calories)
+    .map((a, i) => ({ rank: i + 1, ...a }));
+
+  return {
+    allTimeStats,
+    monthStats,
+    allTimeLeaderboard,
+    monthLeaderboard,
+    runLeaderboard,
+    rideLeaderboard,
+    relativeLeaderboard,
+  };
 }
 
 // ---------------------------------------------------------------------------

@@ -423,8 +423,15 @@ class StravaDashboard extends HTMLElement {
     // Cache-bust every 10 minutes so updates from the hourly GitHub Action propagate
     const cacheBust = forceRefresh ? Date.now() : Math.floor(Date.now() / (10 * 60 * 1000));
     const url = `${DATA_URL}?v=${cacheBust}`;
+
+    const btn = this._shadow && this._shadow.getElementById("refresh-btn");
+    if (btn) { btn.classList.add("spinning"); btn.disabled = true; }
+
     try {
-      const res = await fetch(url);
+      const res = await fetch(url, {
+        cache: forceRefresh ? "reload" : "default",
+        headers: forceRefresh ? { "Cache-Control": "no-cache", "Pragma": "no-cache" } : {},
+      });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       this.render(data);

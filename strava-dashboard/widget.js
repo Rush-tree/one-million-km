@@ -417,20 +417,24 @@ class StravaDashboard extends HTMLElement {
     this._container = container;
     this._shadow = shadow;
     this.loadData();
+    // Auto-refresh every 10 minutes so visitors see new data without reloading the page
+    this._refreshTimer = setInterval(() => this.loadData(), 10 * 60 * 1000);
+    // Also refresh when the tab becomes visible again after being in background
+    this._onVisible = () => { if (document.visibilityState === "visible") this.loadData(); };
+    document.addEventListener("visibilitychange", this._onVisible);
   }
 
-  async loadData(forceRefresh = false) {
-    // Cache-bust every 10 minutes so updates from the hourly GitHub Action propagate.
-    // On manual refresh use a unique timestamp to bypass browser + CDN cache.
-    const cacheBust = forceRefresh ? Date.now() : Math.floor(Date.now() / (10 * 60 * 1000));
+  disconnectedCallback() {
+    if (this._refreshTimer) clearInterval(this._refreshTimer);
+    if (this._onVisible) document.removeEventListener("visibilitychange", this._onVisible);
+  }
+
+  async loadData() {
+    // Unique URL per 10-min window bypasses browser + CDN cache without triggering CORS preflight.
+    const cacheBust = Math.floor(Date.now() / (10 * 60 * 1000));
     const url = `${DATA_URL}?v=${cacheBust}`;
 
-    const btn = this._shadow && this._shadow.getElementById("refresh-btn");
-    if (btn) { btn.classList.add("spinning"); btn.disabled = true; }
-
     try {
-      // Plain GET — no fetch options to avoid CORS preflight (GitHub Pages returns 405 on OPTIONS).
-      // The unique ?v= param is enough to bypass HTTP caches.
       const res = await fetch(url);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
@@ -441,9 +445,6 @@ class StravaDashboard extends HTMLElement {
           <div class="state-title state-error">Could not load data</div>
           <div class="state-sub">${err.message}</div>
         </div>`;
-    } finally {
-      const b = this._shadow && this._shadow.getElementById("refresh-btn");
-      if (b) { b.classList.remove("spinning"); b.disabled = false; }
     }
   }
 
@@ -489,14 +490,7 @@ class StravaDashboard extends HTMLElement {
       </div>
       <div class="footer">
         <span>Last updated ${new Date(data.generatedAt).toLocaleString()}</span>
-        <button class="refresh-btn" id="refresh-btn">
-          ${ICONS.refresh} Refresh
-        </button>
       </div>`;
-
-    this._shadow.getElementById("refresh-btn").addEventListener("click", () => {
-      this.loadData(true);
-    });
 
     const shadow = this._shadow;
 

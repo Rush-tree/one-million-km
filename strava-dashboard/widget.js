@@ -420,7 +420,8 @@ class StravaDashboard extends HTMLElement {
   }
 
   async loadData(forceRefresh = false) {
-    // Cache-bust every 10 minutes so updates from the hourly GitHub Action propagate
+    // Cache-bust every 10 minutes so updates from the hourly GitHub Action propagate.
+    // On manual refresh use a unique timestamp to bypass browser + CDN cache.
     const cacheBust = forceRefresh ? Date.now() : Math.floor(Date.now() / (10 * 60 * 1000));
     const url = `${DATA_URL}?v=${cacheBust}`;
 
@@ -428,10 +429,7 @@ class StravaDashboard extends HTMLElement {
     if (btn) { btn.classList.add("spinning"); btn.disabled = true; }
 
     try {
-      const res = await fetch(url, {
-        cache: forceRefresh ? "reload" : "default",
-        headers: forceRefresh ? { "Cache-Control": "no-cache", "Pragma": "no-cache" } : {},
-      });
+      const res = await fetch(url, { cache: forceRefresh ? "reload" : "default" });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       this.render(data);
@@ -441,6 +439,9 @@ class StravaDashboard extends HTMLElement {
           <div class="state-title state-error">Could not load data</div>
           <div class="state-sub">${err.message}</div>
         </div>`;
+    } finally {
+      const b = this._shadow && this._shadow.getElementById("refresh-btn");
+      if (b) { b.classList.remove("spinning"); b.disabled = false; }
     }
   }
 

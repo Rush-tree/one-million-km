@@ -429,7 +429,9 @@ class StravaDashboard extends HTMLElement {
     if (btn) { btn.classList.add("spinning"); btn.disabled = true; }
 
     try {
-      const res = await fetch(url, { cache: forceRefresh ? "reload" : "default" });
+      // Plain GET — no fetch options to avoid CORS preflight (GitHub Pages returns 405 on OPTIONS).
+      // The unique ?v= param is enough to bypass HTTP caches.
+      const res = await fetch(url);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
       this.render(data);

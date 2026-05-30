@@ -193,17 +193,40 @@ function mergeIntoCache(cache, freshActivities) {
 // ---------------------------------------------------------------------------
 // Stats computation
 // ---------------------------------------------------------------------------
-// Kalorien (kJ → kcal) als Maßstab für relative Leistung.
-// 1 kJ = 0.239 kcal, aber Strava's kilojoules sind bereits mechanische Energie —
-// wir nutzen kJ direkt als einheitliche Vergleichsgröße.
-function activityCalories(act) {
-  if (act.kilojoules && act.kilojoules > 0) return act.kilojoules;
-  // Fallback: MET-basierte Schätzung wenn keine Kalorienangabe vorhanden
+// Effort Points (EP) — eigene Vergleichsgröße über Sportarten hinweg.
+//
+// EP = (Distanz_km + Höhenmeter × Hm-Faktor) × Sportart-Faktor × Tempo-Multiplikator
+//
+//   Sportart-Faktor:  Laufen 1.0, Radfahren 0.4, Sonstiges 0.6
+//                     (basiert auf MET-Verhältnis — pro km kostet Radfahren
+//                      ca. 40% so viel Energie wie Laufen)
+//   Hm-Faktor:        Laufen 0.010, Radfahren 0.008
+//                     (1 Höhenmeter ≈ 10 m horizontale Strecke beim Laufen,
+//                      ≈ 8 m beim Radfahren — geteilt durch 1000 für km)
+//   Tempo-Multi:      tatsächliches Tempo / Referenztempo
+//                     Laufen-Ref: 10 km/h, Radfahren-Ref: 20 km/h
+const RUN_TYPES = new Set(["run","walk","hike","weighttraining","workout","yoga","swim","rowing","elliptical","stairstepper","nordicski","alpineski","snowboard","iceskate","inlineskate","wheelchair"]);
+const RIDE_TYPES = new Set(["ride","virtualride","ebikeride","velomobile","handcycle"]);
+
+function effortPoints(act) {
   const type = (act.type || "").toLowerCase();
   const distKm = (act.distance || 0) / 1000;
-  const met = type === "run" ? 10 : type === "ride" ? 7 : 6;
-  // kJ ≈ MET × distKm × 0.9 (Annäherung ohne Körpergewicht)
-  return met * distKm * 0.9;
+  const elevM = act.total_elevation_gain || 0;
+  const movingTime = act.moving_time || 0;
+  const speedKmh = movingTime > 0 ? (distKm / (movingTime / 3600)) : 0;
+
+  let sportFactor, hmFactor, refSpeed;
+  if (RUN_TYPES.has(type)) {
+    sportFactor = 1.0; hmFactor = 0.010; refSpeed = 10;
+  } else if (RIDE_TYPES.has(type)) {
+    sportFactor = 0.4; hmFactor = 0.008; refSpeed = 20;
+  } else {
+    sportFactor = 0.6; hmFactor = 0.010; refSpeed = 6;
+  }
+
+  const effectiveDist = distKm + elevM * hmFactor;
+  const speedMulti = speedKmh > 0 ? (speedKmh / refSpeed) : 1.0;
+  return effectiveDist * sportFactor * speedMulti;
 }
 
 function computeStats(cachedActivities) {
@@ -232,7 +255,7 @@ function computeStats(cachedActivities) {
         month:   { distance: 0, movingTime: 0, count: 0 },
         run:     { distance: 0, movingTime: 0, count: 0 },
         ride:    { distance: 0, movingTime: 0, count: 0 },
-        relative:{ calories: 0, count: 0 },
+        relative:{ points: 0, count: 0 },
       };
     }
 
@@ -240,7 +263,7 @@ function computeStats(cachedActivities) {
     const time = act.moving_time || 0;
     const elev = act.total_elevation_gain || 0;
     const type = (act.type || "").toLowerCase();
-    const cals = activityCalories(act);
+    const ep = effortPoints(act);
 
     // Use _fetchedAt as a proxy for when the activity happened, since the
     // club activities endpoint does not expose start_date.
@@ -258,11 +281,8 @@ function computeStats(cachedActivities) {
     athletes[key].allTime.movingTime += time;
     athletes[key].allTime.count += 1;
 
-    athletes[key].relative.calories += cals;
+    athletes[key].relative.points += ep;
     athletes[key].relative.count += 1;
-
-    const RUN_TYPES = new Set(["run", "walk", "hike", "weighttraining", "workout", "yoga", "swim", "rowing", "elliptical", "stairstepper", "nordicski", "alpineski", "snowboard", "iceskate", "inlineskate", "handcycle", "wheelchair"]);
-    const RIDE_TYPES = new Set(["ride", "virtualride", "ebikeride", "velomobile", "handcycle"]);
 
     if (RUN_TYPES.has(type)) {
       athletes[key].run.distance += dist;
@@ -304,8 +324,8 @@ function computeStats(cachedActivities) {
     .map((a, i) => ({ rank: i + 1, ...a }));
 
   const relativeLeaderboard = Object.values(athletes)
-    .filter((a) => a.relative.calories > 0)
-    .sort((a, b) => b.relative.calories - a.relative.calories)
+    .filter((a) => a.relative.points > 0)
+    .sort((a, b) => b.relative.points - a.relative.points)
     .map((a, i) => ({ rank: i + 1, ...a }));
 
   return {

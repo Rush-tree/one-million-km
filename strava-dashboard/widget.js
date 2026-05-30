@@ -243,9 +243,15 @@ const CSS = `
     background: var(--orange-pale);
     border: 1px solid var(--border);
     border-radius: 8px;
-    padding: 8px 12px;
+    padding: 10px 14px;
     margin-bottom: 14px;
-    line-height: 1.5;
+    line-height: 1.55;
+  }
+  .relative-info code {
+    background: rgba(0,0,0,0.06);
+    padding: 1px 5px;
+    border-radius: 4px;
+    font-size: 11px;
   }
   @media (max-width: 600px) {
     .stats-grid { grid-template-columns: 1fr 1fr; }
@@ -368,7 +374,7 @@ function relativeLeaderboardCard(entries, title) {
     const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
     const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
     const hidden = i >= limit ? ' style="display:none"' : "";
-    const cals = Math.round(a.relative.calories).toLocaleString("de-DE");
+    const pts = Math.round(a.relative.points).toLocaleString("en");
     const count = a.relative.count;
     const avatar = a.profile
       ? `<img class="athlete-avatar" src="${a.profile}" alt="${a.name}">`
@@ -381,7 +387,7 @@ function relativeLeaderboardCard(entries, title) {
           <div class="athlete-name">${a.name}</div>
           <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"}</div>
         </div>
-        <div class="athlete-distance">${cals}<span>kJ</span></div>
+        <div class="athlete-distance">${pts}<span>EP</span></div>
       </li>`;
   }).join("");
   const iconClass = title && title.includes("All-Time") ? "alltime" : "month";
@@ -482,7 +488,9 @@ class StravaDashboard extends HTMLElement {
         </div>
       </div>
       <div id="relative-info-box" class="relative-info" style="display:none">
-        ⚡ <strong>Relative Performance</strong> — Ranked by energy expenditure (kJ). Running burns significantly more calories per km than cycling, making this comparison fair across sport types.
+        ⚡ <strong>Effort Points (EP)</strong> — a sport-independent score that combines distance, sport type, elevation and speed.<br>
+        <code>EP = (distance_km + elevation_m × hm_factor) × sport_factor × speed_multiplier</code><br>
+        <strong>Sport factor:</strong> running 1.0, cycling 0.4 (cycling burns ~40% as much energy per km as running). <strong>Elevation:</strong> 1 m climbed counts as 10 m flat running / 8 m flat cycling. <strong>Speed multiplier:</strong> your average speed divided by a reference speed (10 km/h running, 20 km/h cycling).
       </div>
       <div class="leaderboards" id="leaderboard-grid">
         ${leaderboardCard("alltime", "All-Time", data.allTimeLeaderboard, "allTime")}

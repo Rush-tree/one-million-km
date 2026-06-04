@@ -1,14 +1,12 @@
 name: Update Strava Data
 
 on:
+  # Primary trigger: external cron-job.org calls workflow_dispatch via REST API
+  # every hour — far more reliable than GitHub's internal cron scheduler.
+  # Kept one internal schedule as a fallback in case the external trigger fails.
   schedule:
-    # GitHub Actions cron schedules are best-effort and often delayed.
-    # We schedule 4 times per hour to ensure at least one run actually fires.
-    - cron: "5 * * * *"
-    - cron: "20 * * * *"
-    - cron: "35 * * * *"
-    - cron: "50 * * * *"
-  workflow_dispatch: # allows manual trigger from GitHub UI
+    - cron: "30 * * * *"
+  workflow_dispatch: # used by cron-job.org and manual GitHub UI triggers
 
 jobs:
   update:

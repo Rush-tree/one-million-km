@@ -436,10 +436,14 @@ class StravaDashboard extends HTMLElement {
     if (this._onVisible) document.removeEventListener("visibilitychange", this._onVisible);
   }
 
-  async loadData() {
-    // Unique URL per 10-min window bypasses browser + CDN cache without triggering CORS preflight.
-    const cacheBust = Math.floor(Date.now() / (10 * 60 * 1000));
+  async loadData(forceRefresh = false) {
+    // On manual refresh use unique timestamp to bust CDN/browser cache.
+    // Otherwise rotate URL every 10 min so auto-refresh sees fresh data.
+    const cacheBust = forceRefresh ? Date.now() : Math.floor(Date.now() / (10 * 60 * 1000));
     const url = `${DATA_URL}?v=${cacheBust}`;
+
+    const btn = this._shadow && this._shadow.getElementById("refresh-btn");
+    if (btn) { btn.classList.add("spinning"); btn.disabled = true; }
 
     try {
       const res = await fetch(url);
@@ -452,6 +456,9 @@ class StravaDashboard extends HTMLElement {
           <div class="state-title state-error">Could not load data</div>
           <div class="state-sub">${err.message}</div>
         </div>`;
+    } finally {
+      const b = this._shadow && this._shadow.getElementById("refresh-btn");
+      if (b) { b.classList.remove("spinning"); b.disabled = false; }
     }
   }
 
@@ -461,9 +468,14 @@ class StravaDashboard extends HTMLElement {
       ${millionProgressBar(data.allTimeStats.totalDistance)}
       <div class="section-header">
         <span class="section-title">All-Time Stats</span>
-        <a class="strava-badge" href="${CLUB_URL}" target="_blank" rel="noopener" style="margin-left:auto">
-          ${ICONS.strava} View Club
-        </a>
+        <div style="margin-left:auto; display:flex; gap:8px; align-items:center">
+          <button class="refresh-btn" id="refresh-btn" title="Reload latest data">
+            ${ICONS.refresh}<span>Refresh</span>
+          </button>
+          <a class="strava-badge" href="${CLUB_URL}" target="_blank" rel="noopener">
+            ${ICONS.strava} View Club
+          </a>
+        </div>
       </div>
       <div class="stats-grid">
         ${statCard("distance", "Total Distance", metersToKm(data.allTimeStats.totalDistance), "km", false)}
@@ -502,6 +514,9 @@ class StravaDashboard extends HTMLElement {
       </div>`;
 
     const shadow = this._shadow;
+
+    const refreshBtn = shadow.getElementById("refresh-btn");
+    if (refreshBtn) refreshBtn.addEventListener("click", () => this.loadData(true));
 
     shadow.querySelectorAll("#lb-tabs .tab").forEach(tab => {
       tab.addEventListener("click", () => {

@@ -251,11 +251,14 @@ function computeStats(cachedActivities) {
           ? `${act.athlete.firstname} ${act.athlete.lastname}`
           : "Unknown",
         profile: act.athlete?.profile_medium || act.athlete?.profile || null,
-        allTime: { distance: 0, movingTime: 0, count: 0 },
-        month:   { distance: 0, movingTime: 0, count: 0 },
-        run:     { distance: 0, movingTime: 0, count: 0 },
-        ride:    { distance: 0, movingTime: 0, count: 0 },
-        relative:{ points: 0, count: 0 },
+        allTime:      { distance: 0, movingTime: 0, count: 0 },
+        month:        { distance: 0, movingTime: 0, count: 0 },
+        run:          { distance: 0, movingTime: 0, count: 0 },
+        runMonth:     { distance: 0, movingTime: 0, count: 0 },
+        ride:         { distance: 0, movingTime: 0, count: 0 },
+        rideMonth:    { distance: 0, movingTime: 0, count: 0 },
+        relative:     { points: 0, count: 0 },
+        relativeMonth:{ points: 0, count: 0 },
       };
     }
 
@@ -284,11 +287,14 @@ function computeStats(cachedActivities) {
     athletes[key].relative.points += ep;
     athletes[key].relative.count += 1;
 
-    if (RUN_TYPES.has(type)) {
+    const isRun  = RUN_TYPES.has(type);
+    const isRide = RIDE_TYPES.has(type);
+
+    if (isRun) {
       athletes[key].run.distance += dist;
       athletes[key].run.movingTime += time;
       athletes[key].run.count += 1;
-    } else if (RIDE_TYPES.has(type)) {
+    } else if (isRide) {
       athletes[key].ride.distance += dist;
       athletes[key].ride.movingTime += time;
       athletes[key].ride.count += 1;
@@ -300,6 +306,19 @@ function computeStats(cachedActivities) {
       athletes[key].month.distance += dist;
       athletes[key].month.movingTime += time;
       athletes[key].month.count += 1;
+
+      athletes[key].relativeMonth.points += ep;
+      athletes[key].relativeMonth.count += 1;
+
+      if (isRun) {
+        athletes[key].runMonth.distance += dist;
+        athletes[key].runMonth.movingTime += time;
+        athletes[key].runMonth.count += 1;
+      } else if (isRide) {
+        athletes[key].rideMonth.distance += dist;
+        athletes[key].rideMonth.movingTime += time;
+        athletes[key].rideMonth.count += 1;
+      }
     }
   }
 
@@ -323,9 +342,24 @@ function computeStats(cachedActivities) {
     .sort((a, b) => b.ride.distance - a.ride.distance)
     .map((a, i) => ({ rank: i + 1, ...a }));
 
+  const runMonthLeaderboard = Object.values(athletes)
+    .filter((a) => a.runMonth.distance > 0)
+    .sort((a, b) => b.runMonth.distance - a.runMonth.distance)
+    .map((a, i) => ({ rank: i + 1, ...a }));
+
+  const rideMonthLeaderboard = Object.values(athletes)
+    .filter((a) => a.rideMonth.distance > 0)
+    .sort((a, b) => b.rideMonth.distance - a.rideMonth.distance)
+    .map((a, i) => ({ rank: i + 1, ...a }));
+
   const relativeLeaderboard = Object.values(athletes)
     .filter((a) => a.relative.points > 0)
     .sort((a, b) => b.relative.points - a.relative.points)
+    .map((a, i) => ({ rank: i + 1, ...a }));
+
+  const relativeMonthLeaderboard = Object.values(athletes)
+    .filter((a) => a.relativeMonth.points > 0)
+    .sort((a, b) => b.relativeMonth.points - a.relativeMonth.points)
     .map((a, i) => ({ rank: i + 1, ...a }));
 
   return {
@@ -334,8 +368,11 @@ function computeStats(cachedActivities) {
     allTimeLeaderboard,
     monthLeaderboard,
     runLeaderboard,
+    runMonthLeaderboard,
     rideLeaderboard,
+    rideMonthLeaderboard,
     relativeLeaderboard,
+    relativeMonthLeaderboard,
   };
 }
 

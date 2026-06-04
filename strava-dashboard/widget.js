@@ -367,15 +367,16 @@ function leaderboardCard(type, title, entries, key) {
     </div>`;
 }
 
-function relativeLeaderboardCard(entries, title) {
+function relativeLeaderboardCard(entries, title, key) {
   const limit = DEFAULT_LEADERBOARD_LIMIT;
   const hasMore = entries.length > limit;
+  const dataKey = key === "relativeMonth" ? "relativeMonth" : "relative";
   const rows = entries.map((a, i) => {
     const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
     const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
     const hidden = i >= limit ? ' style="display:none"' : "";
-    const pts = Math.round(a.relative.points).toLocaleString("en");
-    const count = a.relative.count;
+    const pts = Math.round(a[dataKey].points).toLocaleString("en");
+    const count = a[dataKey].count;
     const avatar = a.profile
       ? `<img class="athlete-avatar" src="${a.profile}" alt="${a.name}">`
       : `<div class="athlete-avatar-placeholder">${initials(a.name)}</div>`;
@@ -513,20 +514,20 @@ class StravaDashboard extends HTMLElement {
 
         if (view === "relative") {
           grid.innerHTML =
-            relativeLeaderboardCard(data.relativeLeaderboard || [], "All-Time · Performance") +
-            relativeLeaderboardCard(data.relativeLeaderboard || [], currentMonthLabel + " · Performance");
+            relativeLeaderboardCard(data.relativeLeaderboard || [],      "All-Time · Performance", "points") +
+            relativeLeaderboardCard(data.relativeMonthLeaderboard || [], currentMonthLabel + " · Performance", "relativeMonth");
         } else if (view === "all") {
           grid.innerHTML =
             leaderboardCard("alltime", "All-Time",        data.allTimeLeaderboard, "allTime") +
             leaderboardCard("month",   currentMonthLabel, data.monthLeaderboard,   "month");
         } else if (view === "run") {
           grid.innerHTML =
-            leaderboardCard("alltime", "All-Time · Running",            data.runLeaderboard || [], "run") +
-            leaderboardCard("month",   currentMonthLabel + " · Running", data.runLeaderboard || [], "run");
+            leaderboardCard("alltime", "All-Time · Running",             data.runLeaderboard || [],      "run") +
+            leaderboardCard("month",   currentMonthLabel + " · Running", data.runMonthLeaderboard || [], "runMonth");
         } else if (view === "ride") {
           grid.innerHTML =
-            leaderboardCard("alltime", "All-Time · Cycling",            data.rideLeaderboard || [], "ride") +
-            leaderboardCard("month",   currentMonthLabel + " · Cycling", data.rideLeaderboard || [], "ride");
+            leaderboardCard("alltime", "All-Time · Cycling",             data.rideLeaderboard || [],      "ride") +
+            leaderboardCard("month",   currentMonthLabel + " · Cycling", data.rideMonthLeaderboard || [], "rideMonth");
         }
         wireShowMore(shadow);
       });

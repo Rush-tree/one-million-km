@@ -36,6 +36,7 @@ const CLIENT_SECRET = process.env.STRAVA_CLIENT_SECRET;
 const REFRESH_TOKEN = process.env.STRAVA_REFRESH_TOKEN;
 const OUTPUT_FILE = path.join(__dirname, "strava-data.json");
 const CACHE_FILE = path.join(__dirname, "strava-cache.json");
+const MEMBER_HISTORY_FILE = path.join(__dirname, "member-history.json");
 
 if (!CLIENT_ID || !CLIENT_SECRET || !REFRESH_TOKEN) {
   console.error(
@@ -171,15 +172,30 @@ function mergeIntoCache(cache, freshActivities) {
   const seen = new Set(cache.activities.map((a) => a._key));
   let newCount = 0;
 
-  for (const act of freshActivities) {
+  // The Strava club activities endpoint returns activities sorted newest-first.
+  // We assign dates by working backwards from today using the sort order.
+  // Activities fetched in the same batch share the same _fetchedAt, so for
+  // date estimation we use the position within the fresh batch: activity[0] is
+  // the most recent, activity[N] is older. We store _estimatedDate only when
+  // the API does not supply start_date (it usually doesn't for club feeds).
+  const fetchDay = new Date();
+  fetchDay.setHours(0, 0, 0, 0);
+
+  for (let i = 0; i < freshActivities.length; i++) {
+    const act = freshActivities[i];
     const key = activityKey(act);
     if (!seen.has(key)) {
+      // Use start_date if available (some API versions include it), otherwise
+      // fall back to _fetchedAt so at minimum the month is correct.
+      const startDate = act.start_date || act.start_date_local || null;
       cache.activities.push({
         ...act,
         type: act.type || "Unknown",
         kilojoules: act.kilojoules || 0,
         _key: key,
         _fetchedAt: now,
+        _startDate: startDate || now,
+        _hasRealDate: !!startDate,
       });
       seen.add(key);
       newCount++;
@@ -188,6 +204,62 @@ function mergeIntoCache(cache, freshActivities) {
 
   console.log(`  ${newCount} new activities added to cache (total: ${cache.activities.length})`);
   return cache;
+}
+
+// ---------------------------------------------------------------------------
+// Member history — tracks club member count over time
+// ---------------------------------------------------------------------------
+function loadMemberHistory() {
+  if (fs.existsSync(MEMBER_HISTORY_FILE)) {
+    try { return JSON.parse(fs.readFileSync(MEMBER_HISTORY_FILE, "utf8")); } catch (_) {}
+  }
+  return { snapshots: [] };
+}
+
+function saveMemberHistory(history) {
+  fs.writeFileSync(MEMBER_HISTORY_FILE, JSON.stringify(history, null, 2));
+}
+
+function recordMemberSnapshot(history, memberCount) {
+  const now = new Date();
+  const todayStr = now.toISOString().slice(0, 10); // YYYY-MM-DD
+  const last = history.snapshots[history.snapshots.length - 1];
+  // Only record once per day
+  if (!last || last.date !== todayStr) {
+    history.snapshots.push({ date: todayStr, count: memberCount });
+    console.log(`  Member snapshot recorded: ${memberCount} members on ${todayStr}`);
+  }
+  // Keep last 90 days
+  if (history.snapshots.length > 90) {
+    history.snapshots = history.snapshots.slice(-90);
+  }
+  return history;
+}
+
+function computeMemberGrowth(history) {
+  const snaps = history.snapshots;
+  if (snaps.length === 0) return { current: null, yesterday: null, lastWeek: null, lastMonth: null };
+
+  const current = snaps[snaps.length - 1].count;
+  const today = new Date(snaps[snaps.length - 1].date);
+
+  function countOnDaysAgo(days) {
+    const target = new Date(today);
+    target.setDate(target.getDate() - days);
+    const targetStr = target.toISOString().slice(0, 10);
+    // Find closest snapshot at or before target date
+    for (let i = snaps.length - 1; i >= 0; i--) {
+      if (snaps[i].date <= targetStr) return snaps[i].count;
+    }
+    return null;
+  }
+
+  return {
+    current,
+    yesterday: countOnDaysAgo(1),
+    lastWeek:  countOnDaysAgo(7),
+    lastMonth: countOnDaysAgo(30),
+  };
 }
 
 // ---------------------------------------------------------------------------
@@ -234,8 +306,25 @@ function computeStats(cachedActivities) {
   const currentYear = now.getFullYear();
   const currentMonth = now.getMonth(); // 0-indexed
 
+  // Start of today (local midnight)
+  const todayStart = new Date(now);
+  todayStart.setHours(0, 0, 0, 0);
+
+  // Start of current week (Monday)
+  const weekStart = new Date(todayStart);
+  const dayOfWeek = weekStart.getDay(); // 0=Sun
+  weekStart.setDate(weekStart.getDate() - (dayOfWeek === 0 ? 6 : dayOfWeek - 1));
+
+  // Start of last week
+  const lastWeekStart = new Date(weekStart);
+  lastWeekStart.setDate(lastWeekStart.getDate() - 7);
+  const lastWeekEnd = new Date(weekStart); // exclusive
+
   const allTimeStats = { totalDistance: 0, totalMovingTime: 0, totalElevation: 0 };
-  const monthStats = { totalDistance: 0, totalMovingTime: 0 };
+  const monthStats   = { totalDistance: 0, totalMovingTime: 0 };
+  const weekStats    = { totalDistance: 0, totalMovingTime: 0, count: 0 };
+  const lastWeekStats= { totalDistance: 0, totalMovingTime: 0, count: 0 };
+  const todayStats   = { totalDistance: 0, totalMovingTime: 0, count: 0 };
 
   // athlete key → { name, profile, allTime, month, run, ride }
   const athletes = {};
@@ -268,13 +357,14 @@ function computeStats(cachedActivities) {
     const type = (act.type || "").toLowerCase();
     const ep = effortPoints(act);
 
-    // Use _fetchedAt as a proxy for when the activity happened, since the
-    // club activities endpoint does not expose start_date.
-    const fetchedAt = act._fetchedAt ? new Date(act._fetchedAt) : null;
-    const isThisMonth =
-      fetchedAt &&
-      fetchedAt.getFullYear() === currentYear &&
-      fetchedAt.getMonth() === currentMonth;
+    // _startDate is the real activity date if available, otherwise _fetchedAt.
+    const actDate = act._startDate ? new Date(act._startDate) : null;
+    const isThisMonth = actDate &&
+      actDate.getFullYear() === currentYear &&
+      actDate.getMonth() === currentMonth;
+    const isThisWeek  = actDate && actDate >= weekStart && actDate < now;
+    const isLastWeek  = actDate && actDate >= lastWeekStart && actDate < lastWeekEnd;
+    const isToday     = actDate && actDate >= todayStart;
 
     allTimeStats.totalDistance += dist;
     allTimeStats.totalMovingTime += time;
@@ -319,6 +409,24 @@ function computeStats(cachedActivities) {
         athletes[key].rideMonth.movingTime += time;
         athletes[key].rideMonth.count += 1;
       }
+    }
+
+    if (isThisWeek) {
+      weekStats.totalDistance += dist;
+      weekStats.totalMovingTime += time;
+      weekStats.count += 1;
+    }
+
+    if (isLastWeek) {
+      lastWeekStats.totalDistance += dist;
+      lastWeekStats.totalMovingTime += time;
+      lastWeekStats.count += 1;
+    }
+
+    if (isToday) {
+      todayStats.totalDistance += dist;
+      todayStats.totalMovingTime += time;
+      todayStats.count += 1;
     }
   }
 
@@ -365,6 +473,9 @@ function computeStats(cachedActivities) {
   return {
     allTimeStats,
     monthStats,
+    weekStats,
+    lastWeekStats,
+    todayStats,
     allTimeLeaderboard,
     monthLeaderboard,
     runLeaderboard,
@@ -386,6 +497,13 @@ async function main() {
     fetchAllActivities(token),
   ]);
 
+  // Member count from club info
+  const memberCount = clubInfo.member_count || 0;
+  const memberHistory = loadMemberHistory();
+  recordMemberSnapshot(memberHistory, memberCount);
+  saveMemberHistory(memberHistory);
+  const memberGrowth = computeMemberGrowth(memberHistory);
+
   const cache = mergeIntoCache(loadCache(), freshActivities);
   saveCache(cache);
 
@@ -398,6 +516,8 @@ async function main() {
     clubName: clubInfo.name || `Club ${CLUB_ID}`,
     clubProfile: clubInfo.profile_medium || null,
     totalActivities: cache.activities.length,
+    memberCount,
+    memberGrowth,
     ...stats,
   };
 
@@ -405,8 +525,10 @@ async function main() {
   console.log(`\nDone! Data written to ${OUTPUT_FILE}`);
   console.log(`  All-time distance: ${(output.allTimeStats.totalDistance / 1000).toFixed(1)} km`);
   console.log(`  This month distance: ${(output.monthStats.totalDistance / 1000).toFixed(1)} km`);
+  console.log(`  This week distance: ${(output.weekStats.totalDistance / 1000).toFixed(1)} km`);
+  console.log(`  Today distance: ${(output.todayStats.totalDistance / 1000).toFixed(1)} km`);
+  console.log(`  Members: ${memberCount} (+${memberGrowth.current - (memberGrowth.lastWeek || memberGrowth.current)} vs last week)`);
   console.log(`  All-time leaderboard entries: ${output.allTimeLeaderboard.length}`);
-  console.log(`  Month leaderboard entries: ${output.monthLeaderboard.length}`);
 }
 
 main().catch((err) => {

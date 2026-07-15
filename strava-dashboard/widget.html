@@ -633,7 +633,7 @@ function renderDashboard(data) {
       ${statCard("distance", "Total Distance",
           metersToKm(data.allTimeStats.totalDistance), "km", false)}
       ${statCard("time", "Total Time",
-          secondsToHHMM(data.allTimeStats.totalMovingTime), "", false)}
+          Math.floor(data.allTimeStats.totalMovingTime / 3600).toLocaleString(), "h", false)}
       ${statCard("activities", "Activities",
           data.totalActivities.toLocaleString(), "", false)}
       ${statCard("elevation", "Elevation",

@@ -478,7 +478,7 @@ class StravaDashboard extends HTMLElement {
       </div>
       <div class="stats-grid">
         ${statCard("distance", "Total Distance", metersToKm(data.allTimeStats.totalDistance), "km", false)}
-        ${statCard("time", "Total Time", secondsToHHMM(data.allTimeStats.totalMovingTime), "", false)}
+        ${statCard("time", "Total Time", Math.floor(data.allTimeStats.totalMovingTime / 3600).toLocaleString(), "h", false)}
         ${statCard("activities", "Activities", data.totalActivities.toLocaleString(), "", false)}
         ${statCard("elevation", "Elevation", Math.round(data.allTimeStats.totalElevation / 1000).toLocaleString(), "km", false)}
       </div>

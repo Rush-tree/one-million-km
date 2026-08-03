@@ -35,6 +35,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add strava-dashboard/strava-data.json strava-dashboard/strava-cache.json
+          # member-history.json MUST be committed too: it is the only record of
+          # who was in the club on which day. Without it the runner starts from
+          # a fresh checkout every hour, the member baseline is lost, and joiner
+          # detection can never produce a diff.
+          git add strava-dashboard/strava-data.json strava-dashboard/strava-cache.json strava-dashboard/member-history.json
           git diff --cached --quiet || git commit -m "chore: update strava data $(date -u +'%Y-%m-%d')"
           git push

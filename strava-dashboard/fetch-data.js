@@ -123,6 +123,29 @@ async function fetchClubInfo(token) {
   return httpsGet(`https://www.strava.com/api/v3/clubs/${CLUB_ID}`, token);
 }
 
+// Fetch the full member list. Like /activities, this endpoint returns only
+// firstname + lastname-initial (e.g. "Georg W.") and NO athlete id. We use the
+// display name as the identity key — imperfect for name collisions, but the
+// only signal Strava exposes. Used to detect new joiners via snapshot diffing.
+async function fetchClubMembers(token) {
+  const all = [];
+  let page = 1;
+  while (true) {
+    const url = `https://www.strava.com/api/v3/clubs/${CLUB_ID}/members?per_page=200&page=${page}`;
+    const batch = await httpsGet(url, token);
+    if (!Array.isArray(batch)) { console.error("Unexpected members response:", batch); break; }
+    all.push(...batch);
+    if (batch.length < 200) break;
+    page++;
+    await new Promise((r) => setTimeout(r, 300));
+  }
+  return all;
+}
+
+function memberName(m) {
+  return `${m.firstname || ""} ${m.lastname || ""}`.trim() || "Unknown";
+}
+
 // ---------------------------------------------------------------------------
 // Activity cache
 //
@@ -203,15 +226,40 @@ function saveMemberHistory(h) {
   fs.writeFileSync(MEMBER_HISTORY_FILE, JSON.stringify(h, null, 2));
 }
 
-function recordMemberSnapshot(history, count) {
+function recordMemberSnapshot(history, count, names) {
   const today = new Date().toISOString().slice(0, 10);
   const last  = history.snapshots[history.snapshots.length - 1];
+  const sortedNames = names ? [...new Set(names)].sort((a, b) => a.localeCompare(b, "de")) : undefined;
   if (!last || last.date !== today) {
-    history.snapshots.push({ date: today, count });
-    console.log(`  Member snapshot: ${count} on ${today}`);
+    // New day: append a fresh snapshot (names included when available).
+    const snap = { date: today, count };
+    if (sortedNames) snap.members = sortedNames;
+    history.snapshots.push(snap);
+    console.log(`  Member snapshot: ${count} on ${today}${sortedNames ? ` (${sortedNames.length} names)` : ""}`);
+  } else if (sortedNames && !last.members) {
+    // Same day, but this is the first run that carries names — backfill them so
+    // the snapshot becomes a valid diff baseline instead of a count-only entry.
+    last.members = sortedNames;
+    last.count   = count;
+    console.log(`  Member snapshot: backfilled ${sortedNames.length} names on ${today}`);
   }
   if (history.snapshots.length > 90) history.snapshots = history.snapshots.slice(-90);
   return history;
+}
+
+// Detect who joined since the last snapshot that carried a member-name list.
+// Returns { joiners, left, baselineDate } or null if there is no prior
+// name-bearing snapshot to compare against (i.e. the very first name run).
+function computeNewJoiners(history) {
+  const withNames = history.snapshots.filter((s) => Array.isArray(s.members));
+  if (withNames.length < 2) return null;
+  const current  = withNames[withNames.length - 1];
+  const previous = withNames[withNames.length - 2];
+  const prevSet  = new Set(previous.members);
+  const currSet  = new Set(current.members);
+  const joiners  = current.members.filter((n) => !prevSet.has(n));
+  const left     = previous.members.filter((n) => !currSet.has(n));
+  return { joiners, left, baselineDate: previous.date, currentDate: current.date };
 }
 
 function computeMemberGrowth(history) {
@@ -420,11 +468,29 @@ async function main() {
     fetchAllActivities(token),
   ]);
 
-  const memberCount   = clubInfo.member_count || 0;
+  // Member names are best-effort: a failure here (rate limit, transient error)
+  // must not abort the run. We fall back to a count-only snapshot.
+  let memberNames = null;
+  try {
+    const members = await fetchClubMembers(token);
+    if (Array.isArray(members) && members.length) memberNames = members.map(memberName);
+    console.log(`  Fetched ${memberNames ? memberNames.length : 0} member names`);
+  } catch (e) {
+    console.error(`  Member-name fetch failed (continuing without names): ${e.message}`);
+  }
+
+  const memberCount   = clubInfo.member_count || (memberNames ? memberNames.length : 0);
   const memberHistory = loadMemberHistory();
-  recordMemberSnapshot(memberHistory, memberCount);
+  recordMemberSnapshot(memberHistory, memberCount, memberNames);
   saveMemberHistory(memberHistory);
   const memberGrowth = computeMemberGrowth(memberHistory);
+  const newJoiners   = computeNewJoiners(memberHistory);
+  if (newJoiners) {
+    console.log(`  New joiners since ${newJoiners.baselineDate}: ${newJoiners.joiners.length}` +
+      (newJoiners.left.length ? `, left: ${newJoiners.left.length}` : ""));
+  } else {
+    console.log(`  New-joiner diff: baseline snapshot recorded (need one more run to compare)`);
+  }
 
   const cache = loadCache();
   mergeIntoCache(cache, freshActivities);

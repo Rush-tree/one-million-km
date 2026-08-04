@@ -236,12 +236,25 @@ function recordMemberSnapshot(history, count, names) {
     if (sortedNames) snap.members = sortedNames;
     history.snapshots.push(snap);
     console.log(`  Member snapshot: ${count} on ${today}${sortedNames ? ` (${sortedNames.length} names)` : ""}`);
-  } else if (sortedNames && !last.members) {
-    // Same day, but this is the first run that carries names — backfill them so
-    // the snapshot becomes a valid diff baseline instead of a count-only entry.
-    last.members = sortedNames;
-    last.count   = count;
-    console.log(`  Member snapshot: backfilled ${sortedNames.length} names on ${today}`);
+  } else {
+    // Same day, later run: refresh the existing snapshot instead of keeping the
+    // first value of the day. The Action runs hourly, so freezing after the
+    // first run would pin the day to its earliest state and drop anyone who
+    // joins later — exactly how a 170-member snapshot survived while the club
+    // was already at 192. One snapshot per day still holds, so the diff logic
+    // and memberGrowth are unaffected; the day now carries its latest state.
+    //
+    // Only overwrite names when this run actually has them: a run whose member
+    // fetch failed must not wipe a good list down to a count-only entry.
+    const prevCount = last.count;
+    last.count = count;
+    if (sortedNames) {
+      const added = last.members ? sortedNames.filter((n) => !last.members.includes(n)).length : 0;
+      last.members = sortedNames;
+      console.log(`  Member snapshot: refreshed ${today} → ${count}` +
+        (prevCount !== count ? ` (was ${prevCount})` : "") +
+        (added ? `, +${added} since earlier today` : ""));
+    }
   }
   if (history.snapshots.length > 90) history.snapshots = history.snapshots.slice(-90);
   return history;

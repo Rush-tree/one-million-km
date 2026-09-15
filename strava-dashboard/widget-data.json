@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-15T22:00:48.698Z",
+  "generatedAt": "2026-09-15T22:30:39.131Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 323,
-    "distanceKm": 4233.1,
-    "elevationM": 34699,
-    "movingSeconds": 1145040,
+    "activities": 325,
+    "distanceKm": 4235.8,
+    "elevationM": 34748,
+    "movingSeconds": 1152540,
     "raw": {
-      "activities": "323",
-      "distance": "4,233.1 km",
-      "time": "318 h 4 m",
-      "elevation": "34,699 m"
+      "activities": "325",
+      "distance": "4,235.8 km",
+      "time": "320 h 9 m",
+      "elevation": "34,748 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20191953188",
+      "name": "Musculação vespertina",
+      "date": "September 15, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:30:43",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Domenic Winges",
       "athleteId": "179823094",
@@ -56,29 +69,16 @@
       ]
     },
     {
-      "athlete": "Lucas Berg",
-      "athleteId": "137899851",
-      "activityId": "20190704976",
-      "name": "Fußball am Abend",
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20191953202",
+      "name": "Caminhada vespertina",
       "date": "September 15, 2026",
-      "distanceKm": 4.8,
+      "distanceKm": 2.6,
       "stats": [
-        "4.8 km",
-        "1:30:00",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Cosima Renner",
-      "athleteId": "32997490",
-      "activityId": "20190120772",
-      "name": "Yoga am Abend",
-      "date": "September 15, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:39:12",
-        "0 m"
+        "2.6 km",
+        "35:42",
+        "49 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10308.7,
-  "totalDistanceKm": 133316.8,
+  "observedWeeksKm": 10311.4,
+  "totalDistanceKm": 133319.5,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149113.8
+    "totalWithEstimatesKm": 149116.5
   }
 }

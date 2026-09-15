@@ -1,0 +1,38 @@
+{
+  "weeks": {
+    "Sep 7, 2026 - Sep 13, 2026": {
+      "activities": 588,
+      "distanceKm": 6075.6,
+      "elevationM": 44655,
+      "movingSeconds": 1952040,
+      "updatedAt": "2026-09-10T13:22:02.035Z",
+      "complete": true,
+      "truncated": true,
+      "estimatedMissingKm": 6309,
+      "estimateNote": "Konservativ: schwaechster beobachteter Augusttag je Wochentag (Do 44% + Fr + Sa + So). Untergrenze, nicht Erwartungswert.",
+      "estimateSetAt": "2026-09-15T19:52:39.355Z"
+    },
+    "Sep 14, 2026 - Sep 20, 2026": {
+      "activities": 316,
+      "distanceKm": 4144.3,
+      "elevationM": 34044,
+      "movingSeconds": 1117860,
+      "updatedAt": "2026-09-15T19:53:09.313Z",
+      "complete": false
+    }
+  },
+  "baseline": {
+    "distanceKm": 123008.1,
+    "note": "Last figure from the v3 API before the club endpoints were removed",
+    "asOf": "2026-09-01T16:01:01.586Z",
+    "setAt": "2026-09-10T13:18:19.782Z"
+  },
+  "estimatedPeriods": [
+    {
+      "range": "2026-09-01..2026-09-06",
+      "distanceKm": 9488,
+      "note": "Konservativ: schwaechster beobachteter Augusttag je Wochentag (Rest Di 33% + Mi + Do + Fr + Sa + So). Untergrenze, nicht Erwartungswert.",
+      "setAt": "2026-09-15T19:52:39.323Z"
+    }
+  ]
+}

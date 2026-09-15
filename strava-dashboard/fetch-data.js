@@ -109,7 +109,15 @@ async function fetchAllActivities(token) {
   while (true) {
     const url = `https://www.strava.com/api/v3/clubs/${CLUB_ID}/activities?per_page=200&page=${page}`;
     const batch = await httpsGet(url, token);
-    if (!Array.isArray(batch)) { console.error("Unexpected response:", batch); break; }
+    if (!Array.isArray(batch)) {
+      // Do NOT swallow this. A non-array response means the API rejected us
+      // (404 = missing read_all scope, 401 = bad token, 429 = rate limit).
+      // Breaking silently here is what let the pipeline run green for nine
+      // days while collecting nothing.
+      throw new Error(
+        `Club activities request failed on page ${page}: ${JSON.stringify(batch)}`
+      );
+    }
     all.push(...batch);
     console.log(`  Page ${page}: ${batch.length} activities (total: ${all.length})`);
     if (batch.length < 200) break;
@@ -133,7 +141,11 @@ async function fetchClubMembers(token) {
   while (true) {
     const url = `https://www.strava.com/api/v3/clubs/${CLUB_ID}/members?per_page=200&page=${page}`;
     const batch = await httpsGet(url, token);
-    if (!Array.isArray(batch)) { console.error("Unexpected members response:", batch); break; }
+    if (!Array.isArray(batch)) {
+      throw new Error(
+        `Club members request failed on page ${page}: ${JSON.stringify(batch)}`
+      );
+    }
     all.push(...batch);
     if (batch.length < 200) break;
     page++;
@@ -503,6 +515,16 @@ async function main() {
       (newJoiners.left.length ? `, left: ${newJoiners.left.length}` : ""));
   } else {
     console.log(`  New-joiner diff: baseline snapshot recorded (need one more run to compare)`);
+  }
+
+  // An empty club feed is not a valid state for an active club with hundreds
+  // of members. Treat it as a failure rather than writing an unchanged cache
+  // and reporting success.
+  if (!freshActivities.length) {
+    throw new Error(
+      "Club activity feed returned 0 activities. Refusing to write data; " +
+      "this indicates an API or permission problem, not an idle club."
+    );
   }
 
   const cache = loadCache();

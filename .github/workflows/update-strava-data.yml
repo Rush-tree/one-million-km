@@ -1,12 +1,18 @@
 name: Update Strava Data
 
+# Strava removed the /clubs/{id}/activities, /members and /admins endpoints on
+# 2026-09-01, which silently broke the old API pipeline (fetch-data.js). There
+# is no replacement endpoint, so data now comes from Strava's own embeddable
+# club widget via fetch-widget.js. No OAuth token is involved any more.
+#
+# The widget reports the CURRENT WEEK only, so widget-history.json accumulates
+# one entry per week and must be committed, or every run starts from an empty
+# history on a fresh checkout and the cumulative total collapses.
+
 on:
-  # Primary trigger: external cron-job.org calls workflow_dispatch via REST API
-  # every hour — far more reliable than GitHub's internal cron scheduler.
-  # Kept one internal schedule as a fallback in case the external trigger fails.
   schedule:
     - cron: "30 * * * *"
-  workflow_dispatch: # used by cron-job.org and manual GitHub UI triggers
+  workflow_dispatch:
 
 jobs:
   update:
@@ -23,22 +29,23 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Fetch Strava data
+      - name: Fetch club data via embed widget
         env:
-          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
-          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
-          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
           STRAVA_CLUB_ID: "1491053"
-        run: node strava-dashboard/fetch-data.js
+          STRAVA_WIDGET_TOKEN: ${{ secrets.STRAVA_WIDGET_TOKEN }}
+        run: node strava-dashboard/fetch-widget.js
+
+      # Rebuilds strava-data.json, which the published dashboard, the Wix embed
+      # and the macOS widget all read. --with-estimates includes the documented
+      # 2026-09-01..2026-09-15 outage gap; the split stays visible in
+      # dataSource.measuredDistanceKm vs dataSource.estimatedGapKm.
+      - name: Rebuild dashboard data
+        run: node strava-dashboard/build-dashboard-data.js --with-estimates
 
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # member-history.json MUST be committed too: it is the only record of
-          # who was in the club on which day. Without it the runner starts from
-          # a fresh checkout every hour, the member baseline is lost, and joiner
-          # detection can never produce a diff.
-          git add strava-dashboard/strava-data.json strava-dashboard/strava-cache.json strava-dashboard/member-history.json
+          git add strava-dashboard/widget-data.json strava-dashboard/widget-history.json strava-dashboard/strava-data.json
           git diff --cached --quiet || git commit -m "chore: update strava data $(date -u +'%Y-%m-%d')"
           git push

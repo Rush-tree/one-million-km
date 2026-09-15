@@ -37,12 +37,18 @@ if (!CLIENT_ID || !CLIENT_SECRET) {
   process.exit(1);
 }
 
+// Club endpoints (/clubs/{id}/activities and /clubs/{id}/members) require
+// read_all. Plain `read` returns the club object, but a 404 on its activity
+// feed and a 401 on its member list. That is exactly how this pipeline
+// silently stopped collecting data on 2026-09-01.
+const SCOPES = "read_all,activity:read_all,profile:read_all";
+
 const authUrl =
   `https://www.strava.com/oauth/authorize` +
   `?client_id=${CLIENT_ID}` +
   `&response_type=code` +
   `&redirect_uri=http://localhost` +
-  `&scope=read,activity:read` +
+  `&scope=${SCOPES}` +
   `&approval_prompt=force`;
 
 console.log("\n── Strava OAuth Token Setup ──────────────────────────────");
@@ -85,6 +91,21 @@ rl.question("Paste the authorization code here: ", async (code) => {
         console.log(`\nAccess token:  ${json.access_token}`);
         console.log(`Refresh token: ${json.refresh_token}`);
         console.log(`Athlete:       ${json.athlete?.firstname} ${json.athlete?.lastname}`);
+        console.log(`Granted scope: ${json.scope || "(not reported)"}`);
+
+        // Verify the scopes that actually matter for club data. Strava only
+        // grants what the user ticked on the consent screen, so a missing
+        // checkbox produces a token that looks fine and fails at runtime.
+        // Split on comma or whitespace: Strava uses both depending on endpoint.
+        const granted = (json.scope || "").split(/[,\s]+/).map((x) => x.trim()).filter(Boolean);
+        const missing = ["read_all", "activity:read_all"].filter((s) => !granted.includes(s));
+        if (missing.length) {
+          console.log(`\n!! WARNING: missing scope(s): ${missing.join(", ")}`);
+          console.log("   Club activities will NOT work with this token.");
+          console.log("   Re-run and tick every box on the Strava consent screen.");
+        } else {
+          console.log("\nScopes OK. Club activities and member list are accessible.");
+        }
         console.log("\nAdd to your .env file:");
         console.log(`STRAVA_REFRESH_TOKEN=${json.refresh_token}`);
 

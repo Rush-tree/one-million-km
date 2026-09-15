@@ -653,6 +653,7 @@ function renderDashboard(data) {
     </div>
 
     <!-- Leaderboards -->
+    ${hasLeaderboards(data) ? `
     <div class="section-header" style="margin-top:8px">
       <span class="section-title">Leaderboards</span>
       <div class="tabs" id="lb-tabs" style="margin-bottom:0;margin-left:auto">
@@ -669,7 +670,13 @@ function renderDashboard(data) {
     </div>
     <div id="relative-info-box" class="relative-info" style="display:none">
       ⚡ <strong>Relative Performance</strong> — Ranked by energy expenditure (kJ). Running burns significantly more calories per km than cycling, making this comparison fair across sport types.
+    </div>` : `
+    <div class="section-header" style="margin-top:8px">
+      <span class="section-title">Latest Activities</span>
     </div>
+    ${latestActivitiesCard(data)}`}
+
+    ${dataSourceNote(data)}
 
     <!-- Footer -->
     <div class="footer">
@@ -686,8 +693,9 @@ function renderDashboard(data) {
       document.querySelectorAll("#lb-tabs .tab").forEach(t => t.classList.remove("active"));
       tab.classList.add("active");
       const view = tab.dataset.view;
+      // Absent when leaderboards are unavailable and the activity feed is shown.
       const infoBox = document.getElementById("relative-info-box");
-      infoBox.style.display = view === "relative" ? "block" : "none";
+      if (infoBox) infoBox.style.display = view === "relative" ? "block" : "none";
 
       const keyMap = { all: ["allTime", "month"], run: ["run", "run"], ride: ["ride", "ride"], relative: [null, null] };
       const titleMap = {
@@ -738,6 +746,72 @@ function statCard(iconName, label, value, unit, accent) {
       <div class="stat-icon">${ICONS[iconName]}</div>
       <div class="stat-label">${label}</div>
       <div class="stat-value">${value}<span class="stat-unit">${unit}</span></div>
+    </div>`;
+}
+
+// Strava removed the club API on 2026-09-01. The embed widget that replaced it
+// exposes only the 5 most recent activities, which is not enough to rank 237
+// members: anyone uploading during busy hours would be dropped. So when the
+// leaderboards come through empty we show the recent activity feed instead of
+// a ranking that would quietly be wrong.
+function hasLeaderboards(data) {
+  return Array.isArray(data.allTimeLeaderboard) && data.allTimeLeaderboard.length > 0;
+}
+
+function latestActivitiesCard(data) {
+  const acts = (data.dataSource && data.dataSource.latestActivities) || [];
+  if (!acts.length) {
+    return `<div class="leaderboard-card"><ul class="leaderboard-list">
+      <li style="padding:16px 20px;color:var(--muted);font-size:13px">No recent activities available.</li>
+    </ul></div>`;
+  }
+  const rows = acts.map((a) => {
+    const name = a.athlete || "Unknown";
+    const dist = (a.distanceKm != null) ? `${a.distanceKm.toLocaleString()}<span>km</span>` : "";
+    const link = a.activityId
+      ? `https://www.strava.com/activities/${a.activityId}`
+      : CLUB_URL;
+    return `
+      <li class="leaderboard-item">
+        <div class="athlete-avatar-placeholder">${initials(name)}</div>
+        <div class="athlete-info">
+          <div class="athlete-name">
+            <a href="${link}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${a.name || "Activity"}</a>
+          </div>
+          <div class="athlete-sub">${name}${a.date ? " &middot; " + a.date : ""}</div>
+        </div>
+        <div class="athlete-distance">${dist}</div>
+      </li>`;
+  }).join("");
+
+  return `
+    <div class="leaderboard-card">
+      <div class="leaderboard-header">
+        <div class="leaderboard-icon month">${ICONS.calendar}</div>
+        <span class="leaderboard-title">Most Recent</span>
+      </div>
+      <ul class="leaderboard-list">${rows}</ul>
+    </div>`;
+}
+
+// Explains why per-athlete rankings disappeared. This is the part members will
+// actually wonder about: their names used to be on a leaderboard and now are
+// not. The cause is Strava's, not ours, and saying so plainly avoids people
+// assuming their kilometres stopped counting. They still count toward the
+// total; only the per-person attribution is gone.
+function dataSourceNote(data) {
+  return `
+    <div class="relative-info" style="margin-top:10px;line-height:1.55">
+      ℹ️ <strong>Why there is no athlete ranking any more</strong><br>
+      On 1 September 2026, Strava switched off the interface that let external
+      projects read a club's activities athlete by athlete. Every kilometre you
+      log still counts toward our total &mdash; we simply can no longer see which
+      kilometre belongs to whom, so a per-athlete leaderboard is not possible.
+      This affects every project using Strava club data, not just ours.
+      <div style="margin-top:6px">
+        Club totals continue to update automatically via Strava's official club widget.
+        Keep running, walking and hiking &mdash; it all adds up.
+      </div>
     </div>`;
 }
 

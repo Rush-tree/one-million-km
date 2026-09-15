@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T20:00:48.734Z",
+  "generatedAt": "2026-09-15T20:30:41.744Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12913,
+  "totalActivities": 12921,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149087100,
-    "totalMovingTime": 42566867,
-    "totalElevation": 1044317.6
+    "totalDistance": 149105600,
+    "totalMovingTime": 42580787,
+    "totalElevation": 1044632.6
   },
   "monthStats": {
-    "totalDistance": 10282000,
-    "totalMovingTime": 3080640,
+    "totalDistance": 10300500,
+    "totalMovingTime": 3094560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4206400,
-    "totalMovingTime": 1128600,
-    "count": 318
+    "totalDistance": 4224900,
+    "totalMovingTime": 1142520,
+    "count": 322
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133290.1,
+    "measuredDistanceKm": 133308.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20190932908",
+        "name": "Gewichtstraining in der Nacht",
+        "date": "September 15, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:13:14",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20190782922",
+        "name": "Dienstagsintervalle/ Bergintervalle 🏃🏃🏃 … EL 10 Min.",
+        "date": "September 15, 2026",
+        "distanceKm": 8.1,
+        "stats": [
+          "8.1 km",
+          "54:14",
+          "218 m"
+        ]
+      },
       {
         "athlete": "Norick Maurer",
         "athleteId": "107445415",
@@ -67,16 +93,16 @@
         ]
       },
       {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "20189719194",
-        "name": "Caminata a la hora del almuerzo",
+        "athlete": "Lucas Berg",
+        "athleteId": "137899851",
+        "activityId": "20190704976",
+        "name": "Fußball am Abend",
         "date": "September 15, 2026",
-        "distanceKm": 3,
+        "distanceKm": 4.8,
         "stats": [
-          "3.0 km",
-          "31:25",
-          "107 m"
+          "4.8 km",
+          "1:30:00",
+          "0 m"
         ]
       },
       {
@@ -89,32 +115,6 @@
         "stats": [
           "0 km",
           "1:39:12",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20189933907",
-        "name": "Evening Basketball",
-        "date": "September 15, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "2:42:02",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20189668723",
-        "name": "Intervalle",
-        "date": "September 15, 2026",
-        "distanceKm": 9.1,
-        "stats": [
-          "9.1 km",
-          "44:13",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149087.1
+      "totalWithEstimatesKm": 149105.6
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-15T19:53:09.313Z",
+  "generatedAt": "2026-09-15T20:00:48.734Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 316,
-    "distanceKm": 4144.3,
-    "elevationM": 34044,
-    "movingSeconds": 1117860,
+    "activities": 318,
+    "distanceKm": 4206.4,
+    "elevationM": 34384,
+    "movingSeconds": 1128600,
     "raw": {
-      "activities": "316",
-      "distance": "4,144.3 km",
-      "time": "310 h 31 m",
-      "elevation": "34,044 m"
+      "activities": "318",
+      "distance": "4,206.4 km",
+      "time": "313 h 30 m",
+      "elevation": "34,384 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Norick Maurer",
+      "athleteId": "107445415",
+      "activityId": "20190639713",
+      "name": "Abendschwimmen",
+      "date": "September 15, 2026",
+      "distanceKm": 1.5,
+      "stats": [
+        "1.5 km",
+        "55:38",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
@@ -27,19 +40,6 @@
         "3.0 km",
         "31:25",
         "107 m"
-      ]
-    },
-    {
-      "athlete": "Vincent Glößner",
-      "athleteId": "60518823",
-      "activityId": "20190264222",
-      "name": "Gewichtstraining am Abend",
-      "date": "September 15, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "46:28",
-        "0 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10219.9,
-  "totalDistanceKm": 133228,
+  "observedWeeksKm": 10282,
+  "totalDistanceKm": 133290.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149025
+    "totalWithEstimatesKm": 149087.1
   }
 }

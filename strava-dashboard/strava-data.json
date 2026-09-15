@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T19:53:09.313Z",
+  "generatedAt": "2026-09-15T20:00:48.734Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12916,
+  "totalActivities": 12913,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149025000,
-    "totalMovingTime": 42556127,
-    "totalElevation": 1043977.6
+    "totalDistance": 149087100,
+    "totalMovingTime": 42566867,
+    "totalElevation": 1044317.6
   },
   "monthStats": {
-    "totalDistance": 10219900,
-    "totalMovingTime": 3069900,
+    "totalDistance": 10282000,
+    "totalMovingTime": 3080640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4144300,
-    "totalMovingTime": 1117860,
-    "count": 316
+    "totalDistance": 4206400,
+    "totalMovingTime": 1128600,
+    "count": 318
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133228,
+    "measuredDistanceKm": 133290.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20190639713",
+        "name": "Abendschwimmen",
+        "date": "September 15, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "55:38",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
@@ -64,19 +77,6 @@
           "3.0 km",
           "31:25",
           "107 m"
-        ]
-      },
-      {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "20190264222",
-        "name": "Gewichtstraining am Abend",
-        "date": "September 15, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "46:28",
-          "0 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149025
+      "totalWithEstimatesKm": 149087.1
     }
   }
 }

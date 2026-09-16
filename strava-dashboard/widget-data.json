@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-16T04:00:48.478Z",
+  "generatedAt": "2026-09-16T04:30:41.503Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 333,
-    "distanceKm": 4387.4,
-    "elevationM": 35197,
-    "movingSeconds": 1182720,
+    "activities": 336,
+    "distanceKm": 4422.4,
+    "elevationM": 35261,
+    "movingSeconds": 1193160,
     "raw": {
-      "activities": "333",
-      "distance": "4,387.4 km",
-      "time": "328 h 32 m",
-      "elevation": "35,197 m"
+      "activities": "336",
+      "distance": "4,422.4 km",
+      "time": "331 h 26 m",
+      "elevation": "35,261 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cosima Renner",
+      "athleteId": "32997490",
+      "activityId": "20194707362",
+      "name": "Schwimmen am Morgen",
+      "date": "September 16, 2026",
+      "distanceKm": 0.1,
+      "stats": [
+        "0.1 km",
+        "1:36",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Amit Zadka",
+      "athleteId": "25927820",
+      "activityId": "20194798876",
+      "name": "Morning Run",
+      "date": "September 16, 2026",
+      "distanceKm": 20,
+      "stats": [
+        "20.0 km",
+        "1:45:58",
+        "32 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -43,42 +69,16 @@
       ]
     },
     {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20194300047",
-      "name": "SEPTEMBER MNG RIDE NO 16 🚵‍♂️",
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "20194761965",
+      "name": "Açık alanda koşu",
       "date": "September 16, 2026",
-      "distanceKm": 60.4,
+      "distanceKm": 14.9,
       "stats": [
-        "60.4 km",
-        "2:48:26",
-        "167 m"
-      ]
-    },
-    {
-      "athlete": "Josué González",
-      "athleteId": "178408867",
-      "activityId": "20193425917",
-      "name": "MMMX 🇲🇽 EASY 🏃‍♂️",
-      "date": "September 15, 2026",
-      "distanceKm": 9.6,
-      "stats": [
-        "9.6 km",
-        "59:43",
-        "65 m"
-      ]
-    },
-    {
-      "athlete": "Goro Shigeno",
-      "athleteId": "37029557",
-      "activityId": "20194291782",
-      "name": "Morning Walk",
-      "date": "September 16, 2026",
-      "distanceKm": 10.1,
-      "stats": [
-        "10.1 km",
-        "1:01:09",
-        "53 m"
+        "14.9 km",
+        "1:17:42",
+        "33 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10463,
-  "totalDistanceKm": 133471.1,
+  "observedWeeksKm": 10498,
+  "totalDistanceKm": 133506.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149268.1
+    "totalWithEstimatesKm": 149303.1
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T04:00:48.478Z",
+  "generatedAt": "2026-09-16T04:30:41.503Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12927,
+  "totalActivities": 12929,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149268100,
-    "totalMovingTime": 42620987,
-    "totalElevation": 1045130.6
+    "totalDistance": 149303100,
+    "totalMovingTime": 42631427,
+    "totalElevation": 1045194.6
   },
   "monthStats": {
-    "totalDistance": 10463000,
-    "totalMovingTime": 3134760,
+    "totalDistance": 10498000,
+    "totalMovingTime": 3145200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4387400,
-    "totalMovingTime": 1182720,
-    "count": 333
+    "totalDistance": 4422400,
+    "totalMovingTime": 1193160,
+    "count": 336
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133471.1,
+    "measuredDistanceKm": 133506.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20194707362",
+        "name": "Schwimmen am Morgen",
+        "date": "September 16, 2026",
+        "distanceKm": 0.1,
+        "stats": [
+          "0.1 km",
+          "1:36",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20194798876",
+        "name": "Morning Run",
+        "date": "September 16, 2026",
+        "distanceKm": 20,
+        "stats": [
+          "20.0 km",
+          "1:45:58",
+          "32 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20194300047",
-        "name": "SEPTEMBER MNG RIDE NO 16 🚵‍♂️",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20194761965",
+        "name": "Açık alanda koşu",
         "date": "September 16, 2026",
-        "distanceKm": 60.4,
+        "distanceKm": 14.9,
         "stats": [
-          "60.4 km",
-          "2:48:26",
-          "167 m"
-        ]
-      },
-      {
-        "athlete": "Josué González",
-        "athleteId": "178408867",
-        "activityId": "20193425917",
-        "name": "MMMX 🇲🇽 EASY 🏃‍♂️",
-        "date": "September 15, 2026",
-        "distanceKm": 9.6,
-        "stats": [
-          "9.6 km",
-          "59:43",
-          "65 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20194291782",
-        "name": "Morning Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "1:01:09",
-          "53 m"
+          "14.9 km",
+          "1:17:42",
+          "33 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149268.1
+      "totalWithEstimatesKm": 149303.1
     }
   }
 }

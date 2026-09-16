@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T00:30:41.202Z",
+  "generatedAt": "2026-09-16T00:36:26.183Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12930,
+  "totalActivities": 12932,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149127400,
-    "totalMovingTime": 42594827,
-    "totalElevation": 1044725.6
+    "totalDistance": 149137100,
+    "totalMovingTime": 42598367,
+    "totalElevation": 1044790.6
   },
   "monthStats": {
-    "totalDistance": 10322300,
-    "totalMovingTime": 3108600,
+    "totalDistance": 10332000,
+    "totalMovingTime": 3112140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4246700,
-    "totalMovingTime": 1156560,
-    "count": 327
+    "totalDistance": 4256400,
+    "totalMovingTime": 1160100,
+    "count": 328
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133330.4,
+    "measuredDistanceKm": 133340.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Josué González",
+        "athleteId": "178408867",
+        "activityId": "20193425917",
+        "name": "Afternoon Run",
+        "date": "September 15, 2026",
+        "distanceKm": 9.6,
+        "stats": [
+          "9.6 km",
+          "59:43",
+          "65 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -104,19 +117,6 @@
           "55:38",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20191953202",
-        "name": "Caminhada vespertina",
-        "date": "September 15, 2026",
-        "distanceKm": 2.6,
-        "stats": [
-          "2.6 km",
-          "35:42",
-          "49 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149127.4
+      "totalWithEstimatesKm": 149137.1
     }
   }
 }

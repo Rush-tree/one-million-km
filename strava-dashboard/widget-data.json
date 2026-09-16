@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-16T00:30:41.202Z",
+  "generatedAt": "2026-09-16T00:36:26.183Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 327,
-    "distanceKm": 4246.7,
-    "elevationM": 34792,
-    "movingSeconds": 1156560,
+    "activities": 328,
+    "distanceKm": 4256.4,
+    "elevationM": 34857,
+    "movingSeconds": 1160100,
     "raw": {
-      "activities": "327",
-      "distance": "4,246.7 km",
-      "time": "321 h 16 m",
-      "elevation": "34,792 m"
+      "activities": "328",
+      "distance": "4,256.4 km",
+      "time": "322 h 15 m",
+      "elevation": "34,857 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Josué González",
+      "athleteId": "178408867",
+      "activityId": "20193425917",
+      "name": "Afternoon Run",
+      "date": "September 15, 2026",
+      "distanceKm": 9.6,
+      "stats": [
+        "9.6 km",
+        "59:43",
+        "65 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -67,19 +80,6 @@
         "55:38",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20191953202",
-      "name": "Caminhada vespertina",
-      "date": "September 15, 2026",
-      "distanceKm": 2.6,
-      "stats": [
-        "2.6 km",
-        "35:42",
-        "49 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10322.3,
-  "totalDistanceKm": 133330.4,
+  "observedWeeksKm": 10332,
+  "totalDistanceKm": 133340.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149127.4
+    "totalWithEstimatesKm": 149137.1
   }
 }

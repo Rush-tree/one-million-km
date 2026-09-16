@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T21:30:41.353Z",
+  "generatedAt": "2026-09-16T22:00:50.541Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13154,
+  "totalActivities": 13156,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150899800,
-    "totalMovingTime": 43158527,
-    "totalElevation": 1059735.6
+    "totalDistance": 150903200,
+    "totalMovingTime": 43161467,
+    "totalElevation": 1059737.6
   },
   "monthStats": {
-    "totalDistance": 12094700,
-    "totalMovingTime": 3672300,
+    "totalDistance": 12098100,
+    "totalMovingTime": 3675240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6019100,
-    "totalMovingTime": 1720260,
-    "count": 513
+    "totalDistance": 6022500,
+    "totalMovingTime": 1723200,
+    "count": 514
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135102.8,
+    "measuredDistanceKm": 135106.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,6 +80,19 @@
         ]
       },
       {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20205976018",
+        "name": "Camminata notturna",
+        "date": "September 16, 2026",
+        "distanceKm": 3.4,
+        "stats": [
+          "3.4 km",
+          "2:21:33",
+          "2 m"
+        ]
+      },
+      {
         "athlete": "Henrique Juhas",
         "athleteId": "118657757",
         "activityId": "20204900646",
@@ -104,19 +117,6 @@
           "49:23",
           "117 m"
         ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20204759262",
-        "name": "Abendschwimmen",
-        "date": "September 16, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "1:02:24",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150899.8
+      "totalWithEstimatesKm": 150903.2
     }
   }
 }

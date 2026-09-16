@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-16T07:30:40.366Z",
+  "generatedAt": "2026-09-16T08:00:47.469Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 368,
-    "distanceKm": 4587.7,
-    "elevationM": 36405,
-    "movingSeconds": 1268220,
+    "activities": 369,
+    "distanceKm": 4591.6,
+    "elevationM": 36424,
+    "movingSeconds": 1269120,
     "raw": {
-      "activities": "368",
-      "distance": "4,587.7 km",
-      "time": "352 h 17 m",
-      "elevation": "36,405 m"
+      "activities": "369",
+      "distance": "4,591.6 km",
+      "time": "352 h 32 m",
+      "elevation": "36,424 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20196155350",
+      "name": "Morning E-Bike Ride",
+      "date": "September 16, 2026",
+      "distanceKm": 3.8,
+      "stats": [
+        "3.8 km",
+        "25:13",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
@@ -33,7 +46,7 @@
       "athlete": "Domenic Winges",
       "athleteId": "179823094",
       "activityId": "20195998190",
-      "name": "Lauf am Morgen",
+      "name": "Zone 2",
       "date": "September 16, 2026",
       "distanceKm": 8.1,
       "stats": [
@@ -56,19 +69,6 @@
       ]
     },
     {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20195631289",
-      "name": "Morning Walk",
-      "date": "September 16, 2026",
-      "distanceKm": 3.9,
-      "stats": [
-        "3.9 km",
-        "1:16:04",
-        "39 m"
-      ]
-    },
-    {
       "athlete": "Luka M",
       "athleteId": "33218706",
       "activityId": "20195889822",
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10663.3,
-  "totalDistanceKm": 133671.4,
+  "observedWeeksKm": 10667.2,
+  "totalDistanceKm": 133675.3,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149468.4
+    "totalWithEstimatesKm": 149472.3
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T07:30:40.366Z",
+  "generatedAt": "2026-09-16T08:00:47.469Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12987,
+  "totalActivities": 12989,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149468400,
-    "totalMovingTime": 42706487,
-    "totalElevation": 1046338.6
+    "totalDistance": 149472300,
+    "totalMovingTime": 42707387,
+    "totalElevation": 1046357.6
   },
   "monthStats": {
-    "totalDistance": 10663300,
-    "totalMovingTime": 3220260,
+    "totalDistance": 10667200,
+    "totalMovingTime": 3221160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4587700,
-    "totalMovingTime": 1268220,
-    "count": 368
+    "totalDistance": 4591600,
+    "totalMovingTime": 1269120,
+    "count": 369
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133671.4,
+    "measuredDistanceKm": 133675.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20196155350",
+        "name": "Morning E-Bike Ride",
+        "date": "September 16, 2026",
+        "distanceKm": 3.8,
+        "stats": [
+          "3.8 km",
+          "25:13",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -70,7 +83,7 @@
         "athlete": "Domenic Winges",
         "athleteId": "179823094",
         "activityId": "20195998190",
-        "name": "Lauf am Morgen",
+        "name": "Zone 2",
         "date": "September 16, 2026",
         "distanceKm": 8.1,
         "stats": [
@@ -90,19 +103,6 @@
           "7.5 km",
           "59:12",
           "20 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20195631289",
-        "name": "Morning Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 3.9,
-        "stats": [
-          "3.9 km",
-          "1:16:04",
-          "39 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149468.4
+      "totalWithEstimatesKm": 149472.3
     }
   }
 }

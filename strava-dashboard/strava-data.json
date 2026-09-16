@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T18:00:52.380Z",
+  "generatedAt": "2026-09-16T18:30:38.685Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150632900,
-    "totalMovingTime": 43076207,
-    "totalElevation": 1056615.6
+    "totalDistance": 150750700,
+    "totalMovingTime": 43106747,
+    "totalElevation": 1058353.6
   },
   "monthStats": {
-    "totalDistance": 11827800,
-    "totalMovingTime": 3589980,
+    "totalDistance": 11945600,
+    "totalMovingTime": 3620520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5752200,
-    "totalMovingTime": 1637940,
-    "count": 485
+    "totalDistance": 5870000,
+    "totalMovingTime": 1668480,
+    "count": 491
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 134835.9,
+    "measuredDistanceKm": 134953.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20203988462",
+        "name": "Abendlauf",
+        "date": "September 16, 2026",
+        "distanceKm": 2.7,
+        "stats": [
+          "2.7 km",
+          "25:33",
+          "12 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20204067816",
+        "name": "Evening Run",
+        "date": "September 16, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "40:30",
+          "16 m"
+        ]
+      },
       {
         "athlete": "Johannes Tangel",
         "athleteId": "127575472",
@@ -67,6 +93,19 @@
         ]
       },
       {
+        "athlete": "Thorsten Schamper",
+        "athleteId": "136616262",
+        "activityId": "20203671889",
+        "name": "Padel am Abend",
+        "date": "September 16, 2026",
+        "distanceKm": 2.5,
+        "stats": [
+          "2.5 km",
+          "1:32:33",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
         "activityId": "20203317888",
@@ -77,45 +116,6 @@
           "0 km",
           "1:14:47",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20202643038",
-        "name": "Zwift - Red Unicorn Lite",
-        "date": "September 16, 2026",
-        "distanceKm": 20.4,
-        "stats": [
-          "20.4 km",
-          "42:45",
-          "83 m"
-        ]
-      },
-      {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20202730423",
-        "name": "Evening Run",
-        "date": "September 16, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "59:41",
-          "74 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20203067584",
-        "name": "21K🚴 Tolosa Touchdown 🔴⚫ Ride",
-        "date": "September 16, 2026",
-        "distanceKm": 21.2,
-        "stats": [
-          "21.2 km",
-          "1:53:53",
-          "104 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150632.9
+      "totalWithEstimatesKm": 150750.7
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T12:00:50.192Z",
+  "generatedAt": "2026-09-16T12:30:44.227Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13023,
+  "totalActivities": 13032,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149627200,
-    "totalMovingTime": 42765287,
-    "totalElevation": 1047583.6
+    "totalDistance": 149652800,
+    "totalMovingTime": 42780647,
+    "totalElevation": 1047880.6
   },
   "monthStats": {
-    "totalDistance": 10822100,
-    "totalMovingTime": 3279060,
+    "totalDistance": 10847700,
+    "totalMovingTime": 3294420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4746500,
-    "totalMovingTime": 1327020,
-    "count": 391
+    "totalDistance": 4772100,
+    "totalMovingTime": 1342380,
+    "count": 396
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133830.2,
+    "measuredDistanceKm": 133855.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20198855620",
+        "name": "Zwift - Pacer Group Ride with Coco",
+        "date": "September 16, 2026",
+        "distanceKm": 5.7,
+        "stats": [
+          "5.7 km",
+          "8:35",
+          "17 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20198931710",
+        "name": "Afternoon Swim",
+        "date": "September 16, 2026",
+        "distanceKm": 1.1,
+        "stats": [
+          "1.1 km",
+          "30:47",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -67,45 +93,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20198382470",
-        "name": "Lunch Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 1.9,
-        "stats": [
-          "1.9 km",
-          "28:37",
-          "9 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20197823591",
-        "name": "Mittagsradfahrt",
-        "date": "September 16, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "40:05",
-          "59 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20198132519",
-        "name": "Lunch Trail Run",
-        "date": "September 16, 2026",
-        "distanceKm": 16.5,
-        "stats": [
-          "16.5 km",
-          "1:52:37",
-          "61 m"
-        ]
-      },
-      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20198525878",
@@ -116,6 +103,19 @@
           "2.4 km",
           "3:51:15",
           "2 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20198944857",
+        "name": "Spaziergang am Morgen",
+        "date": "September 16, 2026",
+        "distanceKm": 9.6,
+        "stats": [
+          "9.6 km",
+          "4:49:32",
+          "143 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149627.2
+      "totalWithEstimatesKm": 149652.8
     }
   }
 }

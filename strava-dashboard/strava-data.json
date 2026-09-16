@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T13:30:45.951Z",
+  "generatedAt": "2026-09-16T14:00:50.502Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13040,
+  "totalActivities": 13046,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149742300,
-    "totalMovingTime": 42803687,
-    "totalElevation": 1048577.6
+    "totalDistance": 149825900,
+    "totalMovingTime": 42826907,
+    "totalElevation": 1050280.6
   },
   "monthStats": {
-    "totalDistance": 10937200,
-    "totalMovingTime": 3317460,
+    "totalDistance": 11020800,
+    "totalMovingTime": 3340680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4861600,
-    "totalMovingTime": 1365420,
-    "count": 404
+    "totalDistance": 4945200,
+    "totalMovingTime": 1388640,
+    "count": 411
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133945.3,
+    "measuredDistanceKm": 134028.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20200093251",
+        "name": "Afternoon Workout",
+        "date": "September 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "14:13",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20199932680",
+        "name": "Afternoon Swim",
+        "date": "September 16, 2026",
+        "distanceKm": 1.8,
+        "stats": [
+          "1.8 km",
+          "32:23",
+          "0 m"
+        ]
+      },
       {
         "athlete": "heike moschel",
         "athleteId": "79094374",
@@ -67,55 +93,29 @@
         ]
       },
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20199693076",
-        "name": "Zwift - RotW: Volcano Flat in Watopia",
-        "date": "September 16, 2026",
-        "distanceKm": 16.2,
-        "stats": [
-          "16.2 km",
-          "27:05",
-          "61 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20199377504",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20199962046",
         "name": "Afternoon Walk",
         "date": "September 16, 2026",
-        "distanceKm": 1.1,
+        "distanceKm": 3.4,
         "stats": [
-          "1.1 km",
-          "29:05",
-          "11 m"
+          "3.4 km",
+          "46:35",
+          "13 m"
         ]
       },
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20199427939",
-        "name": "Afternoon Hike",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20199920035",
+        "name": "Afternoon Walk",
         "date": "September 16, 2026",
-        "distanceKm": 4.1,
+        "distanceKm": 3,
         "stats": [
-          "4.1 km",
-          "1:07:34",
-          "217 m"
-        ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20199734509",
-        "name": "Morning Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 13.2,
-        "stats": [
-          "13.2 km",
-          "1:54:06",
-          "33 m"
+          "3.0 km",
+          "1:22:14",
+          "15 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149742.3
+      "totalWithEstimatesKm": 149825.9
     }
   }
 }

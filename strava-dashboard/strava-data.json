@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T07:00:50.331Z",
+  "generatedAt": "2026-09-16T07:30:40.366Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12984,
+  "totalActivities": 12987,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149434000,
-    "totalMovingTime": 42693647,
-    "totalElevation": 1046176.6
+    "totalDistance": 149468400,
+    "totalMovingTime": 42706487,
+    "totalElevation": 1046338.6
   },
   "monthStats": {
-    "totalDistance": 10628900,
-    "totalMovingTime": 3207420,
+    "totalDistance": 10663300,
+    "totalMovingTime": 3220260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4553300,
-    "totalMovingTime": 1255380,
-    "count": 365
+    "totalDistance": 4587700,
+    "totalMovingTime": 1268220,
+    "count": 368
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133637,
+    "measuredDistanceKm": 133671.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -67,29 +67,16 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20195565352",
-        "name": "\"Road to Congress\" ✍️ Ride 🚴",
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20195998190",
+        "name": "Lauf am Morgen",
         "date": "September 16, 2026",
-        "distanceKm": 3,
+        "distanceKm": 8.1,
         "stats": [
-          "3.0 km",
-          "9:18",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20195520315",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "September 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "16:04",
-          "0 m"
+          "8.1 km",
+          "1:02:36",
+          "16 m"
         ]
       },
       {
@@ -117,6 +104,19 @@
           "1:16:04",
           "39 m"
         ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20195889822",
+        "name": "Wednesdays are for long runs 🐸",
+        "date": "September 16, 2026",
+        "distanceKm": 24,
+        "stats": [
+          "24.0 km",
+          "2:00:45",
+          "99 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149434
+      "totalWithEstimatesKm": 149468.4
     }
   }
 }

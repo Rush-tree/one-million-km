@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T13:00:52.897Z",
+  "generatedAt": "2026-09-16T13:30:45.951Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13034,
+  "totalActivities": 13040,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149695600,
-    "totalMovingTime": 42788987,
-    "totalElevation": 1048225.6
+    "totalDistance": 149742300,
+    "totalMovingTime": 42803687,
+    "totalElevation": 1048577.6
   },
   "monthStats": {
-    "totalDistance": 10890500,
-    "totalMovingTime": 3302760,
+    "totalDistance": 10937200,
+    "totalMovingTime": 3317460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4814900,
-    "totalMovingTime": 1350720,
-    "count": 399
+    "totalDistance": 4861600,
+    "totalMovingTime": 1365420,
+    "count": 404
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133898.6,
+    "measuredDistanceKm": 133945.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "20199754176",
+        "name": "Zwift - Basics",
+        "date": "September 16, 2026",
+        "distanceKm": 14.1,
+        "stats": [
+          "14.1 km",
+          "31:42",
+          "177 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20199693076",
+        "name": "Zwift - RotW: Volcano Flat in Watopia",
+        "date": "September 16, 2026",
+        "distanceKm": 16.2,
+        "stats": [
+          "16.2 km",
+          "27:05",
+          "61 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -64,32 +90,6 @@
           "1.1 km",
           "29:05",
           "11 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20199343615",
-        "name": "Zwift - Group Ride: Party Crashers",
-        "date": "September 16, 2026",
-        "distanceKm": 24.3,
-        "stats": [
-          "24.3 km",
-          "35:23",
-          "168 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20198855620",
-        "name": "Zwift - WarmUp",
-        "date": "September 16, 2026",
-        "distanceKm": 5.7,
-        "stats": [
-          "5.7 km",
-          "8:35",
-          "17 m"
         ]
       },
       {
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20199253967",
-        "name": "Mommsen Stadion (mal wieder) belegt 😒 // Intervalle am Berg statt auf der Bahn 🏃‍♀️⛰️",
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20199734509",
+        "name": "Morning Walk",
         "date": "September 16, 2026",
-        "distanceKm": 17.1,
+        "distanceKm": 13.2,
         "stats": [
-          "17.1 km",
-          "1:26:29",
-          "166 m"
+          "13.2 km",
+          "1:54:06",
+          "33 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149695.6
+      "totalWithEstimatesKm": 149742.3
     }
   }
 }

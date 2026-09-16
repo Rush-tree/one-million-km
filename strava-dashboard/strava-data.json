@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T22:00:50.541Z",
+  "generatedAt": "2026-09-16T22:30:47.621Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13156,
+  "totalActivities": 13158,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150903200,
-    "totalMovingTime": 43161467,
-    "totalElevation": 1059737.6
+    "totalDistance": 150908500,
+    "totalMovingTime": 43162547,
+    "totalElevation": 1059816.6
   },
   "monthStats": {
-    "totalDistance": 12098100,
-    "totalMovingTime": 3675240,
+    "totalDistance": 12103400,
+    "totalMovingTime": 3676320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6022500,
-    "totalMovingTime": 1723200,
-    "count": 514
+    "totalDistance": 6027800,
+    "totalMovingTime": 1724280,
+    "count": 515
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135106.2,
+    "measuredDistanceKm": 135111.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20206327691",
+        "name": "Pedalada ao entardecer",
+        "date": "September 16, 2026",
+        "distanceKm": 5.2,
+        "stats": [
+          "5.2 km",
+          "19:18",
+          "79 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -93,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20204900646",
-        "name": "Musculação vespertina",
-        "date": "September 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "23:17",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
         "activityId": "20205077464",
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150903.2
+      "totalWithEstimatesKm": 150908.5
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T19:30:42.920Z",
+  "generatedAt": "2026-09-16T20:00:46.716Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13146,
+  "totalActivities": 13150,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150869500,
-    "totalMovingTime": 43144427,
-    "totalElevation": 1059449.6
+    "totalDistance": 150897500,
+    "totalMovingTime": 43154687,
+    "totalElevation": 1059698.6
   },
   "monthStats": {
-    "totalDistance": 12064400,
-    "totalMovingTime": 3658200,
+    "totalDistance": 12092400,
+    "totalMovingTime": 3668460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5988800,
-    "totalMovingTime": 1706160,
-    "count": 508
+    "totalDistance": 6016800,
+    "totalMovingTime": 1716420,
+    "count": 511
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135072.5,
+    "measuredDistanceKm": 135100.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Emiliana Funaro",
-        "athleteId": "632891508",
-        "activityId": "20204692937",
-        "name": "Camminata serale",
+        "athlete": "Henrique Juhas",
+        "athleteId": "118657757",
+        "activityId": "20204900646",
+        "name": "Musculação vespertina",
         "date": "September 16, 2026",
-        "distanceKm": 0.6,
+        "distanceKm": 0,
         "stats": [
-          "0.6 km",
-          "10:50",
+          "0 km",
+          "23:17",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20205077464",
+        "name": "Abendradfahrt",
+        "date": "September 16, 2026",
+        "distanceKm": 13.9,
+        "stats": [
+          "13.9 km",
+          "49:23",
+          "117 m"
         ]
       },
       {
@@ -89,19 +102,6 @@
         "stats": [
           "1.8 km",
           "1:02:24",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Emiliana Funaro",
-        "athleteId": "632891508",
-        "activityId": "20204693094",
-        "name": "Allenamento con i pesi serale",
-        "date": "September 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "56:11",
           "0 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150869.5
+      "totalWithEstimatesKm": 150897.5
     }
   }
 }

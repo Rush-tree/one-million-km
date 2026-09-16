@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T10:30:50.815Z",
+  "generatedAt": "2026-09-16T11:00:50.733Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13018,
+  "totalActivities": 13016,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149532500,
-    "totalMovingTime": 42746027,
-    "totalElevation": 1046922.6
+    "totalDistance": 149590600,
+    "totalMovingTime": 42754367,
+    "totalElevation": 1047419.6
   },
   "monthStats": {
-    "totalDistance": 10727400,
-    "totalMovingTime": 3259800,
+    "totalDistance": 10785500,
+    "totalMovingTime": 3268140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4651800,
-    "totalMovingTime": 1307760,
-    "count": 384
+    "totalDistance": 4709900,
+    "totalMovingTime": 1316100,
+    "count": 386
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133735.5,
+    "measuredDistanceKm": 133793.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20197823591",
+        "name": "Mittagsradfahrt",
+        "date": "September 16, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "40:05",
+          "59 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -104,19 +117,6 @@
           "1:20:33",
           "93 m"
         ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20196747666",
-        "name": "Nordic Walking",
-        "date": "September 16, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "1:18:16",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149532.5
+      "totalWithEstimatesKm": 149590.6
     }
   }
 }

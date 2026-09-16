@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T06:19:00.806Z",
+  "generatedAt": "2026-09-16T06:30:43.144Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12969,
+  "totalActivities": 12976,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149417700,
-    "totalMovingTime": 42681227,
-    "totalElevation": 1046094.6
+    "totalDistance": 149421900,
+    "totalMovingTime": 42683147,
+    "totalElevation": 1046114.6
   },
   "monthStats": {
-    "totalDistance": 10612600,
-    "totalMovingTime": 3195000,
+    "totalDistance": 10616800,
+    "totalMovingTime": 3196920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4537000,
-    "totalMovingTime": 1242960,
-    "count": 358
+    "totalDistance": 4541200,
+    "totalMovingTime": 1244880,
+    "count": 361
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133620.7,
+    "measuredDistanceKm": 133624.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20195565352",
+        "name": "Morning Ride",
+        "date": "September 16, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "9:18",
+          "20 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20195520315",
+        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "date": "September 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:04",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20195512331",
+        "name": "Sunrise run 🌤️☀️",
+        "date": "September 16, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "7:13",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -78,45 +117,6 @@
           "18:56",
           "62 m"
         ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20195400444",
-        "name": "Commute #103/2026 🏥🩺",
-        "date": "September 16, 2026",
-        "distanceKm": 9,
-        "stats": [
-          "9.0 km",
-          "19:16",
-          "38 m"
-        ]
-      },
-      {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20195252396",
-        "name": "Cie un panificio qui?",
-        "date": "September 16, 2026",
-        "distanceKm": 3.3,
-        "stats": [
-          "3.3 km",
-          "27:10",
-          "120 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20195256578",
-        "name": "Morning Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 10.3,
-        "stats": [
-          "10.3 km",
-          "2:04:06",
-          "119 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149417.7
+      "totalWithEstimatesKm": 149421.9
     }
   }
 }

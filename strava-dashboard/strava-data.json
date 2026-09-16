@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T08:00:47.469Z",
+  "generatedAt": "2026-09-16T08:30:44.254Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12989,
+  "totalActivities": 12999,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149472300,
-    "totalMovingTime": 42707387,
-    "totalElevation": 1046357.6
+    "totalDistance": 149489000,
+    "totalMovingTime": 42721547,
+    "totalElevation": 1046528.6
   },
   "monthStats": {
-    "totalDistance": 10667200,
-    "totalMovingTime": 3221160,
+    "totalDistance": 10683900,
+    "totalMovingTime": 3235320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4591600,
-    "totalMovingTime": 1269120,
-    "count": 369
+    "totalDistance": 4608300,
+    "totalMovingTime": 1283280,
+    "count": 374
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133675.3,
+    "measuredDistanceKm": 133692,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20196431571",
+        "name": "Spaziergang am Morgen",
+        "date": "September 16, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "31:01",
+          "45 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20196342692",
+        "name": "Durchblutung / Recovery fördern",
+        "date": "September 16, 2026",
+        "distanceKm": 5.6,
+        "stats": [
+          "5.6 km",
+          "41:29",
+          "49 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -69,14 +95,14 @@
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
-        "activityId": "20195663895",
-        "name": "Spaziergang am Morgen",
+        "activityId": "20196431716",
+        "name": "Lauf am Morgen",
         "date": "September 16, 2026",
-        "distanceKm": 0.6,
+        "distanceKm": 8,
         "stats": [
-          "0.6 km",
-          "6:38",
-          "4 m"
+          "8.0 km",
+          "57:57",
+          "77 m"
         ]
       },
       {
@@ -90,32 +116,6 @@
           "8.1 km",
           "1:02:36",
           "16 m"
-        ]
-      },
-      {
-        "athlete": "Agata Borovska",
-        "athleteId": "129470144",
-        "activityId": "20195640181",
-        "name": "Morning run",
-        "date": "September 16, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "59:12",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20195889822",
-        "name": "Wednesdays are for long runs 🐸",
-        "date": "September 16, 2026",
-        "distanceKm": 24,
-        "stats": [
-          "24.0 km",
-          "2:00:45",
-          "99 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149472.3
+      "totalWithEstimatesKm": 149489
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T22:30:47.621Z",
+  "generatedAt": "2026-09-16T23:00:48.788Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13158,
+  "totalActivities": 13160,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150908500,
-    "totalMovingTime": 43162547,
-    "totalElevation": 1059816.6
+    "totalDistance": 150910200,
+    "totalMovingTime": 43163687,
+    "totalElevation": 1059820.6
   },
   "monthStats": {
-    "totalDistance": 12103400,
-    "totalMovingTime": 3676320,
+    "totalDistance": 12105100,
+    "totalMovingTime": 3677460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6027800,
-    "totalMovingTime": 1724280,
-    "count": 515
+    "totalDistance": 6029500,
+    "totalMovingTime": 1725420,
+    "count": 516
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135111.5,
+    "measuredDistanceKm": 135113.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,6 +80,19 @@
         ]
       },
       {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20206668705",
+        "name": "Afternoon Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 1.7,
+        "stats": [
+          "1.7 km",
+          "20:46",
+          "4 m"
+        ]
+      },
+      {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
         "activityId": "20205518476",
@@ -104,19 +117,6 @@
           "2:21:33",
           "2 m"
         ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20205077464",
-        "name": "Abendradfahrt",
-        "date": "September 16, 2026",
-        "distanceKm": 13.9,
-        "stats": [
-          "13.9 km",
-          "49:23",
-          "117 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150908.5
+      "totalWithEstimatesKm": 150910.2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T03:30:39.508Z",
+  "generatedAt": "2026-09-16T04:00:48.478Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12926,
+  "totalActivities": 12927,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149232500,
-    "totalMovingTime": 42615047,
-    "totalElevation": 1045012.6
+    "totalDistance": 149268100,
+    "totalMovingTime": 42620987,
+    "totalElevation": 1045130.6
   },
   "monthStats": {
-    "totalDistance": 10427400,
-    "totalMovingTime": 3128820,
+    "totalDistance": 10463000,
+    "totalMovingTime": 3134760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4351800,
-    "totalMovingTime": 1176780,
-    "count": 331
+    "totalDistance": 4387400,
+    "totalMovingTime": 1182720,
+    "count": 333
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133435.5,
+    "measuredDistanceKm": 133471.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20194627680",
+        "name": "Morning Activity",
+        "date": "September 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "17:30",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Goro Shigeno",
         "athleteId": "37029557",
@@ -70,7 +83,7 @@
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "20194300047",
-        "name": "☀️ Wednesday Morning Ride",
+        "name": "SEPTEMBER MNG RIDE NO 16 🚵‍♂️",
         "date": "September 16, 2026",
         "distanceKm": 60.4,
         "stats": [
@@ -104,19 +117,6 @@
           "1:01:09",
           "53 m"
         ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20191953188",
-        "name": "Musculação vespertina",
-        "date": "September 15, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:30:43",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149232.5
+      "totalWithEstimatesKm": 149268.1
     }
   }
 }

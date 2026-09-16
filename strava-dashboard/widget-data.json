@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-16T08:30:44.254Z",
+  "generatedAt": "2026-09-16T09:00:51.545Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 374,
-    "distanceKm": 4608.3,
-    "elevationM": 36595,
-    "movingSeconds": 1283280,
+    "activities": 377,
+    "distanceKm": 4627.7,
+    "elevationM": 36767,
+    "movingSeconds": 1289940,
     "raw": {
-      "activities": "374",
-      "distance": "4,608.3 km",
-      "time": "356 h 28 m",
-      "elevation": "36,595 m"
+      "activities": "377",
+      "distance": "4,627.7 km",
+      "time": "358 h 19 m",
+      "elevation": "36,767 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20196537038",
+      "name": "Morning Workout",
+      "date": "September 16, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "35:25",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
@@ -43,6 +56,19 @@
       ]
     },
     {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20196533222",
+      "name": "Morning Walk",
+      "date": "September 16, 2026",
+      "distanceKm": 1.7,
+      "stats": [
+        "1.7 km",
+        "34:32",
+        "17 m"
+      ]
+    },
+    {
       "athlete": "Phil Duffy",
       "athleteId": "17634808",
       "activityId": "20196155350",
@@ -54,32 +80,6 @@
         "25:13",
         "19 m"
       ]
-    },
-    {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20196431716",
-      "name": "Lauf am Morgen",
-      "date": "September 16, 2026",
-      "distanceKm": 8,
-      "stats": [
-        "8.0 km",
-        "57:57",
-        "77 m"
-      ]
-    },
-    {
-      "athlete": "Domenic Winges",
-      "athleteId": "179823094",
-      "activityId": "20195998190",
-      "name": "Zone 2",
-      "date": "September 16, 2026",
-      "distanceKm": 8.1,
-      "stats": [
-        "8.1 km",
-        "1:02:36",
-        "16 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10683.9,
-  "totalDistanceKm": 133692,
+  "observedWeeksKm": 10703.3,
+  "totalDistanceKm": 133711.4,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149489
+    "totalWithEstimatesKm": 149508.4
   }
 }

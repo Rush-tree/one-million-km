@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T08:30:44.254Z",
+  "generatedAt": "2026-09-16T09:00:51.545Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12999,
+  "totalActivities": 13004,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149489000,
-    "totalMovingTime": 42721547,
-    "totalElevation": 1046528.6
+    "totalDistance": 149508400,
+    "totalMovingTime": 42728207,
+    "totalElevation": 1046700.6
   },
   "monthStats": {
-    "totalDistance": 10683900,
-    "totalMovingTime": 3235320,
+    "totalDistance": 10703300,
+    "totalMovingTime": 3241980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4608300,
-    "totalMovingTime": 1283280,
-    "count": 374
+    "totalDistance": 4627700,
+    "totalMovingTime": 1289940,
+    "count": 377
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133692,
+    "measuredDistanceKm": 133711.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20196537038",
+        "name": "Morning Workout",
+        "date": "September 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "35:25",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -80,6 +93,19 @@
         ]
       },
       {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20196533222",
+        "name": "Morning Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 1.7,
+        "stats": [
+          "1.7 km",
+          "34:32",
+          "17 m"
+        ]
+      },
+      {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
         "activityId": "20196155350",
@@ -90,32 +116,6 @@
           "3.8 km",
           "25:13",
           "19 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20196431716",
-        "name": "Lauf am Morgen",
-        "date": "September 16, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "57:57",
-          "77 m"
-        ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20195998190",
-        "name": "Zone 2",
-        "date": "September 16, 2026",
-        "distanceKm": 8.1,
-        "stats": [
-          "8.1 km",
-          "1:02:36",
-          "16 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149489
+      "totalWithEstimatesKm": 149508.4
     }
   }
 }

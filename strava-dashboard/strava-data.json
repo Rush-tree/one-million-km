@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T04:30:41.503Z",
+  "generatedAt": "2026-09-16T05:00:53.467Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12929,
+  "totalActivities": 12931,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149303100,
-    "totalMovingTime": 42631427,
-    "totalElevation": 1045194.6
+    "totalDistance": 149327500,
+    "totalMovingTime": 42636227,
+    "totalElevation": 1045248.6
   },
   "monthStats": {
-    "totalDistance": 10498000,
-    "totalMovingTime": 3145200,
+    "totalDistance": 10522400,
+    "totalMovingTime": 3150000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4422400,
-    "totalMovingTime": 1193160,
-    "count": 336
+    "totalDistance": 4446800,
+    "totalMovingTime": 1197960,
+    "count": 338
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133506.1,
+    "measuredDistanceKm": 133530.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "0.1 km",
           "1:36",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20194893413",
+        "name": "Morgenausfahrt 🌧",
+        "date": "September 16, 2026",
+        "distanceKm": 22.3,
+        "stats": [
+          "22.3 km",
+          "50:15",
+          "25 m"
         ]
       },
       {
@@ -90,19 +103,6 @@
           "0 km",
           "17:30",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20194292655",
-        "name": "Morning Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 4.7,
-        "stats": [
-          "4.7 km",
-          "29:59",
-          "50 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149303.1
+      "totalWithEstimatesKm": 149327.5
     }
   }
 }

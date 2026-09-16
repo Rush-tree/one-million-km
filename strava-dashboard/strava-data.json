@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T05:00:53.467Z",
+  "generatedAt": "2026-09-16T05:30:42.095Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12931,
+  "totalActivities": 12952,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149327500,
-    "totalMovingTime": 42636227,
-    "totalElevation": 1045248.6
+    "totalDistance": 149362700,
+    "totalMovingTime": 42653207,
+    "totalElevation": 1045647.6
   },
   "monthStats": {
-    "totalDistance": 10522400,
-    "totalMovingTime": 3150000,
+    "totalDistance": 10557600,
+    "totalMovingTime": 3166980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4446800,
-    "totalMovingTime": 1197960,
-    "count": 338
+    "totalDistance": 4482000,
+    "totalMovingTime": 1214940,
+    "count": 348
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133530.5,
+    "measuredDistanceKm": 133565.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20194707362",
-        "name": "Schwimmen am Morgen",
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20195098512",
+        "name": "Gravel-Fahrt am Morgen",
         "date": "September 16, 2026",
-        "distanceKm": 0.1,
+        "distanceKm": 3.5,
         "stats": [
-          "0.1 km",
-          "1:36",
-          "0 m"
+          "3.5 km",
+          "12:19",
+          "20 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20195072643",
+        "name": "Spaziergang am Morgen",
+        "date": "September 16, 2026",
+        "distanceKm": 2.8,
+        "stats": [
+          "2.8 km",
+          "28:59",
+          "52 m"
+        ]
+      },
+      {
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20195072996",
+        "name": "Morning Run",
+        "date": "September 16, 2026",
+        "distanceKm": 3.5,
+        "stats": [
+          "3.5 km",
+          "37:58",
+          "81 m"
+        ]
+      },
+      {
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20195072025",
+        "name": "Morning Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "17:58",
+          "20 m"
         ]
       },
       {
@@ -77,45 +116,6 @@
           "22.3 km",
           "50:15",
           "25 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20194798876",
-        "name": "Morning Run",
-        "date": "September 16, 2026",
-        "distanceKm": 20,
-        "stats": [
-          "20.0 km",
-          "1:45:58",
-          "32 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20194627680",
-        "name": "Morning Activity",
-        "date": "September 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "17:30",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20194761965",
-        "name": "Açık alanda koşu",
-        "date": "September 16, 2026",
-        "distanceKm": 14.9,
-        "stats": [
-          "14.9 km",
-          "1:17:42",
-          "33 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149327.5
+      "totalWithEstimatesKm": 149362.7
     }
   }
 }

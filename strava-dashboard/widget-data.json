@@ -1,26 +1,39 @@
 {
-  "generatedAt": "2026-09-16T06:30:43.144Z",
+  "generatedAt": "2026-09-16T07:00:50.331Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 361,
-    "distanceKm": 4541.2,
-    "elevationM": 36181,
-    "movingSeconds": 1244880,
+    "activities": 365,
+    "distanceKm": 4553.3,
+    "elevationM": 36243,
+    "movingSeconds": 1255380,
     "raw": {
-      "activities": "361",
-      "distance": "4,541.2 km",
-      "time": "345 h 48 m",
-      "elevation": "36,181 m"
+      "activities": "365",
+      "distance": "4,553.3 km",
+      "time": "348 h 43 m",
+      "elevation": "36,243 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20195663895",
+      "name": "Spaziergang am Morgen",
+      "date": "September 16, 2026",
+      "distanceKm": 0.6,
+      "stats": [
+        "0.6 km",
+        "6:38",
+        "4 m"
+      ]
+    },
+    {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
       "activityId": "20195565352",
-      "name": "Morning Ride",
+      "name": "\"Road to Congress\" ✍️ Ride 🚴",
       "date": "September 16, 2026",
       "distanceKm": 3,
       "stats": [
@@ -43,42 +56,29 @@
       ]
     },
     {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20195512331",
-      "name": "Sunrise run 🌤️☀️",
+      "athlete": "Agata Borovska",
+      "athleteId": "129470144",
+      "activityId": "20195640181",
+      "name": "Morning run",
       "date": "September 16, 2026",
-      "distanceKm": 1,
+      "distanceKm": 7.5,
       "stats": [
-        "1.0 km",
-        "7:13",
-        "0 m"
+        "7.5 km",
+        "59:12",
+        "20 m"
       ]
     },
     {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20195331112",
-      "name": "Commuting 👔 Ride 🚴",
+      "athlete": "Cristian Stănciulescu",
+      "athleteId": "67352997",
+      "activityId": "20195631289",
+      "name": "Morning Walk",
       "date": "September 16, 2026",
-      "distanceKm": 6.7,
+      "distanceKm": 3.9,
       "stats": [
-        "6.7 km",
-        "17:25",
-        "10 m"
-      ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20195274462",
-      "name": "Morning Ride",
-      "date": "September 16, 2026",
-      "distanceKm": 4.5,
-      "stats": [
-        "4.5 km",
-        "18:56",
-        "62 m"
+        "3.9 km",
+        "1:16:04",
+        "39 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 10616.8,
-  "totalDistanceKm": 133624.9,
+  "observedWeeksKm": 10628.9,
+  "totalDistanceKm": 133637,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 149421.9
+    "totalWithEstimatesKm": 149434
   }
 }

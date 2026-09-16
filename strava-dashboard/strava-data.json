@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T06:30:43.144Z",
+  "generatedAt": "2026-09-16T07:00:50.331Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12976,
+  "totalActivities": 12984,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149421900,
-    "totalMovingTime": 42683147,
-    "totalElevation": 1046114.6
+    "totalDistance": 149434000,
+    "totalMovingTime": 42693647,
+    "totalElevation": 1046176.6
   },
   "monthStats": {
-    "totalDistance": 10616800,
-    "totalMovingTime": 3196920,
+    "totalDistance": 10628900,
+    "totalMovingTime": 3207420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4541200,
-    "totalMovingTime": 1244880,
-    "count": 361
+    "totalDistance": 4553300,
+    "totalMovingTime": 1255380,
+    "count": 365
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133624.9,
+    "measuredDistanceKm": 133637,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20195663895",
+        "name": "Spaziergang am Morgen",
+        "date": "September 16, 2026",
+        "distanceKm": 0.6,
+        "stats": [
+          "0.6 km",
+          "6:38",
+          "4 m"
+        ]
+      },
+      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20195565352",
-        "name": "Morning Ride",
+        "name": "\"Road to Congress\" ✍️ Ride 🚴",
         "date": "September 16, 2026",
         "distanceKm": 3,
         "stats": [
@@ -80,42 +93,29 @@
         ]
       },
       {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20195512331",
-        "name": "Sunrise run 🌤️☀️",
+        "athlete": "Agata Borovska",
+        "athleteId": "129470144",
+        "activityId": "20195640181",
+        "name": "Morning run",
         "date": "September 16, 2026",
-        "distanceKm": 1,
+        "distanceKm": 7.5,
         "stats": [
-          "1.0 km",
-          "7:13",
-          "0 m"
+          "7.5 km",
+          "59:12",
+          "20 m"
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20195331112",
-        "name": "Commuting 👔 Ride 🚴",
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20195631289",
+        "name": "Morning Walk",
         "date": "September 16, 2026",
-        "distanceKm": 6.7,
+        "distanceKm": 3.9,
         "stats": [
-          "6.7 km",
-          "17:25",
-          "10 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20195274462",
-        "name": "Morning Ride",
-        "date": "September 16, 2026",
-        "distanceKm": 4.5,
-        "stats": [
-          "4.5 km",
-          "18:56",
-          "62 m"
+          "3.9 km",
+          "1:16:04",
+          "39 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149421.9
+      "totalWithEstimatesKm": 149434
     }
   }
 }

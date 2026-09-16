@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T20:30:42.493Z",
+  "generatedAt": "2026-09-16T21:00:51.616Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13150,
+  "totalActivities": 13154,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150897500,
-    "totalMovingTime": 43154687,
-    "totalElevation": 1059698.6
+    "totalDistance": 150899800,
+    "totalMovingTime": 43158527,
+    "totalElevation": 1059735.6
   },
   "monthStats": {
-    "totalDistance": 12092400,
-    "totalMovingTime": 3668460,
+    "totalDistance": 12094700,
+    "totalMovingTime": 3672300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6016800,
-    "totalMovingTime": 1716420,
-    "count": 511
+    "totalDistance": 6019100,
+    "totalMovingTime": 1720260,
+    "count": 513
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135100.5,
+    "measuredDistanceKm": 135102.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20205428316",
+        "name": "Blackroll Compression Boots 2.0 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "date": "September 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "30:39",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20205518476",
+        "name": "Caminhada vespertina",
+        "date": "September 16, 2026",
+        "distanceKm": 2.3,
+        "stats": [
+          "2.3 km",
+          "36:08",
+          "37 m"
+        ]
+      },
       {
         "athlete": "Henrique Juhas",
         "athleteId": "118657757",
@@ -80,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20204746767",
-        "name": "Yoga am Abend",
-        "date": "September 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:00:48",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Norick Maurer",
         "athleteId": "107445415",
         "activityId": "20204759262",
@@ -103,19 +116,6 @@
           "1.8 km",
           "1:02:24",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20204627001",
-        "name": "Zwift - Endurance Quad Block",
-        "date": "September 16, 2026",
-        "distanceKm": 51.5,
-        "stats": [
-          "51.5 km",
-          "1:45:14",
-          "233 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150897.5
+      "totalWithEstimatesKm": 150899.8
     }
   }
 }

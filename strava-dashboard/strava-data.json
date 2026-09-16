@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T14:00:50.502Z",
+  "generatedAt": "2026-09-16T14:30:44.630Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13046,
+  "totalActivities": 13063,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149825900,
-    "totalMovingTime": 42826907,
-    "totalElevation": 1050280.6
+    "totalDistance": 149881700,
+    "totalMovingTime": 42853307,
+    "totalElevation": 1050693.6
   },
   "monthStats": {
-    "totalDistance": 11020800,
-    "totalMovingTime": 3340680,
+    "totalDistance": 11076600,
+    "totalMovingTime": 3367080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4945200,
-    "totalMovingTime": 1388640,
-    "count": 411
+    "totalDistance": 5001000,
+    "totalMovingTime": 1415040,
+    "count": 421
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 134028.9,
+    "measuredDistanceKm": 134084.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20200423759",
+        "name": "Afternoon Ride",
+        "date": "September 16, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "29:19",
+          "60 m"
+        ]
+      },
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20200517737",
+        "name": "Spaziergang am Nachmittag",
+        "date": "September 16, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "46:26",
+          "56 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -67,6 +93,19 @@
         ]
       },
       {
+        "athlete": "Johanna H",
+        "athleteId": "195161116",
+        "activityId": "20200369143",
+        "name": "Lauf am Nachmittag",
+        "date": "September 16, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "50:29",
+          "64 m"
+        ]
+      },
+      {
         "athlete": "John Spence",
         "athleteId": "97189936",
         "activityId": "20199932680",
@@ -77,45 +116,6 @@
           "1.8 km",
           "32:23",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "heike moschel",
-        "athleteId": "79094374",
-        "activityId": "20199754176",
-        "name": "Zwift - Basics",
-        "date": "September 16, 2026",
-        "distanceKm": 14.1,
-        "stats": [
-          "14.1 km",
-          "31:42",
-          "177 m"
-        ]
-      },
-      {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20199962046",
-        "name": "Afternoon Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 3.4,
-        "stats": [
-          "3.4 km",
-          "46:35",
-          "13 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20199920035",
-        "name": "Afternoon Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "1:22:14",
-          "15 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149825.9
+      "totalWithEstimatesKm": 149881.7
     }
   }
 }

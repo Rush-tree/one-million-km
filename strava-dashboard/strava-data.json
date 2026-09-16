@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T11:00:50.733Z",
+  "generatedAt": "2026-09-16T11:30:45.371Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13016,
+  "totalActivities": 13018,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149590600,
-    "totalMovingTime": 42754367,
-    "totalElevation": 1047419.6
+    "totalDistance": 149609000,
+    "totalMovingTime": 42760607,
+    "totalElevation": 1047489.6
   },
   "monthStats": {
-    "totalDistance": 10785500,
-    "totalMovingTime": 3268140,
+    "totalDistance": 10803900,
+    "totalMovingTime": 3274380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4709900,
-    "totalMovingTime": 1316100,
-    "count": 386
+    "totalDistance": 4728300,
+    "totalMovingTime": 1322340,
+    "count": 388
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133793.6,
+    "measuredDistanceKm": 133812,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20198382470",
+        "name": "Lunch Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 1.9,
+        "stats": [
+          "1.9 km",
+          "28:37",
+          "9 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -64,6 +77,19 @@
           "14.0 km",
           "40:05",
           "59 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20198132519",
+        "name": "Lunch Trail Run",
+        "date": "September 16, 2026",
+        "distanceKm": 16.5,
+        "stats": [
+          "16.5 km",
+          "1:52:37",
+          "61 m"
         ]
       },
       {
@@ -91,32 +117,6 @@
           "32:26",
           "10 m"
         ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20196782911",
-        "name": "Laatste 1,5km waren er teveel aan vo de lage hs",
-        "date": "September 16, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "34:24",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20196733052",
-        "name": "NW mit Herrn Sumsemann und Flucht vor dem Regen",
-        "date": "September 16, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "1:20:33",
-          "93 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149590.6
+      "totalWithEstimatesKm": 149609
     }
   }
 }

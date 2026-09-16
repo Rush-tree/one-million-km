@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T15:00:54.492Z",
+  "generatedAt": "2026-09-16T15:30:43.239Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13071,
+  "totalActivities": 13066,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149970800,
-    "totalMovingTime": 42880247,
-    "totalElevation": 1051627.6
+    "totalDistance": 150104100,
+    "totalMovingTime": 42914627,
+    "totalElevation": 1053480.6
   },
   "monthStats": {
-    "totalDistance": 11165700,
-    "totalMovingTime": 3394020,
+    "totalDistance": 11299000,
+    "totalMovingTime": 3428400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5090100,
-    "totalMovingTime": 1441980,
-    "count": 429
+    "totalDistance": 5223400,
+    "totalMovingTime": 1476360,
+    "count": 434
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 134173.8,
+    "measuredDistanceKm": 134307.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20200698340",
-        "name": "Congress back to 👔✈️ Ride 🚴",
+        "athlete": "David Frerichs",
+        "athleteId": "41924749",
+        "activityId": "20201243581",
+        "name": "Lauf am Nachmittag",
         "date": "September 16, 2026",
-        "distanceKm": 3.6,
+        "distanceKm": 5.6,
         "stats": [
-          "3.6 km",
-          "14:32",
-          "30 m"
+          "5.6 km",
+          "32:49",
+          "14 m"
         ]
       },
       {
@@ -80,29 +80,16 @@
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20200736491",
-        "name": "Fahrt am Nachmittag 🌧",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20201148564",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "September 16, 2026",
-        "distanceKm": 22.4,
+        "distanceKm": 0,
         "stats": [
-          "22.4 km",
-          "56:43",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20200517737",
-        "name": "Spaziergang am Nachmittag",
-        "date": "September 16, 2026",
-        "distanceKm": 2.4,
-        "stats": [
-          "2.4 km",
-          "46:26",
-          "56 m"
+          "0 km",
+          "1:39:29",
+          "0 m"
         ]
       },
       {
@@ -116,6 +103,19 @@
           "5.8 km",
           "2:37:46",
           "345 m"
+        ]
+      },
+      {
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20200967759",
+        "name": "Morning Ride",
+        "date": "September 16, 2026",
+        "distanceKm": 104.4,
+        "stats": [
+          "104.4 km",
+          "6:53:43",
+          "1,671 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149970.8
+      "totalWithEstimatesKm": 150104.1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T02:30:41.402Z",
+  "generatedAt": "2026-09-16T03:00:50.153Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 12930,
+  "totalActivities": 12926,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 149167300,
-    "totalMovingTime": 42603827,
-    "totalElevation": 1044795.6
+    "totalDistance": 149232500,
+    "totalMovingTime": 42615047,
+    "totalElevation": 1045012.6
   },
   "monthStats": {
-    "totalDistance": 10362200,
-    "totalMovingTime": 3117600,
+    "totalDistance": 10427400,
+    "totalMovingTime": 3128820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4286600,
-    "totalMovingTime": 1165560,
-    "count": 329
+    "totalDistance": 4351800,
+    "totalMovingTime": 1176780,
+    "count": 331
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 133370.3,
+    "measuredDistanceKm": 133435.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20194292655",
+        "name": "Morning Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 4.7,
+        "stats": [
+          "4.7 km",
+          "29:59",
+          "50 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20194300047",
+        "name": "☀️ Wednesday Morning Ride",
+        "date": "September 16, 2026",
+        "distanceKm": 60.4,
+        "stats": [
+          "60.4 km",
+          "2:48:26",
+          "167 m"
+        ]
+      },
       {
         "athlete": "Josué González",
         "athleteId": "178408867",
@@ -67,6 +93,19 @@
         ]
       },
       {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20194291782",
+        "name": "Morning Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 10.1,
+        "stats": [
+          "10.1 km",
+          "1:01:09",
+          "53 m"
+        ]
+      },
+      {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
         "activityId": "20191953188",
@@ -76,45 +115,6 @@
         "stats": [
           "0 km",
           "1:30:43",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20190932908",
-        "name": "Gewichtstraining in der Nacht",
-        "date": "September 15, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:13:14",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20190782922",
-        "name": "Dienstagsintervalle/ Bergintervalle 🏃🏃🏃 … EL 10 Min. 3 x 5 Min. in Zone 4 dazw. 5 Min. Trabpause AL 10 Min. 😀 …",
-        "date": "September 15, 2026",
-        "distanceKm": 8.1,
-        "stats": [
-          "8.1 km",
-          "54:14",
-          "218 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20190639713",
-        "name": "Abendschwimmen",
-        "date": "September 15, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "55:38",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 149167.3
+      "totalWithEstimatesKm": 149232.5
     }
   }
 }

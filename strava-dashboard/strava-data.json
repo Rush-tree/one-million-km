@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T08:30:44.867Z",
+  "generatedAt": "2026-09-17T09:00:51.991Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13204,
+  "totalActivities": 13209,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151234200,
-    "totalMovingTime": 43269887,
-    "totalElevation": 1062070.6
+    "totalDistance": 151248800,
+    "totalMovingTime": 43279007,
+    "totalElevation": 1062265.6
   },
   "monthStats": {
-    "totalDistance": 12429100,
-    "totalMovingTime": 3783660,
+    "totalDistance": 12443700,
+    "totalMovingTime": 3792780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6353500,
-    "totalMovingTime": 1831620,
-    "count": 552
+    "totalDistance": 6368100,
+    "totalMovingTime": 1840740,
+    "count": 555
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135437.2,
+    "measuredDistanceKm": 135451.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20210684240",
+        "name": "Pedalada matinal",
+        "date": "September 17, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "34:02",
+          "106 m"
+        ]
+      },
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20210641823",
+        "name": "HIIT matinal",
+        "date": "September 17, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "45:04",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -91,32 +117,6 @@
           "1:30:34",
           "163 m"
         ]
-      },
-      {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20210034408",
-        "name": "Lauf am Morgen",
-        "date": "September 17, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "1:07:40",
-          "127 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20209827472",
-        "name": "Morning Run teils mit Basti",
-        "date": "September 17, 2026",
-        "distanceKm": 8.1,
-        "stats": [
-          "8.1 km",
-          "46:13",
-          "11 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151234.2
+      "totalWithEstimatesKm": 151248.8
     }
   }
 }

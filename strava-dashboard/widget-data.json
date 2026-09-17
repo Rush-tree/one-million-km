@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-17T08:30:44.867Z",
+  "generatedAt": "2026-09-17T09:00:51.991Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 552,
-    "distanceKm": 6353.5,
-    "elevationM": 52137,
-    "movingSeconds": 1831620,
+    "activities": 555,
+    "distanceKm": 6368.1,
+    "elevationM": 52332,
+    "movingSeconds": 1840740,
     "raw": {
-      "activities": "552",
-      "distance": "6,353.5 km",
-      "time": "508 h 47 m",
-      "elevation": "52,137 m"
+      "activities": "555",
+      "distance": "6,368.1 km",
+      "time": "511 h 19 m",
+      "elevation": "52,332 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20210684240",
+      "name": "Pedalada matinal",
+      "date": "September 17, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "34:02",
+        "106 m"
+      ]
+    },
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20210641823",
+      "name": "HIIT matinal",
+      "date": "September 17, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "45:04",
+        "0 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -54,32 +80,6 @@
         "1:30:34",
         "163 m"
       ]
-    },
-    {
-      "athlete": "Manfred H",
-      "athleteId": "85517467",
-      "activityId": "20210034408",
-      "name": "Lauf am Morgen",
-      "date": "September 17, 2026",
-      "distanceKm": 13,
-      "stats": [
-        "13.0 km",
-        "1:07:40",
-        "127 m"
-      ]
-    },
-    {
-      "athlete": "Cathi Caesar",
-      "athleteId": "74482280",
-      "activityId": "20209827472",
-      "name": "Morning Run teils mit Basti",
-      "date": "September 17, 2026",
-      "distanceKm": 8.1,
-      "stats": [
-        "8.1 km",
-        "46:13",
-        "11 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12429.1,
-  "totalDistanceKm": 135437.2,
+  "observedWeeksKm": 12443.7,
+  "totalDistanceKm": 135451.8,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151234.2
+    "totalWithEstimatesKm": 151248.8
   }
 }

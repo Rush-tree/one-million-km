@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T14:00:51.578Z",
+  "generatedAt": "2026-09-17T14:30:42.314Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13234,
+  "totalActivities": 13228,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151622800,
-    "totalMovingTime": 43370507,
-    "totalElevation": 1064392.6
+    "totalDistance": 151714100,
+    "totalMovingTime": 43388207,
+    "totalElevation": 1066556.6
   },
   "monthStats": {
-    "totalDistance": 12817700,
-    "totalMovingTime": 3884280,
+    "totalDistance": 12909000,
+    "totalMovingTime": 3901980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6742100,
-    "totalMovingTime": 1932240,
-    "count": 585
+    "totalDistance": 6833400,
+    "totalMovingTime": 1949940,
+    "count": 587
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135825.8,
+    "measuredDistanceKm": 135917.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20214412364",
+        "name": "Jetlag - Shakeout",
+        "date": "September 17, 2026",
+        "distanceKm": 5.6,
+        "stats": [
+          "5.6 km",
+          "35:23",
+          "60 m"
+        ]
+      },
       {
         "athlete": "Reynaldo Guerra",
         "athleteId": "59804669",
@@ -104,19 +117,6 @@
           "1:01:21",
           "356 m"
         ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20213980229",
-        "name": "Morning Run",
-        "date": "September 17, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "47:19",
-          "9 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151622.8
+      "totalWithEstimatesKm": 151714.1
     }
   }
 }

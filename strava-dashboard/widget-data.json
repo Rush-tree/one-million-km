@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T14:00:51.578Z",
+  "generatedAt": "2026-09-17T14:30:42.314Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 585,
-    "distanceKm": 6742.1,
-    "elevationM": 54459,
-    "movingSeconds": 1932240,
+    "activities": 587,
+    "distanceKm": 6833.4,
+    "elevationM": 56623,
+    "movingSeconds": 1949940,
     "raw": {
-      "activities": "585",
-      "distance": "6,742.1 km",
-      "time": "536 h 44 m",
-      "elevation": "54,459 m"
+      "activities": "587",
+      "distance": "6,833.4 km",
+      "time": "541 h 39 m",
+      "elevation": "56,623 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Rainer Gatzmaga",
+      "athleteId": "119550686",
+      "activityId": "20214412364",
+      "name": "Jetlag - Shakeout",
+      "date": "September 17, 2026",
+      "distanceKm": 5.6,
+      "stats": [
+        "5.6 km",
+        "35:23",
+        "60 m"
+      ]
+    },
     {
       "athlete": "Reynaldo Guerra",
       "athleteId": "59804669",
@@ -67,19 +80,6 @@
         "1:01:21",
         "356 m"
       ]
-    },
-    {
-      "athlete": "Brad Miyasato",
-      "athleteId": "53406668",
-      "activityId": "20213980229",
-      "name": "Morning Run",
-      "date": "September 17, 2026",
-      "distanceKm": 8,
-      "stats": [
-        "8.0 km",
-        "47:19",
-        "9 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12817.7,
-  "totalDistanceKm": 135825.8,
+  "observedWeeksKm": 12909,
+  "totalDistanceKm": 135917.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151622.8
+    "totalWithEstimatesKm": 151714.1
   }
 }

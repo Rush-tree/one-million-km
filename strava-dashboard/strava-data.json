@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T07:00:49.441Z",
+  "generatedAt": "2026-09-17T07:30:45.769Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13201,
+  "totalActivities": 13203,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151163000,
-    "totalMovingTime": 43252727,
-    "totalElevation": 1061680.6
+    "totalDistance": 151185100,
+    "totalMovingTime": 43257887,
+    "totalElevation": 1061847.6
   },
   "monthStats": {
-    "totalDistance": 12357900,
-    "totalMovingTime": 3766500,
+    "totalDistance": 12380000,
+    "totalMovingTime": 3771660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6282300,
-    "totalMovingTime": 1814460,
-    "count": 547
+    "totalDistance": 6304400,
+    "totalMovingTime": 1819620,
+    "count": 549
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135366,
+    "measuredDistanceKm": 135388.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20210034408",
+        "name": "Lauf am Morgen",
+        "date": "September 17, 2026",
+        "distanceKm": 13,
+        "stats": [
+          "13.0 km",
+          "1:07:40",
+          "127 m"
+        ]
+      },
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
@@ -70,26 +83,13 @@
         "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
         "athleteId": "51333291",
         "activityId": "20209678064",
-        "name": "Good , good, good good Vibrations🙃😎🙃",
+        "name": "Good Vibrations🙃😎🙃",
         "date": "September 17, 2026",
         "distanceKm": 11.1,
         "stats": [
           "11.1 km",
           "33:24",
           "127 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20209446799",
-        "name": "Sykkeltur om morgenen",
-        "date": "September 17, 2026",
-        "distanceKm": 4.5,
-        "stats": [
-          "4.5 km",
-          "15:17",
-          "52 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151163
+      "totalWithEstimatesKm": 151185.1
     }
   }
 }

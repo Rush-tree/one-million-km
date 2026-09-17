@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T07:00:49.441Z",
+  "generatedAt": "2026-09-17T07:30:45.769Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 547,
-    "distanceKm": 6282.3,
-    "elevationM": 51747,
-    "movingSeconds": 1814460,
+    "activities": 549,
+    "distanceKm": 6304.4,
+    "elevationM": 51914,
+    "movingSeconds": 1819620,
     "raw": {
-      "activities": "547",
-      "distance": "6,282.3 km",
-      "time": "504 h 1 m",
-      "elevation": "51,747 m"
+      "activities": "549",
+      "distance": "6,304.4 km",
+      "time": "505 h 27 m",
+      "elevation": "51,914 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Manfred H",
+      "athleteId": "85517467",
+      "activityId": "20210034408",
+      "name": "Lauf am Morgen",
+      "date": "September 17, 2026",
+      "distanceKm": 13,
+      "stats": [
+        "13.0 km",
+        "1:07:40",
+        "127 m"
+      ]
+    },
     {
       "athlete": "Cathi Caesar",
       "athleteId": "74482280",
@@ -33,26 +46,13 @@
       "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
       "athleteId": "51333291",
       "activityId": "20209678064",
-      "name": "Good , good, good good Vibrations🙃😎🙃",
+      "name": "Good Vibrations🙃😎🙃",
       "date": "September 17, 2026",
       "distanceKm": 11.1,
       "stats": [
         "11.1 km",
         "33:24",
         "127 m"
-      ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20209446799",
-      "name": "Sykkeltur om morgenen",
-      "date": "September 17, 2026",
-      "distanceKm": 4.5,
-      "stats": [
-        "4.5 km",
-        "15:17",
-        "52 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12357.9,
-  "totalDistanceKm": 135366,
+  "observedWeeksKm": 12380,
+  "totalDistanceKm": 135388.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151163
+    "totalWithEstimatesKm": 151185.1
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T15:30:42.350Z",
+  "generatedAt": "2026-09-17T16:01:27.754Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13233,
+  "totalActivities": 13239,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151886500,
-    "totalMovingTime": 43432307,
-    "totalElevation": 1068329.6
+    "totalDistance": 151957500,
+    "totalMovingTime": 43450907,
+    "totalElevation": 1068883.6
   },
   "monthStats": {
-    "totalDistance": 13081400,
-    "totalMovingTime": 3946080,
+    "totalDistance": 13152400,
+    "totalMovingTime": 3964680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7005800,
-    "totalMovingTime": 1994040,
-    "count": 598
+    "totalDistance": 7076800,
+    "totalMovingTime": 2012640,
+    "count": 604
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,21 +48,47 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 136089.5,
+    "measuredDistanceKm": 136160.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20215032011",
-        "name": "Zwift - Taper Steady",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20215281302",
+        "name": "Fahrt am Nachmittag",
         "date": "September 17, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 0.9,
         "stats": [
-          "4.4 km",
-          "12:27",
+          "0.9 km",
+          "5:16",
+          "3 m"
+        ]
+      },
+      {
+        "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
+        "athleteId": "24992941",
+        "activityId": "20215349802",
+        "name": "Namiddagloop",
+        "date": "September 17, 2026",
+        "distanceKm": 8.1,
+        "stats": [
+          "8.1 km",
+          "45:02",
+          "8 m"
+        ]
+      },
+      {
+        "athlete": "Marcel Eisenreich",
+        "athleteId": "203408258",
+        "activityId": "20215310129",
+        "name": "Lauf am Nachmittag",
+        "date": "September 17, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "42:53",
           "27 m"
         ]
       },
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20215135909",
-        "name": "Afternoon Ride",
+        "athlete": "Max Gräber",
+        "athleteId": "138199030",
+        "activityId": "20215253018",
+        "name": "Fahrt am Nachmittag",
         "date": "September 17, 2026",
-        "distanceKm": 23,
+        "distanceKm": 47.5,
         "stats": [
-          "23.0 km",
-          "55:17",
-          "136 m"
-        ]
-      },
-      {
-        "athlete": "Elsa Rottluff",
-        "athleteId": "110130704",
-        "activityId": "20214858446",
-        "name": "Afternoon Workout",
-        "date": "September 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:21:32",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20214958625",
-        "name": "Lauf am Nachmittag",
-        "date": "September 17, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "32:06",
-          "38 m"
+          "47.5 km",
+          "1:58:52",
+          "513 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151886.5
+      "totalWithEstimatesKm": 151957.5
     }
   }
 }

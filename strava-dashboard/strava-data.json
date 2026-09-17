@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T06:00:47.523Z",
+  "generatedAt": "2026-09-17T06:30:44.538Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13190,
+  "totalActivities": 13199,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151121700,
-    "totalMovingTime": 43225487,
-    "totalElevation": 1061368.6
+    "totalDistance": 151136100,
+    "totalMovingTime": 43235927,
+    "totalElevation": 1061535.6
   },
   "monthStats": {
-    "totalDistance": 12316600,
-    "totalMovingTime": 3739260,
+    "totalDistance": 12331000,
+    "totalMovingTime": 3749700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6241000,
-    "totalMovingTime": 1787220,
-    "count": 540
+    "totalDistance": 6255400,
+    "totalMovingTime": 1797660,
+    "count": 545
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135324.7,
+    "measuredDistanceKm": 135339.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
+        "athleteId": "51333291",
+        "activityId": "20209678064",
+        "name": "Energiegeladen🙃😎🙃 zum Schlado",
+        "date": "September 17, 2026",
+        "distanceKm": 11.1,
+        "stats": [
+          "11.1 km",
+          "33:24",
+          "127 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -80,42 +93,29 @@
         ]
       },
       {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20209285018",
-        "name": "Morning commute",
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20209644020",
+        "name": "Lunch Ride",
         "date": "September 17, 2026",
-        "distanceKm": 4.2,
+        "distanceKm": 0.6,
         "stats": [
-          "4.2 km",
-          "13:52",
-          "25 m"
+          "0.6 km",
+          "2:20",
+          "0 m"
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20209403893",
-        "name": "Morning Walk",
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20209549359",
+        "name": "Morning Ride",
         "date": "September 17, 2026",
-        "distanceKm": 4.2,
+        "distanceKm": 12.9,
         "stats": [
-          "4.2 km",
-          "42:32",
-          "58 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20209261813",
-        "name": "If i can swim 🏊🏾‍♂️ rain shouldn’t be a problem.",
-        "date": "September 17, 2026",
-        "distanceKm": 8.8,
-        "stats": [
-          "8.8 km",
-          "1:28:12",
-          "191 m"
+          "12.9 km",
+          "33:34",
+          "62 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151121.7
+      "totalWithEstimatesKm": 151136.1
     }
   }
 }

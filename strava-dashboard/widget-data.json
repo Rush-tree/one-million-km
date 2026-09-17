@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T05:30:38.985Z",
+  "generatedAt": "2026-09-17T06:00:47.523Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 539,
-    "distanceKm": 6236.5,
-    "elevationM": 51383,
-    "movingSeconds": 1786320,
+    "activities": 540,
+    "distanceKm": 6241,
+    "elevationM": 51435,
+    "movingSeconds": 1787220,
     "raw": {
-      "activities": "539",
-      "distance": "6,236.5 km",
-      "time": "496 h 12 m",
-      "elevation": "51,383 m"
+      "activities": "540",
+      "distance": "6,241.0 km",
+      "time": "496 h 27 m",
+      "elevation": "51,435 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20209446799",
+      "name": "Sykkeltur om morgenen",
+      "date": "September 17, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "15:17",
+        "52 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -43,42 +56,29 @@
       ]
     },
     {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20209080020",
-      "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20209403893",
+      "name": "Morning Walk",
       "date": "September 17, 2026",
-      "distanceKm": 0,
+      "distanceKm": 4.2,
       "stats": [
-        "0 km",
-        "15:22",
-        "0 m"
+        "4.2 km",
+        "42:32",
+        "58 m"
       ]
     },
     {
       "athlete": "Louis Mwanja",
       "athleteId": "14992965",
       "activityId": "20209261813",
-      "name": "Morning Run",
+      "name": "If i can swim 🏊🏾‍♂️ rain shouldn’t be a problem.",
       "date": "September 17, 2026",
       "distanceKm": 8.8,
       "stats": [
         "8.8 km",
         "1:28:12",
         "191 m"
-      ]
-    },
-    {
-      "athlete": "Mangala Pai",
-      "athleteId": "118301293",
-      "activityId": "20208947625",
-      "name": "Morning Yoga",
-      "date": "September 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:00:40",
-        "0 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12312.1,
-  "totalDistanceKm": 135320.2,
+  "observedWeeksKm": 12316.6,
+  "totalDistanceKm": 135324.7,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151117.2
+    "totalWithEstimatesKm": 151121.7
   }
 }

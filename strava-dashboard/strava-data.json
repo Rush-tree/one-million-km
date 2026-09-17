@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T08:00:48.107Z",
+  "generatedAt": "2026-09-17T08:30:44.867Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13200,
+  "totalActivities": 13204,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151227200,
-    "totalMovingTime": 43263347,
-    "totalElevation": 1062010.6
+    "totalDistance": 151234200,
+    "totalMovingTime": 43269887,
+    "totalElevation": 1062070.6
   },
   "monthStats": {
-    "totalDistance": 12422100,
-    "totalMovingTime": 3777120,
+    "totalDistance": 12429100,
+    "totalMovingTime": 3783660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6346500,
-    "totalMovingTime": 1825080,
-    "count": 550
+    "totalDistance": 6353500,
+    "totalMovingTime": 1831620,
+    "count": 552
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135430.2,
+    "measuredDistanceKm": 135437.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20210430849",
+        "name": "Morning Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 2.5,
+        "stats": [
+          "2.5 km",
+          "39:05",
+          "11 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20210453602",
+        "name": "Spaziergang am Morgen",
+        "date": "September 17, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "1:16:47",
+          "49 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -91,32 +117,6 @@
           "46:13",
           "11 m"
         ]
-      },
-      {
-        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
-        "athleteId": "51333291",
-        "activityId": "20209678064",
-        "name": "Good Vibrations🙃😎🙃",
-        "date": "September 17, 2026",
-        "distanceKm": 11.1,
-        "stats": [
-          "11.1 km",
-          "33:24",
-          "127 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20209644020",
-        "name": "Lunch Ride",
-        "date": "September 17, 2026",
-        "distanceKm": 0.6,
-        "stats": [
-          "0.6 km",
-          "2:20",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151227.2
+      "totalWithEstimatesKm": 151234.2
     }
   }
 }

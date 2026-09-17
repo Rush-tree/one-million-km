@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T10:30:42.349Z",
+  "generatedAt": "2026-09-17T11:00:50.808Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 561,
-    "distanceKm": 6453.7,
-    "elevationM": 53222,
-    "movingSeconds": 1858080,
+    "activities": 565,
+    "distanceKm": 6491,
+    "elevationM": 53390,
+    "movingSeconds": 1870440,
     "raw": {
-      "activities": "561",
-      "distance": "6,453.7 km",
-      "time": "516 h 8 m",
-      "elevation": "53,222 m"
+      "activities": "565",
+      "distance": "6,491.0 km",
+      "time": "519 h 34 m",
+      "elevation": "53,390 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Tim Siber",
+      "athleteId": "91630363",
+      "activityId": "20211942585",
+      "name": "Morning Ride",
+      "date": "September 17, 2026",
+      "distanceKm": 11.9,
+      "stats": [
+        "11.9 km",
+        "2:05:04",
+        "55 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -56,29 +69,16 @@
       ]
     },
     {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20210430849",
-      "name": "Morning Walk",
+      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+      "athleteId": "72351185",
+      "activityId": "20211759910",
+      "name": "Afternoon Ride",
       "date": "September 17, 2026",
-      "distanceKm": 2.5,
+      "distanceKm": 0.3,
       "stats": [
-        "2.5 km",
-        "39:05",
-        "11 m"
-      ]
-    },
-    {
-      "athlete": "Hanna Greß",
-      "athleteId": "75797079",
-      "activityId": "20210453602",
-      "name": "Spaziergang am Morgen",
-      "date": "September 17, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "1:16:47",
-        "49 m"
+        "0.3 km",
+        "1:20",
+        "0 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12529.3,
-  "totalDistanceKm": 135537.4,
+  "observedWeeksKm": 12566.6,
+  "totalDistanceKm": 135574.7,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151334.4
+    "totalWithEstimatesKm": 151371.7
   }
 }

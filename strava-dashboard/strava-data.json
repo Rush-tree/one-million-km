@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T06:30:44.538Z",
+  "generatedAt": "2026-09-17T07:00:49.441Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13199,
+  "totalActivities": 13201,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151136100,
-    "totalMovingTime": 43235927,
-    "totalElevation": 1061535.6
+    "totalDistance": 151163000,
+    "totalMovingTime": 43252727,
+    "totalElevation": 1061680.6
   },
   "monthStats": {
-    "totalDistance": 12331000,
-    "totalMovingTime": 3749700,
+    "totalDistance": 12357900,
+    "totalMovingTime": 3766500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6255400,
-    "totalMovingTime": 1797660,
-    "count": 545
+    "totalDistance": 6282300,
+    "totalMovingTime": 1814460,
+    "count": 547
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135339.1,
+    "measuredDistanceKm": 135366,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20209827472",
+        "name": "Morning Run teils mit Basti",
+        "date": "September 17, 2026",
+        "distanceKm": 8.1,
+        "stats": [
+          "8.1 km",
+          "46:13",
+          "11 m"
+        ]
+      },
+      {
         "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
         "athleteId": "51333291",
         "activityId": "20209678064",
-        "name": "Energiegeladen🙃😎🙃 zum Schlado",
+        "name": "Good , good, good good Vibrations🙃😎🙃",
         "date": "September 17, 2026",
         "distanceKm": 11.1,
         "stats": [
@@ -77,19 +90,6 @@
           "4.5 km",
           "15:17",
           "52 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20209282089",
-        "name": "Gravel-Fahrt am Morgen",
-        "date": "September 17, 2026",
-        "distanceKm": 3.6,
-        "stats": [
-          "3.6 km",
-          "12:03",
-          "20 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151136.1
+      "totalWithEstimatesKm": 151163
     }
   }
 }

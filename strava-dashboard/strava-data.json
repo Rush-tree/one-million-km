@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T23:00:47.678Z",
+  "generatedAt": "2026-09-17T23:30:42.259Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13297,
+  "totalActivities": 13298,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 152973900,
-    "totalMovingTime": 43745927,
-    "totalElevation": 1076996.6
+    "totalDistance": 152979000,
+    "totalMovingTime": 43746887,
+    "totalElevation": 1077058.6
   },
   "monthStats": {
-    "totalDistance": 14168800,
-    "totalMovingTime": 4259700,
+    "totalDistance": 14173900,
+    "totalMovingTime": 4260660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8093200,
-    "totalMovingTime": 2307660,
-    "count": 680
+    "totalDistance": 8098300,
+    "totalMovingTime": 2308620,
+    "count": 681
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137176.9,
+    "measuredDistanceKm": 137182,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20220326213",
+        "name": "Pedalada ao entardecer",
+        "date": "September 17, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "19:59",
+          "62 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -93,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Georg Weinig",
-        "athleteId": "166650923",
-        "activityId": "20218019254",
-        "name": "Abendlauf",
-        "date": "September 17, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "1:01:26",
-          "170 m"
-        ]
-      },
-      {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
         "activityId": "20218702759",
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 152973.9
+      "totalWithEstimatesKm": 152979
     }
   }
 }

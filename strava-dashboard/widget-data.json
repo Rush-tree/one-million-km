@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T23:00:47.678Z",
+  "generatedAt": "2026-09-17T23:30:42.259Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 680,
-    "distanceKm": 8093.2,
-    "elevationM": 67063,
-    "movingSeconds": 2307660,
+    "activities": 681,
+    "distanceKm": 8098.3,
+    "elevationM": 67125,
+    "movingSeconds": 2308620,
     "raw": {
-      "activities": "680",
-      "distance": "8,093.2 km",
-      "time": "641 h 1 m",
-      "elevation": "67,063 m"
+      "activities": "681",
+      "distance": "8,098.3 km",
+      "time": "641 h 17 m",
+      "elevation": "67,125 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20220326213",
+      "name": "Pedalada ao entardecer",
+      "date": "September 17, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "19:59",
+        "62 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -56,19 +69,6 @@
       ]
     },
     {
-      "athlete": "Georg Weinig",
-      "athleteId": "166650923",
-      "activityId": "20218019254",
-      "name": "Abendlauf",
-      "date": "September 17, 2026",
-      "distanceKm": 10,
-      "stats": [
-        "10.0 km",
-        "1:01:26",
-        "170 m"
-      ]
-    },
-    {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
       "activityId": "20218702759",
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 14168.8,
-  "totalDistanceKm": 137176.9,
+  "observedWeeksKm": 14173.9,
+  "totalDistanceKm": 137182,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 152973.9
+    "totalWithEstimatesKm": 152979
   }
 }

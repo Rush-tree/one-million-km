@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-17T05:00:52.981Z",
+  "generatedAt": "2026-09-17T05:30:38.985Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 530,
-    "distanceKm": 6176.6,
-    "elevationM": 50309,
-    "movingSeconds": 1765800,
+    "activities": 539,
+    "distanceKm": 6236.5,
+    "elevationM": 51383,
+    "movingSeconds": 1786320,
     "raw": {
-      "activities": "530",
-      "distance": "6,176.6 km",
-      "time": "490 h 30 m",
-      "elevation": "50,309 m"
+      "activities": "539",
+      "distance": "6,236.5 km",
+      "time": "496 h 12 m",
+      "elevation": "51,383 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20209282089",
+      "name": "Gravel-Fahrt am Morgen",
+      "date": "September 17, 2026",
+      "distanceKm": 3.6,
+      "stats": [
+        "3.6 km",
+        "12:03",
+        "20 m"
+      ]
+    },
+    {
+      "athlete": "Ricardo Ferre",
+      "athleteId": "45223374",
+      "activityId": "20209285018",
+      "name": "Morning commute",
+      "date": "September 17, 2026",
+      "distanceKm": 4.2,
+      "stats": [
+        "4.2 km",
+        "13:52",
+        "25 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -30,16 +56,16 @@
       ]
     },
     {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "20208947412",
+      "athlete": "Louis Mwanja",
+      "athleteId": "14992965",
+      "activityId": "20209261813",
       "name": "Morning Run",
       "date": "September 17, 2026",
-      "distanceKm": 3.2,
+      "distanceKm": 8.8,
       "stats": [
-        "3.2 km",
-        "27:19",
-        "53 m"
+        "8.8 km",
+        "1:28:12",
+        "191 m"
       ]
     },
     {
@@ -54,32 +80,6 @@
         "1:00:40",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20208634335",
-      "name": "Morning Activity",
-      "date": "September 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "22:15",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Amit Zadka",
-      "athleteId": "25927820",
-      "activityId": "20208868098",
-      "name": "Morning Run",
-      "date": "September 17, 2026",
-      "distanceKm": 14.5,
-      "stats": [
-        "14.5 km",
-        "1:28:46",
-        "49 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12252.2,
-  "totalDistanceKm": 135260.3,
+  "observedWeeksKm": 12312.1,
+  "totalDistanceKm": 135320.2,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151057.3
+    "totalWithEstimatesKm": 151117.2
   }
 }

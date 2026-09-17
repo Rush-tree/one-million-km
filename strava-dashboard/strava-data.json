@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T02:00:45.964Z",
+  "generatedAt": "2026-09-17T02:30:39.537Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13160,
+  "totalActivities": 13162,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150910200,
-    "totalMovingTime": 43163687,
-    "totalElevation": 1059820.6
+    "totalDistance": 150913100,
+    "totalMovingTime": 43165847,
+    "totalElevation": 1059834.6
   },
   "monthStats": {
-    "totalDistance": 12105100,
-    "totalMovingTime": 3677460,
+    "totalDistance": 12108000,
+    "totalMovingTime": 3679620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6029500,
-    "totalMovingTime": 1725420,
-    "count": 516
+    "totalDistance": 6032400,
+    "totalMovingTime": 1727580,
+    "count": 517
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135113.2,
+    "measuredDistanceKm": 135116.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20208334318",
+        "name": "Morning Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "2:22:30",
+          "14 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -77,19 +90,6 @@
           "0 km",
           "30:39",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20206668705",
-        "name": "Afternoon Walk",
-        "date": "September 16, 2026",
-        "distanceKm": 1.7,
-        "stats": [
-          "1.7 km",
-          "20:46",
-          "4 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150910.2
+      "totalWithEstimatesKm": 150913.1
     }
   }
 }

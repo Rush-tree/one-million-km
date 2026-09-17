@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T12:00:49.274Z",
+  "generatedAt": "2026-09-17T12:30:43.581Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13225,
+  "totalActivities": 13228,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151387100,
-    "totalMovingTime": 43320527,
-    "totalElevation": 1063441.6
+    "totalDistance": 151472000,
+    "totalMovingTime": 43340627,
+    "totalElevation": 1063474.6
   },
   "monthStats": {
-    "totalDistance": 12582000,
-    "totalMovingTime": 3834300,
+    "totalDistance": 12666900,
+    "totalMovingTime": 3854400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6506400,
-    "totalMovingTime": 1882260,
-    "count": 569
+    "totalDistance": 6591300,
+    "totalMovingTime": 1902360,
+    "count": 575
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135590.1,
+    "measuredDistanceKm": 135675,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20212926617",
+        "name": "Afternoon Swim",
+        "date": "September 17, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "33:00",
+          "0 m"
+        ]
+      },
       {
         "athlete": "conny tonder",
         "athleteId": "66434073",
@@ -64,6 +77,19 @@
           "0.9 km",
           "26:06",
           "13 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20213063807",
+        "name": "Lunch Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 6.6,
+        "stats": [
+          "6.6 km",
+          "1:39:49",
+          "20 m"
         ]
       },
       {
@@ -91,32 +117,6 @@
           "2:31:03",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20211942585",
-        "name": "Morning Ride",
-        "date": "September 17, 2026",
-        "distanceKm": 11.9,
-        "stats": [
-          "11.9 km",
-          "2:05:04",
-          "55 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20211759910",
-        "name": "Afternoon Ride",
-        "date": "September 17, 2026",
-        "distanceKm": 0.3,
-        "stats": [
-          "0.3 km",
-          "1:20",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151387.1
+      "totalWithEstimatesKm": 151472
     }
   }
 }

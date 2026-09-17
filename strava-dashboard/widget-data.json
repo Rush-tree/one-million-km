@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T12:00:49.274Z",
+  "generatedAt": "2026-09-17T12:30:43.581Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 569,
-    "distanceKm": 6506.4,
-    "elevationM": 53508,
-    "movingSeconds": 1882260,
+    "activities": 575,
+    "distanceKm": 6591.3,
+    "elevationM": 53541,
+    "movingSeconds": 1902360,
     "raw": {
-      "activities": "569",
-      "distance": "6,506.4 km",
-      "time": "522 h 51 m",
-      "elevation": "53,508 m"
+      "activities": "575",
+      "distance": "6,591.3 km",
+      "time": "528 h 26 m",
+      "elevation": "53,541 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20212926617",
+      "name": "Afternoon Swim",
+      "date": "September 17, 2026",
+      "distanceKm": 1.2,
+      "stats": [
+        "1.2 km",
+        "33:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "conny tonder",
       "athleteId": "66434073",
@@ -27,6 +40,19 @@
         "0.9 km",
         "26:06",
         "13 m"
+      ]
+    },
+    {
+      "athlete": "Alex 3R",
+      "athleteId": "89054684",
+      "activityId": "20213063807",
+      "name": "Lunch Walk",
+      "date": "September 17, 2026",
+      "distanceKm": 6.6,
+      "stats": [
+        "6.6 km",
+        "1:39:49",
+        "20 m"
       ]
     },
     {
@@ -54,32 +80,6 @@
         "2:31:03",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20211942585",
-      "name": "Morning Ride",
-      "date": "September 17, 2026",
-      "distanceKm": 11.9,
-      "stats": [
-        "11.9 km",
-        "2:05:04",
-        "55 m"
-      ]
-    },
-    {
-      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-      "athleteId": "72351185",
-      "activityId": "20211759910",
-      "name": "Afternoon Ride",
-      "date": "September 17, 2026",
-      "distanceKm": 0.3,
-      "stats": [
-        "0.3 km",
-        "1:20",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12582,
-  "totalDistanceKm": 135590.1,
+  "observedWeeksKm": 12666.9,
+  "totalDistanceKm": 135675,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151387.1
+    "totalWithEstimatesKm": 151472
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T07:30:45.769Z",
+  "generatedAt": "2026-09-17T07:52:49.896Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13203,
+  "totalActivities": 13200,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151185100,
-    "totalMovingTime": 43257887,
-    "totalElevation": 1061847.6
+    "totalDistance": 151227200,
+    "totalMovingTime": 43263347,
+    "totalElevation": 1062010.6
   },
   "monthStats": {
-    "totalDistance": 12380000,
-    "totalMovingTime": 3771660,
+    "totalDistance": 12422100,
+    "totalMovingTime": 3777120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6304400,
-    "totalMovingTime": 1819620,
-    "count": 549
+    "totalDistance": 6346500,
+    "totalMovingTime": 1825080,
+    "count": 550
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135388.1,
+    "measuredDistanceKm": 135430.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20210273095",
+        "name": "Zwift - Volcano Flat in Watopia",
+        "date": "September 17, 2026",
+        "distanceKm": 42.1,
+        "stats": [
+          "42.1 km",
+          "1:30:34",
+          "163 m"
+        ]
+      },
       {
         "athlete": "Manfred H",
         "athleteId": "85517467",
@@ -104,19 +117,6 @@
           "2:20",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20209549359",
-        "name": "Morning Ride",
-        "date": "September 17, 2026",
-        "distanceKm": 12.9,
-        "stats": [
-          "12.9 km",
-          "33:34",
-          "62 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151185.1
+      "totalWithEstimatesKm": 151227.2
     }
   }
 }

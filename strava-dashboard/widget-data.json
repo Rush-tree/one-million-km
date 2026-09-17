@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T07:30:45.769Z",
+  "generatedAt": "2026-09-17T07:52:49.896Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 549,
-    "distanceKm": 6304.4,
-    "elevationM": 51914,
-    "movingSeconds": 1819620,
+    "activities": 550,
+    "distanceKm": 6346.5,
+    "elevationM": 52077,
+    "movingSeconds": 1825080,
     "raw": {
-      "activities": "549",
-      "distance": "6,304.4 km",
-      "time": "505 h 27 m",
-      "elevation": "51,914 m"
+      "activities": "550",
+      "distance": "6,346.5 km",
+      "time": "506 h 58 m",
+      "elevation": "52,077 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20210273095",
+      "name": "Zwift - Volcano Flat in Watopia",
+      "date": "September 17, 2026",
+      "distanceKm": 42.1,
+      "stats": [
+        "42.1 km",
+        "1:30:34",
+        "163 m"
+      ]
+    },
     {
       "athlete": "Manfred H",
       "athleteId": "85517467",
@@ -67,19 +80,6 @@
         "2:20",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-      "athleteId": "72351185",
-      "activityId": "20209549359",
-      "name": "Morning Ride",
-      "date": "September 17, 2026",
-      "distanceKm": 12.9,
-      "stats": [
-        "12.9 km",
-        "33:34",
-        "62 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12380,
-  "totalDistanceKm": 135388.1,
+  "observedWeeksKm": 12422.1,
+  "totalDistanceKm": 135430.2,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151185.1
+    "totalWithEstimatesKm": 151227.2
   }
 }

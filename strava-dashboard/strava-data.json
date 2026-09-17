@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T04:00:48.400Z",
+  "generatedAt": "2026-09-17T04:30:39.279Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13160,
+  "totalActivities": 13166,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151047100,
-    "totalMovingTime": 43193507,
-    "totalElevation": 1060119.6
+    "totalDistance": 151050400,
+    "totalMovingTime": 43199567,
+    "totalElevation": 1060172.6
   },
   "monthStats": {
-    "totalDistance": 12242000,
-    "totalMovingTime": 3707280,
+    "totalDistance": 12245300,
+    "totalMovingTime": 3713340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6166400,
-    "totalMovingTime": 1755240,
-    "count": 523
+    "totalDistance": 6169700,
+    "totalMovingTime": 1761300,
+    "count": 526
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135250.1,
+    "measuredDistanceKm": 135253.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20208947412",
+        "name": "Morning Run",
+        "date": "September 17, 2026",
+        "distanceKm": 3.2,
+        "stats": [
+          "3.2 km",
+          "27:19",
+          "53 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20208947625",
+        "name": "Morning Yoga",
+        "date": "September 17, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:00:40",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -77,32 +103,6 @@
           "14.5 km",
           "1:28:46",
           "49 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20208690250",
-        "name": "Morning Walk",
-        "date": "September 17, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "15:07",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20208334318",
-        "name": "Morning Walk",
-        "date": "September 17, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "2:22:30",
-          "14 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151047.1
+      "totalWithEstimatesKm": 151050.4
     }
   }
 }

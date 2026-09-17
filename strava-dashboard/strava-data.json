@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T12:30:43.581Z",
+  "generatedAt": "2026-09-17T13:00:55.969Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13228,
+  "totalActivities": 13234,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151472000,
-    "totalMovingTime": 43340627,
-    "totalElevation": 1063474.6
+    "totalDistance": 151485300,
+    "totalMovingTime": 43344947,
+    "totalElevation": 1063544.6
   },
   "monthStats": {
-    "totalDistance": 12666900,
-    "totalMovingTime": 3854400,
+    "totalDistance": 12680200,
+    "totalMovingTime": 3858720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6591300,
-    "totalMovingTime": 1902360,
-    "count": 575
+    "totalDistance": 6604600,
+    "totalMovingTime": 1906680,
+    "count": 578
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135675,
+    "measuredDistanceKm": 135688.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20213454967",
+        "name": "Afternoon Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "20:27",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -67,16 +80,16 @@
         ]
       },
       {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20212352382",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Rashed Hasan",
+        "athleteId": "1762057357",
+        "activityId": "20212380133",
+        "name": "Lunch Run",
         "date": "September 17, 2026",
-        "distanceKm": 0.9,
+        "distanceKm": 6.9,
         "stats": [
-          "0.9 km",
-          "26:06",
-          "13 m"
+          "6.9 km",
+          "42:10",
+          "51 m"
         ]
       },
       {
@@ -104,19 +117,6 @@
           "2:23:00",
           "105 m"
         ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20212334408",
-        "name": "Camminata mattutina",
-        "date": "September 17, 2026",
-        "distanceKm": 1.4,
-        "stats": [
-          "1.4 km",
-          "2:31:03",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151472
+      "totalWithEstimatesKm": 151485.3
     }
   }
 }

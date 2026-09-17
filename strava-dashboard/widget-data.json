@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T20:00:49.081Z",
+  "generatedAt": "2026-09-17T20:30:42.171Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 673,
-    "distanceKm": 7910.6,
-    "elevationM": 65296,
-    "movingSeconds": 2268660,
+    "activities": 676,
+    "distanceKm": 8079.1,
+    "elevationM": 67012,
+    "movingSeconds": 2300580,
     "raw": {
-      "activities": "673",
-      "distance": "7,910.6 km",
-      "time": "630 h 11 m",
-      "elevation": "65,296 m"
+      "activities": "676",
+      "distance": "8,079.1 km",
+      "time": "639 h 3 m",
+      "elevation": "67,012 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20218953059",
+      "name": "🌛 Night Walk",
+      "date": "September 17, 2026",
+      "distanceKm": 1.1,
+      "stats": [
+        "1.1 km",
+        "13:17",
+        "6 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -33,7 +46,7 @@
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
       "activityId": "20218629679",
-      "name": "Abendlauf",
+      "name": "DL 60 Min. 🏃🏃🏃 …",
       "date": "September 17, 2026",
       "distanceKm": 11.3,
       "stats": [
@@ -56,19 +69,6 @@
       ]
     },
     {
-      "athlete": "Norick Maurer",
-      "athleteId": "107445415",
-      "activityId": "20217893115",
-      "name": "Evening Run",
-      "date": "September 17, 2026",
-      "distanceKm": 13.8,
-      "stats": [
-        "13.8 km",
-        "1:27:56",
-        "218 m"
-      ]
-    },
-    {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
       "activityId": "20218702759",
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 13986.2,
-  "totalDistanceKm": 136994.3,
+  "observedWeeksKm": 14154.7,
+  "totalDistanceKm": 137162.8,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 152791.3
+    "totalWithEstimatesKm": 152959.8
   }
 }

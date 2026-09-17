@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T20:00:49.081Z",
+  "generatedAt": "2026-09-17T20:30:42.171Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13300,
+  "totalActivities": 13290,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 152791300,
-    "totalMovingTime": 43706927,
-    "totalElevation": 1075229.6
+    "totalDistance": 152959800,
+    "totalMovingTime": 43738847,
+    "totalElevation": 1076945.6
   },
   "monthStats": {
-    "totalDistance": 13986200,
-    "totalMovingTime": 4220700,
+    "totalDistance": 14154700,
+    "totalMovingTime": 4252620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7910600,
-    "totalMovingTime": 2268660,
-    "count": 673
+    "totalDistance": 8079100,
+    "totalMovingTime": 2300580,
+    "count": 676
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 136994.3,
+    "measuredDistanceKm": 137162.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20218953059",
+        "name": "🌛 Night Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 1.1,
+        "stats": [
+          "1.1 km",
+          "13:17",
+          "6 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -70,7 +83,7 @@
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
         "activityId": "20218629679",
-        "name": "Abendlauf",
+        "name": "DL 60 Min. 🏃🏃🏃 …",
         "date": "September 17, 2026",
         "distanceKm": 11.3,
         "stats": [
@@ -90,19 +103,6 @@
           "10.0 km",
           "1:01:26",
           "170 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20217893115",
-        "name": "Evening Run",
-        "date": "September 17, 2026",
-        "distanceKm": 13.8,
-        "stats": [
-          "13.8 km",
-          "1:27:56",
-          "218 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 152791.3
+      "totalWithEstimatesKm": 152959.8
     }
   }
 }

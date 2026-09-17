@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T03:00:49.929Z",
+  "generatedAt": "2026-09-17T03:31:03.736Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13159,
+  "totalActivities": 13163,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 150973400,
-    "totalMovingTime": 43176167,
-    "totalElevation": 1060032.6
+    "totalDistance": 150976000,
+    "totalMovingTime": 43178207,
+    "totalElevation": 1060034.6
   },
   "monthStats": {
-    "totalDistance": 12168300,
-    "totalMovingTime": 3689940,
+    "totalDistance": 12170900,
+    "totalMovingTime": 3691980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6092700,
-    "totalMovingTime": 1737900,
-    "count": 519
+    "totalDistance": 6095300,
+    "totalMovingTime": 1739940,
+    "count": 521
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135176.4,
+    "measuredDistanceKm": 135179,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -63,6 +63,32 @@
         "stats": [
           "0 km",
           "22:15",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20208690250",
+        "name": "Morning Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "15:07",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20208766505",
+        "name": "Evening Walk",
+        "date": "September 16, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "22:33",
           "0 m"
         ]
       },
@@ -91,32 +117,6 @@
           "2:22:30",
           "14 m"
         ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20206327691",
-        "name": "Pedalada ao entardecer",
-        "date": "September 16, 2026",
-        "distanceKm": 5.2,
-        "stats": [
-          "5.2 km",
-          "19:18",
-          "79 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20205976018",
-        "name": "Camminata notturna",
-        "date": "September 16, 2026",
-        "distanceKm": 3.4,
-        "stats": [
-          "3.4 km",
-          "2:21:33",
-          "2 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 150973.4
+      "totalWithEstimatesKm": 150976
     }
   }
 }

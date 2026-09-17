@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T13:39:54.600Z",
+  "generatedAt": "2026-09-17T14:00:51.578Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 582,
-    "distanceKm": 6724.4,
-    "elevationM": 54409,
-    "movingSeconds": 1923660,
+    "activities": 585,
+    "distanceKm": 6742.1,
+    "elevationM": 54459,
+    "movingSeconds": 1932240,
     "raw": {
-      "activities": "582",
-      "distance": "6,724.4 km",
-      "time": "534 h 21 m",
-      "elevation": "54,409 m"
+      "activities": "585",
+      "distance": "6,742.1 km",
+      "time": "536 h 44 m",
+      "elevation": "54,459 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20213979108",
+      "name": "Caminhada matinal",
+      "date": "September 17, 2026",
+      "distanceKm": 3.1,
+      "stats": [
+        "3.1 km",
+        "41:02",
+        "21 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -27,6 +40,19 @@
         "2.0 km",
         "20:27",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Brad Miyasato",
+      "athleteId": "53406668",
+      "activityId": "20213985971",
+      "name": "Morning Walk",
+      "date": "September 17, 2026",
+      "distanceKm": 6.4,
+      "stats": [
+        "6.4 km",
+        "55:20",
+        "20 m"
       ]
     },
     {
@@ -43,42 +69,16 @@
       ]
     },
     {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20212926617",
-      "name": "Afternoon Swim",
+      "athlete": "Brad Miyasato",
+      "athleteId": "53406668",
+      "activityId": "20213980229",
+      "name": "Morning Run",
       "date": "September 17, 2026",
-      "distanceKm": 1.2,
+      "distanceKm": 8,
       "stats": [
-        "1.2 km",
-        "33:00",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Alex 3R",
-      "athleteId": "89054684",
-      "activityId": "20213063807",
-      "name": "Lunch Walk",
-      "date": "September 17, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "1:39:49",
-        "20 m"
-      ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20212584511",
-      "name": "Lunch Ride",
-      "date": "September 17, 2026",
-      "distanceKm": 13,
-      "stats": [
-        "13.0 km",
-        "2:23:00",
-        "105 m"
+        "8.0 km",
+        "47:19",
+        "9 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 12800,
-  "totalDistanceKm": 135808.1,
+  "observedWeeksKm": 12817.7,
+  "totalDistanceKm": 135825.8,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 151605.1
+    "totalWithEstimatesKm": 151622.8
   }
 }

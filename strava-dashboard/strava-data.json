@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T13:39:54.600Z",
+  "generatedAt": "2026-09-17T14:00:51.578Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13229,
+  "totalActivities": 13234,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151605100,
-    "totalMovingTime": 43361927,
-    "totalElevation": 1064342.6
+    "totalDistance": 151622800,
+    "totalMovingTime": 43370507,
+    "totalElevation": 1064392.6
   },
   "monthStats": {
-    "totalDistance": 12800000,
-    "totalMovingTime": 3875700,
+    "totalDistance": 12817700,
+    "totalMovingTime": 3884280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6724400,
-    "totalMovingTime": 1923660,
-    "count": 582
+    "totalDistance": 6742100,
+    "totalMovingTime": 1932240,
+    "count": 585
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135808.1,
+    "measuredDistanceKm": 135825.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20213979108",
+        "name": "Caminhada matinal",
+        "date": "September 17, 2026",
+        "distanceKm": 3.1,
+        "stats": [
+          "3.1 km",
+          "41:02",
+          "21 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -64,6 +77,19 @@
           "2.0 km",
           "20:27",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20213985971",
+        "name": "Morning Walk",
+        "date": "September 17, 2026",
+        "distanceKm": 6.4,
+        "stats": [
+          "6.4 km",
+          "55:20",
+          "20 m"
         ]
       },
       {
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20212926617",
-        "name": "Afternoon Swim",
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20213980229",
+        "name": "Morning Run",
         "date": "September 17, 2026",
-        "distanceKm": 1.2,
+        "distanceKm": 8,
         "stats": [
-          "1.2 km",
-          "33:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20213063807",
-        "name": "Lunch Walk",
-        "date": "September 17, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "1:39:49",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20212584511",
-        "name": "Lunch Ride",
-        "date": "September 17, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "2:23:00",
-          "105 m"
+          "8.0 km",
+          "47:19",
+          "9 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151605.1
+      "totalWithEstimatesKm": 151622.8
     }
   }
 }

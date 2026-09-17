@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T19:30:44.858Z",
+  "generatedAt": "2026-09-17T20:00:49.081Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13297,
+  "totalActivities": 13300,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 152757200,
-    "totalMovingTime": 43694627,
-    "totalElevation": 1074890.6
+    "totalDistance": 152791300,
+    "totalMovingTime": 43706927,
+    "totalElevation": 1075229.6
   },
   "monthStats": {
-    "totalDistance": 13952100,
-    "totalMovingTime": 4208400,
+    "totalDistance": 13986200,
+    "totalMovingTime": 4220700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7876500,
-    "totalMovingTime": 2256360,
-    "count": 670
+    "totalDistance": 7910600,
+    "totalMovingTime": 2268660,
+    "count": 673
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 136960.2,
+    "measuredDistanceKm": 136994.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -67,6 +67,19 @@
         ]
       },
       {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20218629679",
+        "name": "Abendlauf",
+        "date": "September 17, 2026",
+        "distanceKm": 11.3,
+        "stats": [
+          "11.3 km",
+          "1:05:45",
+          "202 m"
+        ]
+      },
+      {
         "athlete": "Georg Weinig",
         "athleteId": "166650923",
         "activityId": "20218019254",
@@ -77,19 +90,6 @@
           "10.0 km",
           "1:01:26",
           "170 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20217635693",
-        "name": "Wieczorne bieganie",
-        "date": "September 17, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "44:18",
-          "46 m"
         ]
       },
       {
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20217823227",
-        "name": "Evening Swim",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20218702759",
+        "name": "Lunch Walk",
         "date": "September 17, 2026",
-        "distanceKm": 2.5,
+        "distanceKm": 6.4,
         "stats": [
-          "2.5 km",
-          "1:29:05",
-          "0 m"
+          "6.4 km",
+          "2:52:38",
+          "7 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 152757.2
+      "totalWithEstimatesKm": 152791.3
     }
   }
 }

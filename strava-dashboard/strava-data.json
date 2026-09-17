@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T13:00:55.969Z",
+  "generatedAt": "2026-09-17T13:30:45.494Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13234,
+  "totalActivities": 13229,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 151485300,
-    "totalMovingTime": 43344947,
-    "totalElevation": 1063544.6
+    "totalDistance": 151582400,
+    "totalMovingTime": 43358987,
+    "totalElevation": 1064315.6
   },
   "monthStats": {
-    "totalDistance": 12680200,
-    "totalMovingTime": 3858720,
+    "totalDistance": 12777300,
+    "totalMovingTime": 3872760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6604600,
-    "totalMovingTime": 1906680,
-    "count": 578
+    "totalDistance": 6701700,
+    "totalMovingTime": 1920720,
+    "count": 581
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 135688.3,
+    "measuredDistanceKm": 135785.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -67,6 +67,19 @@
         ]
       },
       {
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "20213635270",
+        "name": "Zwift - Pacer Group Ride with Miguel",
+        "date": "September 17, 2026",
+        "distanceKm": 26.3,
+        "stats": [
+          "26.3 km",
+          "1:01:21",
+          "356 m"
+        ]
+      },
+      {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
         "activityId": "20212926617",
@@ -77,19 +90,6 @@
           "1.2 km",
           "33:00",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Rashed Hasan",
-        "athleteId": "1762057357",
-        "activityId": "20212380133",
-        "name": "Lunch Run",
-        "date": "September 17, 2026",
-        "distanceKm": 6.9,
-        "stats": [
-          "6.9 km",
-          "42:10",
-          "51 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 151485.3
+      "totalWithEstimatesKm": 151582.4
     }
   }
 }

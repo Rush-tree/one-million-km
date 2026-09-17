@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-17T19:00:49.317Z",
+  "generatedAt": "2026-09-17T19:30:44.858Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 666,
-    "distanceKm": 7807.1,
-    "elevationM": 64654,
-    "movingSeconds": 2244120,
+    "activities": 670,
+    "distanceKm": 7876.5,
+    "elevationM": 64957,
+    "movingSeconds": 2256360,
     "raw": {
-      "activities": "666",
-      "distance": "7,807.1 km",
-      "time": "623 h 22 m",
-      "elevation": "64,654 m"
+      "activities": "670",
+      "distance": "7,876.5 km",
+      "time": "626 h 46 m",
+      "elevation": "64,957 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20218166895",
+      "name": "Abendradfahrt",
+      "date": "September 17, 2026",
+      "distanceKm": 4.7,
+      "stats": [
+        "4.7 km",
+        "12:51",
+        "24 m"
+      ]
+    },
     {
       "athlete": "Georg Weinig",
       "athleteId": "166650923",
@@ -56,19 +69,6 @@
       ]
     },
     {
-      "athlete": "Manfred H",
-      "athleteId": "85517467",
-      "activityId": "20217517057",
-      "name": "Evening Weight Training",
-      "date": "September 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:09:37",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Nico Hoßfeld",
       "athleteId": "177308499",
       "activityId": "20217823227",
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 13882.7,
-  "totalDistanceKm": 136890.8,
+  "observedWeeksKm": 13952.1,
+  "totalDistanceKm": 136960.2,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 152687.8
+    "totalWithEstimatesKm": 152757.2
   }
 }

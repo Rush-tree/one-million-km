@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T19:00:49.317Z",
+  "generatedAt": "2026-09-17T19:30:44.858Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13296,
+  "totalActivities": 13297,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 152687800,
-    "totalMovingTime": 43682387,
-    "totalElevation": 1074587.6
+    "totalDistance": 152757200,
+    "totalMovingTime": 43694627,
+    "totalElevation": 1074890.6
   },
   "monthStats": {
-    "totalDistance": 13882700,
-    "totalMovingTime": 4196160,
+    "totalDistance": 13952100,
+    "totalMovingTime": 4208400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7807100,
-    "totalMovingTime": 2244120,
-    "count": 666
+    "totalDistance": 7876500,
+    "totalMovingTime": 2256360,
+    "count": 670
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 136890.8,
+    "measuredDistanceKm": 136960.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20218166895",
+        "name": "Abendradfahrt",
+        "date": "September 17, 2026",
+        "distanceKm": 4.7,
+        "stats": [
+          "4.7 km",
+          "12:51",
+          "24 m"
+        ]
+      },
       {
         "athlete": "Georg Weinig",
         "athleteId": "166650923",
@@ -93,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20217517057",
-        "name": "Evening Weight Training",
-        "date": "September 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:09:37",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Nico Hoßfeld",
         "athleteId": "177308499",
         "activityId": "20217823227",
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 152687.8
+      "totalWithEstimatesKm": 152757.2
     }
   }
 }

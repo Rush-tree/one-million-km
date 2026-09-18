@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T15:30:43.155Z",
+  "generatedAt": "2026-09-18T16:00:52.646Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13401,
+  "totalActivities": 13406,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 154424900,
-    "totalMovingTime": 44143727,
-    "totalElevation": 1089518.6
+    "totalDistance": 154519800,
+    "totalMovingTime": 44164247,
+    "totalElevation": 1089993.6
   },
   "monthStats": {
-    "totalDistance": 15619800,
-    "totalMovingTime": 4657500,
+    "totalDistance": 15714700,
+    "totalMovingTime": 4678020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9544200,
-    "totalMovingTime": 2705460,
-    "count": 797
+    "totalDistance": 9639100,
+    "totalMovingTime": 2725980,
+    "count": 804
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 138627.9,
+    "measuredDistanceKm": 138722.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20228790472",
+        "name": "Afternoon Walk",
+        "date": "September 18, 2026",
+        "distanceKm": 3.4,
+        "stats": [
+          "3.4 km",
+          "50:31",
+          "22 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20228798197",
+        "name": "Zwift - Pacer Group Ride with Maria",
+        "date": "September 18, 2026",
+        "distanceKm": 43.1,
+        "stats": [
+          "43.1 km",
+          "1:10:05",
+          "65 m"
+        ]
+      },
       {
         "athlete": "Werner Hunold",
         "athleteId": "372952540",
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20228172256",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20228656018",
+        "name": "Wochenende",
         "date": "September 18, 2026",
-        "distanceKm": 13.9,
+        "distanceKm": 42.7,
         "stats": [
-          "13.9 km",
-          "45:51",
-          "133 m"
-        ]
-      },
-      {
-        "athlete": "Roland Baumann",
-        "athleteId": "87457914",
-        "activityId": "20228149625",
-        "name": "Spaziergang am Nachmittag",
-        "date": "September 18, 2026",
-        "distanceKm": 2.3,
-        "stats": [
-          "2.3 km",
-          "58:44",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20228316027",
-        "name": "Lauf am Nachmittag",
-        "date": "September 18, 2026",
-        "distanceKm": 12.7,
-        "stats": [
-          "12.7 km",
-          "1:15:58",
-          "50 m"
+          "42.7 km",
+          "1:32:02",
+          "347 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 154424.9
+      "totalWithEstimatesKm": 154519.8
     }
   }
 }

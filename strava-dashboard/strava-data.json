@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T08:30:40.545Z",
+  "generatedAt": "2026-09-18T09:00:54.546Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13360,
+  "totalActivities": 13364,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153284900,
-    "totalMovingTime": 43865507,
-    "totalElevation": 1079227.6
+    "totalDistance": 153287400,
+    "totalMovingTime": 43869407,
+    "totalElevation": 1079254.6
   },
   "monthStats": {
-    "totalDistance": 14479800,
-    "totalMovingTime": 4379280,
+    "totalDistance": 14482300,
+    "totalMovingTime": 4383180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8404200,
-    "totalMovingTime": 2427240,
-    "count": 725
+    "totalDistance": 8406700,
+    "totalMovingTime": 2431140,
+    "count": 727
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137487.9,
+    "measuredDistanceKm": 137490.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20224052163",
+        "name": "Gewichtstraining am Morgen",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:36",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Alfonso Contreras Calderón",
         "athleteId": "123434994",
@@ -80,29 +93,16 @@
         ]
       },
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20223034376",
-        "name": "Spaziergang am Morgen",
-        "date": "September 18, 2026",
-        "distanceKm": 4.5,
-        "stats": [
-          "4.5 km",
-          "55:28",
-          "68 m"
-        ]
-      },
-      {
         "athlete": "siavash Akbari",
         "athleteId": "56213794",
         "activityId": "20223557538",
-        "name": "Trail run",
+        "name": "Trail Running- September 2026 - Shemshak Dizin Peak 🌞🏔🕊",
         "date": "September 18, 2026",
         "distanceKm": 17,
         "stats": [
           "17.0 km",
           "3:52:16",
-          "603 m"
+          "607 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153284.9
+      "totalWithEstimatesKm": 153287.4
     }
   }
 }

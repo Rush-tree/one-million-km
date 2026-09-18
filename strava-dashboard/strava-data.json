@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T10:00:51.600Z",
+  "generatedAt": "2026-09-18T10:30:40.294Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13373,
+  "totalActivities": 13377,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153324000,
-    "totalMovingTime": 43887047,
-    "totalElevation": 1079472.6
+    "totalDistance": 153325500,
+    "totalMovingTime": 43891487,
+    "totalElevation": 1079482.6
   },
   "monthStats": {
-    "totalDistance": 14518900,
-    "totalMovingTime": 4400820,
+    "totalDistance": 14520400,
+    "totalMovingTime": 4405260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8443300,
-    "totalMovingTime": 2448780,
-    "count": 733
+    "totalDistance": 8444800,
+    "totalMovingTime": 2453220,
+    "count": 735
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137527,
+    "measuredDistanceKm": 137528.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20224944190",
+        "name": "Öğleden Sonra Yürüyüş",
+        "date": "September 18, 2026",
+        "distanceKm": 1.4,
+        "stats": [
+          "1.4 km",
+          "18:18",
+          "10 m"
+        ]
+      },
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20224820642",
+        "name": "Afternoon Walk",
+        "date": "September 18, 2026",
+        "distanceKm": 10.5,
+        "stats": [
+          "10.5 km",
+          "47:37",
+          "71 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20224788729",
+        "name": "Workout zur Mittagszeit",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "58:00",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -78,45 +117,6 @@
           "1:16:36",
           "74 m"
         ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20224052163",
-        "name": "Gewichtstraining am Morgen",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "31:36",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20224280376",
-        "name": "Morning Workout",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:00:05",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20224218592",
-        "name": "Morning Run",
-        "date": "September 18, 2026",
-        "distanceKm": 26,
-        "stats": [
-          "26.0 km",
-          "2:00:10",
-          "109 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153324
+      "totalWithEstimatesKm": 153325.5
     }
   }
 }

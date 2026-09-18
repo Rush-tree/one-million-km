@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-18T23:00:51.046Z",
+  "generatedAt": "2026-09-18T23:30:38.982Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 860,
-    "distanceKm": 10321,
-    "elevationM": 87499,
-    "movingSeconds": 2946960,
+    "activities": 861,
+    "distanceKm": 10322,
+    "elevationM": 87509,
+    "movingSeconds": 2948340,
     "raw": {
-      "activities": "860",
-      "distance": "10,321.0 km",
-      "time": "818 h 36 m",
-      "elevation": "87,499 m"
+      "activities": "861",
+      "distance": "10,322.0 km",
+      "time": "818 h 59 m",
+      "elevation": "87,509 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20232811702",
+      "name": "Pedalada ao entardecer",
+      "date": "September 18, 2026",
+      "distanceKm": 0.9,
+      "stats": [
+        "0.9 km",
+        "44:45",
+        "9 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -27,19 +40,6 @@
         "4.0 km",
         "1:22:37",
         "3 m"
-      ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20231454920",
-      "name": "Evening Weight Training",
-      "date": "September 18, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:15:16",
-        "0 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 16396.6,
-  "totalDistanceKm": 139404.7,
+  "observedWeeksKm": 16397.6,
+  "totalDistanceKm": 139405.7,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 155201.7
+    "totalWithEstimatesKm": 155202.7
   }
 }

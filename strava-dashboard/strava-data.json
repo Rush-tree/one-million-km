@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T06:11:11.297Z",
+  "generatedAt": "2026-09-18T06:30:41.150Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13345,
+  "totalActivities": 13349,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153209800,
-    "totalMovingTime": 43826387,
-    "totalElevation": 1078313.6
+    "totalDistance": 153250400,
+    "totalMovingTime": 43836647,
+    "totalElevation": 1078471.6
   },
   "monthStats": {
-    "totalDistance": 14404700,
-    "totalMovingTime": 4340160,
+    "totalDistance": 14445300,
+    "totalMovingTime": 4350420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8329100,
-    "totalMovingTime": 2388120,
-    "count": 714
+    "totalDistance": 8369700,
+    "totalMovingTime": 2398380,
+    "count": 718
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137412.8,
+    "measuredDistanceKm": 137453.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20223041557",
+        "name": "Sykkeltur om morgenen",
+        "date": "September 18, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "19:23",
+          "51 m"
+        ]
+      },
+      {
+        "athlete": "David Frerichs",
+        "athleteId": "41924749",
+        "activityId": "20223085062",
+        "name": "Lauf am Morgen",
+        "date": "September 18, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "58:14",
+          "14 m"
+        ]
+      },
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20223034376",
+        "name": "Spaziergang am Morgen",
+        "date": "September 18, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "55:28",
+          "68 m"
+        ]
+      },
       {
         "athlete": "Lara WSM",
         "athleteId": "143255915",
@@ -67,55 +106,16 @@
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20222703252",
-        "name": "Gravel-Fahrt am Morgen",
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "20223071293",
+        "name": "Morgenausfahrt",
         "date": "September 18, 2026",
-        "distanceKm": 3.6,
+        "distanceKm": 21.6,
         "stats": [
-          "3.6 km",
-          "10:46",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20222701775",
-        "name": "Morning Walk",
-        "date": "September 18, 2026",
-        "distanceKm": 0.8,
-        "stats": [
-          "0.8 km",
-          "12:11",
-          "34 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20222695772",
-        "name": "Yoga am Morgen",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "15:04",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20222989123",
-        "name": "Spaziergang am Morgen",
-        "date": "September 18, 2026",
-        "distanceKm": 2.8,
-        "stats": [
-          "2.8 km",
-          "28:47",
-          "51 m"
+          "21.6 km",
+          "50:22",
+          "25 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153209.8
+      "totalWithEstimatesKm": 153250.4
     }
   }
 }

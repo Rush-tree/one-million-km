@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T16:35:53.736Z",
+  "generatedAt": "2026-09-18T17:00:54.685Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13413,
+  "totalActivities": 13421,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 154901700,
-    "totalMovingTime": 44257847,
-    "totalElevation": 1094021.6
+    "totalDistance": 154961800,
+    "totalMovingTime": 44278727,
+    "totalElevation": 1095265.6
   },
   "monthStats": {
-    "totalDistance": 16096600,
-    "totalMovingTime": 4771620,
+    "totalDistance": 16156700,
+    "totalMovingTime": 4792500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10021000,
-    "totalMovingTime": 2819580,
-    "count": 824
+    "totalDistance": 10081100,
+    "totalMovingTime": 2840460,
+    "count": 831
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,42 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139104.7,
+    "measuredDistanceKm": 139164.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20229498062",
+        "name": "Afternoon E-Bike Ride",
+        "date": "September 18, 2026",
+        "distanceKm": 3.3,
+        "stats": [
+          "3.3 km",
+          "18:27",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20229458244",
+        "name": "Evening Run",
+        "date": "September 18, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "33:19",
+          "11 m"
+        ]
+      },
+      {
         "athlete": "Julian Klaas",
         "athleteId": "157058434",
         "activityId": "20229359074",
-        "name": "Lauf am Nachmittag",
+        "name": "Tapering / Beine vertreten",
         "date": "September 18, 2026",
         "distanceKm": 7.2,
         "stats": [
@@ -91,32 +117,6 @@
           "1:20:24",
           "112 m"
         ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20229106638",
-        "name": "Gravel-Fahrt am Nachmittag",
-        "date": "September 18, 2026",
-        "distanceKm": 58.6,
-        "stats": [
-          "58.6 km",
-          "2:58:59",
-          "172 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20229056213",
-        "name": "TRC RUN",
-        "date": "September 18, 2026",
-        "distanceKm": 6.8,
-        "stats": [
-          "6.8 km",
-          "39:50",
-          "32 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 154901.7
+      "totalWithEstimatesKm": 154961.8
     }
   }
 }

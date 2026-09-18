@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T03:00:50.138Z",
+  "generatedAt": "2026-09-18T03:30:39.019Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13296,
+  "totalActivities": 13300,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153046100,
-    "totalMovingTime": 43757747,
-    "totalElevation": 1077065.6
+    "totalDistance": 153046500,
+    "totalMovingTime": 43760867,
+    "totalElevation": 1077066.6
   },
   "monthStats": {
-    "totalDistance": 14241000,
-    "totalMovingTime": 4271520,
+    "totalDistance": 14241400,
+    "totalMovingTime": 4274640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8165400,
-    "totalMovingTime": 2319480,
-    "count": 683
+    "totalDistance": 8165800,
+    "totalMovingTime": 2322600,
+    "count": 685
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137249.1,
+    "measuredDistanceKm": 137249.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -56,8 +56,33 @@
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
+        "activityId": "20222107589",
+        "name": "☀️ MyWhoosh - Downtown LA",
+        "date": "September 18, 2026",
+        "distanceKm": 0.4,
+        "stats": [
+          "0.4 km",
+          "1 m"
+        ]
+      },
+      {
+        "athlete": "Josué González",
+        "athleteId": "178408867",
+        "activityId": "20222213957",
+        "name": "Evening Weight Training",
+        "date": "September 17, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "51:59",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
         "activityId": "20222100367",
-        "name": "MyWhoosh - Kaido Circuit",
+        "name": "🌥️ MyWhoosh - Kaido Circuit",
         "date": "September 18, 2026",
         "distanceKm": 67.1,
         "stats": [
@@ -91,32 +116,6 @@
           "33:04",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20218953059",
-        "name": "🌛 Night Walk",
-        "date": "September 17, 2026",
-        "distanceKm": 1.1,
-        "stats": [
-          "1.1 km",
-          "13:17",
-          "6 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20218702759",
-        "name": "Lunch Walk",
-        "date": "September 17, 2026",
-        "distanceKm": 6.4,
-        "stats": [
-          "6.4 km",
-          "2:52:38",
-          "7 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +136,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153046.1
+      "totalWithEstimatesKm": 153046.5
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T09:00:54.546Z",
+  "generatedAt": "2026-09-18T09:30:41.332Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13364,
+  "totalActivities": 13370,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153287400,
-    "totalMovingTime": 43869407,
-    "totalElevation": 1079254.6
+    "totalDistance": 153318600,
+    "totalMovingTime": 43881947,
+    "totalElevation": 1079398.6
   },
   "monthStats": {
-    "totalDistance": 14482300,
-    "totalMovingTime": 4383180,
+    "totalDistance": 14513500,
+    "totalMovingTime": 4395720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8406700,
-    "totalMovingTime": 2431140,
-    "count": 727
+    "totalDistance": 8437900,
+    "totalMovingTime": 2443680,
+    "count": 731
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137490.4,
+    "measuredDistanceKm": 137521.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20224284540",
+        "name": "Morning Walk",
+        "date": "September 18, 2026",
+        "distanceKm": 3.3,
+        "stats": [
+          "3.3 km",
+          "40:43",
+          "17 m"
+        ]
+      },
       {
         "athlete": "Nico Deckarm",
         "athleteId": "74766538",
@@ -63,6 +76,19 @@
         "stats": [
           "0 km",
           "31:36",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20224280376",
+        "name": "Morning Workout",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:00:05",
           "0 m"
         ]
       },
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "David Frerichs",
-        "athleteId": "41924749",
-        "activityId": "20223085062",
-        "name": "Lauf am Morgen",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20224218592",
+        "name": "Morning Run",
         "date": "September 18, 2026",
-        "distanceKm": 10,
+        "distanceKm": 26,
         "stats": [
-          "10.0 km",
-          "58:14",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20223557538",
-        "name": "Trail Running- September 2026 - Shemshak Dizin Peak 🌞🏔🕊",
-        "date": "September 18, 2026",
-        "distanceKm": 17,
-        "stats": [
-          "17.0 km",
-          "3:52:16",
-          "607 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20223071293",
-        "name": "Arbeitsweg+ SHW",
-        "date": "September 18, 2026",
-        "distanceKm": 21.5,
-        "stats": [
-          "21.5 km",
-          "50:22",
-          "25 m"
+          "26.0 km",
+          "2:00:10",
+          "109 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153287.4
+      "totalWithEstimatesKm": 153318.6
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-18T20:30:40.676Z",
+  "generatedAt": "2026-09-18T21:00:55.947Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 852,
-    "distanceKm": 10297.9,
-    "elevationM": 86567,
-    "movingSeconds": 2914860,
+    "activities": 856,
+    "distanceKm": 10303.9,
+    "elevationM": 86579,
+    "movingSeconds": 2928420,
     "raw": {
-      "activities": "852",
-      "distance": "10,297.9 km",
-      "time": "809 h 41 m",
-      "elevation": "86,567 m"
+      "activities": "856",
+      "distance": "10,303.9 km",
+      "time": "813 h 27 m",
+      "elevation": "86,579 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20231805323",
+      "name": "Afternoon Walk",
+      "date": "September 18, 2026",
+      "distanceKm": 4,
+      "stats": [
+        "4.0 km",
+        "1:22:37",
+        "3 m"
+      ]
+    },
     {
       "athlete": "Tim Siber",
       "athleteId": "91630363",
@@ -43,32 +56,6 @@
       ]
     },
     {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20231044832",
-      "name": "Gece Yürüyüş",
-      "date": "September 18, 2026",
-      "distanceKm": 1.7,
-      "stats": [
-        "1.7 km",
-        "24:24",
-        "12 m"
-      ]
-    },
-    {
-      "athlete": "Britta Prasse",
-      "athleteId": "200634990",
-      "activityId": "20230982390",
-      "name": "6,5km Zone || + 3km Tempo",
-      "date": "September 18, 2026",
-      "distanceKm": 9.8,
-      "stats": [
-        "9.8 km",
-        "1:11:31",
-        "89 m"
-      ]
-    },
-    {
       "athlete": "Ricardo Ferre",
       "athleteId": "45223374",
       "activityId": "20231129237",
@@ -80,6 +67,19 @@
         "2:26:04",
         "43 m"
       ]
+    },
+    {
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "20231755583",
+      "name": "Spaziergang am Nachmittag",
+      "date": "September 18, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "6:43:40",
+        "5 m"
+      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 16373.5,
-  "totalDistanceKm": 139381.6,
+  "observedWeeksKm": 16379.5,
+  "totalDistanceKm": 139387.6,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 155178.6
+    "totalWithEstimatesKm": 155184.6
   }
 }

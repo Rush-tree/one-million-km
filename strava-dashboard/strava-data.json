@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T16:30:42.012Z",
+  "generatedAt": "2026-09-18T16:35:53.736Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13411,
+  "totalActivities": 13413,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 154880600,
-    "totalMovingTime": 44250707,
-    "totalElevation": 1093832.6
+    "totalDistance": 154901700,
+    "totalMovingTime": 44257847,
+    "totalElevation": 1094021.6
   },
   "monthStats": {
-    "totalDistance": 16075500,
-    "totalMovingTime": 4764480,
+    "totalDistance": 16096600,
+    "totalMovingTime": 4771620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9999900,
-    "totalMovingTime": 2812440,
-    "count": 822
+    "totalDistance": 10021000,
+    "totalMovingTime": 2819580,
+    "count": 824
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,35 +48,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139083.6,
+    "measuredDistanceKm": 139104.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20228960911",
-        "name": "Afternoon Weight Training",
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20229359074",
+        "name": "Lauf am Nachmittag",
         "date": "September 18, 2026",
-        "distanceKm": 0,
+        "distanceKm": 7.2,
         "stats": [
-          "0 km",
-          "23:40",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20229029372",
-        "name": "Afternoon Run",
-        "date": "September 18, 2026",
-        "distanceKm": 6.4,
-        "stats": [
-          "6.4 km",
-          "32:41",
-          "60 m"
+          "7.2 km",
+          "51:34",
+          "77 m"
         ]
       },
       {
@@ -90,6 +77,19 @@
           "32.0 km",
           "54:54",
           "52 m"
+        ]
+      },
+      {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20229344141",
+        "name": "Afternoon Run",
+        "date": "September 18, 2026",
+        "distanceKm": 13.8,
+        "stats": [
+          "13.8 km",
+          "1:20:24",
+          "112 m"
         ]
       },
       {
@@ -109,7 +109,7 @@
         "athlete": "Nico Hoßfeld",
         "athleteId": "177308499",
         "activityId": "20229056213",
-        "name": "Lauf am Nachmittag",
+        "name": "TRC RUN",
         "date": "September 18, 2026",
         "distanceKm": 6.8,
         "stats": [
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 154880.6
+      "totalWithEstimatesKm": 154901.7
     }
   }
 }

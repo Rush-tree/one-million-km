@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T15:00:54.733Z",
+  "generatedAt": "2026-09-18T15:30:43.155Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13400,
+  "totalActivities": 13401,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 154362400,
-    "totalMovingTime": 44129567,
-    "totalElevation": 1089232.6
+    "totalDistance": 154424900,
+    "totalMovingTime": 44143727,
+    "totalElevation": 1089518.6
   },
   "monthStats": {
-    "totalDistance": 15557300,
-    "totalMovingTime": 4643340,
+    "totalDistance": 15619800,
+    "totalMovingTime": 4657500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9481700,
-    "totalMovingTime": 2691300,
-    "count": 794
+    "totalDistance": 9544200,
+    "totalMovingTime": 2705460,
+    "count": 797
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,21 +48,34 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 138565.4,
+    "measuredDistanceKm": 138627.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20228119051",
-        "name": "Afternoon Swim",
+        "athlete": "Werner Hunold",
+        "athleteId": "372952540",
+        "activityId": "20228514660",
+        "name": "Back on track",
         "date": "September 18, 2026",
-        "distanceKm": 1.2,
+        "distanceKm": 7,
         "stats": [
-          "1.2 km",
-          "34:51",
+          "7.0 km",
+          "42:37",
+          "32 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20228429944",
+        "name": "Afternoon Workout",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:02:05",
           "0 m"
         ]
       },
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20228117387",
-        "name": "Afternoon Run",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20228316027",
+        "name": "Lauf am Nachmittag",
         "date": "September 18, 2026",
-        "distanceKm": 16.1,
+        "distanceKm": 12.7,
         "stats": [
-          "16.1 km",
-          "1:37:22",
-          "172 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20228038597",
-        "name": "Fahrt am Nachmittag",
-        "date": "September 18, 2026",
-        "distanceKm": 17.9,
-        "stats": [
-          "17.9 km",
-          "1:04:35",
-          "25 m"
+          "12.7 km",
+          "1:15:58",
+          "50 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 154362.4
+      "totalWithEstimatesKm": 154424.9
     }
   }
 }

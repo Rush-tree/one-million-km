@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-18T05:30:43.788Z",
+  "generatedAt": "2026-09-18T06:00:50.820Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 707,
-    "distanceKm": 8303.9,
-    "elevationM": 68217,
-    "movingSeconds": 2373000,
+    "activities": 712,
+    "distanceKm": 8326.3,
+    "elevationM": 68329,
+    "movingSeconds": 2384520,
     "raw": {
-      "activities": "707",
-      "distance": "8,303.9 km",
-      "time": "659 h 10 m",
-      "elevation": "68,217 m"
+      "activities": "712",
+      "distance": "8,326.3 km",
+      "time": "662 h 22 m",
+      "elevation": "68,329 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Lara WSM",
+      "athleteId": "143255915",
+      "activityId": "20222856007",
+      "name": "Sunrise Yoga 🌓🌤️",
+      "date": "September 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "31:20",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -67,19 +80,6 @@
         "11:55",
         "3 m"
       ]
-    },
-    {
-      "athlete": "Silvio Lazzarin",
-      "athleteId": "139275594",
-      "activityId": "20222509777",
-      "name": "Corsa mattutina",
-      "date": "September 18, 2026",
-      "distanceKm": 12.7,
-      "stats": [
-        "12.7 km",
-        "59:55",
-        "16 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 14379.5,
-  "totalDistanceKm": 137387.6,
+  "observedWeeksKm": 14401.9,
+  "totalDistanceKm": 137410,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 153184.6
+    "totalWithEstimatesKm": 153207
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T09:30:41.332Z",
+  "generatedAt": "2026-09-18T10:00:51.600Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13370,
+  "totalActivities": 13373,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153318600,
-    "totalMovingTime": 43881947,
-    "totalElevation": 1079398.6
+    "totalDistance": 153324000,
+    "totalMovingTime": 43887047,
+    "totalElevation": 1079472.6
   },
   "monthStats": {
-    "totalDistance": 14513500,
-    "totalMovingTime": 4395720,
+    "totalDistance": 14518900,
+    "totalMovingTime": 4400820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8437900,
-    "totalMovingTime": 2443680,
-    "count": 731
+    "totalDistance": 8443300,
+    "totalMovingTime": 2448780,
+    "count": 733
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137521.6,
+    "measuredDistanceKm": 137527,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "3.3 km",
           "40:43",
           "17 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20224450860",
+        "name": "Morning Walk",
+        "date": "September 18, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "1:16:36",
+          "74 m"
         ]
       },
       {
@@ -89,19 +102,6 @@
         "stats": [
           "0 km",
           "1:00:05",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20223772220",
-        "name": "Entrenamiento con pesas matutino",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "34:47",
           "0 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153318.6
+      "totalWithEstimatesKm": 153324
     }
   }
 }

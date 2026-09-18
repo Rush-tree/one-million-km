@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T04:30:40.356Z",
+  "generatedAt": "2026-09-18T05:00:49.098Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13305,
+  "totalActivities": 13311,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153083100,
-    "totalMovingTime": 43769387,
-    "totalElevation": 1077182.6
+    "totalDistance": 153130200,
+    "totalMovingTime": 43784387,
+    "totalElevation": 1077279.6
   },
   "monthStats": {
-    "totalDistance": 14278000,
-    "totalMovingTime": 4283160,
+    "totalDistance": 14325100,
+    "totalMovingTime": 4298160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8202400,
-    "totalMovingTime": 2331120,
-    "count": 689
+    "totalDistance": 8249500,
+    "totalMovingTime": 2346120,
+    "count": 694
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137286.1,
+    "measuredDistanceKm": 137333.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -69,52 +69,53 @@
       {
         "athlete": "Silvio Lazzarin",
         "athleteId": "139275594",
-        "activityId": "20222234861",
-        "name": "Allenamento con i pesi mattutino",
+        "activityId": "20222509777",
+        "name": "Corsa mattutina",
+        "date": "September 18, 2026",
+        "distanceKm": 12.7,
+        "stats": [
+          "12.7 km",
+          "59:55",
+          "16 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20222520263",
+        "name": "Gewichtstraining am Morgen",
         "date": "September 18, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "17:58",
+          "35:17",
           "0 m"
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20222107589",
-        "name": "☀️ MyWhoosh - Downtown LA",
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20222524729",
+        "name": "Fahrt am Morgen",
         "date": "September 18, 2026",
-        "distanceKm": 0.4,
+        "distanceKm": 14.4,
         "stats": [
-          "0.4 km",
-          "1 m"
+          "14.4 km",
+          "1:30:45",
+          "45 m"
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20222342347",
-        "name": "Morning Activity",
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20222519885",
+        "name": "Morning Run",
         "date": "September 18, 2026",
-        "distanceKm": 0,
+        "distanceKm": 15.1,
         "stats": [
-          "0 km",
-          "22:40",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Josué González",
-        "athleteId": "178408867",
-        "activityId": "20222213957",
-        "name": "OTF UPPER BODY WEIGHTS WORKOUT 🏋️‍♂️",
-        "date": "September 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "51:59",
-          "0 m"
+          "15.1 km",
+          "1:29:11",
+          "36 m"
         ]
       }
     ],
@@ -136,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153083.1
+      "totalWithEstimatesKm": 153130.2
     }
   }
 }

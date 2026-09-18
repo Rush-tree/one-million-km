@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T18:00:56.577Z",
+  "generatedAt": "2026-09-18T19:30:42.315Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13433,
+  "totalActivities": 13440,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155007400,
-    "totalMovingTime": 44299427,
-    "totalElevation": 1095552.6
+    "totalDistance": 155093800,
+    "totalMovingTime": 44326127,
+    "totalElevation": 1095723.6
   },
   "monthStats": {
-    "totalDistance": 16202300,
-    "totalMovingTime": 4813200,
+    "totalDistance": 16288700,
+    "totalMovingTime": 4839900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10126700,
-    "totalMovingTime": 2861160,
-    "count": 839
+    "totalDistance": 10213100,
+    "totalMovingTime": 2887860,
+    "count": 846
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139210.4,
+    "measuredDistanceKm": 139296.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -56,14 +56,40 @@
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
-        "activityId": "20229999868",
-        "name": "Akşam Yürüyüş",
+        "activityId": "20231044832",
+        "name": "Gece Yürüyüş",
         "date": "September 18, 2026",
         "distanceKm": 1.7,
         "stats": [
           "1.7 km",
-          "20:21",
-          "5 m"
+          "24:24",
+          "12 m"
+        ]
+      },
+      {
+        "athlete": "Britta Prasse",
+        "athleteId": "200634990",
+        "activityId": "20230982390",
+        "name": "6,5km Zone || + 3km Tempo",
+        "date": "September 18, 2026",
+        "distanceKm": 9.8,
+        "stats": [
+          "9.8 km",
+          "1:11:31",
+          "89 m"
+        ]
+      },
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20230484829",
+        "name": "Evening Swim",
+        "date": "September 18, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "52:07",
+          "0 m"
         ]
       },
       {
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20229498062",
-        "name": "Afternoon E-Bike Ride",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20231129237",
+        "name": "Abendspaziergang",
         "date": "September 18, 2026",
-        "distanceKm": 3.3,
+        "distanceKm": 4.3,
         "stats": [
-          "3.3 km",
-          "18:27",
-          "33 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20229974982",
-        "name": "10K 🏃‍♂️Evening Run",
-        "date": "September 18, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "54:54",
-          "28 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20229966680",
-        "name": "Wieczorny trening siłowy",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:13:28",
-          "0 m"
+          "4.3 km",
+          "2:26:04",
+          "43 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155007.4
+      "totalWithEstimatesKm": 155093.8
     }
   }
 }

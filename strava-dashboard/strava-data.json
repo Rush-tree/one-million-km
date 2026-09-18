@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T10:30:40.294Z",
+  "generatedAt": "2026-09-18T11:00:51.705Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13377,
+  "totalActivities": 13376,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153325500,
-    "totalMovingTime": 43891487,
-    "totalElevation": 1079482.6
+    "totalDistance": 153426700,
+    "totalMovingTime": 43909067,
+    "totalElevation": 1080244.6
   },
   "monthStats": {
-    "totalDistance": 14520400,
-    "totalMovingTime": 4405260,
+    "totalDistance": 14621600,
+    "totalMovingTime": 4422840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8444800,
-    "totalMovingTime": 2453220,
-    "count": 735
+    "totalDistance": 8546000,
+    "totalMovingTime": 2470800,
+    "count": 739
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137528.5,
+    "measuredDistanceKm": 137629.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20225199470",
+        "name": "Mittagspaziergang",
+        "date": "September 18, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "29:34",
+          "5 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20224284540",
-        "name": "Morning Walk",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20225368095",
+        "name": "Ciclismo mattutino",
         "date": "September 18, 2026",
-        "distanceKm": 3.3,
+        "distanceKm": 42.2,
         "stats": [
-          "3.3 km",
-          "40:43",
-          "17 m"
-        ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20224450860",
-        "name": "Morning Walk",
-        "date": "September 18, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "1:16:36",
-          "74 m"
+          "42.2 km",
+          "3:17:34",
+          "38 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153325.5
+      "totalWithEstimatesKm": 153426.7
     }
   }
 }

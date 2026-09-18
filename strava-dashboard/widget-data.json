@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-18T10:30:40.294Z",
+  "generatedAt": "2026-09-18T11:00:51.705Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 735,
-    "distanceKm": 8444.8,
-    "elevationM": 69549,
-    "movingSeconds": 2453220,
+    "activities": 739,
+    "distanceKm": 8546,
+    "elevationM": 70311,
+    "movingSeconds": 2470800,
     "raw": {
-      "activities": "735",
-      "distance": "8,444.8 km",
-      "time": "681 h 27 m",
-      "elevation": "69,549 m"
+      "activities": "739",
+      "distance": "8,546.0 km",
+      "time": "686 h 20 m",
+      "elevation": "70,311 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20225199470",
+      "name": "Mittagspaziergang",
+      "date": "September 18, 2026",
+      "distanceKm": 2.9,
+      "stats": [
+        "2.9 km",
+        "29:34",
+        "5 m"
+      ]
+    },
     {
       "athlete": "Muhammed Edip KARABACAK 🇹🇷",
       "athleteId": "47897742",
@@ -56,29 +69,16 @@
       ]
     },
     {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20224284540",
-      "name": "Morning Walk",
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "20225368095",
+      "name": "Ciclismo mattutino",
       "date": "September 18, 2026",
-      "distanceKm": 3.3,
+      "distanceKm": 42.2,
       "stats": [
-        "3.3 km",
-        "40:43",
-        "17 m"
-      ]
-    },
-    {
-      "athlete": "Hanna Greß",
-      "athleteId": "75797079",
-      "activityId": "20224450860",
-      "name": "Morning Walk",
-      "date": "September 18, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "1:16:36",
-        "74 m"
+        "42.2 km",
+        "3:17:34",
+        "38 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 14520.4,
-  "totalDistanceKm": 137528.5,
+  "observedWeeksKm": 14621.6,
+  "totalDistanceKm": 137629.7,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 153325.5
+    "totalWithEstimatesKm": 153426.7
   }
 }

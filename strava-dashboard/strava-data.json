@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T05:00:49.098Z",
+  "generatedAt": "2026-09-18T05:30:43.788Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13311,
+  "totalActivities": 13333,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153130200,
-    "totalMovingTime": 43784387,
-    "totalElevation": 1077279.6
+    "totalDistance": 153184600,
+    "totalMovingTime": 43811267,
+    "totalElevation": 1078150.6
   },
   "monthStats": {
-    "totalDistance": 14325100,
-    "totalMovingTime": 4298160,
+    "totalDistance": 14379500,
+    "totalMovingTime": 4325040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8249500,
-    "totalMovingTime": 2346120,
-    "count": 694
+    "totalDistance": 8303900,
+    "totalMovingTime": 2373000,
+    "count": 707
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137333.2,
+    "measuredDistanceKm": 137387.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20222446749",
-        "name": "Morning Swim",
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20222703252",
+        "name": "Gravel-Fahrt am Morgen",
         "date": "September 18, 2026",
-        "distanceKm": 1,
+        "distanceKm": 3.6,
         "stats": [
-          "1.0 km",
-          "24:36",
+          "3.6 km",
+          "10:46",
+          "20 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20222701775",
+        "name": "Morning Walk",
+        "date": "September 18, 2026",
+        "distanceKm": 0.8,
+        "stats": [
+          "0.8 km",
+          "12:11",
+          "34 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20222695772",
+        "name": "Yoga am Morgen",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "15:04",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Marcel Eisenreich",
+        "athleteId": "203408258",
+        "activityId": "20222648673",
+        "name": "Lauf am Morgen",
+        "date": "September 18, 2026",
+        "distanceKm": 1.7,
+        "stats": [
+          "1.7 km",
+          "11:55",
+          "3 m"
         ]
       },
       {
@@ -77,45 +116,6 @@
           "12.7 km",
           "59:55",
           "16 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20222520263",
-        "name": "Gewichtstraining am Morgen",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "35:17",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20222524729",
-        "name": "Fahrt am Morgen",
-        "date": "September 18, 2026",
-        "distanceKm": 14.4,
-        "stats": [
-          "14.4 km",
-          "1:30:45",
-          "45 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20222519885",
-        "name": "Morning Run",
-        "date": "September 18, 2026",
-        "distanceKm": 15.1,
-        "stats": [
-          "15.1 km",
-          "1:29:11",
-          "36 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153130.2
+      "totalWithEstimatesKm": 153184.6
     }
   }
 }

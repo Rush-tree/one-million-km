@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T13:30:45.955Z",
+  "generatedAt": "2026-09-18T14:00:51.783Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13389,
+  "totalActivities": 13399,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153845400,
-    "totalMovingTime": 44004527,
-    "totalElevation": 1084048.6
+    "totalDistance": 153892300,
+    "totalMovingTime": 44016347,
+    "totalElevation": 1084255.6
   },
   "monthStats": {
-    "totalDistance": 15040300,
-    "totalMovingTime": 4518300,
+    "totalDistance": 15087200,
+    "totalMovingTime": 4530120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8964700,
-    "totalMovingTime": 2566260,
-    "count": 765
+    "totalDistance": 9011600,
+    "totalMovingTime": 2578080,
+    "count": 772
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,74 +48,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 138048.4,
+    "measuredDistanceKm": 138095.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20227519443",
+        "name": "Zwift - Glasgow Reverse in Scotland",
+        "date": "September 18, 2026",
+        "distanceKm": 4,
+        "stats": [
+          "4.0 km",
+          "7:23",
+          "40 m"
+        ]
+      },
+      {
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20227417486",
+        "name": "Zwift - LaGuardia Loop in New York",
+        "date": "September 18, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "5:40",
+          "29 m"
+        ]
+      },
+      {
         "athlete": "Susanne Liepert",
         "athleteId": "28515644",
-        "activityId": "20226785549",
-        "name": "Zwift - Volcano Flat in Watopia",
+        "activityId": "20227346103",
+        "name": "Zwift - Mech Isle Mayhem in Makuri Islands",
         "date": "September 18, 2026",
-        "distanceKm": 13,
+        "distanceKm": 19,
         "stats": [
-          "13.0 km",
-          "30:03",
-          "50 m"
+          "19.0 km",
+          "47:26",
+          "116 m"
         ]
       },
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20226743645",
-        "name": "200m schoolslag vergeten op te nemen",
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20227341179",
+        "name": "Evening Run",
         "date": "September 18, 2026",
-        "distanceKm": 1.5,
+        "distanceKm": 9.7,
         "stats": [
-          "1.5 km",
-          "1:07:21",
+          "9.7 km",
+          "1:16:22",
+          "63 m"
+        ]
+      },
+      {
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20227437810",
+        "name": "Gewichtstraining am Nachmittag",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "55:01",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20227036253",
-        "name": "Zwift - Pacer Group Ride with Coco",
-        "date": "September 18, 2026",
-        "distanceKm": 65.5,
-        "stats": [
-          "65.5 km",
-          "1:42:46",
-          "301 m"
-        ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20227158526",
-        "name": "Morning Walk",
-        "date": "September 18, 2026",
-        "distanceKm": 12.9,
-        "stats": [
-          "12.9 km",
-          "1:46:52",
-          "24 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20226677566",
-        "name": "Gravel-Fahrt zur Mittagszeit",
-        "date": "September 18, 2026",
-        "distanceKm": 70,
-        "stats": [
-          "70.0 km",
-          "3:03:46",
-          "596 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153845.4
+      "totalWithEstimatesKm": 153892.3
     }
   }
 }

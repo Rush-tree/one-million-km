@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-18T03:30:39.019Z",
+  "generatedAt": "2026-09-18T04:00:50.756Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 685,
-    "distanceKm": 8165.8,
-    "elevationM": 67133,
-    "movingSeconds": 2322600,
+    "activities": 688,
+    "distanceKm": 8201.4,
+    "elevationM": 67249,
+    "movingSeconds": 2329860,
     "raw": {
-      "activities": "685",
-      "distance": "8,165.8 km",
-      "time": "645 h 10 m",
-      "elevation": "67,133 m"
+      "activities": "688",
+      "distance": "8,201.4 km",
+      "time": "647 h 11 m",
+      "elevation": "67,249 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20222234861",
+      "name": "Allenamento con i pesi mattutino",
+      "date": "September 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "17:58",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -29,10 +42,23 @@
       ]
     },
     {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "20222342347",
+      "name": "Morning Activity",
+      "date": "September 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "22:40",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Josué González",
       "athleteId": "178408867",
       "activityId": "20222213957",
-      "name": "Evening Weight Training",
+      "name": "OTF UPPER BODY WEIGHTS WORKOUT 🏋️‍♂️",
       "date": "September 17, 2026",
       "distanceKm": 0,
       "stats": [
@@ -53,32 +79,6 @@
         "2:27:13",
         "7 m"
       ]
-    },
-    {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "20220326213",
-      "name": "Pedalada ao entardecer",
-      "date": "September 17, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "19:59",
-        "62 m"
-      ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20221489922",
-      "name": "HIIT ao entardecer",
-      "date": "September 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "33:04",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -87,8 +87,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 14241.4,
-  "totalDistanceKm": 137249.5,
+  "observedWeeksKm": 14277,
+  "totalDistanceKm": 137285.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -108,6 +108,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 153046.5
+    "totalWithEstimatesKm": 153082.1
   }
 }

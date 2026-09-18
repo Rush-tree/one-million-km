@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T03:30:39.019Z",
+  "generatedAt": "2026-09-18T04:00:50.756Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13300,
+  "totalActivities": 13303,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153046500,
-    "totalMovingTime": 43760867,
-    "totalElevation": 1077066.6
+    "totalDistance": 153082100,
+    "totalMovingTime": 43768127,
+    "totalElevation": 1077182.6
   },
   "monthStats": {
-    "totalDistance": 14241400,
-    "totalMovingTime": 4274640,
+    "totalDistance": 14277000,
+    "totalMovingTime": 4281900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8165800,
-    "totalMovingTime": 2322600,
-    "count": 685
+    "totalDistance": 8201400,
+    "totalMovingTime": 2329860,
+    "count": 688
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137249.5,
+    "measuredDistanceKm": 137285.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20222234861",
+        "name": "Allenamento con i pesi mattutino",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "17:58",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -66,10 +79,23 @@
         ]
       },
       {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20222342347",
+        "name": "Morning Activity",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "22:40",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Josué González",
         "athleteId": "178408867",
         "activityId": "20222213957",
-        "name": "Evening Weight Training",
+        "name": "OTF UPPER BODY WEIGHTS WORKOUT 🏋️‍♂️",
         "date": "September 17, 2026",
         "distanceKm": 0,
         "stats": [
@@ -89,32 +115,6 @@
           "67.1 km",
           "2:27:13",
           "7 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20220326213",
-        "name": "Pedalada ao entardecer",
-        "date": "September 17, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "19:59",
-          "62 m"
-        ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20221489922",
-        "name": "HIIT ao entardecer",
-        "date": "September 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "33:04",
-          "0 m"
         ]
       }
     ],
@@ -136,7 +136,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153046.5
+      "totalWithEstimatesKm": 153082.1
     }
   }
 }

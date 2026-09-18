@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T12:00:50.610Z",
+  "generatedAt": "2026-09-18T12:30:40.582Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13388,
+  "totalActivities": 13387,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153494800,
-    "totalMovingTime": 43930967,
-    "totalElevation": 1081170.6
+    "totalDistance": 153612000,
+    "totalMovingTime": 43956287,
+    "totalElevation": 1082564.6
   },
   "monthStats": {
-    "totalDistance": 14689700,
-    "totalMovingTime": 4444740,
+    "totalDistance": 14806900,
+    "totalMovingTime": 4470060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8614100,
-    "totalMovingTime": 2492700,
-    "count": 748
+    "totalDistance": 8731300,
+    "totalMovingTime": 2518020,
+    "count": 753
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137697.8,
+    "measuredDistanceKm": 137815,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20226381386",
+        "name": "Spaziergang am Nachmittag",
+        "date": "September 18, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "50:54",
+          "9 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20226131751",
+        "name": "Afternoon Run",
+        "date": "September 18, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "38:49",
+          "41 m"
+        ]
+      },
       {
         "athlete": "Cristian Stănciulescu",
         "athleteId": "67352997",
@@ -67,55 +93,29 @@
         ]
       },
       {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20226055013",
-        "name": "Mittagspaziergang",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20226380288",
+        "name": "Afternoon Walk",
         "date": "September 18, 2026",
         "distanceKm": 2.2,
         "stats": [
           "2.2 km",
-          "43:23",
-          "38 m"
+          "2:18:50",
+          "4 m"
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20225699255",
-        "name": "Öğleden Sonra Yürüyüş",
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20226218770",
+        "name": "Morning Ride",
         "date": "September 18, 2026",
-        "distanceKm": 1.9,
+        "distanceKm": 67.8,
         "stats": [
-          "1.9 km",
-          "47:47",
-          "56 m"
-        ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20225945693",
-        "name": "HIIT matinal",
-        "date": "September 18, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:03:53",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20225475683",
-        "name": "Evening Run",
-        "date": "September 18, 2026",
-        "distanceKm": 3.8,
-        "stats": [
-          "3.8 km",
-          "45:11",
-          "29 m"
+          "67.8 km",
+          "3:49:24",
+          "700 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153494.8
+      "totalWithEstimatesKm": 153612
     }
   }
 }

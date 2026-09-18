@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-18T04:00:50.756Z",
+  "generatedAt": "2026-09-18T04:30:40.356Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 688,
-    "distanceKm": 8201.4,
+    "activities": 689,
+    "distanceKm": 8202.4,
     "elevationM": 67249,
-    "movingSeconds": 2329860,
+    "movingSeconds": 2331120,
     "raw": {
-      "activities": "688",
-      "distance": "8,201.4 km",
-      "time": "647 h 11 m",
+      "activities": "689",
+      "distance": "8,202.4 km",
+      "time": "647 h 32 m",
       "elevation": "67,249 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cosima Renner",
+      "athleteId": "32997490",
+      "activityId": "20222446749",
+      "name": "Morning Swim",
+      "date": "September 18, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "24:36",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Silvio Lazzarin",
       "athleteId": "139275594",
@@ -66,19 +79,6 @@
         "51:59",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20222100367",
-      "name": "🌥️ MyWhoosh - Kaido Circuit",
-      "date": "September 18, 2026",
-      "distanceKm": 67.1,
-      "stats": [
-        "67.1 km",
-        "2:27:13",
-        "7 m"
-      ]
     }
   ],
   "baseline": {
@@ -87,8 +87,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 14277,
-  "totalDistanceKm": 137285.1,
+  "observedWeeksKm": 14278,
+  "totalDistanceKm": 137286.1,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -108,6 +108,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 153082.1
+    "totalWithEstimatesKm": 153083.1
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T04:00:50.756Z",
+  "generatedAt": "2026-09-18T04:30:40.356Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13303,
+  "totalActivities": 13305,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 153082100,
-    "totalMovingTime": 43768127,
+    "totalDistance": 153083100,
+    "totalMovingTime": 43769387,
     "totalElevation": 1077182.6
   },
   "monthStats": {
-    "totalDistance": 14277000,
-    "totalMovingTime": 4281900,
+    "totalDistance": 14278000,
+    "totalMovingTime": 4283160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8201400,
-    "totalMovingTime": 2329860,
-    "count": 688
+    "totalDistance": 8202400,
+    "totalMovingTime": 2331120,
+    "count": 689
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 137285.1,
+    "measuredDistanceKm": 137286.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20222446749",
+        "name": "Morning Swim",
+        "date": "September 18, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "24:36",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Silvio Lazzarin",
         "athleteId": "139275594",
@@ -103,19 +116,6 @@
           "51:59",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20222100367",
-        "name": "🌥️ MyWhoosh - Kaido Circuit",
-        "date": "September 18, 2026",
-        "distanceKm": 67.1,
-        "stats": [
-          "67.1 km",
-          "2:27:13",
-          "7 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -136,7 +136,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 153082.1
+      "totalWithEstimatesKm": 153083.1
     }
   }
 }

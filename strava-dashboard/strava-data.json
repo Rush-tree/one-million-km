@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T20:00:53.977Z",
+  "generatedAt": "2026-09-18T20:30:40.676Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13442,
+  "totalActivities": 13444,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155112100,
-    "totalMovingTime": 44332847,
-    "totalElevation": 1096120.6
+    "totalDistance": 155178600,
+    "totalMovingTime": 44353127,
+    "totalElevation": 1096500.6
   },
   "monthStats": {
-    "totalDistance": 16307000,
-    "totalMovingTime": 4846620,
+    "totalDistance": 16373500,
+    "totalMovingTime": 4866900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10231400,
-    "totalMovingTime": 2894580,
-    "count": 848
+    "totalDistance": 10297900,
+    "totalMovingTime": 2914860,
+    "count": 852
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139315.1,
+    "measuredDistanceKm": 139381.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20231454920",
+        "name": "Evening Weight Training",
+        "date": "September 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:15:16",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20231591714",
+        "name": "Camminata serale",
+        "date": "September 18, 2026",
+        "distanceKm": 4.6,
+        "stats": [
+          "4.6 km",
+          "1:43:48",
+          "6 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -80,36 +106,10 @@
         ]
       },
       {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20230484829",
-        "name": "Evening Swim",
-        "date": "September 18, 2026",
-        "distanceKm": 1.2,
-        "stats": [
-          "1.2 km",
-          "52:07",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20229992747",
-        "name": "Lunch Run",
-        "date": "September 18, 2026",
-        "distanceKm": 6.1,
-        "stats": [
-          "6.1 km",
-          "33:14",
-          "9 m"
-        ]
-      },
-      {
         "athlete": "Ricardo Ferre",
         "athleteId": "45223374",
         "activityId": "20231129237",
-        "name": "Abendspaziergang",
+        "name": "Evening walk",
         "date": "September 18, 2026",
         "distanceKm": 4.3,
         "stats": [
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155112.1
+      "totalWithEstimatesKm": 155178.6
     }
   }
 }

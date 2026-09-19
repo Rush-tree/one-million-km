@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T17:00:49.978Z",
+  "generatedAt": "2026-09-19T17:30:40.224Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13637,
+  "totalActivities": 13645,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 157428500,
-    "totalMovingTime": 44951867,
-    "totalElevation": 1116496.6
+    "totalDistance": 157468800,
+    "totalMovingTime": 44965367,
+    "totalElevation": 1116672.6
   },
   "monthStats": {
-    "totalDistance": 18623400,
-    "totalMovingTime": 5465640,
+    "totalDistance": 18663700,
+    "totalMovingTime": 5479140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12547800,
-    "totalMovingTime": 3513600,
-    "count": 1047
+    "totalDistance": 12588100,
+    "totalMovingTime": 3527100,
+    "count": 1053
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 141631.5,
+    "measuredDistanceKm": 141671.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20244253871",
+        "name": "Zwift - Volcano Flat in Watopia",
+        "date": "September 19, 2026",
+        "distanceKm": 13,
+        "stats": [
+          "13.0 km",
+          "22:57",
+          "50 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20244299404",
+        "name": "Akşam Yürüyüş",
+        "date": "September 19, 2026",
+        "distanceKm": 0.8,
+        "stats": [
+          "0.8 km",
+          "54:54",
+          "15 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -67,54 +93,28 @@
         ]
       },
       {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "20243362121",
-        "name": "Laufen (Outdoor)",
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20244209754",
+        "name": "Carrera de noche",
         "date": "September 19, 2026",
-        "distanceKm": 0.9,
+        "distanceKm": 11.2,
         "stats": [
-          "0.9 km",
-          "6:15",
+          "11.2 km",
+          "1:00:03",
           "0 m"
         ]
       },
       {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "20243057047",
-        "name": "Abendausfahrt",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20244077870",
+        "name": "Ganapati Darshan Walk🙏🙏",
         "date": "September 19, 2026",
-        "distanceKm": 30.3,
+        "distanceKm": 1,
         "stats": [
-          "30.3 km",
-          "1:11:14",
-          "237 m"
-        ]
-      },
-      {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20243182952",
-        "name": "Mountainbike-Fahrt am Nachmittag",
-        "date": "September 19, 2026",
-        "distanceKm": 32.8,
-        "stats": [
-          "32.8 km",
-          "1:47:32",
-          "375 m"
-        ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20243481670",
-        "name": "Afternoon BBall refereeing",
-        "date": "September 19, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "2:38:44",
+          "1.0 km",
+          "1:16:03",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 157428.5
+      "totalWithEstimatesKm": 157468.8
     }
   }
 }

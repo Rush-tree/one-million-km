@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-19T09:30:40.150Z",
+  "generatedAt": "2026-09-19T10:00:52.591Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 899,
-    "distanceKm": 10711.5,
-    "elevationM": 89647,
-    "movingSeconds": 3070560,
+    "activities": 905,
+    "distanceKm": 10734.3,
+    "elevationM": 89924,
+    "movingSeconds": 3083340,
     "raw": {
-      "activities": "899",
-      "distance": "10,711.5 km",
-      "time": "852 h 56 m",
-      "elevation": "89,647 m"
+      "activities": "905",
+      "distance": "10,734.3 km",
+      "time": "856 h 29 m",
+      "elevation": "89,924 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice Clausse",
+      "athleteId": "162101062",
+      "activityId": "20237444733",
+      "name": "Course à pied le midi",
+      "date": "September 19, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "21:35",
+        "3 m"
+      ]
+    },
+    {
+      "athlete": "Dirk Mang",
+      "athleteId": "60711719",
+      "activityId": "20237516748",
+      "name": "Lauf am Morgen",
+      "date": "September 19, 2026",
+      "distanceKm": 7.1,
+      "stats": [
+        "7.1 km",
+        "45:21",
+        "133 m"
+      ]
+    },
     {
       "athlete": "Cathi Caesar",
       "athleteId": "74482280",
@@ -26,32 +52,6 @@
       "stats": [
         "11.0 km",
         "56:20",
-        "27 m"
-      ]
-    },
-    {
-      "athlete": "René Rosenberger",
-      "athleteId": "757098365",
-      "activityId": "20236455996",
-      "name": "Lauf am Morgen",
-      "date": "September 19, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "27:54",
-        "17 m"
-      ]
-    },
-    {
-      "athlete": "Adriano Perri",
-      "athleteId": "99629318",
-      "activityId": "20236400919",
-      "name": "WRRC Shakeout Run in CPH 🏃🏻",
-      "date": "September 19, 2026",
-      "distanceKm": 8,
-      "stats": [
-        "8.0 km",
-        "43:09",
         "27 m"
       ]
     },
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 16787.1,
-  "totalDistanceKm": 139795.2,
+  "observedWeeksKm": 16809.9,
+  "totalDistanceKm": 139818,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 155592.2
+    "totalWithEstimatesKm": 155615
   }
 }

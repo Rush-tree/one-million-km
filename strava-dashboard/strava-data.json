@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T09:30:40.150Z",
+  "generatedAt": "2026-09-19T10:00:52.591Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13501,
+  "totalActivities": 13511,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155592200,
-    "totalMovingTime": 44508827,
-    "totalElevation": 1099580.6
+    "totalDistance": 155615000,
+    "totalMovingTime": 44521607,
+    "totalElevation": 1099857.6
   },
   "monthStats": {
-    "totalDistance": 16787100,
-    "totalMovingTime": 5022600,
+    "totalDistance": 16809900,
+    "totalMovingTime": 5035380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10711500,
-    "totalMovingTime": 3070560,
-    "count": 899
+    "totalDistance": 10734300,
+    "totalMovingTime": 3083340,
+    "count": 905
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139795.2,
+    "measuredDistanceKm": 139818,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20237444733",
+        "name": "Course à pied le midi",
+        "date": "September 19, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "21:35",
+          "3 m"
+        ]
+      },
+      {
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20237516748",
+        "name": "Lauf am Morgen",
+        "date": "September 19, 2026",
+        "distanceKm": 7.1,
+        "stats": [
+          "7.1 km",
+          "45:21",
+          "133 m"
+        ]
+      },
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
@@ -63,32 +89,6 @@
         "stats": [
           "11.0 km",
           "56:20",
-          "27 m"
-        ]
-      },
-      {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20236455996",
-        "name": "Lauf am Morgen",
-        "date": "September 19, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "27:54",
-          "17 m"
-        ]
-      },
-      {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20236400919",
-        "name": "WRRC Shakeout Run in CPH 🏃🏻",
-        "date": "September 19, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "43:09",
           "27 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155592.2
+      "totalWithEstimatesKm": 155615
     }
   }
 }

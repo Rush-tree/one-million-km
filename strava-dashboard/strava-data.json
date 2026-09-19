@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T12:30:41.190Z",
+  "generatedAt": "2026-09-19T13:00:51.664Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13534,
+  "totalActivities": 13539,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155963500,
-    "totalMovingTime": 44611727,
-    "totalElevation": 1103742.6
+    "totalDistance": 155982600,
+    "totalMovingTime": 44624327,
+    "totalElevation": 1103908.6
   },
   "monthStats": {
-    "totalDistance": 17158400,
-    "totalMovingTime": 5125500,
+    "totalDistance": 17177500,
+    "totalMovingTime": 5138100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11082800,
-    "totalMovingTime": 3173460,
-    "count": 932
+    "totalDistance": 11101900,
+    "totalMovingTime": 3186060,
+    "count": 935
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 140166.5,
+    "measuredDistanceKm": 140185.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20240023166",
+        "name": "Afternoon Workout",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:57",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Britta Prasse",
+        "athleteId": "200634990",
+        "activityId": "20239975059",
+        "name": "Stabilisations- und Kräftigungsübungen",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "44:07",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -67,19 +93,6 @@
         ]
       },
       {
-        "athlete": "Dirk Mang",
-        "athleteId": "60711719",
-        "activityId": "20239464706",
-        "name": "E-Bike-Fahrt am Nachmittag",
-        "date": "September 19, 2026",
-        "distanceKm": 12.1,
-        "stats": [
-          "12.1 km",
-          "30:37",
-          "127 m"
-        ]
-      },
-      {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
         "activityId": "20239824452",
@@ -90,19 +103,6 @@
           "58.7 km",
           "3:44:48",
           "591 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20239474241",
-        "name": "Lauf am Nachmittag",
-        "date": "September 19, 2026",
-        "distanceKm": 3.7,
-        "stats": [
-          "3.7 km",
-          "27:09",
-          "34 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155963.5
+      "totalWithEstimatesKm": 155982.6
     }
   }
 }

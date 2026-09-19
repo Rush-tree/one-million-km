@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T14:00:46.424Z",
+  "generatedAt": "2026-09-19T14:30:40.599Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13622,
+  "totalActivities": 13607,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 156363100,
-    "totalMovingTime": 44704307,
-    "totalElevation": 1107419.6
+    "totalDistance": 156671100,
+    "totalMovingTime": 44756147,
+    "totalElevation": 1109173.6
   },
   "monthStats": {
-    "totalDistance": 17558000,
-    "totalMovingTime": 5218080,
+    "totalDistance": 17866000,
+    "totalMovingTime": 5269920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11482400,
-    "totalMovingTime": 3266040,
-    "count": 995
+    "totalDistance": 11790400,
+    "totalMovingTime": 3317880,
+    "count": 1000
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,21 +48,21 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 140566.1,
+    "measuredDistanceKm": 140874.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20240828597",
-        "name": "Yoga am Nachmittag",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20241212798",
+        "name": "Op de gemak zwemmen is toch ferm mislukt 😅",
         "date": "September 19, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1,
         "stats": [
-          "0 km",
-          "16:05",
+          "1.0 km",
+          "42:19",
           "0 m"
         ]
       },
@@ -80,29 +80,29 @@
         ]
       },
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20240877099",
-        "name": "Pilates am Nachmittag",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20241324474",
+        "name": "Afternoon Walk",
         "date": "September 19, 2026",
-        "distanceKm": 0,
+        "distanceKm": 9,
         "stats": [
-          "0 km",
-          "1:06:26",
-          "0 m"
+          "9.0 km",
+          "1:46:43",
+          "107 m"
         ]
       },
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20240881064",
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20241260580",
         "name": "Morning Ride",
         "date": "September 19, 2026",
-        "distanceKm": 71.9,
+        "distanceKm": 72.5,
         "stats": [
-          "71.9 km",
-          "5:04:04",
-          "1,145 m"
+          "72.5 km",
+          "5:24:55",
+          "992 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 156363.1
+      "totalWithEstimatesKm": 156671.1
     }
   }
 }

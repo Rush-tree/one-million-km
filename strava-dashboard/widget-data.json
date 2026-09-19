@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-19T10:00:52.591Z",
+  "generatedAt": "2026-09-19T10:30:40.228Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 905,
-    "distanceKm": 10734.3,
-    "elevationM": 89924,
-    "movingSeconds": 3083340,
+    "activities": 909,
+    "distanceKm": 10839.6,
+    "elevationM": 91672,
+    "movingSeconds": 3103200,
     "raw": {
-      "activities": "905",
-      "distance": "10,734.3 km",
-      "time": "856 h 29 m",
-      "elevation": "89,924 m"
+      "activities": "909",
+      "distance": "10,839.6 km",
+      "time": "862 h 0 m",
+      "elevation": "91,672 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "20238118018",
+      "name": "Ciclismo all’ora di pranzo",
+      "date": "September 19, 2026",
+      "distanceKm": 23,
+      "stats": [
+        "23.0 km",
+        "1:01:00",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Fabrice Clausse",
       "athleteId": "162101062",
@@ -56,19 +69,6 @@
       ]
     },
     {
-      "athlete": "Nathalie Reichard",
-      "athleteId": "129991187",
-      "activityId": "20236711366",
-      "name": "Morning Run",
-      "date": "September 19, 2026",
-      "distanceKm": 19.6,
-      "stats": [
-        "19.6 km",
-        "1:48:08",
-        "208 m"
-      ]
-    },
-    {
       "athlete": "Luka M",
       "athleteId": "33218706",
       "activityId": "20236724641",
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 16809.9,
-  "totalDistanceKm": 139818,
+  "observedWeeksKm": 16915.2,
+  "totalDistanceKm": 139923.3,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 155615
+    "totalWithEstimatesKm": 155720.3
   }
 }

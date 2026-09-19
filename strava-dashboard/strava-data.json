@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T10:00:52.591Z",
+  "generatedAt": "2026-09-19T10:30:40.228Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13511,
+  "totalActivities": 13510,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155615000,
-    "totalMovingTime": 44521607,
-    "totalElevation": 1099857.6
+    "totalDistance": 155720300,
+    "totalMovingTime": 44541467,
+    "totalElevation": 1101605.6
   },
   "monthStats": {
-    "totalDistance": 16809900,
-    "totalMovingTime": 5035380,
+    "totalDistance": 16915200,
+    "totalMovingTime": 5055240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10734300,
-    "totalMovingTime": 3083340,
-    "count": 905
+    "totalDistance": 10839600,
+    "totalMovingTime": 3103200,
+    "count": 909
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139818,
+    "measuredDistanceKm": 139923.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20238118018",
+        "name": "Ciclismo all’ora di pranzo",
+        "date": "September 19, 2026",
+        "distanceKm": 23,
+        "stats": [
+          "23.0 km",
+          "1:01:00",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Fabrice Clausse",
         "athleteId": "162101062",
@@ -93,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Nathalie Reichard",
-        "athleteId": "129991187",
-        "activityId": "20236711366",
-        "name": "Morning Run",
-        "date": "September 19, 2026",
-        "distanceKm": 19.6,
-        "stats": [
-          "19.6 km",
-          "1:48:08",
-          "208 m"
-        ]
-      },
-      {
         "athlete": "Luka M",
         "athleteId": "33218706",
         "activityId": "20236724641",
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155615
+      "totalWithEstimatesKm": 155720.3
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T14:34:45.210Z",
+  "generatedAt": "2026-09-19T15:00:52.081Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13607,
+  "totalActivities": 13606,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 156692200,
-    "totalMovingTime": 44762087,
-    "totalElevation": 1109368.6
+    "totalDistance": 156829300,
+    "totalMovingTime": 44793767,
+    "totalElevation": 1110923.6
   },
   "monthStats": {
-    "totalDistance": 17887100,
-    "totalMovingTime": 5275860,
+    "totalDistance": 18024200,
+    "totalMovingTime": 5307540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11811500,
-    "totalMovingTime": 3323820,
-    "count": 1001
+    "totalDistance": 11948600,
+    "totalMovingTime": 3355500,
+    "count": 1006
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 140895.2,
+    "measuredDistanceKm": 141032.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -93,29 +93,29 @@
         ]
       },
       {
+        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
+        "athleteId": "78581066",
+        "activityId": "20242074665",
+        "name": "Sortie vélo le midi - zwischen den Quellen von Tarn, Lozère und Ardeche",
+        "date": "September 19, 2026",
+        "distanceKm": 60.5,
+        "stats": [
+          "60.5 km",
+          "4:54:22",
+          "1,232 m"
+        ]
+      },
+      {
         "athlete": "Ralf Rogall",
         "athleteId": "105597565",
         "activityId": "20241260580",
-        "name": "Morning Ride",
+        "name": "Tag 1 am Lago...",
         "date": "September 19, 2026",
         "distanceKm": 72.5,
         "stats": [
           "72.5 km",
           "5:24:55",
           "992 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20240928584",
-        "name": "Lauf am Nachmittag",
-        "date": "September 19, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "19:49",
-          "23 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 156692.2
+      "totalWithEstimatesKm": 156829.3
     }
   }
 }

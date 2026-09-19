@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T08:00:55.629Z",
+  "generatedAt": "2026-09-19T08:30:43.489Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13485,
+  "totalActivities": 13496,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155394500,
-    "totalMovingTime": 44455367,
-    "totalElevation": 1098523.6
+    "totalDistance": 155464700,
+    "totalMovingTime": 44474207,
+    "totalElevation": 1099002.6
   },
   "monthStats": {
-    "totalDistance": 16589400,
-    "totalMovingTime": 4969140,
+    "totalDistance": 16659600,
+    "totalMovingTime": 4987980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10513800,
-    "totalMovingTime": 3017100,
-    "count": 882
+    "totalDistance": 10584000,
+    "totalMovingTime": 3035940,
+    "count": 891
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139597.5,
+    "measuredDistanceKm": 139667.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20236333410",
+        "name": "Natation le matin",
+        "date": "September 19, 2026",
+        "distanceKm": 0.8,
+        "stats": [
+          "0.8 km",
+          "15:08",
+          "9 m"
+        ]
+      },
+      {
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20236455996",
+        "name": "Lauf am Morgen",
+        "date": "September 19, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "27:54",
+          "17 m"
+        ]
+      },
+      {
+        "athlete": "Adriano Perri",
+        "athleteId": "99629318",
+        "activityId": "20236400919",
+        "name": "WRRC Shakeout Run in CPH 🏃🏻",
+        "date": "September 19, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "43:09",
+          "27 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -67,55 +106,16 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20235451346",
-        "name": "Sabah Yürüyüş",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20236293791",
+        "name": "Sortie vélo le matin",
         "date": "September 19, 2026",
-        "distanceKm": 0.6,
+        "distanceKm": 41.8,
         "stats": [
-          "0.6 km",
-          "1:00:21",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20235124560",
-        "name": "Gravel-Fahrt am Morgen",
-        "date": "September 19, 2026",
-        "distanceKm": 3.5,
-        "stats": [
-          "3.5 km",
-          "12:20",
-          "24 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20235850101",
-        "name": "Morning Walk",
-        "date": "September 19, 2026",
-        "distanceKm": 1.7,
-        "stats": [
-          "1.7 km",
-          "39:11",
-          "50 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20235359293",
-        "name": "Morning Run",
-        "date": "September 19, 2026",
-        "distanceKm": 15.5,
-        "stats": [
-          "15.5 km",
-          "2:11:39",
-          "293 m"
+          "41.8 km",
+          "1:46:32",
+          "331 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155394.5
+      "totalWithEstimatesKm": 155464.7
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T07:30:40.318Z",
+  "generatedAt": "2026-09-19T08:00:55.629Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13482,
+  "totalActivities": 13485,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155385400,
-    "totalMovingTime": 44452967,
-    "totalElevation": 1098478.6
+    "totalDistance": 155394500,
+    "totalMovingTime": 44455367,
+    "totalElevation": 1098523.6
   },
   "monthStats": {
-    "totalDistance": 16580300,
-    "totalMovingTime": 4966740,
+    "totalDistance": 16589400,
+    "totalMovingTime": 4969140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10504700,
-    "totalMovingTime": 3014700,
-    "count": 880
+    "totalDistance": 10513800,
+    "totalMovingTime": 3017100,
+    "count": 882
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139588.4,
+    "measuredDistanceKm": 139597.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20235949016",
+        "name": "Morning E-Bike Ride",
+        "date": "September 19, 2026",
+        "distanceKm": 3.7,
+        "stats": [
+          "3.7 km",
+          "17:41",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -104,19 +117,6 @@
           "2:11:39",
           "293 m"
         ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20235137879",
-        "name": "Morning Run",
-        "date": "September 19, 2026",
-        "distanceKm": 33.6,
-        "stats": [
-          "33.6 km",
-          "3:15:16",
-          "129 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155385.4
+      "totalWithEstimatesKm": 155394.5
     }
   }
 }

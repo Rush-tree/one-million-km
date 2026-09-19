@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T16:30:38.516Z",
+  "generatedAt": "2026-09-19T17:00:49.978Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13628,
+  "totalActivities": 13637,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 157330600,
-    "totalMovingTime": 44924327,
-    "totalElevation": 1115509.6
+    "totalDistance": 157428500,
+    "totalMovingTime": 44951867,
+    "totalElevation": 1116496.6
   },
   "monthStats": {
-    "totalDistance": 18525500,
-    "totalMovingTime": 5438100,
+    "totalDistance": 18623400,
+    "totalMovingTime": 5465640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12449900,
-    "totalMovingTime": 3486060,
-    "count": 1038
+    "totalDistance": 12547800,
+    "totalMovingTime": 3513600,
+    "count": 1047
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 141533.6,
+    "measuredDistanceKm": 141631.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20243933750",
+        "name": "Afternoon E-Bike Ride",
+        "date": "September 19, 2026",
+        "distanceKm": 3.3,
+        "stats": [
+          "3.3 km",
+          "30:41",
+          "33 m"
+        ]
+      },
       {
         "athlete": "Johannes Tangel",
         "athleteId": "127575472",
@@ -63,19 +76,6 @@
         "stats": [
           "0.9 km",
           "6:15",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20243040448",
-        "name": "Tennis pomeridiano",
-        "date": "September 19, 2026",
-        "distanceKm": 2.6,
-        "stats": [
-          "2.6 km",
-          "1:03:55",
           "0 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 157330.6
+      "totalWithEstimatesKm": 157428.5
     }
   }
 }

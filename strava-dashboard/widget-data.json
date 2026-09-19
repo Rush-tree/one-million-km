@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-19T16:30:38.516Z",
+  "generatedAt": "2026-09-19T17:00:49.978Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 1038,
-    "distanceKm": 12449.9,
-    "elevationM": 105576,
-    "movingSeconds": 3486060,
+    "activities": 1047,
+    "distanceKm": 12547.8,
+    "elevationM": 106563,
+    "movingSeconds": 3513600,
     "raw": {
-      "activities": "1038",
-      "distance": "12,449.9 km",
-      "time": "968 h 21 m",
-      "elevation": "105,576 m"
+      "activities": "1047",
+      "distance": "12,547.8 km",
+      "time": "976 h 0 m",
+      "elevation": "106,563 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20243933750",
+      "name": "Afternoon E-Bike Ride",
+      "date": "September 19, 2026",
+      "distanceKm": 3.3,
+      "stats": [
+        "3.3 km",
+        "30:41",
+        "33 m"
+      ]
+    },
     {
       "athlete": "Johannes Tangel",
       "athleteId": "127575472",
@@ -26,19 +39,6 @@
       "stats": [
         "0.9 km",
         "6:15",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Silvio Lazzarin",
-      "athleteId": "139275594",
-      "activityId": "20243040448",
-      "name": "Tennis pomeridiano",
-      "date": "September 19, 2026",
-      "distanceKm": 2.6,
-      "stats": [
-        "2.6 km",
-        "1:03:55",
         "0 m"
       ]
     },
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 18525.5,
-  "totalDistanceKm": 141533.6,
+  "observedWeeksKm": 18623.4,
+  "totalDistanceKm": 141631.5,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 157330.6
+    "totalWithEstimatesKm": 157428.5
   }
 }

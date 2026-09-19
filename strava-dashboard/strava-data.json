@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T16:00:53.233Z",
+  "generatedAt": "2026-09-19T16:30:38.516Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13615,
+  "totalActivities": 13628,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 157270500,
-    "totalMovingTime": 44901887,
-    "totalElevation": 1114998.6
+    "totalDistance": 157330600,
+    "totalMovingTime": 44924327,
+    "totalElevation": 1115509.6
   },
   "monthStats": {
-    "totalDistance": 18465400,
-    "totalMovingTime": 5415660,
+    "totalDistance": 18525500,
+    "totalMovingTime": 5438100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12389800,
-    "totalMovingTime": 3463620,
-    "count": 1029
+    "totalDistance": 12449900,
+    "totalMovingTime": 3486060,
+    "count": 1038
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 141473.5,
+    "measuredDistanceKm": 141533.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20242985655",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Johannes Tangel",
+        "athleteId": "127575472",
+        "activityId": "20243362121",
+        "name": "Laufen (Outdoor)",
         "date": "September 19, 2026",
-        "distanceKm": 5,
+        "distanceKm": 0.9,
         "stats": [
-          "5.0 km",
-          "20:16",
-          "21 m"
+          "0.9 km",
+          "6:15",
+          "0 m"
         ]
       },
       {
@@ -93,29 +93,29 @@
         ]
       },
       {
-        "athlete": "Rainer Gatzmaga",
-        "athleteId": "119550686",
-        "activityId": "20242967673",
-        "name": "Lauf am Nachmittag",
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20243182952",
+        "name": "Mountainbike-Fahrt am Nachmittag",
         "date": "September 19, 2026",
-        "distanceKm": 12.4,
+        "distanceKm": 32.8,
         "stats": [
-          "12.4 km",
-          "1:14:43",
-          "104 m"
+          "32.8 km",
+          "1:47:32",
+          "375 m"
         ]
       },
       {
-        "athlete": "Roland Baumann",
-        "athleteId": "87457914",
-        "activityId": "20243016452",
-        "name": "Afternoon Ride",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20243481670",
+        "name": "Afternoon BBall refereeing",
         "date": "September 19, 2026",
-        "distanceKm": 29.1,
+        "distanceKm": 3.1,
         "stats": [
-          "29.1 km",
-          "1:29:47",
-          "39 m"
+          "3.1 km",
+          "2:38:44",
+          "0 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 157270.5
+      "totalWithEstimatesKm": 157330.6
     }
   }
 }

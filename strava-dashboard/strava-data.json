@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T19:30:45.581Z",
+  "generatedAt": "2026-09-19T20:00:46.998Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13647,
+  "totalActivities": 13646,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 157944700,
-    "totalMovingTime": 45085607,
-    "totalElevation": 1120962.6
+    "totalDistance": 158004000,
+    "totalMovingTime": 45113327,
+    "totalElevation": 1123406.6
   },
   "monthStats": {
-    "totalDistance": 19139600,
-    "totalMovingTime": 5599380,
+    "totalDistance": 19198900,
+    "totalMovingTime": 5627100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13064000,
-    "totalMovingTime": 3647340,
-    "count": 1073
+    "totalDistance": 13123300,
+    "totalMovingTime": 3675060,
+    "count": 1075
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 142147.7,
+    "measuredDistanceKm": 142207,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,19 +80,6 @@
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20244610125",
-        "name": "Zwift - Pacer Group Ride with Maria",
-        "date": "September 19, 2026",
-        "distanceKm": 15.5,
-        "stats": [
-          "15.5 km",
-          "25:09",
-          "26 m"
-        ]
-      },
-      {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
         "activityId": "20244651244",
@@ -117,6 +104,19 @@
           "1:05:27",
           "0 m"
         ]
+      },
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20245489277",
+        "name": "Lunch Walk",
+        "date": "September 19, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "9:14:31",
+          "30 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 157944.7
+      "totalWithEstimatesKm": 158004
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T03:00:49.935Z",
+  "generatedAt": "2026-09-19T03:30:42.523Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13464,
+  "totalActivities": 13459,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155204400,
-    "totalMovingTime": 44390627,
-    "totalElevation": 1097467.6
+    "totalDistance": 155326800,
+    "totalMovingTime": 44409947,
+    "totalElevation": 1097645.6
   },
   "monthStats": {
-    "totalDistance": 16399300,
-    "totalMovingTime": 4904400,
+    "totalDistance": 16521700,
+    "totalMovingTime": 4923720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10323700,
-    "totalMovingTime": 2952360,
-    "count": 863
+    "totalDistance": 10446100,
+    "totalMovingTime": 2971680,
+    "count": 866
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139407.4,
+    "measuredDistanceKm": 139529.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20234716529",
+        "name": "Footing",
+        "date": "September 18, 2026",
+        "distanceKm": 5.7,
+        "stats": [
+          "5.7 km",
+          "55:33",
+          "131 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20234610938",
+        "name": "☁️ MyWhoosh - Kaido Circuit",
+        "date": "September 19, 2026",
+        "distanceKm": 65.5,
+        "stats": [
+          "65.5 km",
+          "2:19:57",
+          "15 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -80,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20231591714",
-        "name": "Camminata serale",
-        "date": "September 18, 2026",
-        "distanceKm": 4.6,
-        "stats": [
-          "4.6 km",
-          "1:43:48",
-          "6 m"
-        ]
-      },
-      {
         "athlete": "David Rondon",
         "athleteId": "1002628",
         "activityId": "20231871157",
@@ -103,19 +116,6 @@
           "10.4 km",
           "3:18:55",
           "141 m"
-        ]
-      },
-      {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20231755583",
-        "name": "Spaziergang am Nachmittag",
-        "date": "September 18, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "6:43:40",
-          "5 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155204.4
+      "totalWithEstimatesKm": 155326.8
     }
   }
 }

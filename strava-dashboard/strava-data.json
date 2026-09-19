@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T11:30:40.746Z",
+  "generatedAt": "2026-09-19T12:00:47.710Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13522,
+  "totalActivities": 13524,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155876100,
-    "totalMovingTime": 44584907,
-    "totalElevation": 1102915.6
+    "totalDistance": 155881000,
+    "totalMovingTime": 44586767,
+    "totalElevation": 1102924.6
   },
   "monthStats": {
-    "totalDistance": 17071000,
-    "totalMovingTime": 5098680,
+    "totalDistance": 17075900,
+    "totalMovingTime": 5100540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10995400,
-    "totalMovingTime": 3146640,
-    "count": 922
+    "totalDistance": 11000300,
+    "totalMovingTime": 3148500,
+    "count": 923
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 140079.1,
+    "measuredDistanceKm": 140084,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -67,6 +67,19 @@
         ]
       },
       {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20239426409",
+        "name": "Lauf am Nachmittag",
+        "date": "September 19, 2026",
+        "distanceKm": 4.8,
+        "stats": [
+          "4.8 km",
+          "31:04",
+          "9 m"
+        ]
+      },
+      {
         "athlete": "Domenic Winges",
         "athleteId": "179823094",
         "activityId": "20238851030",
@@ -76,19 +89,6 @@
         "stats": [
           "0 km",
           "1:00:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20238590059",
-        "name": "Afternoon Swim",
-        "date": "September 19, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "31:27",
           "0 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155876.1
+      "totalWithEstimatesKm": 155881
     }
   }
 }

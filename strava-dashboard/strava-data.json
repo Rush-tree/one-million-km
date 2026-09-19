@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T18:00:48.036Z",
+  "generatedAt": "2026-09-19T19:00:50.100Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13659,
+  "totalActivities": 13662,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 157525000,
-    "totalMovingTime": 44992907,
-    "totalElevation": 1116886.6
+    "totalDistance": 157614600,
+    "totalMovingTime": 45023087,
+    "totalElevation": 1117730.6
   },
   "monthStats": {
-    "totalDistance": 18719900,
-    "totalMovingTime": 5506680,
+    "totalDistance": 18809500,
+    "totalMovingTime": 5536860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12644300,
-    "totalMovingTime": 3554640,
-    "count": 1063
+    "totalDistance": 12733900,
+    "totalMovingTime": 3584820,
+    "count": 1068
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 141728,
+    "measuredDistanceKm": 141817.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20244928164",
+        "name": "Wieczorne bieganie",
+        "date": "September 19, 2026",
+        "distanceKm": 4.9,
+        "stats": [
+          "4.9 km",
+          "22:30",
+          "54 m"
+        ]
+      },
       {
         "athlete": "Jürgen Bootsmann",
         "athleteId": "30645305",
@@ -64,19 +77,6 @@
           "15.5 km",
           "25:09",
           "26 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20244474075",
-        "name": "Wieczorne bieganie",
-        "date": "September 19, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "12:59",
-          "16 m"
         ]
       },
       {
@@ -93,15 +93,15 @@
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20244653855",
-        "name": "Abendradfahrt",
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20244668454",
+        "name": "Air Time",
         "date": "September 19, 2026",
-        "distanceKm": 22.6,
+        "distanceKm": 0,
         "stats": [
-          "22.6 km",
-          "52:52",
+          "0 km",
+          "1:05:27",
           "0 m"
         ]
       },
@@ -109,7 +109,7 @@
         "athlete": "Georg Weinig",
         "athleteId": "166650923",
         "activityId": "20244561251",
-        "name": "Gewichtstraining am Nachmittag",
+        "name": "Upper mit Schwesterchen",
         "date": "September 19, 2026",
         "distanceKm": 0,
         "stats": [
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 157525
+      "totalWithEstimatesKm": 157614.6
     }
   }
 }

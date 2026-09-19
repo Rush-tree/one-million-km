@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T05:00:47.576Z",
+  "generatedAt": "2026-09-19T05:30:38.069Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13467,
+  "totalActivities": 13468,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155347700,
-    "totalMovingTime": 44427407,
-    "totalElevation": 1097713.6
+    "totalDistance": 155384900,
+    "totalMovingTime": 44438567,
+    "totalElevation": 1097866.6
   },
   "monthStats": {
-    "totalDistance": 16542600,
-    "totalMovingTime": 4941180,
+    "totalDistance": 16579800,
+    "totalMovingTime": 4952340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10467000,
-    "totalMovingTime": 2989140,
-    "count": 871
+    "totalDistance": 10504200,
+    "totalMovingTime": 3000300,
+    "count": 873
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139550.7,
+    "measuredDistanceKm": 139587.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20235124560",
+        "name": "Gravel-Fahrt am Morgen",
+        "date": "September 19, 2026",
+        "distanceKm": 3.5,
+        "stats": [
+          "3.5 km",
+          "12:20",
+          "24 m"
+        ]
+      },
+      {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
         "activityId": "20234918912",
-        "name": "Morning Yoga",
+        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
         "date": "September 19, 2026",
         "distanceKm": 0,
         "stats": [
@@ -80,19 +93,6 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20234846959",
-        "name": "Saturday Morning Activity",
-        "date": "September 19, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "31:11",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
         "activityId": "20234716529",
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20234610938",
-        "name": "SEPTEMBER MNG RIDE NO 19 🚵‍♂️ (☁️ MyWhoosh - Kaido Circuit)",
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20235137879",
+        "name": "Morning Run",
         "date": "September 19, 2026",
-        "distanceKm": 65.5,
+        "distanceKm": 33.6,
         "stats": [
-          "65.5 km",
-          "2:19:57",
-          "13 m"
+          "33.6 km",
+          "3:15:16",
+          "129 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155347.7
+      "totalWithEstimatesKm": 155384.9
     }
   }
 }

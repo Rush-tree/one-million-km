@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T10:30:40.228Z",
+  "generatedAt": "2026-09-19T11:00:48.302Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13510,
+  "totalActivities": 13520,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155720300,
-    "totalMovingTime": 44541467,
-    "totalElevation": 1101605.6
+    "totalDistance": 155763400,
+    "totalMovingTime": 44558147,
+    "totalElevation": 1102263.6
   },
   "monthStats": {
-    "totalDistance": 16915200,
-    "totalMovingTime": 5055240,
+    "totalDistance": 16958300,
+    "totalMovingTime": 5071920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10839600,
-    "totalMovingTime": 3103200,
-    "count": 909
+    "totalDistance": 10882700,
+    "totalMovingTime": 3119880,
+    "count": 916
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139923.3,
+    "measuredDistanceKm": 139966.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20238590059",
+        "name": "Afternoon Swim",
+        "date": "September 19, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "31:27",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20238403579",
+        "name": "Lunch Weight Training",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "34:03",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
@@ -67,55 +93,29 @@
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20237444733",
-        "name": "Course à pied le midi",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20238193300",
+        "name": "Weekend Run with Prince MiniMe🫅🏼🏃🏽",
         "date": "September 19, 2026",
-        "distanceKm": 5,
+        "distanceKm": 10.1,
         "stats": [
-          "5.0 km",
-          "21:35",
-          "3 m"
+          "10.1 km",
+          "1:10:16",
+          "15 m"
         ]
       },
       {
-        "athlete": "Dirk Mang",
-        "athleteId": "60711719",
-        "activityId": "20237516748",
-        "name": "Lauf am Morgen",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20238387195",
+        "name": "Spaziergang am Morgen",
         "date": "September 19, 2026",
-        "distanceKm": 7.1,
+        "distanceKm": 1.1,
         "stats": [
-          "7.1 km",
-          "45:21",
-          "133 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20236886639",
-        "name": "1km - 3x2km in 4:50 mit 1km etwas langsamer - 1 km",
-        "date": "September 19, 2026",
-        "distanceKm": 11,
-        "stats": [
-          "11.0 km",
-          "56:20",
-          "27 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20236724641",
-        "name": "Was muss, das muss🫡",
-        "date": "September 19, 2026",
-        "distanceKm": 25,
-        "stats": [
-          "25.0 km",
-          "2:07:32",
-          "150 m"
+          "1.1 km",
+          "3:13:23",
+          "5 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155720.3
+      "totalWithEstimatesKm": 155763.4
     }
   }
 }

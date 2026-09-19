@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T03:30:42.523Z",
+  "generatedAt": "2026-09-19T04:01:22.474Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13459,
+  "totalActivities": 13461,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155326800,
-    "totalMovingTime": 44409947,
-    "totalElevation": 1097645.6
+    "totalDistance": 155347700,
+    "totalMovingTime": 44415527,
+    "totalElevation": 1097715.6
   },
   "monthStats": {
-    "totalDistance": 16521700,
-    "totalMovingTime": 4923720,
+    "totalDistance": 16542600,
+    "totalMovingTime": 4929300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10446100,
-    "totalMovingTime": 2971680,
-    "count": 866
+    "totalDistance": 10467000,
+    "totalMovingTime": 2977260,
+    "count": 868
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139529.8,
+    "measuredDistanceKm": 139550.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20234816401",
+        "name": "Morning Activity",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "45:26",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20234846959",
+        "name": "Saturday Morning Activity",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:11",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
@@ -91,32 +117,6 @@
           "44:45",
           "9 m"
         ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20231805323",
-        "name": "Afternoon Walk",
-        "date": "September 18, 2026",
-        "distanceKm": 4,
-        "stats": [
-          "4.0 km",
-          "1:22:37",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20231871157",
-        "name": "Natteravn Storhaug :)",
-        "date": "September 18, 2026",
-        "distanceKm": 10.4,
-        "stats": [
-          "10.4 km",
-          "3:18:55",
-          "141 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155326.8
+      "totalWithEstimatesKm": 155347.7
     }
   }
 }

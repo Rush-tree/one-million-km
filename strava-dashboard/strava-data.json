@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T11:16:31.305Z",
+  "generatedAt": "2026-09-19T11:30:40.746Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13519,
+  "totalActivities": 13522,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 155794400,
-    "totalMovingTime": 44567327,
-    "totalElevation": 1102624.6
+    "totalDistance": 155876100,
+    "totalMovingTime": 44584907,
+    "totalElevation": 1102915.6
   },
   "monthStats": {
-    "totalDistance": 16989300,
-    "totalMovingTime": 5081100,
+    "totalDistance": 17071000,
+    "totalMovingTime": 5098680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10913700,
-    "totalMovingTime": 3129060,
-    "count": 917
+    "totalDistance": 10995400,
+    "totalMovingTime": 3146640,
+    "count": 922
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 139997.4,
+    "measuredDistanceKm": 140079.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20239030395",
+        "name": "Pedalada matinal",
+        "date": "September 19, 2026",
+        "distanceKm": 2.7,
+        "stats": [
+          "2.7 km",
+          "8:15",
+          "104 m"
+        ]
+      },
+      {
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20238851030",
+        "name": "Gewichtstraining zur Mittagszeit",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:00:09",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -67,36 +93,10 @@
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20238118018",
-        "name": "Ciclismo all’ora di pranzo",
-        "date": "September 19, 2026",
-        "distanceKm": 23,
-        "stats": [
-          "23.0 km",
-          "1:01:00",
-          "19 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20238193300",
-        "name": "Weekend Run with Prince MiniMe🫅🏼🏃🏽",
-        "date": "September 19, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "1:10:16",
-          "15 m"
-        ]
-      },
-      {
         "athlete": "Alex 3R",
         "athleteId": "89054684",
         "activityId": "20238815526",
-        "name": "Traillauf am Morgen",
+        "name": "Herz an Herz 💕 (mit Drachenberg Extra und mit Schmackes)",
         "date": "September 19, 2026",
         "distanceKm": 31,
         "stats": [
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20238387195",
-        "name": "Spaziergang am Morgen",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20238971831",
+        "name": "Kut knie, wel heel content",
         "date": "September 19, 2026",
-        "distanceKm": 1.1,
+        "distanceKm": 76.3,
         "stats": [
-          "1.1 km",
-          "3:13:23",
-          "5 m"
+          "76.3 km",
+          "3:14:55",
+          "188 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 155794.4
+      "totalWithEstimatesKm": 155876.1
     }
   }
 }

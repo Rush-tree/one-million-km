@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-19T19:00:50.100Z",
+  "generatedAt": "2026-09-19T19:30:45.581Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 1068,
-    "distanceKm": 12733.9,
-    "elevationM": 107797,
-    "movingSeconds": 3584820,
+    "activities": 1073,
+    "distanceKm": 13064,
+    "elevationM": 111029,
+    "movingSeconds": 3647340,
     "raw": {
-      "activities": "1068",
-      "distance": "12,733.9 km",
-      "time": "995 h 47 m",
-      "elevation": "107,797 m"
+      "activities": "1073",
+      "distance": "13,064.0 km",
+      "time": "1,013 h 9 m",
+      "elevation": "111,029 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20245384760",
+      "name": "Evening Walk",
+      "date": "September 19, 2026",
+      "distanceKm": 2.2,
+      "stats": [
+        "2.2 km",
+        "28:12",
+        "20 m"
+      ]
+    },
     {
       "athlete": "Paweł Siergiej",
       "athleteId": "147932574",
@@ -67,19 +80,6 @@
         "1:05:27",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Georg Weinig",
-      "athleteId": "166650923",
-      "activityId": "20244561251",
-      "name": "Upper mit Schwesterchen",
-      "date": "September 19, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "2:09:15",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 18809.5,
-  "totalDistanceKm": 141817.6,
+  "observedWeeksKm": 19139.6,
+  "totalDistanceKm": 142147.7,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 157614.6
+    "totalWithEstimatesKm": 157944.7
   }
 }

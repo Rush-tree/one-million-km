@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T19:00:50.100Z",
+  "generatedAt": "2026-09-19T19:30:45.581Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13662,
+  "totalActivities": 13647,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 157614600,
-    "totalMovingTime": 45023087,
-    "totalElevation": 1117730.6
+    "totalDistance": 157944700,
+    "totalMovingTime": 45085607,
+    "totalElevation": 1120962.6
   },
   "monthStats": {
-    "totalDistance": 18809500,
-    "totalMovingTime": 5536860,
+    "totalDistance": 19139600,
+    "totalMovingTime": 5599380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12733900,
-    "totalMovingTime": 3584820,
-    "count": 1068
+    "totalDistance": 13064000,
+    "totalMovingTime": 3647340,
+    "count": 1073
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 141817.6,
+    "measuredDistanceKm": 142147.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20245384760",
+        "name": "Evening Walk",
+        "date": "September 19, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "28:12",
+          "20 m"
+        ]
+      },
       {
         "athlete": "Paweł Siergiej",
         "athleteId": "147932574",
@@ -104,19 +117,6 @@
           "1:05:27",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Georg Weinig",
-        "athleteId": "166650923",
-        "activityId": "20244561251",
-        "name": "Upper mit Schwesterchen",
-        "date": "September 19, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "2:09:15",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 157614.6
+      "totalWithEstimatesKm": 157944.7
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-19T15:00:52.081Z",
+  "generatedAt": "2026-09-19T15:30:38.890Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13606,
+  "totalActivities": 13611,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 156829300,
-    "totalMovingTime": 44793767,
-    "totalElevation": 1110923.6
+    "totalDistance": 157003600,
+    "totalMovingTime": 44840687,
+    "totalElevation": 1113102.6
   },
   "monthStats": {
-    "totalDistance": 18024200,
-    "totalMovingTime": 5307540,
+    "totalDistance": 18198500,
+    "totalMovingTime": 5354460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11948600,
-    "totalMovingTime": 3355500,
-    "count": 1006
+    "totalDistance": 12122900,
+    "totalMovingTime": 3402420,
+    "count": 1016
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,74 +48,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 141032.3,
+    "measuredDistanceKm": 141206.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20241212798",
-        "name": "Op de gemak zwemmen is toch ferm mislukt 😅",
+        "athlete": "Vincent Glößner",
+        "athleteId": "60518823",
+        "activityId": "20242320158",
+        "name": "Lauf am Nachmittag",
         "date": "September 19, 2026",
-        "distanceKm": 1,
+        "distanceKm": 1.5,
         "stats": [
-          "1.0 km",
-          "42:19",
+          "1.5 km",
+          "15:27",
+          "5 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20242426975",
+        "name": "Afternoon Run",
+        "date": "September 19, 2026",
+        "distanceKm": 4,
+        "stats": [
+          "4.0 km",
+          "42:23",
+          "23 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20242186574",
+        "name": "Afternoon Weight Training",
+        "date": "September 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:03:13",
           "0 m"
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20241053249",
-        "name": "Marche dans l'après-midi",
+        "athlete": "Ruben Baumann",
+        "athleteId": "30612041",
+        "activityId": "20242275537",
+        "name": "Fahrt am Nachmittag",
         "date": "September 19, 2026",
-        "distanceKm": 3.8,
+        "distanceKm": 24.2,
         "stats": [
-          "3.8 km",
-          "52:37",
-          "47 m"
+          "24.2 km",
+          "1:29:59",
+          "50 m"
         ]
       },
       {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20241324474",
-        "name": "Afternoon Walk",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20242184520",
+        "name": "Lunch Hike",
         "date": "September 19, 2026",
-        "distanceKm": 9,
+        "distanceKm": 12.8,
         "stats": [
-          "9.0 km",
-          "1:46:43",
-          "107 m"
-        ]
-      },
-      {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "20242074665",
-        "name": "Sortie vélo le midi - zwischen den Quellen von Tarn, Lozère und Ardeche",
-        "date": "September 19, 2026",
-        "distanceKm": 60.5,
-        "stats": [
-          "60.5 km",
-          "4:54:22",
-          "1,232 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20241260580",
-        "name": "Tag 1 am Lago...",
-        "date": "September 19, 2026",
-        "distanceKm": 72.5,
-        "stats": [
-          "72.5 km",
-          "5:24:55",
-          "992 m"
+          "12.8 km",
+          "4:54:29",
+          "540 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 156829.3
+      "totalWithEstimatesKm": 157003.6
     }
   }
 }

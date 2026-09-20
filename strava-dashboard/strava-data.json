@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T05:30:40.664Z",
+  "generatedAt": "2026-09-20T06:00:48.159Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13654,
+  "totalActivities": 13655,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 158287300,
-    "totalMovingTime": 45213167,
-    "totalElevation": 1126829.6
+    "totalDistance": 158299800,
+    "totalMovingTime": 45220187,
+    "totalElevation": 1127057.6
   },
   "monthStats": {
-    "totalDistance": 19482200,
-    "totalMovingTime": 5726940,
+    "totalDistance": 19494700,
+    "totalMovingTime": 5733960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13406600,
-    "totalMovingTime": 3774900,
-    "count": 1090
+    "totalDistance": 13419100,
+    "totalMovingTime": 3781920,
+    "count": 1091
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 142490.3,
+    "measuredDistanceKm": 142502.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "0 km",
           "37:10",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20249208805",
+        "name": "Morning Run",
+        "date": "September 20, 2026",
+        "distanceKm": 12.5,
+        "stats": [
+          "12.5 km",
+          "2:00:59",
+          "228 m"
         ]
       },
       {
@@ -104,19 +117,6 @@
           "53:04",
           "181 m"
         ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20246360869",
-        "name": "Camminata serale",
-        "date": "September 19, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "3:53:19",
-          "5 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 158287.3
+      "totalWithEstimatesKm": 158299.8
     }
   }
 }

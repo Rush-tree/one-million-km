@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-20T07:00:53.951Z",
+  "generatedAt": "2026-09-20T07:32:48.356Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 1096,
-    "distanceKm": 13475.4,
-    "elevationM": 117284,
-    "movingSeconds": 3802080,
+    "activities": 1098,
+    "distanceKm": 13490.3,
+    "elevationM": 117310,
+    "movingSeconds": 3807600,
     "raw": {
-      "activities": "1096",
-      "distance": "13,475.4 km",
-      "time": "1,056 h 8 m",
-      "elevation": "117,284 m"
+      "activities": "1098",
+      "distance": "13,490.3 km",
+      "time": "1,057 h 40 m",
+      "elevation": "117,310 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20249814124",
+      "name": "Pilates mattutino",
+      "date": "September 20, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "14:57",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -30,29 +43,29 @@
       ]
     },
     {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20249143676",
-      "name": "Morning Activity",
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20249635714",
+      "name": "Corsa mattutina",
       "date": "September 20, 2026",
-      "distanceKm": 0,
+      "distanceKm": 14.9,
       "stats": [
-        "0 km",
-        "37:10",
-        "0 m"
+        "14.9 km",
+        "1:17:59",
+        "26 m"
       ]
     },
     {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "20249208805",
-      "name": "Morning Run",
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "20249463790",
+      "name": "582 / 730 gün koşusu ( maratonu )",
       "date": "September 20, 2026",
-      "distanceKm": 12.5,
+      "distanceKm": 21.1,
       "stats": [
-        "12.5 km",
-        "2:00:59",
-        "228 m"
+        "21.1 km",
+        "1:34:36",
+        "74 m"
       ]
     },
     {
@@ -67,19 +80,6 @@
         "5:23:10",
         "81 m"
       ]
-    },
-    {
-      "athlete": "Bülent Sevil",
-      "athleteId": "156559910",
-      "activityId": "20249463790",
-      "name": "Açık alanda koşu",
-      "date": "September 20, 2026",
-      "distanceKm": 21.1,
-      "stats": [
-        "21.1 km",
-        "1:34:36",
-        "74 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 19551,
-  "totalDistanceKm": 142559.1,
+  "observedWeeksKm": 19565.9,
+  "totalDistanceKm": 142574,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 158356.1
+    "totalWithEstimatesKm": 158371
   }
 }

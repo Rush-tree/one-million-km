@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T07:00:53.951Z",
+  "generatedAt": "2026-09-20T07:32:48.356Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13660,
+  "totalActivities": 13662,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 158356100,
-    "totalMovingTime": 45240347,
-    "totalElevation": 1127217.6
+    "totalDistance": 158371000,
+    "totalMovingTime": 45245867,
+    "totalElevation": 1127243.6
   },
   "monthStats": {
-    "totalDistance": 19551000,
-    "totalMovingTime": 5754120,
+    "totalDistance": 19565900,
+    "totalMovingTime": 5759640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13475400,
-    "totalMovingTime": 3802080,
-    "count": 1096
+    "totalDistance": 13490300,
+    "totalMovingTime": 3807600,
+    "count": 1098
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 142559.1,
+    "measuredDistanceKm": 142574,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20249814124",
+        "name": "Pilates mattutino",
+        "date": "September 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "14:57",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -67,29 +80,29 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20249143676",
-        "name": "Morning Activity",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20249635714",
+        "name": "Corsa mattutina",
         "date": "September 20, 2026",
-        "distanceKm": 0,
+        "distanceKm": 14.9,
         "stats": [
-          "0 km",
-          "37:10",
-          "0 m"
+          "14.9 km",
+          "1:17:59",
+          "26 m"
         ]
       },
       {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20249208805",
-        "name": "Morning Run",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20249463790",
+        "name": "582 / 730 gün koşusu ( maratonu )",
         "date": "September 20, 2026",
-        "distanceKm": 12.5,
+        "distanceKm": 21.1,
         "stats": [
-          "12.5 km",
-          "2:00:59",
-          "228 m"
+          "21.1 km",
+          "1:34:36",
+          "74 m"
         ]
       },
       {
@@ -103,19 +116,6 @@
           "24.4 km",
           "5:23:10",
           "81 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20249463790",
-        "name": "Açık alanda koşu",
-        "date": "September 20, 2026",
-        "distanceKm": 21.1,
-        "stats": [
-          "21.1 km",
-          "1:34:36",
-          "74 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 158356.1
+      "totalWithEstimatesKm": 158371
     }
   }
 }

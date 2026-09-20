@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T13:30:42.905Z",
+  "generatedAt": "2026-09-20T15:30:40.329Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13671,
+  "totalActivities": 13725,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 160282000,
-    "totalMovingTime": 45594767,
-    "totalElevation": 1143428.6
+    "totalDistance": 160318500,
+    "totalMovingTime": 45746987,
+    "totalElevation": 1146879.6
   },
   "monthStats": {
-    "totalDistance": 21476900,
-    "totalMovingTime": 6108540,
+    "totalDistance": 21513400,
+    "totalMovingTime": 6260760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 15401300,
-    "totalMovingTime": 4156500,
-    "count": 1173
+    "totalDistance": 15437800,
+    "totalMovingTime": 4308720,
+    "count": 1205
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,73 +48,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 144485,
+    "measuredDistanceKm": 144521.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20255084754",
-        "name": "Afternoon Ride",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20256839851",
+        "name": "Morning Walk",
+        "date": "September 20, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "11:23",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20256662352",
+        "name": "Morning Run",
+        "date": "September 20, 2026",
+        "distanceKm": 5.3,
+        "stats": [
+          "5.3 km",
+          "31:34",
+          "74 m"
+        ]
+      },
+      {
+        "athlete": "Elsa Rottluff",
+        "athleteId": "110130704",
+        "activityId": "20256594125",
+        "name": "Afternoon Workout",
         "date": "September 20, 2026",
         "distanceKm": 0,
         "stats": [
-          "0.0 km",
+          "0 km",
+          "1:28:25",
           "0 m"
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20255183498",
-        "name": "Marche dans l'après-midi",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20257042233",
+        "name": "Spaziergang am Nachmittag",
         "date": "September 20, 2026",
-        "distanceKm": 3.4,
+        "distanceKm": 7,
         "stats": [
-          "3.4 km",
-          "1:03:43",
-          "45 m"
+          "7.0 km",
+          "2:00:19",
+          "127 m"
         ]
       },
       {
-        "athlete": "Lukas Baumann",
-        "athleteId": "16802593",
-        "activityId": "20254502137",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Marisa Funk",
+        "athleteId": "157343980",
+        "activityId": "20256720553",
+        "name": "Sonntagsrunde",
         "date": "September 20, 2026",
-        "distanceKm": 23.1,
+        "distanceKm": 61.9,
         "stats": [
-          "23.1 km",
-          "54:22",
-          "38 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20254530323",
-        "name": "Lauf am Nachmittag",
-        "date": "September 20, 2026",
-        "distanceKm": 11,
-        "stats": [
-          "11.0 km",
-          "59:22",
-          "94 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20255051278",
-        "name": "Lunch Trail Run",
-        "date": "September 20, 2026",
-        "distanceKm": 27.2,
-        "stats": [
-          "27.2 km",
-          "4:03:33",
-          "552 m"
+          "61.9 km",
+          "2:12:09",
+          "546 m"
         ]
       }
     ],
@@ -136,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 160282
+      "totalWithEstimatesKm": 160318.5
     }
   }
 }

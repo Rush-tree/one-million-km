@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T01:00:50.924Z",
+  "generatedAt": "2026-09-20T01:20:16.593Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 158125900,
-    "totalMovingTime": 45179207,
-    "totalElevation": 1126213.6
+    "totalDistance": 158149100,
+    "totalMovingTime": 45182387,
+    "totalElevation": 1126394.6
   },
   "monthStats": {
-    "totalDistance": 19320800,
-    "totalMovingTime": 5692980,
+    "totalDistance": 19344000,
+    "totalMovingTime": 5696160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13245200,
-    "totalMovingTime": 3740940,
-    "count": 1083
+    "totalDistance": 13268400,
+    "totalMovingTime": 3744120,
+    "count": 1084
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 142328.9,
+    "measuredDistanceKm": 142352.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20247881844",
+        "name": "Pista, pista 🚴🏽",
+        "date": "September 19, 2026",
+        "distanceKm": 23.2,
+        "stats": [
+          "23.2 km",
+          "53:04",
+          "181 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -64,19 +77,6 @@
           "21.2 km",
           "1:44:05",
           "109 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20245384760",
-        "name": "Evening Walk",
-        "date": "September 19, 2026",
-        "distanceKm": 2.2,
-        "stats": [
-          "2.2 km",
-          "28:12",
-          "20 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 158125.9
+      "totalWithEstimatesKm": 158149.1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T06:34:17.238Z",
+  "generatedAt": "2026-09-20T07:00:53.951Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13658,
+  "totalActivities": 13660,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 158335000,
-    "totalMovingTime": 45233687,
-    "totalElevation": 1127143.6
+    "totalDistance": 158356100,
+    "totalMovingTime": 45240347,
+    "totalElevation": 1127217.6
   },
   "monthStats": {
-    "totalDistance": 19529900,
-    "totalMovingTime": 5747460,
+    "totalDistance": 19551000,
+    "totalMovingTime": 5754120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13454300,
-    "totalMovingTime": 3795420,
-    "count": 1094
+    "totalDistance": 13475400,
+    "totalMovingTime": 3802080,
+    "count": 1096
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 142538,
+    "measuredDistanceKm": 142559.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20249479326",
+        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "date": "September 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:19",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -80,32 +93,6 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20248949123",
-        "name": "Sabah Sürüş",
-        "date": "September 20, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "20:19",
-          "9 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20249396712",
-        "name": "SEPTEMBER MNG RIDE NO 20 🚵‍♂️",
-        "date": "September 20, 2026",
-        "distanceKm": 66.8,
-        "stats": [
-          "66.8 km",
-          "3:47:15",
-          "66 m"
-        ]
-      },
-      {
         "athlete": "Mangala Pai",
         "athleteId": "118301293",
         "activityId": "20249266654",
@@ -116,6 +103,19 @@
           "24.4 km",
           "5:23:10",
           "81 m"
+        ]
+      },
+      {
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20249463790",
+        "name": "Açık alanda koşu",
+        "date": "September 20, 2026",
+        "distanceKm": 21.1,
+        "stats": [
+          "21.1 km",
+          "1:34:36",
+          "74 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 158335
+      "totalWithEstimatesKm": 158356.1
     }
   }
 }

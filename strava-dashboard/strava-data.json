@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T19:35:00.143Z",
+  "generatedAt": "2026-09-20T20:00:48.225Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13740,
+  "totalActivities": 13742,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 160946100,
-    "totalMovingTime": 45899327,
-    "totalElevation": 1151992.6
+    "totalDistance": 160951200,
+    "totalMovingTime": 45903047,
+    "totalElevation": 1152012.6
   },
   "monthStats": {
-    "totalDistance": 22141000,
-    "totalMovingTime": 6413100,
+    "totalDistance": 22146100,
+    "totalMovingTime": 6416820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 16065400,
-    "totalMovingTime": 4461060,
-    "count": 1236
+    "totalDistance": 16070500,
+    "totalMovingTime": 4464780,
+    "count": 1237
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145149.1,
+    "measuredDistanceKm": 145154.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "0 km",
           "20:00",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20259943959",
+        "name": "Evening sunset walk ☀️🌤️",
+        "date": "September 20, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "1:27:12",
+          "20 m"
         ]
       },
       {
@@ -90,19 +103,6 @@
           "12.5 km",
           "3:11:36",
           "176 m"
-        ]
-      },
-      {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "20258719417",
-        "name": "Santa Rosa y Fco Sarabia 🚴🏽",
-        "date": "September 20, 2026",
-        "distanceKm": 72.4,
-        "stats": [
-          "72.4 km",
-          "3:03:26",
-          "484 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 160946.1
+      "totalWithEstimatesKm": 160951.2
     }
   }
 }

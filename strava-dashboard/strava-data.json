@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T08:00:52.966Z",
+  "generatedAt": "2026-09-20T08:30:40.361Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13664,
+  "totalActivities": 13667,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 158391700,
-    "totalMovingTime": 45248987,
-    "totalElevation": 1127421.6
+    "totalDistance": 158411900,
+    "totalMovingTime": 45254567,
+    "totalElevation": 1127649.6
   },
   "monthStats": {
-    "totalDistance": 19586600,
-    "totalMovingTime": 5762760,
+    "totalDistance": 19606800,
+    "totalMovingTime": 5768340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13511000,
-    "totalMovingTime": 3810720,
-    "count": 1100
+    "totalDistance": 13531200,
+    "totalMovingTime": 3816300,
+    "count": 1102
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 142594.7,
+    "measuredDistanceKm": 142614.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "0 km",
           "14:57",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20250201266",
+        "name": "Grundlage - LongRun",
+        "date": "September 20, 2026",
+        "distanceKm": 13.4,
+        "stats": [
+          "13.4 km",
+          "1:19:41",
+          "145 m"
         ]
       },
       {
@@ -104,19 +117,6 @@
           "1:34:36",
           "74 m"
         ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20249266654",
-        "name": "Pedal Warriors Ride to Khetwadi,Girgaon,Tardeo and Haji Ali for beautiful Ganapati",
-        "date": "September 20, 2026",
-        "distanceKm": 24.4,
-        "stats": [
-          "24.4 km",
-          "5:23:10",
-          "81 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 158391.7
+      "totalWithEstimatesKm": 158411.9
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-20T20:30:38.635Z",
+  "generatedAt": "2026-09-20T21:00:49.617Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 14, 2026 - Sep 20, 2026",
-    "activities": 1237,
-    "distanceKm": 16070.5,
-    "elevationM": 142079,
-    "movingSeconds": 4464780,
+    "activities": 1239,
+    "distanceKm": 16073.3,
+    "elevationM": 142095,
+    "movingSeconds": 4467480,
     "raw": {
-      "activities": "1237",
-      "distance": "16,070.5 km",
-      "time": "1,240 h 13 m",
-      "elevation": "142,079 m"
+      "activities": "1239",
+      "distance": "16,073.3 km",
+      "time": "1,240 h 58 m",
+      "elevation": "142,095 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cristian Stănciulescu",
+      "athleteId": "67352997",
+      "activityId": "20260422847",
+      "name": "Night Walk",
+      "date": "September 20, 2026",
+      "distanceKm": 1.5,
+      "stats": [
+        "1.5 km",
+        "33:56",
+        "4 m"
+      ]
+    },
     {
       "athlete": "Johannes Tangel",
       "athleteId": "127575472",
@@ -67,19 +80,6 @@
         "3:11:36",
         "176 m"
       ]
-    },
-    {
-      "athlete": "Hans-Georg Acker ♣",
-      "athleteId": "34456629",
-      "activityId": "20258846023",
-      "name": "Back again 🇦🇹♣️🌤🚴🏻‍♂️🚴🏻‍♂️🚴🏻‍♂️",
-      "date": "September 20, 2026",
-      "distanceKm": 81.9,
-      "stats": [
-        "81.9 km",
-        "4:04:05",
-        "454 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22146.1,
-  "totalDistanceKm": 145154.2,
+  "observedWeeksKm": 22148.9,
+  "totalDistanceKm": 145157,
   "weeksTracked": 2,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 160951.2
+    "totalWithEstimatesKm": 160954
   }
 }

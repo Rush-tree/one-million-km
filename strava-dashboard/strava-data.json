@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T12:31:43.284Z",
+  "generatedAt": "2026-09-20T13:00:49.717Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13698,
+  "totalActivities": 13700,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 159620100,
-    "totalMovingTime": 45548687,
-    "totalElevation": 1137112.6
+    "totalDistance": 159673300,
+    "totalMovingTime": 45558947,
+    "totalElevation": 1137554.6
   },
   "monthStats": {
-    "totalDistance": 20815000,
-    "totalMovingTime": 6062460,
+    "totalDistance": 20868200,
+    "totalMovingTime": 6072720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14739400,
-    "totalMovingTime": 4110420,
-    "count": 1165
+    "totalDistance": 14792600,
+    "totalMovingTime": 4120680,
+    "count": 1168
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,35 +48,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 143823.1,
+    "measuredDistanceKm": 143876.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20254107025",
-        "name": "Corrida matinal",
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20254433045",
+        "name": "Pedalada matinal",
         "date": "September 20, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 0.8,
         "stats": [
-          "4.4 km",
-          "30:04",
-          "49 m"
+          "0.8 km",
+          "8:56",
+          "9 m"
         ]
       },
       {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20254064857",
-        "name": "Afternoon Weight Training",
+        "athlete": "Lukas Baumann",
+        "athleteId": "16802593",
+        "activityId": "20254502137",
+        "name": "Fahrt am Nachmittag",
         "date": "September 20, 2026",
-        "distanceKm": 0,
+        "distanceKm": 23.1,
         "stats": [
-          "0 km",
-          "46:25",
-          "0 m"
+          "23.1 km",
+          "54:22",
+          "38 m"
+        ]
+      },
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20254530323",
+        "name": "Lauf am Nachmittag",
+        "date": "September 20, 2026",
+        "distanceKm": 11,
+        "stats": [
+          "11.0 km",
+          "59:22",
+          "94 m"
         ]
       },
       {
@@ -93,23 +106,10 @@
         ]
       },
       {
-        "athlete": "Heiko Kraushaar",
-        "athleteId": "78179687",
-        "activityId": "20254233471",
-        "name": "Morning Ride",
-        "date": "September 20, 2026",
-        "distanceKm": 102,
-        "stats": [
-          "102.0 km",
-          "3:45:13",
-          "897 m"
-        ]
-      },
-      {
         "athlete": "Ricardo Ferre",
         "athleteId": "45223374",
         "activityId": "20254235733",
-        "name": "Lauf am Morgen",
+        "name": "Heidelberg 30k trail run",
         "date": "September 20, 2026",
         "distanceKm": 31.4,
         "stats": [
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 159620.1
+      "totalWithEstimatesKm": 159673.3
     }
   }
 }

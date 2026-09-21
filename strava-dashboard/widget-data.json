@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T22:00:49.706Z",
+  "generatedAt": "2026-09-21T22:30:41.575Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 151,
-    "distanceKm": 1491,
-    "elevationM": 8414,
-    "movingSeconds": 475500,
+    "activities": 152,
+    "distanceKm": 1499,
+    "elevationM": 8534,
+    "movingSeconds": 481200,
     "raw": {
-      "activities": "151",
-      "distance": "1,491.0 km",
-      "time": "132 h 5 m",
-      "elevation": "8,414 m"
+      "activities": "152",
+      "distance": "1,499.0 km",
+      "time": "133 h 40 m",
+      "elevation": "8,534 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Henrique Juhas",
+      "athleteId": "118657757",
+      "activityId": "20273680251",
+      "name": "Corrida da tarde",
+      "date": "September 21, 2026",
+      "distanceKm": 8,
+      "stats": [
+        "8.0 km",
+        "1:38:16",
+        "120 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -67,19 +80,6 @@
         "1:08:17",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20271985846",
-      "name": "Abendlauf",
-      "date": "September 21, 2026",
-      "distanceKm": 10.4,
-      "stats": [
-        "10.4 km",
-        "45:16",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 23639.9,
-  "totalDistanceKm": 146648,
+  "observedWeeksKm": 23647.9,
+  "totalDistanceKm": 146656,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 162445
+    "totalWithEstimatesKm": 162453
   }
 }

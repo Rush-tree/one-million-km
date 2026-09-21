@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T22:00:49.706Z",
+  "generatedAt": "2026-09-21T22:30:41.575Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13915,
+  "totalActivities": 13916,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162445000,
-    "totalMovingTime": 46381247,
-    "totalElevation": 1160442.6
+    "totalDistance": 162453000,
+    "totalMovingTime": 46386947,
+    "totalElevation": 1160562.6
   },
   "monthStats": {
-    "totalDistance": 23639900,
-    "totalMovingTime": 6895020,
+    "totalDistance": 23647900,
+    "totalMovingTime": 6900720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1491000,
-    "totalMovingTime": 475500,
-    "count": 151
+    "totalDistance": 1499000,
+    "totalMovingTime": 481200,
+    "count": 152
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146648,
+    "measuredDistanceKm": 146656,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Henrique Juhas",
+        "athleteId": "118657757",
+        "activityId": "20273680251",
+        "name": "Corrida da tarde",
+        "date": "September 21, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "1:38:16",
+          "120 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -104,19 +117,6 @@
           "1:08:17",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20271985846",
-        "name": "Abendlauf",
-        "date": "September 21, 2026",
-        "distanceKm": 10.4,
-        "stats": [
-          "10.4 km",
-          "45:16",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162445
+      "totalWithEstimatesKm": 162453
     }
   }
 }

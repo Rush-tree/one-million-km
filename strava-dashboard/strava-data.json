@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T05:00:52.356Z",
+  "generatedAt": "2026-09-21T05:30:41.470Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13764,
+  "totalActivities": 13769,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161099200,
-    "totalMovingTime": 45953807,
-    "totalElevation": 1152614.6
+    "totalDistance": 161137100,
+    "totalMovingTime": 45967067,
+    "totalElevation": 1153015.6
   },
   "monthStats": {
-    "totalDistance": 22294100,
-    "totalMovingTime": 6467580,
+    "totalDistance": 22332000,
+    "totalMovingTime": 6480840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 145200,
-    "totalMovingTime": 48060,
-    "count": 16
+    "totalDistance": 183100,
+    "totalMovingTime": 61320,
+    "count": 20
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145302.2,
+    "measuredDistanceKm": 145340.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20263044026",
+        "name": "Morning Ride",
+        "date": "September 21, 2026",
+        "distanceKm": 6.6,
+        "stats": [
+          "6.6 km",
+          "17:42",
+          "4 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -67,16 +80,16 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20262741889",
-        "name": "Morning Activity",
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20262972653",
+        "name": "Morning Run",
         "date": "September 21, 2026",
-        "distanceKm": 0,
+        "distanceKm": 9,
         "stats": [
-          "0 km",
-          "20:26",
-          "0 m"
+          "9.0 km",
+          "1:26:58",
+          "155 m"
         ]
       },
       {
@@ -90,19 +103,6 @@
           "17.0 km",
           "1:40:32",
           "50 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20262628107",
-        "name": "Gewichtstraining am Morgen",
-        "date": "September 21, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "33:35",
-          "0 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161099.2
+      "totalWithEstimatesKm": 161137.1
     }
   }
 }

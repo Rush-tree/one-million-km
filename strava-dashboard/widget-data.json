@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T05:00:52.356Z",
+  "generatedAt": "2026-09-21T05:30:41.470Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 16,
-    "distanceKm": 145.2,
-    "elevationM": 586,
-    "movingSeconds": 48060,
+    "activities": 20,
+    "distanceKm": 183.1,
+    "elevationM": 987,
+    "movingSeconds": 61320,
     "raw": {
-      "activities": "16",
-      "distance": "145.2 km",
-      "time": "13 h 21 m",
-      "elevation": "586 m"
+      "activities": "20",
+      "distance": "183.1 km",
+      "time": "17 h 2 m",
+      "elevation": "987 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20263044026",
+      "name": "Morning Ride",
+      "date": "September 21, 2026",
+      "distanceKm": 6.6,
+      "stats": [
+        "6.6 km",
+        "17:42",
+        "4 m"
+      ]
+    },
     {
       "athlete": "Jasper Mermans",
       "athleteId": "25786886",
@@ -30,16 +43,16 @@
       ]
     },
     {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20262741889",
-      "name": "Morning Activity",
+      "athlete": "Louis Mwanja",
+      "athleteId": "14992965",
+      "activityId": "20262972653",
+      "name": "Morning Run",
       "date": "September 21, 2026",
-      "distanceKm": 0,
+      "distanceKm": 9,
       "stats": [
-        "0 km",
-        "20:26",
-        "0 m"
+        "9.0 km",
+        "1:26:58",
+        "155 m"
       ]
     },
     {
@@ -53,19 +66,6 @@
         "17.0 km",
         "1:40:32",
         "50 m"
-      ]
-    },
-    {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "20262628107",
-      "name": "Gewichtstraining am Morgen",
-      "date": "September 21, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "33:35",
-        "0 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22294.1,
-  "totalDistanceKm": 145302.2,
+  "observedWeeksKm": 22332,
+  "totalDistanceKm": 145340.1,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161099.2
+    "totalWithEstimatesKm": 161137.1
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T23:00:57.529Z",
+  "generatedAt": "2026-09-21T23:26:35.508Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 153,
-    "distanceKm": 1500.4,
-    "elevationM": 8544,
-    "movingSeconds": 482460,
+    "activities": 154,
+    "distanceKm": 1515.5,
+    "elevationM": 8711,
+    "movingSeconds": 485520,
     "raw": {
-      "activities": "153",
-      "distance": "1,500.4 km",
-      "time": "134 h 1 m",
-      "elevation": "8,544 m"
+      "activities": "154",
+      "distance": "1,515.5 km",
+      "time": "134 h 52 m",
+      "elevation": "8,711 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20274195937",
+      "name": "Pedalada ao entardecer",
+      "date": "September 21, 2026",
+      "distanceKm": 15,
+      "stats": [
+        "15.0 km",
+        "55:55",
+        "167 m"
+      ]
+    },
     {
       "athlete": "Henrique Juhas",
       "athleteId": "118657757",
@@ -67,19 +80,6 @@
         "1:54:02",
         "159 m"
       ]
-    },
-    {
-      "athlete": "Shubham Kumar",
-      "athleteId": "161648421",
-      "activityId": "20272512069",
-      "name": "Evening Padel",
-      "date": "September 21, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:08:17",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 23649.3,
-  "totalDistanceKm": 146657.4,
+  "observedWeeksKm": 23664.4,
+  "totalDistanceKm": 146672.5,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 162454.4
+    "totalWithEstimatesKm": 162469.5
   }
 }

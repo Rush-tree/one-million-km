@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T20:30:40.159Z",
+  "generatedAt": "2026-09-21T21:00:55.128Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13913,
+  "totalActivities": 13915,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162411000,
-    "totalMovingTime": 46373267,
-    "totalElevation": 1160194.6
+    "totalDistance": 162445000,
+    "totalMovingTime": 46381247,
+    "totalElevation": 1160442.6
   },
   "monthStats": {
-    "totalDistance": 23605900,
-    "totalMovingTime": 6887040,
+    "totalDistance": 23639900,
+    "totalMovingTime": 6895020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1457000,
-    "totalMovingTime": 467520,
-    "count": 149
+    "totalDistance": 1491000,
+    "totalMovingTime": 475500,
+    "count": 151
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146614,
+    "measuredDistanceKm": 146648,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20272976439",
+        "name": "Pedalada da tarde",
+        "date": "September 21, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "22:28",
+          "89 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -64,6 +77,19 @@
           "21.0 km",
           "48:50",
           "123 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20272942750",
+        "name": "Evening Run",
+        "date": "September 21, 2026",
+        "distanceKm": 26,
+        "stats": [
+          "26.0 km",
+          "1:54:02",
+          "159 m"
         ]
       },
       {
@@ -91,32 +117,6 @@
           "45:16",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Britta Prasse",
-        "athleteId": "200634990",
-        "activityId": "20271390183",
-        "name": "Spaziergang am Abend",
-        "date": "September 21, 2026",
-        "distanceKm": 3.5,
-        "stats": [
-          "3.5 km",
-          "47:14",
-          "66 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20271580055",
-        "name": "Evening walk ☀️☀️",
-        "date": "September 21, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "1:35:30",
-          "4 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162411
+      "totalWithEstimatesKm": 162445
     }
   }
 }

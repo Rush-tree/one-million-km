@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T07:30:40.388Z",
+  "generatedAt": "2026-09-21T08:00:54.483Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 31,
-    "distanceKm": 287.9,
-    "elevationM": 1799,
-    "movingSeconds": 86700,
+    "activities": 34,
+    "distanceKm": 298.2,
+    "elevationM": 1903,
+    "movingSeconds": 91740,
     "raw": {
-      "activities": "31",
-      "distance": "287.9 km",
-      "time": "24 h 5 m",
-      "elevation": "1,799 m"
+      "activities": "34",
+      "distance": "298.2 km",
+      "time": "25 h 29 m",
+      "elevation": "1,903 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20263949399",
+      "name": "Morning Walk",
+      "date": "September 21, 2026",
+      "distanceKm": 2.4,
+      "stats": [
+        "2.4 km",
+        "24:13",
+        "8 m"
+      ]
+    },
     {
       "athlete": "Phil Duffy",
       "athleteId": "17634808",
@@ -27,6 +40,19 @@
         "2.6 km",
         "16:20",
         "19 m"
+      ]
+    },
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20263854766",
+      "name": "Morning Run",
+      "date": "September 21, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "36:16",
+        "45 m"
       ]
     },
     {
@@ -54,32 +80,6 @@
         "31:07",
         "57 m"
       ]
-    },
-    {
-      "athlete": "Falko Frese",
-      "athleteId": "11833410",
-      "activityId": "20263518840",
-      "name": "Zwift - Morning Spin",
-      "date": "September 21, 2026",
-      "distanceKm": 36.7,
-      "stats": [
-        "36.7 km",
-        "1:05:28",
-        "255 m"
-      ]
-    },
-    {
-      "athlete": "# MarshmallowBen",
-      "athleteId": "114783849",
-      "activityId": "20263487869",
-      "name": "Arbeitsweg+ SHW",
-      "date": "September 21, 2026",
-      "distanceKm": 21.9,
-      "stats": [
-        "21.9 km",
-        "49:55",
-        "27 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22436.8,
-  "totalDistanceKm": 145444.9,
+  "observedWeeksKm": 22447.1,
+  "totalDistanceKm": 145455.2,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161241.9
+    "totalWithEstimatesKm": 161252.2
   }
 }

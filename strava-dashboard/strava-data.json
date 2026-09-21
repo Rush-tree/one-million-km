@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T07:30:40.388Z",
+  "generatedAt": "2026-09-21T08:00:54.483Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13781,
+  "totalActivities": 13786,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161241900,
-    "totalMovingTime": 45992447,
-    "totalElevation": 1153827.6
+    "totalDistance": 161252200,
+    "totalMovingTime": 45997487,
+    "totalElevation": 1153931.6
   },
   "monthStats": {
-    "totalDistance": 22436800,
-    "totalMovingTime": 6506220,
+    "totalDistance": 22447100,
+    "totalMovingTime": 6511260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 287900,
-    "totalMovingTime": 86700,
-    "count": 31
+    "totalDistance": 298200,
+    "totalMovingTime": 91740,
+    "count": 34
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145444.9,
+    "measuredDistanceKm": 145455.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20263949399",
+        "name": "Morning Walk",
+        "date": "September 21, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "24:13",
+          "8 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -64,6 +77,19 @@
           "2.6 km",
           "16:20",
           "19 m"
+        ]
+      },
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20263854766",
+        "name": "Morning Run",
+        "date": "September 21, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "36:16",
+          "45 m"
         ]
       },
       {
@@ -91,32 +117,6 @@
           "31:07",
           "57 m"
         ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20263518840",
-        "name": "Zwift - Morning Spin",
-        "date": "September 21, 2026",
-        "distanceKm": 36.7,
-        "stats": [
-          "36.7 km",
-          "1:05:28",
-          "255 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20263487869",
-        "name": "Arbeitsweg+ SHW",
-        "date": "September 21, 2026",
-        "distanceKm": 21.9,
-        "stats": [
-          "21.9 km",
-          "49:55",
-          "27 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161241.9
+      "totalWithEstimatesKm": 161252.2
     }
   }
 }

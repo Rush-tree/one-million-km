@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-21T08:30:42.920Z",
+  "generatedAt": "2026-09-21T09:01:59.027Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 35,
-    "distanceKm": 311.1,
-    "elevationM": 1925,
-    "movingSeconds": 95340,
+    "activities": 37,
+    "distanceKm": 328.2,
+    "elevationM": 1934,
+    "movingSeconds": 99900,
     "raw": {
-      "activities": "35",
-      "distance": "311.1 km",
-      "time": "26 h 29 m",
-      "elevation": "1,925 m"
+      "activities": "37",
+      "distance": "328.2 km",
+      "time": "27 h 45 m",
+      "elevation": "1,934 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20264318900",
+      "name": "HIIT matinal",
+      "date": "September 21, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "34:54",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "20264389622",
+      "name": "Ciclismo mattutino",
+      "date": "September 21, 2026",
+      "distanceKm": 17,
+      "stats": [
+        "17.0 km",
+        "1:04:00",
+        "9 m"
+      ]
+    },
     {
       "athlete": "Phil Duffy",
       "athleteId": "17634808",
@@ -54,32 +80,6 @@
         "36:16",
         "45 m"
       ]
-    },
-    {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20263824896",
-      "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-      "date": "September 21, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "17:30",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Alfonso Contreras Calderón",
-      "athleteId": "123434994",
-      "activityId": "20263569273",
-      "name": "Carrera de mañana",
-      "date": "September 21, 2026",
-      "distanceKm": 6.2,
-      "stats": [
-        "6.2 km",
-        "31:07",
-        "57 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22460,
-  "totalDistanceKm": 145468.1,
+  "observedWeeksKm": 22477.1,
+  "totalDistanceKm": 145485.2,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161265.1
+    "totalWithEstimatesKm": 161282.2
   }
 }

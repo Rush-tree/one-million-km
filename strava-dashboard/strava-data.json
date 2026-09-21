@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T08:30:42.920Z",
+  "generatedAt": "2026-09-21T09:01:59.027Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13787,
+  "totalActivities": 13789,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161265100,
-    "totalMovingTime": 46001087,
-    "totalElevation": 1153953.6
+    "totalDistance": 161282200,
+    "totalMovingTime": 46005647,
+    "totalElevation": 1153962.6
   },
   "monthStats": {
-    "totalDistance": 22460000,
-    "totalMovingTime": 6514860,
+    "totalDistance": 22477100,
+    "totalMovingTime": 6519420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 311100,
-    "totalMovingTime": 95340,
-    "count": 35
+    "totalDistance": 328200,
+    "totalMovingTime": 99900,
+    "count": 37
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145468.1,
+    "measuredDistanceKm": 145485.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20264318900",
+        "name": "HIIT matinal",
+        "date": "September 21, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "34:54",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20264389622",
+        "name": "Ciclismo mattutino",
+        "date": "September 21, 2026",
+        "distanceKm": 17,
+        "stats": [
+          "17.0 km",
+          "1:04:00",
+          "9 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -91,32 +117,6 @@
           "36:16",
           "45 m"
         ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20263824896",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "September 21, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "17:30",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20263569273",
-        "name": "Carrera de mañana",
-        "date": "September 21, 2026",
-        "distanceKm": 6.2,
-        "stats": [
-          "6.2 km",
-          "31:07",
-          "57 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161265.1
+      "totalWithEstimatesKm": 161282.2
     }
   }
 }

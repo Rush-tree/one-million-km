@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T10:30:40.258Z",
+  "generatedAt": "2026-09-21T11:00:49.336Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13789,
+  "totalActivities": 13793,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161307300,
-    "totalMovingTime": 46008287,
-    "totalElevation": 1154062.6
+    "totalDistance": 161363300,
+    "totalMovingTime": 46023707,
+    "totalElevation": 1154214.6
   },
   "monthStats": {
-    "totalDistance": 22502200,
-    "totalMovingTime": 6522060,
+    "totalDistance": 22558200,
+    "totalMovingTime": 6537480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 353300,
-    "totalMovingTime": 102540,
-    "count": 38
+    "totalDistance": 409300,
+    "totalMovingTime": 117960,
+    "count": 42
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145510.3,
+    "measuredDistanceKm": 145566.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20264318900",
-        "name": "HIIT matinal",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20265442611",
+        "name": "Mittagspaziergang",
         "date": "September 21, 2026",
-        "distanceKm": 0,
+        "distanceKm": 2.8,
         "stats": [
-          "0 km",
-          "34:54",
-          "0 m"
+          "2.8 km",
+          "31:09",
+          "5 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20265282918",
+        "name": "Mittagschwimmen",
+        "date": "September 21, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "37:38",
+          "12 m"
         ]
       },
       {
@@ -80,42 +93,29 @@
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20263949399",
+        "athlete": "Nathalie Reichard",
+        "athleteId": "129991187",
+        "activityId": "20264558217",
+        "name": "3x8000 in Racepace 🤩",
+        "date": "September 21, 2026",
+        "distanceKm": 32,
+        "stats": [
+          "32.0 km",
+          "2:35:36",
+          "46 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20265370561",
         "name": "Morning Walk",
         "date": "September 21, 2026",
-        "distanceKm": 2.4,
+        "distanceKm": 6.4,
         "stats": [
-          "2.4 km",
-          "24:13",
-          "8 m"
-        ]
-      },
-      {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20263787230",
-        "name": "Morning Run",
-        "date": "September 21, 2026",
-        "distanceKm": 2.6,
-        "stats": [
-          "2.6 km",
-          "16:20",
-          "19 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20263854766",
-        "name": "Morning Run",
-        "date": "September 21, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "36:16",
-          "45 m"
+          "6.4 km",
+          "4:12:41",
+          "54 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161307.3
+      "totalWithEstimatesKm": 161363.3
     }
   }
 }

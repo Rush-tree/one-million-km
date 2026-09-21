@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T19:00:51.465Z",
+  "generatedAt": "2026-09-21T19:30:41.209Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13899,
+  "totalActivities": 13900,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162308400,
-    "totalMovingTime": 46345487,
+    "totalDistance": 162318800,
+    "totalMovingTime": 46348187,
     "totalElevation": 1159842.6
   },
   "monthStats": {
-    "totalDistance": 23503300,
-    "totalMovingTime": 6859260,
+    "totalDistance": 23513700,
+    "totalMovingTime": 6861960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1354400,
-    "totalMovingTime": 439740,
-    "count": 137
+    "totalDistance": 1364800,
+    "totalMovingTime": 442440,
+    "count": 138
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146511.4,
+    "measuredDistanceKm": 146521.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20271985846",
+        "name": "Abendlauf",
+        "date": "September 21, 2026",
+        "distanceKm": 10.4,
+        "stats": [
+          "10.4 km",
+          "45:16",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -83,26 +96,13 @@
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
         "activityId": "20271788150",
-        "name": "Yoga am Abend 🧘🏽‍♀️",
+        "name": "Yoga am Abend 🌚",
         "date": "September 21, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
           "1:01:23",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20271124574",
-        "name": "Dag weer schoon afsluiten",
-        "date": "September 21, 2026",
-        "distanceKm": 3.7,
-        "stats": [
-          "3.7 km",
-          "51:28",
-          "8 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162308.4
+      "totalWithEstimatesKm": 162318.8
     }
   }
 }

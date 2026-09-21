@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T19:00:51.465Z",
+  "generatedAt": "2026-09-21T19:30:41.209Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 137,
-    "distanceKm": 1354.4,
+    "activities": 138,
+    "distanceKm": 1364.8,
     "elevationM": 7814,
-    "movingSeconds": 439740,
+    "movingSeconds": 442440,
     "raw": {
-      "activities": "137",
-      "distance": "1,354.4 km",
-      "time": "122 h 9 m",
+      "activities": "138",
+      "distance": "1,364.8 km",
+      "time": "122 h 54 m",
       "elevation": "7,814 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nico Deckarm",
+      "athleteId": "74766538",
+      "activityId": "20271985846",
+      "name": "Abendlauf",
+      "date": "September 21, 2026",
+      "distanceKm": 10.4,
+      "stats": [
+        "10.4 km",
+        "45:16",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -46,26 +59,13 @@
       "athlete": "Marisa Funk",
       "athleteId": "157343980",
       "activityId": "20271788150",
-      "name": "Yoga am Abend 🧘🏽‍♀️",
+      "name": "Yoga am Abend 🌚",
       "date": "September 21, 2026",
       "distanceKm": 0,
       "stats": [
         "0 km",
         "1:01:23",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20271124574",
-      "name": "Dag weer schoon afsluiten",
-      "date": "September 21, 2026",
-      "distanceKm": 3.7,
-      "stats": [
-        "3.7 km",
-        "51:28",
-        "8 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 23503.3,
-  "totalDistanceKm": 146511.4,
+  "observedWeeksKm": 23513.7,
+  "totalDistanceKm": 146521.8,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 162308.4
+    "totalWithEstimatesKm": 162318.8
   }
 }

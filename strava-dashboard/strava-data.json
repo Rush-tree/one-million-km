@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T02:00:49.131Z",
+  "generatedAt": "2026-09-21T02:30:41.900Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13748,
+  "totalActivities": 13750,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 160958000,
-    "totalMovingTime": 45912287,
-    "totalElevation": 1152089.6
+    "totalDistance": 160980100,
+    "totalMovingTime": 45923087,
+    "totalElevation": 1152236.6
   },
   "monthStats": {
-    "totalDistance": 22152900,
-    "totalMovingTime": 6426060,
+    "totalDistance": 22175000,
+    "totalMovingTime": 6436860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4000,
-    "totalMovingTime": 6540,
-    "count": 2
+    "totalDistance": 26100,
+    "totalMovingTime": 17340,
+    "count": 4
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145161,
+    "measuredDistanceKm": 145183.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20262340295",
+        "name": "Morning Ride",
+        "date": "September 21, 2026",
+        "distanceKm": 22.1,
+        "stats": [
+          "22.1 km",
+          "3:09:35",
+          "147 m"
+        ]
+      },
       {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
@@ -77,19 +90,6 @@
           "1.5 km",
           "33:56",
           "4 m"
-        ]
-      },
-      {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "20259301078",
-        "name": "Dennen",
-        "date": "September 20, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "20:00",
-          "0 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 160958
+      "totalWithEstimatesKm": 160980.1
     }
   }
 }

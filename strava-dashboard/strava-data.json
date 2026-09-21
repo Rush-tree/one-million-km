@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T11:30:45.385Z",
+  "generatedAt": "2026-09-21T12:00:53.163Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13793,
+  "totalActivities": 13800,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161363300,
-    "totalMovingTime": 46023707,
-    "totalElevation": 1154214.6
+    "totalDistance": 161453100,
+    "totalMovingTime": 46052147,
+    "totalElevation": 1154477.6
   },
   "monthStats": {
-    "totalDistance": 22558200,
-    "totalMovingTime": 6537480,
+    "totalDistance": 22648000,
+    "totalMovingTime": 6565920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 409300,
-    "totalMovingTime": 117960,
-    "count": 42
+    "totalDistance": 499100,
+    "totalMovingTime": 146400,
+    "count": 49
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,61 +48,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145566.3,
+    "measuredDistanceKm": 145656.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20265442611",
-        "name": "Mittagspaziergang",
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20266231145",
+        "name": "Lauf am Nachmittag",
         "date": "September 21, 2026",
-        "distanceKm": 2.8,
+        "distanceKm": 1.6,
         "stats": [
-          "2.8 km",
-          "31:09",
-          "5 m"
+          "1.6 km",
+          "16:05",
+          "86 m"
         ]
       },
       {
         "athlete": "Daniel Stodden",
         "athleteId": "23274828",
-        "activityId": "20265282918",
-        "name": "Mittagschwimmen",
+        "activityId": "20266303509",
+        "name": "Schwimmen am Nachmittag",
+        "date": "September 21, 2026",
+        "distanceKm": 1.1,
+        "stats": [
+          "1.1 km",
+          "37:30",
+          "29 m"
+        ]
+      },
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20266235896",
+        "name": "Corrida matinal",
+        "date": "September 21, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "40:01",
+          "98 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20266021764",
+        "name": "Afternoon Swim",
         "date": "September 21, 2026",
         "distanceKm": 1,
         "stats": [
           "1.0 km",
-          "37:38",
-          "12 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20264389622",
-        "name": "Ciclismo mattutino",
-        "date": "September 21, 2026",
-        "distanceKm": 17,
-        "stats": [
-          "17.0 km",
-          "1:04:00",
-          "9 m"
-        ]
-      },
-      {
-        "athlete": "Nathalie Reichard",
-        "athleteId": "129991187",
-        "activityId": "20264558217",
-        "name": "3x8000 in Racepace 🤩",
-        "date": "September 21, 2026",
-        "distanceKm": 32,
-        "stats": [
-          "32.0 km",
-          "2:35:36",
-          "46 m"
+          "28:16",
+          "0 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161363.3
+      "totalWithEstimatesKm": 161453.1
     }
   }
 }

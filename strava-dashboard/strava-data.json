@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T18:00:53.461Z",
+  "generatedAt": "2026-09-21T18:30:43.712Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13884,
+  "totalActivities": 13896,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162185900,
-    "totalMovingTime": 46306487,
-    "totalElevation": 1158760.6
+    "totalDistance": 162303900,
+    "totalMovingTime": 46338467,
+    "totalElevation": 1159838.6
   },
   "monthStats": {
-    "totalDistance": 23380800,
-    "totalMovingTime": 6820260,
+    "totalDistance": 23498800,
+    "totalMovingTime": 6852240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1231900,
-    "totalMovingTime": 400740,
-    "count": 124
+    "totalDistance": 1349900,
+    "totalMovingTime": 432720,
+    "count": 135
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146388.9,
+    "measuredDistanceKm": 146506.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20271164502",
+        "name": "Abendlauf",
+        "date": "September 21, 2026",
+        "distanceKm": 4.6,
+        "stats": [
+          "4.6 km",
+          "22:05",
+          "25 m"
+        ]
+      },
+      {
+        "athlete": "Britta Prasse",
+        "athleteId": "200634990",
+        "activityId": "20271390183",
+        "name": "Spaziergang am Abend",
+        "date": "September 21, 2026",
+        "distanceKm": 3.5,
+        "stats": [
+          "3.5 km",
+          "47:14",
+          "66 m"
+        ]
+      },
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20271124574",
+        "name": "Dag weer schoon afsluiten",
+        "date": "September 21, 2026",
+        "distanceKm": 3.7,
+        "stats": [
+          "3.7 km",
+          "51:28",
+          "8 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -64,45 +103,6 @@
           "20.5 km",
           "47:10",
           "99 m"
-        ]
-      },
-      {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "20270774226",
-        "name": "Evening Pilates",
-        "date": "September 21, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "43:18",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20270768867",
-        "name": "Camminata serale",
-        "date": "September 21, 2026",
-        "distanceKm": 3.5,
-        "stats": [
-          "3.5 km",
-          "54:24",
-          "5 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20270758001",
-        "name": "☀ Abendausfahrt",
-        "date": "September 21, 2026",
-        "distanceKm": 22.2,
-        "stats": [
-          "22.2 km",
-          "56:50",
-          "23 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162185.9
+      "totalWithEstimatesKm": 162303.9
     }
   }
 }

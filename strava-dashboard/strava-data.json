@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T03:30:40.068Z",
+  "generatedAt": "2026-09-21T04:01:26.426Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13751,
+  "totalActivities": 13755,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161051400,
-    "totalMovingTime": 45935387,
-    "totalElevation": 1152454.6
+    "totalDistance": 161052700,
+    "totalMovingTime": 45938687,
+    "totalElevation": 1152446.6
   },
   "monthStats": {
-    "totalDistance": 22246300,
-    "totalMovingTime": 6449160,
+    "totalDistance": 22247600,
+    "totalMovingTime": 6452460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 97400,
-    "totalMovingTime": 29640,
-    "count": 7
+    "totalDistance": 98700,
+    "totalMovingTime": 32940,
+    "count": 9
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,42 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145254.4,
+    "measuredDistanceKm": 145255.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20262660515",
+        "name": "Morning Yoga",
+        "date": "September 21, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "15:46",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20262628107",
+        "name": "Gewichtstraining am Morgen",
+        "date": "September 21, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "33:35",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "20262561179",
-        "name": "Rennrad",
+        "name": "Pendel Work",
         "date": "September 21, 2026",
         "distanceKm": 6.1,
         "stats": [
@@ -69,14 +95,14 @@
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
-        "activityId": "20262403747",
-        "name": "☀️ Morning Ride",
+        "activityId": "20262666938",
+        "name": "☀️ SEPTEMBER MNG RIDE NO 21 🚵‍♂️",
         "date": "September 21, 2026",
-        "distanceKm": 63.9,
+        "distanceKm": 65.2,
         "stats": [
-          "63.9 km",
-          "2:53:20",
-          "198 m"
+          "65.2 km",
+          "2:59:38",
+          "189 m"
         ]
       },
       {
@@ -90,32 +116,6 @@
           "22.1 km",
           "3:09:35",
           "147 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20260775516",
-        "name": "Camminata notturna",
-        "date": "September 20, 2026",
-        "distanceKm": 3.2,
-        "stats": [
-          "3.2 km",
-          "1:39:37",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20260422847",
-        "name": "Night Walk",
-        "date": "September 20, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "33:56",
-          "4 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161051.4
+      "totalWithEstimatesKm": 161052.7
     }
   }
 }

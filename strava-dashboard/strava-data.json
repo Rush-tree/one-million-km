@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T19:37:31.068Z",
+  "generatedAt": "2026-09-21T20:01:00.190Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13910,
+  "totalActivities": 13912,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162356300,
-    "totalMovingTime": 46360187,
-    "totalElevation": 1160071.6
+    "totalDistance": 162378900,
+    "totalMovingTime": 46364807,
+    "totalElevation": 1160194.6
   },
   "monthStats": {
-    "totalDistance": 23551200,
-    "totalMovingTime": 6873960,
+    "totalDistance": 23573800,
+    "totalMovingTime": 6878580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1402300,
-    "totalMovingTime": 454440,
-    "count": 145
+    "totalDistance": 1424900,
+    "totalMovingTime": 459060,
+    "count": 147
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146559.3,
+    "measuredDistanceKm": 146581.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20272450755",
+        "name": "Sykkeltur på natten",
+        "date": "September 21, 2026",
+        "distanceKm": 21,
+        "stats": [
+          "21.0 km",
+          "48:50",
+          "123 m"
+        ]
+      },
       {
         "athlete": "Nico Deckarm",
         "athleteId": "74766538",
@@ -64,19 +77,6 @@
           "10.4 km",
           "45:16",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20271164502",
-        "name": "Abendlauf",
-        "date": "September 21, 2026",
-        "distanceKm": 4.6,
-        "stats": [
-          "4.6 km",
-          "22:05",
-          "25 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162356.3
+      "totalWithEstimatesKm": 162378.9
     }
   }
 }

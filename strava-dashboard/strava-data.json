@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T02:30:41.900Z",
+  "generatedAt": "2026-09-21T03:00:51.815Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 160980100,
-    "totalMovingTime": 45923087,
-    "totalElevation": 1152236.6
+    "totalDistance": 161045300,
+    "totalMovingTime": 45934487,
+    "totalElevation": 1152435.6
   },
   "monthStats": {
-    "totalDistance": 22175000,
-    "totalMovingTime": 6436860,
+    "totalDistance": 22240200,
+    "totalMovingTime": 6448260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 26100,
-    "totalMovingTime": 17340,
-    "count": 4
+    "totalDistance": 91300,
+    "totalMovingTime": 28740,
+    "count": 6
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145183.1,
+    "measuredDistanceKm": 145248.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20262403747",
+        "name": "☀️ Morning Ride",
+        "date": "September 21, 2026",
+        "distanceKm": 63.9,
+        "stats": [
+          "63.9 km",
+          "2:53:20",
+          "198 m"
+        ]
+      },
       {
         "athlete": "Goro Shigeno",
         "athleteId": "37029557",
@@ -93,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20259943959",
-        "name": "Evening sunset walk ☀️🌤️",
-        "date": "September 20, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "1:27:12",
-          "20 m"
-        ]
-      },
-      {
         "athlete": "Cristian Stănciulescu",
         "athleteId": "67352997",
         "activityId": "20259055962",
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 160980.1
+      "totalWithEstimatesKm": 161045.3
     }
   }
 }

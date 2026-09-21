@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T03:00:51.815Z",
+  "generatedAt": "2026-09-21T03:30:40.068Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13750,
+  "totalActivities": 13751,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161045300,
-    "totalMovingTime": 45934487,
-    "totalElevation": 1152435.6
+    "totalDistance": 161051400,
+    "totalMovingTime": 45935387,
+    "totalElevation": 1152454.6
   },
   "monthStats": {
-    "totalDistance": 22240200,
-    "totalMovingTime": 6448260,
+    "totalDistance": 22246300,
+    "totalMovingTime": 6449160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 91300,
-    "totalMovingTime": 28740,
-    "count": 6
+    "totalDistance": 97400,
+    "totalMovingTime": 29640,
+    "count": 7
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145248.3,
+    "measuredDistanceKm": 145254.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20262561179",
+        "name": "Rennrad",
+        "date": "September 21, 2026",
+        "distanceKm": 6.1,
+        "stats": [
+          "6.1 km",
+          "15:04",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -104,19 +117,6 @@
           "33:56",
           "4 m"
         ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20259055962",
-        "name": "Evening Ride",
-        "date": "September 20, 2026",
-        "distanceKm": 12.5,
-        "stats": [
-          "12.5 km",
-          "3:11:36",
-          "176 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161045.3
+      "totalWithEstimatesKm": 161051.4
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T03:00:51.815Z",
+  "generatedAt": "2026-09-21T03:30:40.068Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 6,
-    "distanceKm": 91.3,
-    "elevationM": 407,
-    "movingSeconds": 28740,
+    "activities": 7,
+    "distanceKm": 97.4,
+    "elevationM": 426,
+    "movingSeconds": 29640,
     "raw": {
-      "activities": "6",
-      "distance": "91.3 km",
-      "time": "7 h 59 m",
-      "elevation": "407 m"
+      "activities": "7",
+      "distance": "97.4 km",
+      "time": "8 h 14 m",
+      "elevation": "426 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20262561179",
+      "name": "Rennrad",
+      "date": "September 21, 2026",
+      "distanceKm": 6.1,
+      "stats": [
+        "6.1 km",
+        "15:04",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -67,19 +80,6 @@
         "33:56",
         "4 m"
       ]
-    },
-    {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20259055962",
-      "name": "Evening Ride",
-      "date": "September 20, 2026",
-      "distanceKm": 12.5,
-      "stats": [
-        "12.5 km",
-        "3:11:36",
-        "176 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22240.2,
-  "totalDistanceKm": 145248.3,
+  "observedWeeksKm": 22246.3,
+  "totalDistanceKm": 145254.4,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161045.3
+    "totalWithEstimatesKm": 161051.4
   }
 }

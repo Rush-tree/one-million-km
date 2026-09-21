@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T17:00:59.787Z",
+  "generatedAt": "2026-09-21T17:30:42.274Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13869,
+  "totalActivities": 13870,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161952300,
-    "totalMovingTime": 46236587,
-    "totalElevation": 1157733.6
+    "totalDistance": 162118000,
+    "totalMovingTime": 46272167,
+    "totalElevation": 1158508.6
   },
   "monthStats": {
-    "totalDistance": 23147200,
-    "totalMovingTime": 6750360,
+    "totalDistance": 23312900,
+    "totalMovingTime": 6785940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 998300,
-    "totalMovingTime": 330840,
-    "count": 107
+    "totalDistance": 1164000,
+    "totalMovingTime": 366420,
+    "count": 113
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146155.3,
+    "measuredDistanceKm": 146321,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,42 +80,42 @@
         ]
       },
       {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20269421516",
-        "name": "Musculação na hora do almoço",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20270288393",
+        "name": "E-Bike-Fahrt am Abend",
+        "date": "September 21, 2026",
+        "distanceKm": 22.1,
+        "stats": [
+          "22.1 km",
+          "1:01:46",
+          "333 m"
+        ]
+      },
+      {
+        "athlete": "Elsa Rottluff",
+        "athleteId": "110130704",
+        "activityId": "20270034241",
+        "name": "Nachmittagstraining",
         "date": "September 21, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "30:10",
+          "1:00:30",
           "0 m"
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20269316235",
-        "name": "Camminata pomeridiana",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20270087531",
+        "name": "Gravel-Fahrt am Nachmittag",
         "date": "September 21, 2026",
-        "distanceKm": 2.8,
+        "distanceKm": 81,
         "stats": [
-          "2.8 km",
-          "38:36",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20269437362",
-        "name": "Afternoon Run",
-        "date": "September 21, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "46:39",
-          "97 m"
+          "81.0 km",
+          "3:49:05",
+          "99 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161952.3
+      "totalWithEstimatesKm": 162118
     }
   }
 }

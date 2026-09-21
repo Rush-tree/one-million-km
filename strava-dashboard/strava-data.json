@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T04:01:26.426Z",
+  "generatedAt": "2026-09-21T04:30:39.502Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13755,
+  "totalActivities": 13757,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161052700,
-    "totalMovingTime": 45938687,
-    "totalElevation": 1152446.6
+    "totalDistance": 161067200,
+    "totalMovingTime": 45942467,
+    "totalElevation": 1152482.6
   },
   "monthStats": {
-    "totalDistance": 22247600,
-    "totalMovingTime": 6452460,
+    "totalDistance": 22262100,
+    "totalMovingTime": 6456240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 98700,
-    "totalMovingTime": 32940,
-    "count": 9
+    "totalDistance": 113200,
+    "totalMovingTime": 36720,
+    "count": 11
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145255.7,
+    "measuredDistanceKm": 145270.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20262741889",
+        "name": "Morning Activity",
+        "date": "September 21, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "20:26",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Susi Wong",
         "athleteId": "44756315",
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20262666938",
-        "name": "☀️ SEPTEMBER MNG RIDE NO 21 🚵‍♂️",
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20262784680",
+        "name": "Fahrt am Morgen",
         "date": "September 21, 2026",
-        "distanceKm": 65.2,
+        "distanceKm": 14.4,
         "stats": [
-          "65.2 km",
-          "2:59:38",
-          "189 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20262340295",
-        "name": "Morning Ride",
-        "date": "September 21, 2026",
-        "distanceKm": 22.1,
-        "stats": [
-          "22.1 km",
-          "3:09:35",
-          "147 m"
+          "14.4 km",
+          "1:29:36",
+          "36 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161052.7
+      "totalWithEstimatesKm": 161067.2
     }
   }
 }

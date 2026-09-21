@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T04:30:39.502Z",
+  "generatedAt": "2026-09-21T05:00:52.356Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13757,
+  "totalActivities": 13764,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161067200,
-    "totalMovingTime": 45942467,
-    "totalElevation": 1152482.6
+    "totalDistance": 161099200,
+    "totalMovingTime": 45953807,
+    "totalElevation": 1152614.6
   },
   "monthStats": {
-    "totalDistance": 22262100,
-    "totalMovingTime": 6456240,
+    "totalDistance": 22294100,
+    "totalMovingTime": 6467580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 113200,
-    "totalMovingTime": 36720,
-    "count": 11
+    "totalDistance": 145200,
+    "totalMovingTime": 48060,
+    "count": 16
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145270.2,
+    "measuredDistanceKm": 145302.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20262889544",
+        "name": "Doe mij maar weekend",
+        "date": "September 21, 2026",
+        "distanceKm": 8.9,
+        "stats": [
+          "8.9 km",
+          "23:51",
+          "24 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -67,16 +80,16 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20262660515",
-        "name": "Morning Yoga",
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20262913074",
+        "name": "Morning Run",
         "date": "September 21, 2026",
-        "distanceKm": 0,
+        "distanceKm": 17,
         "stats": [
-          "0 km",
-          "15:46",
-          "0 m"
+          "17.0 km",
+          "1:40:32",
+          "50 m"
         ]
       },
       {
@@ -90,19 +103,6 @@
           "0 km",
           "33:35",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20262561179",
-        "name": "Pendel Work",
-        "date": "September 21, 2026",
-        "distanceKm": 6.1,
-        "stats": [
-          "6.1 km",
-          "15:04",
-          "19 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161067.2
+      "totalWithEstimatesKm": 161099.2
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-21T06:41:05.998Z",
+  "generatedAt": "2026-09-21T07:00:54.769Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 25,
-    "distanceKm": 239.6,
-    "elevationM": 1408,
-    "movingSeconds": 72720,
+    "activities": 27,
+    "distanceKm": 282.6,
+    "elevationM": 1720,
+    "movingSeconds": 78480,
     "raw": {
-      "activities": "25",
-      "distance": "239.6 km",
-      "time": "20 h 12 m",
-      "elevation": "1,408 m"
+      "activities": "27",
+      "distance": "282.6 km",
+      "time": "21 h 48 m",
+      "elevation": "1,720 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "20263569273",
+      "name": "Carrera de mañana",
+      "date": "September 21, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "31:07",
+        "57 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -27,6 +40,19 @@
         "4.5 km",
         "17:50",
         "212 m"
+      ]
+    },
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "20263518840",
+      "name": "Zwift - Morning Spin",
+      "date": "September 21, 2026",
+      "distanceKm": 36.7,
+      "stats": [
+        "36.7 km",
+        "1:05:28",
+        "255 m"
       ]
     },
     {
@@ -43,40 +69,14 @@
       ]
     },
     {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20263044026",
-      "name": "🌄 Sunrise Cycl⚙️Taf 🚴",
-      "date": "September 21, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "17:42",
-        "4 m"
-      ]
-    },
-    {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "20263152452",
-      "name": "Morning Run",
-      "date": "September 21, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "49:21",
-        "79 m"
-      ]
-    },
-    {
       "athlete": "# MarshmallowBen",
       "athleteId": "114783849",
       "activityId": "20263487869",
-      "name": "Morgenausfahrt",
+      "name": "Arbeitsweg+ SHW",
       "date": "September 21, 2026",
-      "distanceKm": 22,
+      "distanceKm": 21.9,
       "stats": [
-        "22.0 km",
+        "21.9 km",
         "49:55",
         "27 m"
       ]
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22388.5,
-  "totalDistanceKm": 145396.6,
+  "observedWeeksKm": 22431.5,
+  "totalDistanceKm": 145439.6,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161193.6
+    "totalWithEstimatesKm": 161236.6
   }
 }

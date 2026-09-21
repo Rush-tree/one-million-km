@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T05:30:41.470Z",
+  "generatedAt": "2026-09-21T06:00:51.265Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13769,
+  "totalActivities": 13775,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161137100,
-    "totalMovingTime": 45967067,
-    "totalElevation": 1153015.6
+    "totalDistance": 161172500,
+    "totalMovingTime": 45976547,
+    "totalElevation": 1153421.6
   },
   "monthStats": {
-    "totalDistance": 22332000,
-    "totalMovingTime": 6480840,
+    "totalDistance": 22367400,
+    "totalMovingTime": 6490320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 183100,
-    "totalMovingTime": 61320,
-    "count": 20
+    "totalDistance": 218500,
+    "totalMovingTime": 70800,
+    "count": 25
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,42 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145340.1,
+    "measuredDistanceKm": 145375.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20263207365",
+        "name": "Morning Ride",
+        "date": "September 21, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "17:50",
+          "212 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20263144269",
+        "name": "Morning Yoga 🌓🌔",
+        "date": "September 21, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "24:28",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20263044026",
-        "name": "Morning Ride",
+        "name": "🌄 Sunrise Cycl⚙️Taf 🚴",
         "date": "September 21, 2026",
         "distanceKm": 6.6,
         "stats": [
@@ -67,29 +93,16 @@
         ]
       },
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20262889544",
-        "name": "Doe mij maar weekend",
-        "date": "September 21, 2026",
-        "distanceKm": 8.9,
-        "stats": [
-          "8.9 km",
-          "23:51",
-          "24 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20262972653",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20263152452",
         "name": "Morning Run",
         "date": "September 21, 2026",
-        "distanceKm": 9,
+        "distanceKm": 6.6,
         "stats": [
-          "9.0 km",
-          "1:26:58",
-          "155 m"
+          "6.6 km",
+          "49:21",
+          "79 m"
         ]
       },
       {
@@ -103,19 +116,6 @@
           "17.0 km",
           "1:40:32",
           "50 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20262784680",
-        "name": "Fahrt am Morgen",
-        "date": "September 21, 2026",
-        "distanceKm": 14.4,
-        "stats": [
-          "14.4 km",
-          "1:29:36",
-          "36 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161137.1
+      "totalWithEstimatesKm": 161172.5
     }
   }
 }

@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-21T16:30:42.772Z",
+  "generatedAt": "2026-09-21T17:00:59.787Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 102,
-    "distanceKm": 938.9,
-    "elevationM": 5200,
-    "movingSeconds": 313860,
+    "activities": 107,
+    "distanceKm": 998.3,
+    "elevationM": 5705,
+    "movingSeconds": 330840,
     "raw": {
-      "activities": "102",
-      "distance": "938.9 km",
-      "time": "87 h 11 m",
-      "elevation": "5,200 m"
+      "activities": "107",
+      "distance": "998.3 km",
+      "time": "91 h 54 m",
+      "elevation": "5,705 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20269812724",
+      "name": "Afternoon Walk",
+      "date": "September 21, 2026",
+      "distanceKm": 1.7,
+      "stats": [
+        "1.7 km",
+        "16:02",
+        "10 m"
+      ]
+    },
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20269563620",
+      "name": "Afternoon Run",
+      "date": "September 21, 2026",
+      "distanceKm": 1.1,
+      "stats": [
+        "1.1 km",
+        "7:35",
+        "10 m"
+      ]
+    },
     {
       "athlete": "Henrique Juhas",
       "athleteId": "118657757",
@@ -54,32 +80,6 @@
         "46:39",
         "97 m"
       ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20269157832",
-      "name": "Afternoon Walk",
-      "date": "September 21, 2026",
-      "distanceKm": 1.4,
-      "stats": [
-        "1.4 km",
-        "27:25",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Luka M",
-      "athleteId": "33218706",
-      "activityId": "20269286787",
-      "name": "Finale Marathonvorbereitung - anaerob",
-      "date": "September 21, 2026",
-      "distanceKm": 16,
-      "stats": [
-        "16.0 km",
-        "1:21:28",
-        "63 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 23087.8,
-  "totalDistanceKm": 146095.9,
+  "observedWeeksKm": 23147.2,
+  "totalDistanceKm": 146155.3,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161892.9
+    "totalWithEstimatesKm": 161952.3
   }
 }

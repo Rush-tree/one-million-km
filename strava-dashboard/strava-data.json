@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T16:30:42.772Z",
+  "generatedAt": "2026-09-21T17:00:59.787Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13864,
+  "totalActivities": 13869,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161892900,
-    "totalMovingTime": 46219607,
-    "totalElevation": 1157228.6
+    "totalDistance": 161952300,
+    "totalMovingTime": 46236587,
+    "totalElevation": 1157733.6
   },
   "monthStats": {
-    "totalDistance": 23087800,
-    "totalMovingTime": 6733380,
+    "totalDistance": 23147200,
+    "totalMovingTime": 6750360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 938900,
-    "totalMovingTime": 313860,
-    "count": 102
+    "totalDistance": 998300,
+    "totalMovingTime": 330840,
+    "count": 107
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146095.9,
+    "measuredDistanceKm": 146155.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20269812724",
+        "name": "Afternoon Walk",
+        "date": "September 21, 2026",
+        "distanceKm": 1.7,
+        "stats": [
+          "1.7 km",
+          "16:02",
+          "10 m"
+        ]
+      },
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20269563620",
+        "name": "Afternoon Run",
+        "date": "September 21, 2026",
+        "distanceKm": 1.1,
+        "stats": [
+          "1.1 km",
+          "7:35",
+          "10 m"
+        ]
+      },
       {
         "athlete": "Henrique Juhas",
         "athleteId": "118657757",
@@ -91,32 +117,6 @@
           "46:39",
           "97 m"
         ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20269157832",
-        "name": "Afternoon Walk",
-        "date": "September 21, 2026",
-        "distanceKm": 1.4,
-        "stats": [
-          "1.4 km",
-          "27:25",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20269286787",
-        "name": "Finale Marathonvorbereitung - anaerob",
-        "date": "September 21, 2026",
-        "distanceKm": 16,
-        "stats": [
-          "16.0 km",
-          "1:21:28",
-          "63 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161892.9
+      "totalWithEstimatesKm": 161952.3
     }
   }
 }

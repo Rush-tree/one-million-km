@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T07:00:54.769Z",
+  "generatedAt": "2026-09-21T07:30:40.388Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13775,
+  "totalActivities": 13781,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161236600,
-    "totalMovingTime": 45984227,
-    "totalElevation": 1153748.6
+    "totalDistance": 161241900,
+    "totalMovingTime": 45992447,
+    "totalElevation": 1153827.6
   },
   "monthStats": {
-    "totalDistance": 22431500,
-    "totalMovingTime": 6498000,
+    "totalDistance": 22436800,
+    "totalMovingTime": 6506220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 282600,
-    "totalMovingTime": 78480,
-    "count": 27
+    "totalDistance": 287900,
+    "totalMovingTime": 86700,
+    "count": 31
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145439.6,
+    "measuredDistanceKm": 145444.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20263787230",
+        "name": "Morning Run",
+        "date": "September 21, 2026",
+        "distanceKm": 2.6,
+        "stats": [
+          "2.6 km",
+          "16:20",
+          "19 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20263824896",
+        "name": "Yoga am Morgen",
+        "date": "September 21, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "17:30",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Alfonso Contreras Calderón",
         "athleteId": "123434994",
@@ -67,19 +93,6 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20263207365",
-        "name": "Morning Ride",
-        "date": "September 21, 2026",
-        "distanceKm": 4.5,
-        "stats": [
-          "4.5 km",
-          "17:50",
-          "212 m"
-        ]
-      },
-      {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
         "activityId": "20263518840",
@@ -90,19 +103,6 @@
           "36.7 km",
           "1:05:28",
           "255 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20263144269",
-        "name": "Morning Yoga 🌓🌔",
-        "date": "September 21, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "24:28",
-          "0 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161236.6
+      "totalWithEstimatesKm": 161241.9
     }
   }
 }

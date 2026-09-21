@@ -1,21 +1,47 @@
 {
-  "generatedAt": "2026-09-21T07:00:54.769Z",
+  "generatedAt": "2026-09-21T07:30:40.388Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 27,
-    "distanceKm": 282.6,
-    "elevationM": 1720,
-    "movingSeconds": 78480,
+    "activities": 31,
+    "distanceKm": 287.9,
+    "elevationM": 1799,
+    "movingSeconds": 86700,
     "raw": {
-      "activities": "27",
-      "distance": "282.6 km",
-      "time": "21 h 48 m",
-      "elevation": "1,720 m"
+      "activities": "31",
+      "distance": "287.9 km",
+      "time": "24 h 5 m",
+      "elevation": "1,799 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20263787230",
+      "name": "Morning Run",
+      "date": "September 21, 2026",
+      "distanceKm": 2.6,
+      "stats": [
+        "2.6 km",
+        "16:20",
+        "19 m"
+      ]
+    },
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20263824896",
+      "name": "Yoga am Morgen",
+      "date": "September 21, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "17:30",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Alfonso Contreras Calderón",
       "athleteId": "123434994",
@@ -30,19 +56,6 @@
       ]
     },
     {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20263207365",
-      "name": "Morning Ride",
-      "date": "September 21, 2026",
-      "distanceKm": 4.5,
-      "stats": [
-        "4.5 km",
-        "17:50",
-        "212 m"
-      ]
-    },
-    {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
       "activityId": "20263518840",
@@ -53,19 +66,6 @@
         "36.7 km",
         "1:05:28",
         "255 m"
-      ]
-    },
-    {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20263144269",
-      "name": "Morning Yoga 🌓🌔",
-      "date": "September 21, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "24:28",
-        "0 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22431.5,
-  "totalDistanceKm": 145439.6,
+  "observedWeeksKm": 22436.8,
+  "totalDistanceKm": 145444.9,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161236.6
+    "totalWithEstimatesKm": 161241.9
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T13:00:52.793Z",
+  "generatedAt": "2026-09-21T13:30:41.767Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13805,
+  "totalActivities": 13809,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161600500,
-    "totalMovingTime": 46081727,
-    "totalElevation": 1154815.6
+    "totalDistance": 161639100,
+    "totalMovingTime": 46091327,
+    "totalElevation": 1155501.6
   },
   "monthStats": {
-    "totalDistance": 22795400,
-    "totalMovingTime": 6595500,
+    "totalDistance": 22834000,
+    "totalMovingTime": 6605100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 646500,
-    "totalMovingTime": 175980,
-    "count": 57
+    "totalDistance": 685100,
+    "totalMovingTime": 185580,
+    "count": 61
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145803.5,
+    "measuredDistanceKm": 145842.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20267306780",
+        "name": "Öğleden Sonra Koşu",
+        "date": "September 21, 2026",
+        "distanceKm": 0.4,
+        "stats": [
+          "0.4 km",
+          "2:58",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20267273335",
+        "name": "Pendel Home",
+        "date": "September 21, 2026",
+        "distanceKm": 5.3,
+        "stats": [
+          "5.3 km",
+          "14:26",
+          "22 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -64,19 +90,6 @@
           "8.7 km",
           "36:38",
           "14 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20266785687",
-        "name": "Intersites 👔✈️ Lunch 🥪 Ride 🚴",
-        "date": "September 21, 2026",
-        "distanceKm": 10.3,
-        "stats": [
-          "10.3 km",
-          "1:00:42",
-          "74 m"
         ]
       },
       {
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20266644949",
-        "name": "Morning Ride",
-        "date": "September 21, 2026",
-        "distanceKm": 79.1,
-        "stats": [
-          "79.1 km",
-          "6:04:00",
-          "162 m"
-        ]
-      },
-      {
         "athlete": "Pirmin Pascal Braun",
         "athleteId": "706432",
         "activityId": "20267086308",
-        "name": "Morgentraining",
+        "name": "Alpsee",
         "date": "September 20, 2026",
-        "distanceKm": 540,
+        "distanceKm": 14.1,
         "stats": [
-          "540.0 km",
-          "29:16:21",
-          "3,716 m"
+          "14.1 km",
+          "3:31:42",
+          "520 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161600.5
+      "totalWithEstimatesKm": 161639.1
     }
   }
 }

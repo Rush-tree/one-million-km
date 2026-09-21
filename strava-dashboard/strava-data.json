@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T14:00:53.505Z",
+  "generatedAt": "2026-09-21T14:24:17.069Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13815,
+  "totalActivities": 13817,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 161647400,
-    "totalMovingTime": 46108547,
+    "totalDistance": 161648500,
+    "totalMovingTime": 46110647,
     "totalElevation": 1155541.6
   },
   "monthStats": {
-    "totalDistance": 22842300,
-    "totalMovingTime": 6622320,
+    "totalDistance": 22843400,
+    "totalMovingTime": 6624420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 693400,
-    "totalMovingTime": 202800,
-    "count": 65
+    "totalDistance": 694500,
+    "totalMovingTime": 204900,
+    "count": 66
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 145850.4,
+    "measuredDistanceKm": 145851.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,6 +80,19 @@
         ]
       },
       {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20267952647",
+        "name": "Schwimmen am Nachmittag",
+        "date": "September 21, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "35:15",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Jürgen Föll",
         "athleteId": "41355823",
         "activityId": "20267517508",
@@ -96,26 +109,13 @@
         "athlete": "Alois Petrausch",
         "athleteId": "40799429",
         "activityId": "20267635476",
-        "name": "Nachmittagstraining",
+        "name": "Nachmittags Training",
         "date": "September 21, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
           "1:59:24",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Pirmin Pascal Braun",
-        "athleteId": "706432",
-        "activityId": "20267086308",
-        "name": "Alpsee",
-        "date": "September 20, 2026",
-        "distanceKm": 14.1,
-        "stats": [
-          "14.1 km",
-          "3:31:42",
-          "520 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 161647.4
+      "totalWithEstimatesKm": 161648.5
     }
   }
 }

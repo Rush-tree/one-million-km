@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-21T14:00:53.505Z",
+  "generatedAt": "2026-09-21T14:24:17.069Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 65,
-    "distanceKm": 693.4,
+    "activities": 66,
+    "distanceKm": 694.5,
     "elevationM": 3513,
-    "movingSeconds": 202800,
+    "movingSeconds": 204900,
     "raw": {
-      "activities": "65",
-      "distance": "693.4 km",
-      "time": "56 h 20 m",
+      "activities": "66",
+      "distance": "694.5 km",
+      "time": "56 h 55 m",
       "elevation": "3,513 m"
     }
   },
@@ -43,6 +43,19 @@
       ]
     },
     {
+      "athlete": "Daniel Stodden",
+      "athleteId": "23274828",
+      "activityId": "20267952647",
+      "name": "Schwimmen am Nachmittag",
+      "date": "September 21, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "35:15",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Jürgen Föll",
       "athleteId": "41355823",
       "activityId": "20267517508",
@@ -59,26 +72,13 @@
       "athlete": "Alois Petrausch",
       "athleteId": "40799429",
       "activityId": "20267635476",
-      "name": "Nachmittagstraining",
+      "name": "Nachmittags Training",
       "date": "September 21, 2026",
       "distanceKm": 0,
       "stats": [
         "0 km",
         "1:59:24",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Pirmin Pascal Braun",
-      "athleteId": "706432",
-      "activityId": "20267086308",
-      "name": "Alpsee",
-      "date": "September 20, 2026",
-      "distanceKm": 14.1,
-      "stats": [
-        "14.1 km",
-        "3:31:42",
-        "520 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 22842.3,
-  "totalDistanceKm": 145850.4,
+  "observedWeeksKm": 22843.4,
+  "totalDistanceKm": 145851.5,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 161647.4
+    "totalWithEstimatesKm": 161648.5
   }
 }

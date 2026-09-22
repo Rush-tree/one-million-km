@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-22T14:30:42.066Z",
+  "generatedAt": "2026-09-22T15:00:58.576Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 246,
-    "distanceKm": 2497.9,
-    "elevationM": 14379,
-    "movingSeconds": 777120,
+    "activities": 252,
+    "distanceKm": 2741.1,
+    "elevationM": 15348,
+    "movingSeconds": 820140,
     "raw": {
-      "activities": "246",
-      "distance": "2,497.9 km",
-      "time": "215 h 52 m",
-      "elevation": "14,379 m"
+      "activities": "252",
+      "distance": "2,741.1 km",
+      "time": "227 h 49 m",
+      "elevation": "15,348 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20282456554",
+      "name": "Afternoon Ride",
+      "date": "September 22, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "15:22",
+        "55 m"
+      ]
+    },
     {
       "athlete": "Jürgen Föll",
       "athleteId": "41355823",
@@ -27,32 +40,6 @@
         "19.6 km",
         "56:43",
         "214 m"
-      ]
-    },
-    {
-      "athlete": "Krin Lingg",
-      "athleteId": "190498471",
-      "activityId": "20281802485",
-      "name": "Lauf am Nachmittag",
-      "date": "September 22, 2026",
-      "distanceKm": 4.9,
-      "stats": [
-        "4.9 km",
-        "46:37",
-        "4 m"
-      ]
-    },
-    {
-      "athlete": "Brad Miyasato",
-      "athleteId": "53406668",
-      "activityId": "20281762601",
-      "name": "Morning Walk around PSP",
-      "date": "September 22, 2026",
-      "distanceKm": 13.4,
-      "stats": [
-        "13.4 km",
-        "1:54:32",
-        "34 m"
       ]
     },
     {
@@ -69,16 +56,29 @@
       ]
     },
     {
-      "athlete": "Ulf Nuglisch",
-      "athleteId": "62746305",
-      "activityId": "20281954841",
-      "name": "Spaziergang am Morgen",
+      "athlete": "Hannah-Malin Henigin",
+      "athleteId": "162779271",
+      "activityId": "20282663471",
+      "name": "Gravel-Fahrt am Nachmittag",
       "date": "September 22, 2026",
-      "distanceKm": 5.3,
+      "distanceKm": 124.4,
       "stats": [
-        "5.3 km",
-        "5:25:09",
-        "49 m"
+        "124.4 km",
+        "7:23:56",
+        "392 m"
+      ]
+    },
+    {
+      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+      "athleteId": "72351185",
+      "activityId": "20282791995",
+      "name": "Evening Ride",
+      "date": "September 22, 2026",
+      "distanceKm": 12.5,
+      "stats": [
+        "12.5 km",
+        "1:05:33",
+        "20 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 24646.8,
-  "totalDistanceKm": 147654.9,
+  "observedWeeksKm": 24890,
+  "totalDistanceKm": 147898.1,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 163451.9
+    "totalWithEstimatesKm": 163695.1
   }
 }

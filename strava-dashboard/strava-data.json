@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T14:30:42.066Z",
+  "generatedAt": "2026-09-22T15:00:58.576Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14017,
+  "totalActivities": 14013,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 163451900,
-    "totalMovingTime": 46682867,
-    "totalElevation": 1166407.6
+    "totalDistance": 163695100,
+    "totalMovingTime": 46725887,
+    "totalElevation": 1167376.6
   },
   "monthStats": {
-    "totalDistance": 24646800,
-    "totalMovingTime": 7196640,
+    "totalDistance": 24890000,
+    "totalMovingTime": 7239660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2497900,
-    "totalMovingTime": 777120,
-    "count": 246
+    "totalDistance": 2741100,
+    "totalMovingTime": 820140,
+    "count": 252
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147654.9,
+    "measuredDistanceKm": 147898.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20282456554",
+        "name": "Afternoon Ride",
+        "date": "September 22, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "15:22",
+          "55 m"
+        ]
+      },
       {
         "athlete": "Jürgen Föll",
         "athleteId": "41355823",
@@ -64,32 +77,6 @@
           "19.6 km",
           "56:43",
           "214 m"
-        ]
-      },
-      {
-        "athlete": "Krin Lingg",
-        "athleteId": "190498471",
-        "activityId": "20281802485",
-        "name": "Lauf am Nachmittag",
-        "date": "September 22, 2026",
-        "distanceKm": 4.9,
-        "stats": [
-          "4.9 km",
-          "46:37",
-          "4 m"
-        ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20281762601",
-        "name": "Morning Walk around PSP",
-        "date": "September 22, 2026",
-        "distanceKm": 13.4,
-        "stats": [
-          "13.4 km",
-          "1:54:32",
-          "34 m"
         ]
       },
       {
@@ -106,16 +93,29 @@
         ]
       },
       {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20281954841",
-        "name": "Spaziergang am Morgen",
+        "athlete": "Hannah-Malin Henigin",
+        "athleteId": "162779271",
+        "activityId": "20282663471",
+        "name": "Gravel-Fahrt am Nachmittag",
         "date": "September 22, 2026",
-        "distanceKm": 5.3,
+        "distanceKm": 124.4,
         "stats": [
-          "5.3 km",
-          "5:25:09",
-          "49 m"
+          "124.4 km",
+          "7:23:56",
+          "392 m"
+        ]
+      },
+      {
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20282791995",
+        "name": "Evening Ride",
+        "date": "September 22, 2026",
+        "distanceKm": 12.5,
+        "stats": [
+          "12.5 km",
+          "1:05:33",
+          "20 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 163451.9
+      "totalWithEstimatesKm": 163695.1
     }
   }
 }

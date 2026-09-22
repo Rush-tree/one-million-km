@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T19:30:43.010Z",
+  "generatedAt": "2026-09-22T20:00:53.435Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14082,
+  "totalActivities": 14089,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 164945000,
-    "totalMovingTime": 47062427,
-    "totalElevation": 1179320.6
+    "totalDistance": 165037400,
+    "totalMovingTime": 47089067,
+    "totalElevation": 1180119.6
   },
   "monthStats": {
-    "totalDistance": 26139900,
-    "totalMovingTime": 7576200,
+    "totalDistance": 26232300,
+    "totalMovingTime": 7602840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3991000,
-    "totalMovingTime": 1156680,
-    "count": 334
+    "totalDistance": 4083400,
+    "totalMovingTime": 1183320,
+    "count": 341
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,34 +48,47 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149148,
+    "measuredDistanceKm": 149240.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20286456371",
-        "name": "Musculação vespertina",
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20287119409",
+        "name": "Night Swim",
         "date": "September 22, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1.5,
         "stats": [
-          "0 km",
-          "40:02",
+          "1.5 km",
+          "46:39",
           "0 m"
         ]
       },
       {
-        "athlete": "Shubham Kumar",
-        "athleteId": "161648421",
-        "activityId": "20286519626",
-        "name": "Evening Swim",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20287157707",
+        "name": "Evening Run",
         "date": "September 22, 2026",
-        "distanceKm": 1,
+        "distanceKm": 11.4,
         "stats": [
-          "1.0 km",
-          "41:37",
+          "11.4 km",
+          "1:04:46",
+          "148 m"
+        ]
+      },
+      {
+        "athlete": "Elsa Rottluff",
+        "athleteId": "110130704",
+        "activityId": "20287066830",
+        "name": "Abendlauf",
+        "date": "September 22, 2026",
+        "distanceKm": 16.3,
+        "stats": [
+          "16.3 km",
+          "2:03:01",
           "0 m"
         ]
       },
@@ -93,28 +106,15 @@
         ]
       },
       {
-        "athlete": "Britta Prasse",
-        "athleteId": "200634990",
-        "activityId": "20286039706",
-        "name": "Abendlauf",
-        "date": "September 22, 2026",
-        "distanceKm": 7.7,
-        "stats": [
-          "7.7 km",
-          "1:05:34",
-          "35 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20286184279",
-        "name": "Evening Weight Training",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20287019006",
+        "name": "Evening Ride",
         "date": "September 22, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:41:13",
+          "1:10:01",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 164945
+      "totalWithEstimatesKm": 165037.4
     }
   }
 }

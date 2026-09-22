@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-22T08:30:41.842Z",
+  "generatedAt": "2026-09-22T09:00:54.977Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 210,
-    "distanceKm": 2012.1,
-    "elevationM": 11492,
-    "movingSeconds": 648480,
+    "activities": 213,
+    "distanceKm": 2026.3,
+    "elevationM": 11699,
+    "movingSeconds": 653580,
     "raw": {
-      "activities": "210",
-      "distance": "2,012.1 km",
-      "time": "180 h 8 m",
-      "elevation": "11,492 m"
+      "activities": "213",
+      "distance": "2,026.3 km",
+      "time": "181 h 33 m",
+      "elevation": "11,699 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20278232044",
+      "name": "HIIT matinal",
+      "date": "September 22, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "37:56",
+        "0 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -67,19 +80,6 @@
         "1:09:22",
         "148 m"
       ]
-    },
-    {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20276928554",
-      "name": "Morning Yoga 🌔",
-      "date": "September 22, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "31:29",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 24161,
-  "totalDistanceKm": 147169.1,
+  "observedWeeksKm": 24175.2,
+  "totalDistanceKm": 147183.3,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 162966.1
+    "totalWithEstimatesKm": 162980.3
   }
 }

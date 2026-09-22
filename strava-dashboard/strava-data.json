@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T08:30:41.842Z",
+  "generatedAt": "2026-09-22T09:00:54.977Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13984,
+  "totalActivities": 13988,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162966100,
-    "totalMovingTime": 46554227,
-    "totalElevation": 1163520.6
+    "totalDistance": 162980300,
+    "totalMovingTime": 46559327,
+    "totalElevation": 1163727.6
   },
   "monthStats": {
-    "totalDistance": 24161000,
-    "totalMovingTime": 7068000,
+    "totalDistance": 24175200,
+    "totalMovingTime": 7073100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2012100,
-    "totalMovingTime": 648480,
-    "count": 210
+    "totalDistance": 2026300,
+    "totalMovingTime": 653580,
+    "count": 213
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147169.1,
+    "measuredDistanceKm": 147183.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20278232044",
+        "name": "HIIT matinal",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "37:56",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -104,19 +117,6 @@
           "1:09:22",
           "148 m"
         ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20276928554",
-        "name": "Morning Yoga 🌔",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "31:29",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162966.1
+      "totalWithEstimatesKm": 162980.3
     }
   }
 }

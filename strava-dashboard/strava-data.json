@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T08:00:52.381Z",
+  "generatedAt": "2026-09-22T08:30:41.842Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13980,
+  "totalActivities": 13984,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162953800,
-    "totalMovingTime": 46542707,
-    "totalElevation": 1163240.6
+    "totalDistance": 162966100,
+    "totalMovingTime": 46554227,
+    "totalElevation": 1163520.6
   },
   "monthStats": {
-    "totalDistance": 24148700,
-    "totalMovingTime": 7056480,
+    "totalDistance": 24161000,
+    "totalMovingTime": 7068000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1999800,
-    "totalMovingTime": 636960,
-    "count": 207
+    "totalDistance": 2012100,
+    "totalMovingTime": 648480,
+    "count": 210
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147156.8,
+    "measuredDistanceKm": 147169.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20278172470",
+        "name": "Morning Walk",
+        "date": "September 22, 2026",
+        "distanceKm": 2.6,
+        "stats": [
+          "2.6 km",
+          "49:54",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -104,19 +117,6 @@
           "31:29",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20276868152",
-        "name": "Early Morning Run ☀️❄️",
-        "date": "September 22, 2026",
-        "distanceKm": 10.7,
-        "stats": [
-          "10.7 km",
-          "1:02:20",
-          "45 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162953.8
+      "totalWithEstimatesKm": 162966.1
     }
   }
 }

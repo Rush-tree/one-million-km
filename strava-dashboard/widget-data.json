@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-22T08:00:52.381Z",
+  "generatedAt": "2026-09-22T08:30:41.842Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 207,
-    "distanceKm": 1999.8,
-    "elevationM": 11212,
-    "movingSeconds": 636960,
+    "activities": 210,
+    "distanceKm": 2012.1,
+    "elevationM": 11492,
+    "movingSeconds": 648480,
     "raw": {
-      "activities": "207",
-      "distance": "1,999.8 km",
-      "time": "176 h 56 m",
-      "elevation": "11,212 m"
+      "activities": "210",
+      "distance": "2,012.1 km",
+      "time": "180 h 8 m",
+      "elevation": "11,492 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20278172470",
+      "name": "Morning Walk",
+      "date": "September 22, 2026",
+      "distanceKm": 2.6,
+      "stats": [
+        "2.6 km",
+        "49:54",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Phil Duffy",
       "athleteId": "17634808",
@@ -67,19 +80,6 @@
         "31:29",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Falko Frese",
-      "athleteId": "11833410",
-      "activityId": "20276868152",
-      "name": "Early Morning Run ☀️❄️",
-      "date": "September 22, 2026",
-      "distanceKm": 10.7,
-      "stats": [
-        "10.7 km",
-        "1:02:20",
-        "45 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 24148.7,
-  "totalDistanceKm": 147156.8,
+  "observedWeeksKm": 24161,
+  "totalDistanceKm": 147169.1,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 162953.8
+    "totalWithEstimatesKm": 162966.1
   }
 }

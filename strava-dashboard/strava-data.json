@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:30:40.241Z",
+  "generatedAt": "2026-09-22T01:01:26.099Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162469500,
-    "totalMovingTime": 46393907,
-    "totalElevation": 1160739.6
+    "totalDistance": 162491900,
+    "totalMovingTime": 46397507,
+    "totalElevation": 1160759.6
   },
   "monthStats": {
-    "totalDistance": 23664400,
-    "totalMovingTime": 6907680,
+    "totalDistance": 23686800,
+    "totalMovingTime": 6911280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1515500,
-    "totalMovingTime": 488160,
-    "count": 155
+    "totalDistance": 1537900,
+    "totalMovingTime": 491760,
+    "count": 156
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146672.5,
+    "measuredDistanceKm": 146694.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20275261352",
+        "name": "☁ Nachtausfahrt",
+        "date": "September 22, 2026",
+        "distanceKm": 22.4,
+        "stats": [
+          "22.4 km",
+          "1:00:02",
+          "20 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -104,19 +117,6 @@
           "22:28",
           "89 m"
         ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20272942750",
-        "name": "Evening Run",
-        "date": "September 21, 2026",
-        "distanceKm": 26,
-        "stats": [
-          "26.0 km",
-          "1:54:02",
-          "159 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162469.5
+      "totalWithEstimatesKm": 162491.9
     }
   }
 }

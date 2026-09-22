@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-22T13:00:55.908Z",
+  "generatedAt": "2026-09-22T13:30:49.504Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 238,
-    "distanceKm": 2408.6,
-    "elevationM": 13578,
-    "movingSeconds": 749760,
+    "activities": 240,
+    "distanceKm": 2416.8,
+    "elevationM": 13604,
+    "movingSeconds": 751980,
     "raw": {
-      "activities": "238",
-      "distance": "2,408.6 km",
-      "time": "208 h 16 m",
-      "elevation": "13,578 m"
+      "activities": "240",
+      "distance": "2,416.8 km",
+      "time": "208 h 53 m",
+      "elevation": "13,604 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20281394220",
+      "name": "Pendel Home",
+      "date": "September 22, 2026",
+      "distanceKm": 7.1,
+      "stats": [
+        "7.1 km",
+        "15:56",
+        "26 m"
+      ]
+    },
     {
       "athlete": "Stefan Brueckmann",
       "athleteId": "172247920",
@@ -27,6 +40,19 @@
         "13.9 km",
         "48:19",
         "151 m"
+      ]
+    },
+    {
+      "athlete": "Alois Petrausch",
+      "athleteId": "40799429",
+      "activityId": "20281492623",
+      "name": "Spaziergang am Nachmittag",
+      "date": "September 22, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "20:53",
+        "0 m"
       ]
     },
     {
@@ -43,19 +69,6 @@
       ]
     },
     {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20280808275",
-      "name": "Afternoon Walk",
-      "date": "September 22, 2026",
-      "distanceKm": 1.9,
-      "stats": [
-        "1.9 km",
-        "36:45",
-        "8 m"
-      ]
-    },
-    {
       "athlete": "Shubham Kumar",
       "athleteId": "161648421",
       "activityId": "20281187198",
@@ -67,19 +80,6 @@
         "1:09:09",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Hanna Greß",
-      "athleteId": "75797079",
-      "activityId": "20280534456",
-      "name": "Mittagspaziergang",
-      "date": "September 22, 2026",
-      "distanceKm": 5.2,
-      "stats": [
-        "5.2 km",
-        "1:28:19",
-        "21 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 24557.5,
-  "totalDistanceKm": 147565.6,
+  "observedWeeksKm": 24565.7,
+  "totalDistanceKm": 147573.8,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 163362.6
+    "totalWithEstimatesKm": 163370.8
   }
 }

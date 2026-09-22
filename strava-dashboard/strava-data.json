@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T02:30:41.419Z",
+  "generatedAt": "2026-09-22T03:00:54.942Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13922,
+  "totalActivities": 13925,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162491900,
-    "totalMovingTime": 46401287,
-    "totalElevation": 1160759.6
+    "totalDistance": 162505600,
+    "totalMovingTime": 46405847,
+    "totalElevation": 1160867.6
   },
   "monthStats": {
-    "totalDistance": 23686800,
-    "totalMovingTime": 6915060,
+    "totalDistance": 23700500,
+    "totalMovingTime": 6919620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1537900,
-    "totalMovingTime": 495540,
-    "count": 157
+    "totalDistance": 1551600,
+    "totalMovingTime": 500100,
+    "count": 159
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146694.9,
+    "measuredDistanceKm": 146708.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "siavash Akbari",
+        "athleteId": "56213794",
+        "activityId": "20276065754",
+        "name": "Morning Trail Run",
+        "date": "September 22, 2026",
+        "distanceKm": 0.8,
+        "stats": [
+          "0.8 km",
+          "9:00",
+          "7 m"
+        ]
+      },
       {
         "athlete": "André Brune",
         "athleteId": "4536289",
@@ -64,6 +77,19 @@
           "22.4 km",
           "1:00:02",
           "20 m"
+        ]
+      },
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20276096671",
+        "name": "Morning Ride",
+        "date": "September 22, 2026",
+        "distanceKm": 12.9,
+        "stats": [
+          "12.9 km",
+          "3:39:47",
+          "101 m"
         ]
       },
       {
@@ -91,32 +117,6 @@
           "55:55",
           "167 m"
         ]
-      },
-      {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20273680251",
-        "name": "Corrida da tarde",
-        "date": "September 21, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "1:38:16",
-          "120 m"
-        ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20272976439",
-        "name": "Pedalada da tarde",
-        "date": "September 21, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "22:28",
-          "89 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162491.9
+      "totalWithEstimatesKm": 162505.6
     }
   }
 }

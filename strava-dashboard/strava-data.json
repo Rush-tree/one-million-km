@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T20:30:42.193Z",
+  "generatedAt": "2026-09-22T21:00:49.556Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14089,
+  "totalActivities": 14090,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165037400,
-    "totalMovingTime": 47089067,
-    "totalElevation": 1180119.6
+    "totalDistance": 165043400,
+    "totalMovingTime": 47096327,
+    "totalElevation": 1180122.6
   },
   "monthStats": {
-    "totalDistance": 26232300,
-    "totalMovingTime": 7602840,
+    "totalDistance": 26238300,
+    "totalMovingTime": 7610100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4083400,
-    "totalMovingTime": 1183320,
-    "count": 341
+    "totalDistance": 4089400,
+    "totalMovingTime": 1190580,
+    "count": 342
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149240.4,
+    "measuredDistanceKm": 149246.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,28 +80,28 @@
         ]
       },
       {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20287682211",
+        "name": "Camminata serale",
+        "date": "September 22, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "2:12:06",
+          "2 m"
+        ]
+      },
+      {
         "athlete": "Elsa Rottluff",
         "athleteId": "110130704",
         "activityId": "20287066830",
-        "name": "Abendlauf",
+        "name": "Grundlagen, Grundlagen, Geundlagen",
         "date": "September 22, 2026",
         "distanceKm": 16.3,
         "stats": [
           "16.3 km",
           "2:03:01",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20286762266",
-        "name": "Evening Yoga",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:46:11",
           "0 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165037.4
+      "totalWithEstimatesKm": 165043.4
     }
   }
 }

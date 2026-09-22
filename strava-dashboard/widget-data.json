@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-22T07:50:09.967Z",
+  "generatedAt": "2026-09-22T08:00:52.381Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 205,
-    "distanceKm": 1992.9,
-    "elevationM": 11109,
-    "movingSeconds": 633420,
+    "activities": 207,
+    "distanceKm": 1999.8,
+    "elevationM": 11212,
+    "movingSeconds": 636960,
     "raw": {
-      "activities": "205",
-      "distance": "1,992.9 km",
-      "time": "175 h 57 m",
-      "elevation": "11,109 m"
+      "activities": "207",
+      "distance": "1,999.8 km",
+      "time": "176 h 56 m",
+      "elevation": "11,212 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20277899252",
+      "name": "Morning E-Bike Ride",
+      "date": "September 22, 2026",
+      "distanceKm": 3.8,
+      "stats": [
+        "3.8 km",
+        "28:49",
+        "18 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -67,19 +80,6 @@
         "1:02:20",
         "45 m"
       ]
-    },
-    {
-      "athlete": "Rareș Brânzoi",
-      "athleteId": "4792098",
-      "activityId": "20276839775",
-      "name": "Morning Run - Half Easy / Half Tempo",
-      "date": "September 22, 2026",
-      "distanceKm": 12.4,
-      "stats": [
-        "12.4 km",
-        "1:14:59",
-        "43 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 24141.8,
-  "totalDistanceKm": 147149.9,
+  "observedWeeksKm": 24148.7,
+  "totalDistanceKm": 147156.8,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 162946.9
+    "totalWithEstimatesKm": 162953.8
   }
 }

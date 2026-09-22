@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T07:50:09.967Z",
+  "generatedAt": "2026-09-22T08:00:52.381Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13977,
+  "totalActivities": 13980,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162946900,
-    "totalMovingTime": 46539167,
-    "totalElevation": 1163137.6
+    "totalDistance": 162953800,
+    "totalMovingTime": 46542707,
+    "totalElevation": 1163240.6
   },
   "monthStats": {
-    "totalDistance": 24141800,
-    "totalMovingTime": 7052940,
+    "totalDistance": 24148700,
+    "totalMovingTime": 7056480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1992900,
-    "totalMovingTime": 633420,
-    "count": 205
+    "totalDistance": 1999800,
+    "totalMovingTime": 636960,
+    "count": 207
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147149.9,
+    "measuredDistanceKm": 147156.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20277899252",
+        "name": "Morning E-Bike Ride",
+        "date": "September 22, 2026",
+        "distanceKm": 3.8,
+        "stats": [
+          "3.8 km",
+          "28:49",
+          "18 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -104,19 +117,6 @@
           "1:02:20",
           "45 m"
         ]
-      },
-      {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20276839775",
-        "name": "Morning Run - Half Easy / Half Tempo",
-        "date": "September 22, 2026",
-        "distanceKm": 12.4,
-        "stats": [
-          "12.4 km",
-          "1:14:59",
-          "43 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162946.9
+      "totalWithEstimatesKm": 162953.8
     }
   }
 }

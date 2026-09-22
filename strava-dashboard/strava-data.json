@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T18:30:43.854Z",
+  "generatedAt": "2026-09-22T19:00:53.564Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14070,
+  "totalActivities": 14079,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 164802300,
-    "totalMovingTime": 47007887,
-    "totalElevation": 1178117.6
+    "totalDistance": 164939800,
+    "totalMovingTime": 47050667,
+    "totalElevation": 1179320.6
   },
   "monthStats": {
-    "totalDistance": 25997200,
-    "totalMovingTime": 7521660,
+    "totalDistance": 26134700,
+    "totalMovingTime": 7564440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3848300,
-    "totalMovingTime": 1102140,
-    "count": 322
+    "totalDistance": 3985800,
+    "totalMovingTime": 1144920,
+    "count": 332
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149005.3,
+    "measuredDistanceKm": 149142.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Henrique Juhas",
+        "athleteId": "118657757",
+        "activityId": "20286456371",
+        "name": "Musculação vespertina",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "40:02",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Shubham Kumar",
+        "athleteId": "161648421",
+        "activityId": "20286519626",
+        "name": "Evening Swim",
+        "date": "September 22, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "41:37",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Britta Prasse",
         "athleteId": "200634990",
@@ -80,42 +106,16 @@
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20285803101",
-        "name": "social run >>",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20286184279",
+        "name": "Evening Weight Training",
         "date": "September 22, 2026",
-        "distanceKm": 8.5,
+        "distanceKm": 0,
         "stats": [
-          "8.5 km",
-          "1:57:00",
-          "72 m"
-        ]
-      },
-      {
-        "athlete": "Kupfer Hardy",
-        "athleteId": "19034101",
-        "activityId": "20285911093",
-        "name": "Abendlauf",
-        "date": "September 22, 2026",
-        "distanceKm": 11.5,
-        "stats": [
-          "11.5 km",
-          "1:53:20",
-          "21 m"
-        ]
-      },
-      {
-        "athlete": "Maximilian Stelzer",
-        "athleteId": "20640429",
-        "activityId": "20285972316",
-        "name": "E-Bike-Fahrt am Nachmittag",
-        "date": "September 22, 2026",
-        "distanceKm": 29.8,
-        "stats": [
-          "29.8 km",
-          "3:20:22",
-          "498 m"
+          "0 km",
+          "1:41:13",
+          "0 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 164802.3
+      "totalWithEstimatesKm": 164939.8
     }
   }
 }

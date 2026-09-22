@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T05:30:40.064Z",
+  "generatedAt": "2026-09-22T06:00:48.571Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13960,
+  "totalActivities": 13967,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162712100,
-    "totalMovingTime": 46479047,
-    "totalElevation": 1161772.6
+    "totalDistance": 162858800,
+    "totalMovingTime": 46517147,
+    "totalElevation": 1162413.6
   },
   "monthStats": {
-    "totalDistance": 23907000,
-    "totalMovingTime": 6992820,
+    "totalDistance": 24053700,
+    "totalMovingTime": 7030920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1758100,
-    "totalMovingTime": 573300,
-    "count": 187
+    "totalDistance": 1904800,
+    "totalMovingTime": 611400,
+    "count": 196
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146915.1,
+    "measuredDistanceKm": 147061.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20276928554",
+        "name": "Morning Yoga 🌔",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:29",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20276837064",
-        "name": "Morning Ride",
+        "name": "Sunrise II 🌄 Ecomobility Day 🚴",
         "date": "September 22, 2026",
         "distanceKm": 6.6,
         "stats": [
@@ -67,29 +80,29 @@
         ]
       },
       {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20276691612",
-        "name": "Allenamento con i pesi mattutino",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20276892253",
+        "name": "Morning Walk",
         "date": "September 22, 2026",
-        "distanceKm": 0,
+        "distanceKm": 2.8,
         "stats": [
-          "0 km",
-          "25:04",
-          "0 m"
+          "2.8 km",
+          "28:29",
+          "51 m"
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20276745307",
-        "name": "Morning Run",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20276868152",
+        "name": "Lauf am Morgen",
         "date": "September 22, 2026",
-        "distanceKm": 3.1,
+        "distanceKm": 10.7,
         "stats": [
-          "3.1 km",
-          "32:06",
-          "72 m"
+          "10.7 km",
+          "1:02:20",
+          "45 m"
         ]
       },
       {
@@ -103,19 +116,6 @@
           "12.4 km",
           "1:14:59",
           "43 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20276618112",
-        "name": "Gewichtstraining am Morgen",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "52:48",
-          "0 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162712.1
+      "totalWithEstimatesKm": 162858.8
     }
   }
 }

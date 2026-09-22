@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T12:30:42.023Z",
+  "generatedAt": "2026-09-22T13:00:55.908Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14004,
+  "totalActivities": 14008,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 163348600,
-    "totalMovingTime": 46645307,
-    "totalElevation": 1165455.6
+    "totalDistance": 163362600,
+    "totalMovingTime": 46655507,
+    "totalElevation": 1165606.6
   },
   "monthStats": {
-    "totalDistance": 24543500,
-    "totalMovingTime": 7159080,
+    "totalDistance": 24557500,
+    "totalMovingTime": 7169280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2394600,
-    "totalMovingTime": 739560,
-    "count": 235
+    "totalDistance": 2408600,
+    "totalMovingTime": 749760,
+    "count": 238
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147551.6,
+    "measuredDistanceKm": 147565.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20281365316",
+        "name": "Fahrt am Nachmittag",
+        "date": "September 22, 2026",
+        "distanceKm": 13.9,
+        "stats": [
+          "13.9 km",
+          "48:19",
+          "151 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20281209575",
+        "name": "Entrenamiento con pesas a la tarde",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "54:37",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Cristian Stănciulescu",
         "athleteId": "67352997",
@@ -67,28 +93,15 @@
         ]
       },
       {
-        "athlete": "Jenny Heitschötter",
-        "athleteId": "769523801",
-        "activityId": "20280362481",
-        "name": "Mittagslauf",
+        "athlete": "Shubham Kumar",
+        "athleteId": "161648421",
+        "activityId": "20281187198",
+        "name": "Afternoon Weight Training",
         "date": "September 22, 2026",
-        "distanceKm": 6,
+        "distanceKm": 0,
         "stats": [
-          "6.0 km",
-          "43:41",
-          "57 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20280211584",
-        "name": "Lunch Walk",
-        "date": "September 22, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "39:34",
+          "0 km",
+          "1:09:09",
           "0 m"
         ]
       },
@@ -103,19 +116,6 @@
           "5.2 km",
           "1:28:19",
           "21 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20280227276",
-        "name": "Mittagsradfahrt",
-        "date": "September 22, 2026",
-        "distanceKm": 37.5,
-        "stats": [
-          "37.5 km",
-          "1:12:23",
-          "468 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 163348.6
+      "totalWithEstimatesKm": 163362.6
     }
   }
 }

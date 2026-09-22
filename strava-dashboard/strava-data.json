@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T04:30:40.893Z",
+  "generatedAt": "2026-09-22T05:00:50.653Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13941,
+  "totalActivities": 13951,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162658700,
-    "totalMovingTime": 46442507,
-    "totalElevation": 1161318.6
+    "totalDistance": 162669400,
+    "totalMovingTime": 46454567,
+    "totalElevation": 1161407.6
   },
   "monthStats": {
-    "totalDistance": 23853600,
-    "totalMovingTime": 6956280,
+    "totalDistance": 23864300,
+    "totalMovingTime": 6968340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1704700,
-    "totalMovingTime": 536760,
-    "count": 174
+    "totalDistance": 1715400,
+    "totalMovingTime": 548820,
+    "count": 180
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,21 +48,34 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146861.7,
+    "measuredDistanceKm": 146872.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20276398153",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20276559179",
+        "name": "Morning Run",
+        "date": "September 22, 2026",
+        "distanceKm": 3.6,
+        "stats": [
+          "3.6 km",
+          "24:45",
+          "27 m"
+        ]
+      },
+      {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20276618112",
+        "name": "Gewichtstraining am Morgen",
         "date": "September 22, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "18:45",
+          "52:48",
           "0 m"
         ]
       },
@@ -70,7 +83,7 @@
         "athlete": "Jürgen Föll",
         "athleteId": "41355823",
         "activityId": "20276474732",
-        "name": "E-Bike-Fahrt am Morgen",
+        "name": "Fichtenberg Recaro",
         "date": "September 22, 2026",
         "distanceKm": 18.4,
         "stats": [
@@ -90,19 +103,6 @@
           "13.7 km",
           "1:08:50",
           "16 m"
-        ]
-      },
-      {
-        "athlete": "Rajesh Khandare",
-        "athleteId": "129925061",
-        "activityId": "20276461492",
-        "name": "Morning Run",
-        "date": "September 22, 2026",
-        "distanceKm": 6.1,
-        "stats": [
-          "6.1 km",
-          "1:00:26",
-          "43 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162658.7
+      "totalWithEstimatesKm": 162669.4
     }
   }
 }

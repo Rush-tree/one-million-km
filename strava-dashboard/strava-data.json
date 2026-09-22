@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T03:30:42.045Z",
+  "generatedAt": "2026-09-22T04:00:51.252Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13930,
+  "totalActivities": 13937,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 162592400,
-    "totalMovingTime": 46423727,
-    "totalElevation": 1160961.6
+    "totalDistance": 162606700,
+    "totalMovingTime": 46429307,
+    "totalElevation": 1161012.6
   },
   "monthStats": {
-    "totalDistance": 23787300,
-    "totalMovingTime": 6937500,
+    "totalDistance": 23801600,
+    "totalMovingTime": 6943080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1638400,
-    "totalMovingTime": 517980,
-    "count": 165
+    "totalDistance": 1652700,
+    "totalMovingTime": 523560,
+    "count": 170
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 146795.4,
+    "measuredDistanceKm": 146809.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20276369628",
+        "name": "Morning Weight Training",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "8:05",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20276369637",
+        "name": "Morning Yoga",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:27",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20276304040",
+        "name": "Morning Weight Training",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "25:35",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Vincent Glößner",
         "athleteId": "60518823",
@@ -67,55 +106,16 @@
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20276204867",
-        "name": "Rennrad",
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20276267879",
+        "name": "Morning Run",
         "date": "September 22, 2026",
-        "distanceKm": 6.8,
+        "distanceKm": 12,
         "stats": [
-          "6.8 km",
-          "16:19",
-          "26 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20276239454",
-        "name": "Morning run",
-        "date": "September 22, 2026",
-        "distanceKm": 4.9,
-        "stats": [
-          "4.9 km",
-          "33:59",
-          "61 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20276180071",
-        "name": "Tuesday Morning Activity",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "23:51",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20276229446",
-        "name": "Morning Weight Training",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:00:50",
-          "0 m"
+          "12.0 km",
+          "1:14:41",
+          "23 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 162592.4
+      "totalWithEstimatesKm": 162606.7
     }
   }
 }

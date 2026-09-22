@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T11:30:42.621Z",
+  "generatedAt": "2026-09-22T12:00:52.257Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 163187000,
-    "totalMovingTime": 46614347,
-    "totalElevation": 1164322.6
+    "totalDistance": 163346600,
+    "totalMovingTime": 46643087,
+    "totalElevation": 1165447.6
   },
   "monthStats": {
-    "totalDistance": 24381900,
-    "totalMovingTime": 7128120,
+    "totalDistance": 24541500,
+    "totalMovingTime": 7156860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2233000,
-    "totalMovingTime": 708600,
-    "count": 229
+    "totalDistance": 2392600,
+    "totalMovingTime": 737340,
+    "count": 234
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147390,
+    "measuredDistanceKm": 147549.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jenny Heitschötter",
+        "athleteId": "769523801",
+        "activityId": "20280362481",
+        "name": "Mittagslauf",
+        "date": "September 22, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "43:41",
+          "57 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20280211584",
+        "name": "Lunch Walk",
+        "date": "September 22, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "39:34",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20280534456",
+        "name": "Mittagspaziergang",
+        "date": "September 22, 2026",
+        "distanceKm": 5.2,
+        "stats": [
+          "5.2 km",
+          "1:28:19",
+          "21 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -67,55 +106,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20279166984",
-        "name": "Morning Swim",
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20280227276",
+        "name": "Mittagsradfahrt",
         "date": "September 22, 2026",
-        "distanceKm": 1.1,
+        "distanceKm": 37.5,
         "stats": [
-          "1.1 km",
-          "26:22",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20279137157",
-        "name": "🌳",
-        "date": "September 22, 2026",
-        "distanceKm": 7.3,
-        "stats": [
-          "7.3 km",
-          "35:21",
-          "79 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20279145592",
-        "name": "Intervalldienstag: 400-800-1200-800-400",
-        "date": "September 22, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "40:10",
-          "11 m"
-        ]
-      },
-      {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "20279197978",
-        "name": "Mittagslauf",
-        "date": "September 22, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "56:57",
-          "101 m"
+          "37.5 km",
+          "1:12:23",
+          "468 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 163187
+      "totalWithEstimatesKm": 163346.6
     }
   }
 }

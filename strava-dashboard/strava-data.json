@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T12:00:52.257Z",
+  "generatedAt": "2026-09-22T12:30:42.023Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14003,
+  "totalActivities": 14004,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 163346600,
-    "totalMovingTime": 46643087,
-    "totalElevation": 1165447.6
+    "totalDistance": 163348600,
+    "totalMovingTime": 46645307,
+    "totalElevation": 1165455.6
   },
   "monthStats": {
-    "totalDistance": 24541500,
-    "totalMovingTime": 7156860,
+    "totalDistance": 24543500,
+    "totalMovingTime": 7159080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2392600,
-    "totalMovingTime": 737340,
-    "count": 234
+    "totalDistance": 2394600,
+    "totalMovingTime": 739560,
+    "count": 235
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147549.6,
+    "measuredDistanceKm": 147551.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20280808275",
+        "name": "Afternoon Walk",
+        "date": "September 22, 2026",
+        "distanceKm": 1.9,
+        "stats": [
+          "1.9 km",
+          "36:45",
+          "8 m"
+        ]
+      },
       {
         "athlete": "Jenny Heitschötter",
         "athleteId": "769523801",
@@ -93,19 +106,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20279497709",
-        "name": "Sauna",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "24:34",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
         "athleteId": "129712916",
         "activityId": "20280227276",
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 163346.6
+      "totalWithEstimatesKm": 163348.6
     }
   }
 }

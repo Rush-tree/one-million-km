@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T10:30:44.863Z",
+  "generatedAt": "2026-09-22T11:00:54.692Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 13999,
+  "totalActivities": 14002,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 163082800,
-    "totalMovingTime": 46592207,
+    "totalDistance": 163083500,
+    "totalMovingTime": 46594547,
     "totalElevation": 1164214.6
   },
   "monthStats": {
-    "totalDistance": 24277700,
-    "totalMovingTime": 7105980,
+    "totalDistance": 24278400,
+    "totalMovingTime": 7108320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2128800,
-    "totalMovingTime": 686460,
-    "count": 223
+    "totalDistance": 2129500,
+    "totalMovingTime": 688800,
+    "count": 225
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 147285.8,
+    "measuredDistanceKm": 147286.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20279497709",
+        "name": "Sauna",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "24:34",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -70,12 +83,12 @@
         "athlete": "Nico Deckarm",
         "athleteId": "74766538",
         "activityId": "20279137157",
-        "name": "Lunch Trail Run",
+        "name": "🌳",
         "date": "September 22, 2026",
         "distanceKm": 7.3,
         "stats": [
           "7.3 km",
-          "35:22",
+          "35:21",
           "79 m"
         ]
       },
@@ -104,19 +117,6 @@
           "56:57",
           "101 m"
         ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20279166983",
-        "name": "Morning Workout",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:15:12",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 163082.8
+      "totalWithEstimatesKm": 163083.5
     }
   }
 }

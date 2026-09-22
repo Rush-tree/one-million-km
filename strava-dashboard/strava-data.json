@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T19:00:53.564Z",
+  "generatedAt": "2026-09-22T19:30:43.010Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14079,
+  "totalActivities": 14082,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 164939800,
-    "totalMovingTime": 47050667,
+    "totalDistance": 164945000,
+    "totalMovingTime": 47062427,
     "totalElevation": 1179320.6
   },
   "monthStats": {
-    "totalDistance": 26134700,
-    "totalMovingTime": 7564440,
+    "totalDistance": 26139900,
+    "totalMovingTime": 7576200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3985800,
-    "totalMovingTime": 1144920,
-    "count": 332
+    "totalDistance": 3991000,
+    "totalMovingTime": 1156680,
+    "count": 334
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149142.8,
+    "measuredDistanceKm": 149148,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -80,6 +80,19 @@
         ]
       },
       {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20286762266",
+        "name": "Evening Yoga",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:46:11",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Britta Prasse",
         "athleteId": "200634990",
         "activityId": "20286039706",
@@ -90,19 +103,6 @@
           "7.7 km",
           "1:05:34",
           "35 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20285872041",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fresh & Fast: Womens Dev Mint League Division 1 - Race 1 (C)",
-        "date": "September 22, 2026",
-        "distanceKm": 30.1,
-        "stats": [
-          "30.1 km",
-          "58:54",
-          "222 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 164939.8
+      "totalWithEstimatesKm": 164945
     }
   }
 }

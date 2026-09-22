@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T16:00:55.746Z",
+  "generatedAt": "2026-09-22T16:30:45.178Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14027,
+  "totalActivities": 14034,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 163905800,
-    "totalMovingTime": 46788527,
-    "totalElevation": 1170486.6
+    "totalDistance": 163931600,
+    "totalMovingTime": 46801487,
+    "totalElevation": 1170500.6
   },
   "monthStats": {
-    "totalDistance": 25100700,
-    "totalMovingTime": 7302300,
+    "totalDistance": 25126500,
+    "totalMovingTime": 7315260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2951800,
-    "totalMovingTime": 882780,
-    "count": 267
+    "totalDistance": 2977600,
+    "totalMovingTime": 895740,
+    "count": 272
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 148108.8,
+    "measuredDistanceKm": 148134.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20283711338",
+        "name": "IT’S RACE WEEK. 🫠🏃‍♀️🏁",
+        "date": "September 22, 2026",
+        "distanceKm": 9.8,
+        "stats": [
+          "9.8 km",
+          "51:13",
+          "11 m"
+        ]
+      },
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20283671854",
+        "name": "Nachmittagstraining",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:06:27",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Sascha Gebel",
         "athleteId": "19964716",
@@ -64,32 +90,6 @@
           "10.4 km",
           "52:39",
           "105 m"
-        ]
-      },
-      {
-        "athlete": "Marcel Eisenreich",
-        "athleteId": "203408258",
-        "activityId": "20283298551",
-        "name": "Lauf am Nachmittag",
-        "date": "September 22, 2026",
-        "distanceKm": 7.1,
-        "stats": [
-          "7.1 km",
-          "46:04",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Elsa Rottluff",
-        "athleteId": "110130704",
-        "activityId": "20283387418",
-        "name": "Nachmittagstraining",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "53:05",
-          "0 m"
         ]
       },
       {
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20283157599",
-        "name": "Evening Walk",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20283618101",
+        "name": "Afternoon Run",
         "date": "September 22, 2026",
-        "distanceKm": 1.1,
+        "distanceKm": 5.5,
         "stats": [
-          "1.1 km",
-          "23:59",
-          "1 m"
+          "5.5 km",
+          "27:39",
+          "0 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 163905.8
+      "totalWithEstimatesKm": 163931.6
     }
   }
 }

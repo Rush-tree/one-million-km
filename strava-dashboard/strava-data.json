@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T22:01:24.677Z",
+  "generatedAt": "2026-09-22T22:30:40.463Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14090,
+  "totalActivities": 14092,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165065800,
-    "totalMovingTime": 47100767,
-    "totalElevation": 1180437.6
+    "totalDistance": 165066200,
+    "totalMovingTime": 47100887,
+    "totalElevation": 1180440.6
   },
   "monthStats": {
-    "totalDistance": 26260700,
-    "totalMovingTime": 7614540,
+    "totalDistance": 26261100,
+    "totalMovingTime": 7614660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4111800,
-    "totalMovingTime": 1195020,
-    "count": 343
+    "totalDistance": 4112200,
+    "totalMovingTime": 1195140,
+    "count": 344
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149268.8,
+    "measuredDistanceKm": 149269.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20288362831",
+        "name": "Pedalada ao entardecer",
+        "date": "September 22, 2026",
+        "distanceKm": 0.3,
+        "stats": [
+          "0.3 km",
+          "2:04",
+          "3 m"
+        ]
+      },
       {
         "athlete": "Norick Maurer",
         "athleteId": "107445415",
@@ -104,19 +117,6 @@
           "2:03:01",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20287019006",
-        "name": "Evening Ride",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:10:01",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165065.8
+      "totalWithEstimatesKm": 165066.2
     }
   }
 }

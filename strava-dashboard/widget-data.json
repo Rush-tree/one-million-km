@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-22T22:01:24.677Z",
+  "generatedAt": "2026-09-22T22:30:40.463Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 343,
-    "distanceKm": 4111.8,
-    "elevationM": 28409,
-    "movingSeconds": 1195020,
+    "activities": 344,
+    "distanceKm": 4112.2,
+    "elevationM": 28412,
+    "movingSeconds": 1195140,
     "raw": {
-      "activities": "343",
-      "distance": "4,111.8 km",
-      "time": "331 h 57 m",
-      "elevation": "28,409 m"
+      "activities": "344",
+      "distance": "4,112.2 km",
+      "time": "331 h 59 m",
+      "elevation": "28,412 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20288362831",
+      "name": "Pedalada ao entardecer",
+      "date": "September 22, 2026",
+      "distanceKm": 0.3,
+      "stats": [
+        "0.3 km",
+        "2:04",
+        "3 m"
+      ]
+    },
     {
       "athlete": "Norick Maurer",
       "athleteId": "107445415",
@@ -67,19 +80,6 @@
         "2:03:01",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20287019006",
-      "name": "Evening Ride",
-      "date": "September 22, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:10:01",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 26260.7,
-  "totalDistanceKm": 149268.8,
+  "observedWeeksKm": 26261.1,
+  "totalDistanceKm": 149269.2,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 165065.8
+    "totalWithEstimatesKm": 165066.2
   }
 }

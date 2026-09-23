@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T13:00:58.194Z",
+  "generatedAt": "2026-09-23T13:30:43.899Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14169,
+  "totalActivities": 14178,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165766100,
-    "totalMovingTime": 47324447,
-    "totalElevation": 1184639.6
+    "totalDistance": 165843300,
+    "totalMovingTime": 47344427,
+    "totalElevation": 1185053.6
   },
   "monthStats": {
-    "totalDistance": 26961000,
-    "totalMovingTime": 7838220,
+    "totalDistance": 27038200,
+    "totalMovingTime": 7858200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4812100,
-    "totalMovingTime": 1418700,
-    "count": 414
+    "totalDistance": 4889300,
+    "totalMovingTime": 1438680,
+    "count": 422
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149969.1,
+    "measuredDistanceKm": 150046.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20296344589",
+        "name": "Pendel Home",
+        "date": "September 23, 2026",
+        "distanceKm": 3.7,
+        "stats": [
+          "3.7 km",
+          "9:14",
+          "19 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20296408853",
+        "name": "Zwift - Flat Out Fast in Watopia",
+        "date": "September 23, 2026",
+        "distanceKm": 26.3,
+        "stats": [
+          "26.3 km",
+          "41:20",
+          "53 m"
+        ]
+      },
+      {
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20296136600",
+        "name": "Morning Walk",
+        "date": "September 23, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "46:22",
+          "6 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -67,55 +106,16 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20295545968",
-        "name": "ROUVY - Active Recovery",
-        "date": "September 23, 2026",
-        "distanceKm": 11.3,
-        "stats": [
-          "11.3 km",
-          "31:56",
-          "98 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20295805659",
-        "name": "Zwift - Epic Run in Watopia",
-        "date": "September 23, 2026",
-        "distanceKm": 7.3,
-        "stats": [
-          "7.3 km",
-          "2:16:40",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20295864233",
-        "name": "NW nach Ehrenberg und zu den Bisons",
-        "date": "September 23, 2026",
-        "distanceKm": 8.6,
-        "stats": [
-          "8.6 km",
-          "2:26:14",
-          "118 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20295788628",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20296189316",
         "name": "Spaziergang am Morgen",
         "date": "September 23, 2026",
-        "distanceKm": 5,
+        "distanceKm": 8,
         "stats": [
-          "5.0 km",
-          "3:46:58",
-          "84 m"
+          "8.0 km",
+          "5:10:23",
+          "144 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165766.1
+      "totalWithEstimatesKm": 165843.3
     }
   }
 }

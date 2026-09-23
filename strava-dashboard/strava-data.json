@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T11:00:53.564Z",
+  "generatedAt": "2026-09-23T11:30:45.192Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14146,
+  "totalActivities": 14151,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165529300,
-    "totalMovingTime": 47244947,
-    "totalElevation": 1182414.6
+    "totalDistance": 165586700,
+    "totalMovingTime": 47260067,
+    "totalElevation": 1183159.6
   },
   "monthStats": {
-    "totalDistance": 26724200,
-    "totalMovingTime": 7758720,
+    "totalDistance": 26781600,
+    "totalMovingTime": 7773840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4575300,
-    "totalMovingTime": 1339200,
-    "count": 392
+    "totalDistance": 4632700,
+    "totalMovingTime": 1354320,
+    "count": 397
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149732.3,
+    "measuredDistanceKm": 149789.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20294619034",
+        "name": "Lunch Walk",
+        "date": "September 23, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "33:31",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20294780096",
+        "name": "Lunch 🥪 Ride 🚴🐎",
+        "date": "September 23, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "19:26",
+          "56 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -67,42 +93,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20293308920",
-        "name": "Morning Walk",
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20294574316",
+        "name": "Mittagsradfahrt",
         "date": "September 23, 2026",
-        "distanceKm": 3.3,
+        "distanceKm": 41.2,
         "stats": [
-          "3.3 km",
-          "45:23",
-          "15 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20293237865",
-        "name": "Die intervals waren sneller dan verwacht 🤩",
-        "date": "September 23, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "43:39",
-          "4 m"
-        ]
-      },
-      {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20293114086",
-        "name": "HIIT matinal",
-        "date": "September 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "43:20",
-          "0 m"
+          "41.2 km",
+          "1:23:50",
+          "636 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165529.3
+      "totalWithEstimatesKm": 165586.7
     }
   }
 }

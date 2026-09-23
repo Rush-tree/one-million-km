@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T02:30:40.394Z",
+  "generatedAt": "2026-09-23T03:00:52.620Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14101,
+  "totalActivities": 14104,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165132600,
-    "totalMovingTime": 47118107,
-    "totalElevation": 1180756.6
+    "totalDistance": 165206800,
+    "totalMovingTime": 47308427,
+    "totalElevation": 1180983.6
   },
   "monthStats": {
-    "totalDistance": 26327500,
-    "totalMovingTime": 7631880,
+    "totalDistance": 26401700,
+    "totalMovingTime": 7822200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4178600,
-    "totalMovingTime": 1212360,
-    "count": 352
+    "totalDistance": 4252800,
+    "totalMovingTime": 1402680,
+    "count": 356
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149335.6,
+    "measuredDistanceKm": 149409.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Meenu Nagori",
+        "athleteId": "69685863",
+        "activityId": "20290955908",
+        "name": "Morning Run",
+        "date": "September 23, 2026",
+        "distanceKm": 5.5,
+        "stats": [
+          "5.5 km",
+          "59:37",
+          "39 m"
+        ]
+      },
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20290958639",
+        "name": "Footing 🏃",
+        "date": "September 22, 2026",
+        "distanceKm": 7.5,
+        "stats": [
+          "7.5 km",
+          "59:42",
+          "117 m"
+        ]
+      },
       {
         "athlete": "André Brune",
         "athleteId": "4536289",
@@ -67,54 +93,28 @@
         ]
       },
       {
-        "athlete": "Josué González",
-        "athleteId": "178408867",
-        "activityId": "20289763319",
-        "name": "MGGT 🇬🇹 EVENING TREAD 🏃‍♂️",
-        "date": "September 22, 2026",
-        "distanceKm": 5.5,
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20290881654",
+        "name": "🌥️ Wednesday Morning Ride",
+        "date": "September 23, 2026",
+        "distanceKm": 61.1,
         "stats": [
-          "5.5 km",
-          "31:12",
-          "0 m"
+          "61.1 km",
+          "3:02:05",
+          "71 m"
         ]
       },
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20290295888",
-        "name": "Musculação ao entardecer",
-        "date": "September 22, 2026",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20290908896",
+        "name": "Monday Morning Activity",
+        "date": "September 21, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "53:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20288362831",
-        "name": "Pedalada ao entardecer",
-        "date": "September 22, 2026",
-        "distanceKm": 0.3,
-        "stats": [
-          "0.3 km",
-          "2:04",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20289566089",
-        "name": "Marche de nuit",
-        "date": "September 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0.0 km",
-          "2:09",
+          "48:10:14",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165132.6
+      "totalWithEstimatesKm": 165206.8
     }
   }
 }

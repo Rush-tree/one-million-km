@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T17:00:51.795Z",
+  "generatedAt": "2026-09-23T17:19:41.746Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14217,
+  "totalActivities": 14222,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 166414000,
-    "totalMovingTime": 47495027,
-    "totalElevation": 1190480.6
+    "totalDistance": 166493700,
+    "totalMovingTime": 47513747,
+    "totalElevation": 1191196.6
   },
   "monthStats": {
-    "totalDistance": 27608900,
-    "totalMovingTime": 8008800,
+    "totalDistance": 27688600,
+    "totalMovingTime": 8027520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5460000,
-    "totalMovingTime": 1589280,
-    "count": 464
+    "totalDistance": 5539700,
+    "totalMovingTime": 1608000,
+    "count": 470
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,35 +48,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 150617,
+    "measuredDistanceKm": 150696.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20299125529",
-        "name": "Lunch Hike",
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20299391040",
+        "name": "Gewichtstraining am Abend",
         "date": "September 23, 2026",
-        "distanceKm": 2.2,
+        "distanceKm": 0,
         "stats": [
-          "2.2 km",
-          "31:22",
-          "18 m"
+          "0 km",
+          "36:37",
+          "0 m"
         ]
       },
       {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "20299003900",
-        "name": "Zwift - Group Ride: GXY LOOSEY GOOSEY (D)",
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20299389480",
+        "name": "Afternoon E-Bike Ride",
         "date": "September 23, 2026",
-        "distanceKm": 33.7,
+        "distanceKm": 3.3,
         "stats": [
-          "33.7 km",
-          "1:02:03",
-          "117 m"
+          "3.3 km",
+          "42:30",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20299315901",
+        "name": "Abendlauf",
+        "date": "September 23, 2026",
+        "distanceKm": 2.5,
+        "stats": [
+          "2.5 km",
+          "50:44",
+          "8 m"
+        ]
+      },
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20299299276",
+        "name": "Wieczorne bieganie",
+        "date": "September 23, 2026",
+        "distanceKm": 8.3,
+        "stats": [
+          "8.3 km",
+          "57:21",
+          "47 m"
         ]
       },
       {
@@ -90,32 +116,6 @@
           "0 km",
           "1:15:00",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Elsa Rottluff",
-        "athleteId": "110130704",
-        "activityId": "20299006693",
-        "name": "Afternoon Workout",
-        "date": "September 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:14:41",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Elmar Höckensfeld 🇩🇪",
-        "athleteId": "18975420",
-        "activityId": "20299022727",
-        "name": "Restart mit MTB 😎🚵",
-        "date": "September 23, 2026",
-        "distanceKm": 31.8,
-        "stats": [
-          "31.8 km",
-          "1:51:47",
-          "85 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 166414
+      "totalWithEstimatesKm": 166493.7
     }
   }
 }

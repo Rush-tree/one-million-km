@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T10:30:42.947Z",
+  "generatedAt": "2026-09-23T11:00:53.564Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14143,
+  "totalActivities": 14146,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165515200,
-    "totalMovingTime": 47241467,
-    "totalElevation": 1182354.6
+    "totalDistance": 165529300,
+    "totalMovingTime": 47244947,
+    "totalElevation": 1182414.6
   },
   "monthStats": {
-    "totalDistance": 26710100,
-    "totalMovingTime": 7755240,
+    "totalDistance": 26724200,
+    "totalMovingTime": 7758720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4561200,
-    "totalMovingTime": 1335720,
-    "count": 390
+    "totalDistance": 4575300,
+    "totalMovingTime": 1339200,
+    "count": 392
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149718.2,
+    "measuredDistanceKm": 149732.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20294345549",
+        "name": "Lunch Ride",
+        "date": "September 23, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "39:41",
+          "60 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20293304399",
-        "name": "Morning workout",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20294355847",
+        "name": "Gewichtstraining zur Mittagszeit",
         "date": "September 23, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "44:37",
+          "20:08",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20293186740",
-        "name": "Morning E-Bike Ride",
-        "date": "September 23, 2026",
-        "distanceKm": 3.8,
-        "stats": [
-          "3.8 km",
-          "21:45",
-          "19 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165515.2
+      "totalWithEstimatesKm": 165529.3
     }
   }
 }

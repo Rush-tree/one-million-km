@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T15:30:43.721Z",
+  "generatedAt": "2026-09-23T16:00:54.754Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14191,
+  "totalActivities": 14198,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 166106700,
-    "totalMovingTime": 47406647,
-    "totalElevation": 1188107.6
+    "totalDistance": 166182000,
+    "totalMovingTime": 47427647,
+    "totalElevation": 1188494.6
   },
   "monthStats": {
-    "totalDistance": 27301600,
-    "totalMovingTime": 7920420,
+    "totalDistance": 27376900,
+    "totalMovingTime": 7941420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5152700,
-    "totalMovingTime": 1500900,
-    "count": 438
+    "totalDistance": 5228000,
+    "totalMovingTime": 1521900,
+    "count": 445
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,74 +48,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 150309.7,
+    "measuredDistanceKm": 150385,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20297453523",
+        "athlete": "Werner Hunold",
+        "athleteId": "372952540",
+        "activityId": "20298050818",
+        "name": "Lauf am Nachmittag",
+        "date": "September 23, 2026",
+        "distanceKm": 6.4,
+        "stats": [
+          "6.4 km",
+          "38:00",
+          "18 m"
+        ]
+      },
+      {
+        "athlete": "Nils Werthebach",
+        "athleteId": "62336173",
+        "activityId": "20297989933",
         "name": "Afternoon Walk",
         "date": "September 23, 2026",
-        "distanceKm": 2.8,
+        "distanceKm": 1.5,
         "stats": [
-          "2.8 km",
-          "55:19",
-          "10 m"
+          "1.5 km",
+          "47:19",
+          "47 m"
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20296954018",
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20298022632",
         "name": "Afternoon Ride",
         "date": "September 23, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 29.9,
         "stats": [
-          "4.4 km",
-          "15:56",
-          "58 m"
+          "29.9 km",
+          "1:12:10",
+          "145 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20296762649",
-        "name": "Sauna",
+        "athlete": "Roland Baumann",
+        "athleteId": "87457914",
+        "activityId": "20298110429",
+        "name": "Fahrt am Nachmittag",
+        "date": "September 23, 2026",
+        "distanceKm": 25.7,
+        "stats": [
+          "25.7 km",
+          "1:35:41",
+          "38 m"
+        ]
+      },
+      {
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20298203784",
+        "name": "Fahrt am Nachmittag",
         "date": "September 23, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "17:14",
+          "1:00:01",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20296682631",
-        "name": "De sportieve dag verder zetten",
-        "date": "September 23, 2026",
-        "distanceKm": 1.2,
-        "stats": [
-          "1.2 km",
-          "52:14",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "20297645813",
-        "name": "Morgenausfahrt",
-        "date": "September 23, 2026",
-        "distanceKm": 88.7,
-        "stats": [
-          "88.7 km",
-          "5:25:00",
-          "1,827 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 166106.7
+      "totalWithEstimatesKm": 166182
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T18:30:44.545Z",
+  "generatedAt": "2026-09-23T19:01:30.214Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14244,
+  "totalActivities": 14247,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 166774800,
-    "totalMovingTime": 47588867,
-    "totalElevation": 1193093.6
+    "totalDistance": 166866900,
+    "totalMovingTime": 47607647,
+    "totalElevation": 1193421.6
   },
   "monthStats": {
-    "totalDistance": 27969700,
-    "totalMovingTime": 8102640,
+    "totalDistance": 28061800,
+    "totalMovingTime": 8121420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5820800,
-    "totalMovingTime": 1683120,
-    "count": 492
+    "totalDistance": 5912900,
+    "totalMovingTime": 1701900,
+    "count": 497
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,48 +48,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 150977.8,
+    "measuredDistanceKm": 151069.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20300478027",
-        "name": "Abendlauf",
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20301040304",
+        "name": "Carrera de noche",
         "date": "September 23, 2026",
-        "distanceKm": 1.6,
+        "distanceKm": 6.5,
         "stats": [
-          "1.6 km",
-          "4:24",
-          "3 m"
+          "6.5 km",
+          "29:18",
+          "102 m"
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20299994379",
-        "name": "Evening Ride",
+        "athlete": "Elsa Rottluff",
+        "athleteId": "110130704",
+        "activityId": "20301059503",
+        "name": "Evening Run",
         "date": "September 23, 2026",
-        "distanceKm": 1.4,
+        "distanceKm": 9.8,
         "stats": [
-          "1.4 km",
-          "9:26",
-          "8 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20300050286",
-        "name": "Abendausfahrt ☁",
-        "date": "September 23, 2026",
-        "distanceKm": 14.8,
-        "stats": [
-          "14.8 km",
-          "39:04",
-          "17 m"
+          "9.8 km",
+          "1:10:00",
+          "0 m"
         ]
       },
       {
@@ -117,6 +104,19 @@
           "1:23:13",
           "13 m"
         ]
+      },
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20301038802",
+        "name": "Fahrt am Nachmittag",
+        "date": "September 23, 2026",
+        "distanceKm": 70.3,
+        "stats": [
+          "70.3 km",
+          "2:54:37",
+          "216 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 166774.8
+      "totalWithEstimatesKm": 166866.9
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T20:34:24.144Z",
+  "generatedAt": "2026-09-23T21:00:55.274Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14253,
+  "totalActivities": 14256,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167141000,
-    "totalMovingTime": 47666207,
-    "totalElevation": 1195151.6
+    "totalDistance": 167149800,
+    "totalMovingTime": 47673527,
+    "totalElevation": 1195229.6
   },
   "monthStats": {
-    "totalDistance": 28335900,
-    "totalMovingTime": 8179980,
+    "totalDistance": 28344700,
+    "totalMovingTime": 8187300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6187000,
-    "totalMovingTime": 1760460,
-    "count": 509
+    "totalDistance": 6195800,
+    "totalMovingTime": 1767780,
+    "count": 511
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151344,
+    "measuredDistanceKm": 151352.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Henrique Juhas",
+        "athleteId": "118657757",
+        "activityId": "20302194524",
+        "name": "Corrida da tarde",
+        "date": "September 23, 2026",
+        "distanceKm": 5.2,
+        "stats": [
+          "5.2 km",
+          "1:04:10",
+          "78 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20302224345",
+        "name": "Camminata notturna",
+        "date": "September 23, 2026",
+        "distanceKm": 3.5,
+        "stats": [
+          "3.5 km",
+          "1:14:42",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
         "athleteId": "24992941",
@@ -91,32 +117,6 @@
           "1:02:09",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Agata Borovska",
-        "athleteId": "129470144",
-        "activityId": "20301310544",
-        "name": "Evening run",
-        "date": "September 23, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "1:00:44",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20301315097",
-        "name": "Poco Mitteoch",
-        "date": "September 23, 2026",
-        "distanceKm": 90.1,
-        "stats": [
-          "90.1 km",
-          "3:22:02",
-          "193 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167141
+      "totalWithEstimatesKm": 167149.8
     }
   }
 }

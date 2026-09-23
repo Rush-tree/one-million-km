@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T05:30:38.634Z",
+  "generatedAt": "2026-09-23T06:00:50.487Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 364,
-    "distanceKm": 4321.7,
-    "elevationM": 29483,
-    "movingSeconds": 1260240,
+    "activities": 366,
+    "distanceKm": 4335,
+    "elevationM": 29712,
+    "movingSeconds": 1267980,
     "raw": {
-      "activities": "364",
-      "distance": "4,321.7 km",
-      "time": "350 h 4 m",
-      "elevation": "29,483 m"
+      "activities": "366",
+      "distance": "4,335.0 km",
+      "time": "352 h 13 m",
+      "elevation": "29,712 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20291860686",
+      "name": "Morning Ride",
+      "date": "September 23, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "13:55",
+        "52 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -43,16 +56,16 @@
       ]
     },
     {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20291202335",
-      "name": "Morning Yoga",
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "20291313799",
+      "name": "585/730 gün koşusu",
       "date": "September 23, 2026",
-      "distanceKm": 0,
+      "distanceKm": 15.4,
       "stats": [
-        "0 km",
-        "16:35",
-        "0 m"
+        "15.4 km",
+        "1:15:25",
+        "61 m"
       ]
     },
     {
@@ -67,19 +80,6 @@
         "1:47:54",
         "30 m"
       ]
-    },
-    {
-      "athlete": "Bülent Sevil",
-      "athleteId": "156559910",
-      "activityId": "20291313799",
-      "name": "Açık alanda koşu",
-      "date": "September 23, 2026",
-      "distanceKm": 15.4,
-      "stats": [
-        "15.4 km",
-        "1:15:25",
-        "61 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 26470.6,
-  "totalDistanceKm": 149478.7,
+  "observedWeeksKm": 26483.9,
+  "totalDistanceKm": 149492,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 165275.7
+    "totalWithEstimatesKm": 165289
   }
 }

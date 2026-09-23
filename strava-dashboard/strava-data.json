@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T05:30:38.634Z",
+  "generatedAt": "2026-09-23T06:00:50.487Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14114,
+  "totalActivities": 14116,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165275700,
-    "totalMovingTime": 47165987,
-    "totalElevation": 1181511.6
+    "totalDistance": 165289000,
+    "totalMovingTime": 47173727,
+    "totalElevation": 1181740.6
   },
   "monthStats": {
-    "totalDistance": 26470600,
-    "totalMovingTime": 7679760,
+    "totalDistance": 26483900,
+    "totalMovingTime": 7687500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4321700,
-    "totalMovingTime": 1260240,
-    "count": 364
+    "totalDistance": 4335000,
+    "totalMovingTime": 1267980,
+    "count": 366
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149478.7,
+    "measuredDistanceKm": 149492,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20291860686",
+        "name": "Morning Ride",
+        "date": "September 23, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "13:55",
+          "52 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -80,16 +93,16 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20291202335",
-        "name": "Morning Yoga",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20291313799",
+        "name": "585/730 gün koşusu",
         "date": "September 23, 2026",
-        "distanceKm": 0,
+        "distanceKm": 15.4,
         "stats": [
-          "0 km",
-          "16:35",
-          "0 m"
+          "15.4 km",
+          "1:15:25",
+          "61 m"
         ]
       },
       {
@@ -103,19 +116,6 @@
           "19.0 km",
           "1:47:54",
           "30 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20291313799",
-        "name": "Açık alanda koşu",
-        "date": "September 23, 2026",
-        "distanceKm": 15.4,
-        "stats": [
-          "15.4 km",
-          "1:15:25",
-          "61 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165275.7
+      "totalWithEstimatesKm": 165289
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T07:00:51.070Z",
+  "generatedAt": "2026-09-23T07:30:43.520Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14128,
+  "totalActivities": 14135,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165334800,
-    "totalMovingTime": 47188247,
-    "totalElevation": 1182040.6
+    "totalDistance": 165365300,
+    "totalMovingTime": 47202707,
+    "totalElevation": 1182196.6
   },
   "monthStats": {
-    "totalDistance": 26529700,
-    "totalMovingTime": 7702020,
+    "totalDistance": 26560200,
+    "totalMovingTime": 7716480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4380800,
-    "totalMovingTime": 1282500,
-    "count": 375
+    "totalDistance": 4411300,
+    "totalMovingTime": 1296960,
+    "count": 380
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149537.8,
+    "measuredDistanceKm": 149568.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20292563999",
+        "name": "Morning Walk",
+        "date": "September 23, 2026",
+        "distanceKm": 0.9,
+        "stats": [
+          "0.9 km",
+          "8:59",
+          "5 m"
+        ]
+      },
+      {
+        "athlete": "Alli Pace",
+        "athleteId": "169219498",
+        "activityId": "20292564539",
+        "name": "Morning HIIT",
+        "date": "September 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "58:33",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -67,16 +93,16 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20291860686",
-        "name": "Morning Ride",
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20292458940",
+        "name": "Finale Marathonvorbereitung - Basis",
         "date": "September 23, 2026",
-        "distanceKm": 4.5,
+        "distanceKm": 18,
         "stats": [
-          "4.5 km",
-          "13:55",
-          "52 m"
+          "18.0 km",
+          "1:29:55",
+          "104 m"
         ]
       },
       {
@@ -90,32 +116,6 @@
           "0 km",
           "23:35",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20291641310",
-        "name": "Spaziergang am Morgen",
-        "date": "September 23, 2026",
-        "distanceKm": 2.8,
-        "stats": [
-          "2.8 km",
-          "28:22",
-          "51 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20291600380",
-        "name": "Morning Walk",
-        "date": "September 23, 2026",
-        "distanceKm": 9.1,
-        "stats": [
-          "9.1 km",
-          "1:42:46",
-          "131 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165334.8
+      "totalWithEstimatesKm": 165365.3
     }
   }
 }

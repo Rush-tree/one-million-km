@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T23:30:40.262Z",
+  "generatedAt": "2026-09-23T00:00:53.401Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14092,
+  "totalActivities": 14095,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165066200,
-    "totalMovingTime": 47100887,
-    "totalElevation": 1180440.6
+    "totalDistance": 165067500,
+    "totalMovingTime": 47101907,
+    "totalElevation": 1180445.6
   },
   "monthStats": {
-    "totalDistance": 26261100,
-    "totalMovingTime": 7614660,
+    "totalDistance": 26262400,
+    "totalMovingTime": 7615680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4112200,
-    "totalMovingTime": 1195140,
-    "count": 344
+    "totalDistance": 4113500,
+    "totalMovingTime": 1196160,
+    "count": 346
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149269.2,
+    "measuredDistanceKm": 149270.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "0.3 km",
           "2:04",
           "3 m"
+        ]
+      },
+      {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20289566089",
+        "name": "Marche de nuit",
+        "date": "September 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0.0 km",
+          "2:09",
+          "0 m"
         ]
       },
       {
@@ -104,19 +117,6 @@
           "2:12:06",
           "2 m"
         ]
-      },
-      {
-        "athlete": "Elsa Rottluff",
-        "athleteId": "110130704",
-        "activityId": "20287066830",
-        "name": "Grundlagen, Grundlagen, Geundlagen",
-        "date": "September 22, 2026",
-        "distanceKm": 16.3,
-        "stats": [
-          "16.3 km",
-          "2:03:01",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165066.2
+      "totalWithEstimatesKm": 165067.5
     }
   }
 }

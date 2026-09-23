@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T14:30:41.277Z",
+  "generatedAt": "2026-09-23T15:00:58.826Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14191,
+  "totalActivities": 14193,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165863300,
-    "totalMovingTime": 47361287,
-    "totalElevation": 1185217.6
+    "totalDistance": 165958700,
+    "totalMovingTime": 47379587,
+    "totalElevation": 1185598.6
   },
   "monthStats": {
-    "totalDistance": 27058200,
-    "totalMovingTime": 7875060,
+    "totalDistance": 27153600,
+    "totalMovingTime": 7893360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4909300,
-    "totalMovingTime": 1455540,
-    "count": 431
+    "totalDistance": 5004700,
+    "totalMovingTime": 1473840,
+    "count": 435
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 150066.3,
+    "measuredDistanceKm": 150161.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20297453523",
+        "name": "Afternoon Walk",
+        "date": "September 23, 2026",
+        "distanceKm": 2.8,
+        "stats": [
+          "2.8 km",
+          "55:19",
+          "10 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -77,19 +90,6 @@
           "0 km",
           "17:14",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20296565704",
-        "name": "Evening Walk",
-        "date": "September 23, 2026",
-        "distanceKm": 1.1,
-        "stats": [
-          "1.1 km",
-          "27:30",
-          "9 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165863.3
+      "totalWithEstimatesKm": 165958.7
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T14:30:41.277Z",
+  "generatedAt": "2026-09-23T15:00:58.826Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 431,
-    "distanceKm": 4909.3,
-    "elevationM": 33189,
-    "movingSeconds": 1455540,
+    "activities": 435,
+    "distanceKm": 5004.7,
+    "elevationM": 33570,
+    "movingSeconds": 1473840,
     "raw": {
-      "activities": "431",
-      "distance": "4,909.3 km",
-      "time": "404 h 19 m",
-      "elevation": "33,189 m"
+      "activities": "435",
+      "distance": "5,004.7 km",
+      "time": "409 h 24 m",
+      "elevation": "33,570 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20297453523",
+      "name": "Afternoon Walk",
+      "date": "September 23, 2026",
+      "distanceKm": 2.8,
+      "stats": [
+        "2.8 km",
+        "55:19",
+        "10 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -40,19 +53,6 @@
         "0 km",
         "17:14",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Mangala Pai",
-      "athleteId": "118301293",
-      "activityId": "20296565704",
-      "name": "Evening Walk",
-      "date": "September 23, 2026",
-      "distanceKm": 1.1,
-      "stats": [
-        "1.1 km",
-        "27:30",
-        "9 m"
       ]
     },
     {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 27058.2,
-  "totalDistanceKm": 150066.3,
+  "observedWeeksKm": 27153.6,
+  "totalDistanceKm": 150161.7,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 165863.3
+    "totalWithEstimatesKm": 165958.7
   }
 }

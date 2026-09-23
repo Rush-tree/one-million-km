@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T07:30:43.520Z",
+  "generatedAt": "2026-09-23T09:00:51.259Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14135,
+  "totalActivities": 14142,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165365300,
-    "totalMovingTime": 47202707,
-    "totalElevation": 1182196.6
+    "totalDistance": 165384900,
+    "totalMovingTime": 47218007,
+    "totalElevation": 1182245.6
   },
   "monthStats": {
-    "totalDistance": 26560200,
-    "totalMovingTime": 7716480,
+    "totalDistance": 26579800,
+    "totalMovingTime": 7731780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4411300,
-    "totalMovingTime": 1296960,
-    "count": 380
+    "totalDistance": 4430900,
+    "totalMovingTime": 1312260,
+    "count": 385
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149568.3,
+    "measuredDistanceKm": 149587.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20292563999",
-        "name": "Morning Walk",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20293237865",
+        "name": "Morning Run",
         "date": "September 23, 2026",
-        "distanceKm": 0.9,
+        "distanceKm": 7,
         "stats": [
-          "0.9 km",
-          "8:59",
-          "5 m"
+          "7.0 km",
+          "43:39",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20293114086",
+        "name": "HIIT matinal",
+        "date": "September 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "43:20",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20293186740",
+        "name": "Morning E-Bike Ride",
+        "date": "September 23, 2026",
+        "distanceKm": 3.8,
+        "stats": [
+          "3.8 km",
+          "21:45",
+          "19 m"
         ]
       },
       {
@@ -80,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20292158533",
-        "name": "🌞 Morning Cycl⚙️Taf 🚴",
-        "date": "September 23, 2026",
-        "distanceKm": 6.7,
-        "stats": [
-          "6.7 km",
-          "19:02",
-          "7 m"
-        ]
-      },
-      {
         "athlete": "Luka M",
         "athleteId": "33218706",
         "activityId": "20292458940",
@@ -103,19 +116,6 @@
           "18.0 km",
           "1:29:55",
           "104 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20291922373",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "September 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "23:35",
-          "0 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165365.3
+      "totalWithEstimatesKm": 165384.9
     }
   }
 }

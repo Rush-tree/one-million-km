@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T11:30:45.192Z",
+  "generatedAt": "2026-09-23T11:54:18.648Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14151,
+  "totalActivities": 14155,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165586700,
-    "totalMovingTime": 47260067,
-    "totalElevation": 1183159.6
+    "totalDistance": 165655800,
+    "totalMovingTime": 47275967,
+    "totalElevation": 1183457.6
   },
   "monthStats": {
-    "totalDistance": 26781600,
-    "totalMovingTime": 7773840,
+    "totalDistance": 26850700,
+    "totalMovingTime": 7789740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4632700,
-    "totalMovingTime": 1354320,
-    "count": 397
+    "totalDistance": 4701800,
+    "totalMovingTime": 1370220,
+    "count": 402
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149789.7,
+    "measuredDistanceKm": 149858.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20295142725",
+        "name": "Pendel",
+        "date": "September 23, 2026",
+        "distanceKm": 5.4,
+        "stats": [
+          "5.4 km",
+          "13:24",
+          "45 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20294994115",
+        "name": "Zwift - FTP Ramp Test [Lite]",
+        "date": "September 23, 2026",
+        "distanceKm": 16.5,
+        "stats": [
+          "16.5 km",
+          "39:20",
+          "82 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -67,29 +93,16 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20294780096",
-        "name": "Lunch 🥪 Ride 🚴🐎",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20295222045",
+        "name": "Lunch Run",
         "date": "September 23, 2026",
-        "distanceKm": 7,
+        "distanceKm": 21.2,
         "stats": [
-          "7.0 km",
-          "19:26",
-          "56 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20294345549",
-        "name": "Lunch Ride",
-        "date": "September 23, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "39:41",
-          "60 m"
+          "21.2 km",
+          "1:30:44",
+          "83 m"
         ]
       },
       {
@@ -103,19 +116,6 @@
           "41.2 km",
           "1:23:50",
           "636 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20294355847",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "September 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "20:08",
-          "0 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165586.7
+      "totalWithEstimatesKm": 165655.8
     }
   }
 }

@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T21:00:55.274Z",
+  "generatedAt": "2026-09-23T21:30:39.816Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 511,
-    "distanceKm": 6195.8,
-    "elevationM": 43201,
-    "movingSeconds": 1767780,
+    "activities": 514,
+    "distanceKm": 6233.2,
+    "elevationM": 43686,
+    "movingSeconds": 1777320,
     "raw": {
-      "activities": "511",
-      "distance": "6,195.8 km",
-      "time": "491 h 3 m",
-      "elevation": "43,201 m"
+      "activities": "514",
+      "distance": "6,233.2 km",
+      "time": "493 h 42 m",
+      "elevation": "43,686 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20302421909",
+      "name": "Night Ride",
+      "date": "September 23, 2026",
+      "distanceKm": 13.9,
+      "stats": [
+        "13.9 km",
+        "48:56",
+        "115 m"
+      ]
+    },
     {
       "athlete": "Henrique Juhas",
       "athleteId": "118657757",
@@ -67,19 +80,6 @@
         "43:14",
         "17 m"
       ]
-    },
-    {
-      "athlete": "Norick Maurer",
-      "athleteId": "107445415",
-      "activityId": "20301395066",
-      "name": "Evening Swim",
-      "date": "September 23, 2026",
-      "distanceKm": 1.9,
-      "stats": [
-        "1.9 km",
-        "1:02:09",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 28344.7,
-  "totalDistanceKm": 151352.8,
+  "observedWeeksKm": 28382.1,
+  "totalDistanceKm": 151390.2,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 167149.8
+    "totalWithEstimatesKm": 167187.2
   }
 }

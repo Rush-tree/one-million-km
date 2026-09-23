@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T09:00:51.259Z",
+  "generatedAt": "2026-09-23T09:30:41.069Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14142,
+  "totalActivities": 14140,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165384900,
-    "totalMovingTime": 47218007,
-    "totalElevation": 1182245.6
+    "totalDistance": 165509200,
+    "totalMovingTime": 47235947,
+    "totalElevation": 1182260.6
   },
   "monthStats": {
-    "totalDistance": 26579800,
-    "totalMovingTime": 7731780,
+    "totalDistance": 26704100,
+    "totalMovingTime": 7749720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4430900,
-    "totalMovingTime": 1312260,
-    "count": 385
+    "totalDistance": 4555200,
+    "totalMovingTime": 1330200,
+    "count": 388
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,16 +48,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149587.9,
+    "measuredDistanceKm": 149712.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20293308920",
+        "name": "Morning Walk",
+        "date": "September 23, 2026",
+        "distanceKm": 3.3,
+        "stats": [
+          "3.3 km",
+          "45:23",
+          "15 m"
+        ]
+      },
+      {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
         "activityId": "20293237865",
-        "name": "Morning Run",
+        "name": "Die intervals waren sneller dan verwacht 🤩",
         "date": "September 23, 2026",
         "distanceKm": 7,
         "stats": [
@@ -80,6 +93,19 @@
         ]
       },
       {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20293304399",
+        "name": "Morning workout",
+        "date": "September 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "44:37",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
         "activityId": "20293186740",
@@ -90,32 +116,6 @@
           "3.8 km",
           "21:45",
           "19 m"
-        ]
-      },
-      {
-        "athlete": "Alli Pace",
-        "athleteId": "169219498",
-        "activityId": "20292564539",
-        "name": "Morning HIIT",
-        "date": "September 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "58:33",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20292458940",
-        "name": "Finale Marathonvorbereitung - Basis",
-        "date": "September 23, 2026",
-        "distanceKm": 18,
-        "stats": [
-          "18.0 km",
-          "1:29:55",
-          "104 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165384.9
+      "totalWithEstimatesKm": 165509.2
     }
   }
 }

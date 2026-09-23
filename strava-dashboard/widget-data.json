@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T17:19:41.746Z",
+  "generatedAt": "2026-09-23T17:30:41.899Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 470,
-    "distanceKm": 5539.7,
-    "elevationM": 39168,
-    "movingSeconds": 1608000,
+    "activities": 472,
+    "distanceKm": 5551.4,
+    "elevationM": 39172,
+    "movingSeconds": 1612020,
     "raw": {
-      "activities": "470",
-      "distance": "5,539.7 km",
-      "time": "446 h 40 m",
-      "elevation": "39,168 m"
+      "activities": "472",
+      "distance": "5,551.4 km",
+      "time": "447 h 47 m",
+      "elevation": "39,172 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nico Deckarm",
+      "athleteId": "74766538",
+      "activityId": "20299625143",
+      "name": "Abendlauf",
+      "date": "September 23, 2026",
+      "distanceKm": 1.6,
+      "stats": [
+        "1.6 km",
+        "4:31",
+        "1 m"
+      ]
+    },
     {
       "athlete": "Anja Habermeier",
       "athleteId": "80382525",
@@ -56,29 +69,16 @@
       ]
     },
     {
-      "athlete": "Paweł Siergiej",
-      "athleteId": "147932574",
-      "activityId": "20299299276",
-      "name": "Wieczorne bieganie",
+      "athlete": "Rainer Gatzmaga",
+      "athleteId": "119550686",
+      "activityId": "20299567705",
+      "name": "HIT: 10 x 300m @03:50- 04:20",
       "date": "September 23, 2026",
-      "distanceKm": 8.3,
+      "distanceKm": 10,
       "stats": [
-        "8.3 km",
-        "57:21",
-        "47 m"
-      ]
-    },
-    {
-      "athlete": "Adriano Perri",
-      "athleteId": "99629318",
-      "activityId": "20299161971",
-      "name": "Legs + Core 🔥",
-      "date": "September 23, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:15:00",
-        "0 m"
+        "10.0 km",
+        "1:17:11",
+        "3 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 27688.6,
-  "totalDistanceKm": 150696.7,
+  "observedWeeksKm": 27700.3,
+  "totalDistanceKm": 150708.4,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 166493.7
+    "totalWithEstimatesKm": 166505.4
   }
 }

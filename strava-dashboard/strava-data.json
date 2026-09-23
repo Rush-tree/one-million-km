@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T17:19:41.746Z",
+  "generatedAt": "2026-09-23T17:30:41.899Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14222,
+  "totalActivities": 14225,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 166493700,
-    "totalMovingTime": 47513747,
-    "totalElevation": 1191196.6
+    "totalDistance": 166505400,
+    "totalMovingTime": 47517767,
+    "totalElevation": 1191200.6
   },
   "monthStats": {
-    "totalDistance": 27688600,
-    "totalMovingTime": 8027520,
+    "totalDistance": 27700300,
+    "totalMovingTime": 8031540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5539700,
-    "totalMovingTime": 1608000,
-    "count": 470
+    "totalDistance": 5551400,
+    "totalMovingTime": 1612020,
+    "count": 472
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 150696.7,
+    "measuredDistanceKm": 150708.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20299625143",
+        "name": "Abendlauf",
+        "date": "September 23, 2026",
+        "distanceKm": 1.6,
+        "stats": [
+          "1.6 km",
+          "4:31",
+          "1 m"
+        ]
+      },
       {
         "athlete": "Anja Habermeier",
         "athleteId": "80382525",
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20299299276",
-        "name": "Wieczorne bieganie",
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20299567705",
+        "name": "HIT: 10 x 300m @03:50- 04:20",
         "date": "September 23, 2026",
-        "distanceKm": 8.3,
+        "distanceKm": 10,
         "stats": [
-          "8.3 km",
-          "57:21",
-          "47 m"
-        ]
-      },
-      {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20299161971",
-        "name": "Legs + Core 🔥",
-        "date": "September 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:15:00",
-          "0 m"
+          "10.0 km",
+          "1:17:11",
+          "3 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 166493.7
+      "totalWithEstimatesKm": 166505.4
     }
   }
 }

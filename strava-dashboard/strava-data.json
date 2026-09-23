@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T00:00:53.401Z",
+  "generatedAt": "2026-09-23T00:30:39.435Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14095,
+  "totalActivities": 14096,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165067500,
-    "totalMovingTime": 47101907,
+    "totalDistance": 165073000,
+    "totalMovingTime": 47103827,
     "totalElevation": 1180445.6
   },
   "monthStats": {
-    "totalDistance": 26262400,
-    "totalMovingTime": 7615680,
+    "totalDistance": 26267900,
+    "totalMovingTime": 7617600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4113500,
-    "totalMovingTime": 1196160,
-    "count": 346
+    "totalDistance": 4119000,
+    "totalMovingTime": 1198080,
+    "count": 347
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149270.5,
+    "measuredDistanceKm": 149276,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Josué González",
+        "athleteId": "178408867",
+        "activityId": "20289763319",
+        "name": "MGGT 🇬🇹 EVENING TREAD 🏃‍♂️",
+        "date": "September 22, 2026",
+        "distanceKm": 5.5,
+        "stats": [
+          "5.5 km",
+          "31:12",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -76,19 +89,6 @@
         "stats": [
           "0.0 km",
           "2:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20287119409",
-        "name": "Night Swim",
-        "date": "September 22, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "46:39",
           "0 m"
         ]
       },
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165067.5
+      "totalWithEstimatesKm": 165073
     }
   }
 }

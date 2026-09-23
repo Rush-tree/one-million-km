@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T11:54:18.648Z",
+  "generatedAt": "2026-09-23T12:00:54.903Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 402,
-    "distanceKm": 4701.8,
-    "elevationM": 31429,
-    "movingSeconds": 1370220,
+    "activities": 403,
+    "distanceKm": 4706.4,
+    "elevationM": 31446,
+    "movingSeconds": 1370700,
     "raw": {
-      "activities": "402",
-      "distance": "4,701.8 km",
-      "time": "380 h 37 m",
-      "elevation": "31,429 m"
+      "activities": "403",
+      "distance": "4,706.4 km",
+      "time": "380 h 45 m",
+      "elevation": "31,446 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "20295328967",
+      "name": "Zwift - Pacer Group Ride with Coco",
+      "date": "September 23, 2026",
+      "distanceKm": 4.6,
+      "stats": [
+        "4.6 km",
+        "8:17",
+        "17 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -67,19 +80,6 @@
         "1:30:44",
         "83 m"
       ]
-    },
-    {
-      "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-      "athleteId": "129712916",
-      "activityId": "20294574316",
-      "name": "Mittagsradfahrt",
-      "date": "September 23, 2026",
-      "distanceKm": 41.2,
-      "stats": [
-        "41.2 km",
-        "1:23:50",
-        "636 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 26850.7,
-  "totalDistanceKm": 149858.8,
+  "observedWeeksKm": 26855.3,
+  "totalDistanceKm": 149863.4,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 165655.8
+    "totalWithEstimatesKm": 165660.4
   }
 }

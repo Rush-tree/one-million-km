@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T18:00:51.489Z",
+  "generatedAt": "2026-09-23T18:30:44.545Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14239,
+  "totalActivities": 14244,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 166579000,
-    "totalMovingTime": 47548247,
-    "totalElevation": 1191838.6
+    "totalDistance": 166774800,
+    "totalMovingTime": 47588867,
+    "totalElevation": 1193093.6
   },
   "monthStats": {
-    "totalDistance": 27773900,
-    "totalMovingTime": 8062020,
+    "totalDistance": 27969700,
+    "totalMovingTime": 8102640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5625000,
-    "totalMovingTime": 1642500,
-    "count": 483
+    "totalDistance": 5820800,
+    "totalMovingTime": 1683120,
+    "count": 492
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 150782,
+    "measuredDistanceKm": 150977.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20300478027",
+        "name": "Abendlauf",
+        "date": "September 23, 2026",
+        "distanceKm": 1.6,
+        "stats": [
+          "1.6 km",
+          "4:24",
+          "3 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -64,19 +77,6 @@
           "1.4 km",
           "9:26",
           "8 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20299864318",
-        "name": "Abendlauf",
-        "date": "September 23, 2026",
-        "distanceKm": 0.5,
-        "stats": [
-          "0.5 km",
-          "10:05",
-          "0 m"
         ]
       },
       {
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20299994336",
-        "name": "Evening Workout",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20300374882",
+        "name": "Afternoon Walk",
         "date": "September 23, 2026",
-        "distanceKm": 0,
+        "distanceKm": 4.1,
         "stats": [
-          "0 km",
-          "47:45",
-          "0 m"
+          "4.1 km",
+          "1:23:13",
+          "13 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 166579
+      "totalWithEstimatesKm": 166774.8
     }
   }
 }

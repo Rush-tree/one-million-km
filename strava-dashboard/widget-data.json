@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T18:00:51.489Z",
+  "generatedAt": "2026-09-23T18:30:44.545Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 483,
-    "distanceKm": 5625,
-    "elevationM": 39810,
-    "movingSeconds": 1642500,
+    "activities": 492,
+    "distanceKm": 5820.8,
+    "elevationM": 41065,
+    "movingSeconds": 1683120,
     "raw": {
-      "activities": "483",
-      "distance": "5,625.0 km",
-      "time": "456 h 15 m",
-      "elevation": "39,810 m"
+      "activities": "492",
+      "distance": "5,820.8 km",
+      "time": "467 h 32 m",
+      "elevation": "41,065 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nico Deckarm",
+      "athleteId": "74766538",
+      "activityId": "20300478027",
+      "name": "Abendlauf",
+      "date": "September 23, 2026",
+      "distanceKm": 1.6,
+      "stats": [
+        "1.6 km",
+        "4:24",
+        "3 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -27,19 +40,6 @@
         "1.4 km",
         "9:26",
         "8 m"
-      ]
-    },
-    {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20299864318",
-      "name": "Abendlauf",
-      "date": "September 23, 2026",
-      "distanceKm": 0.5,
-      "stats": [
-        "0.5 km",
-        "10:05",
-        "0 m"
       ]
     },
     {
@@ -69,16 +69,16 @@
       ]
     },
     {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20299994336",
-      "name": "Evening Workout",
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20300374882",
+      "name": "Afternoon Walk",
       "date": "September 23, 2026",
-      "distanceKm": 0,
+      "distanceKm": 4.1,
       "stats": [
-        "0 km",
-        "47:45",
-        "0 m"
+        "4.1 km",
+        "1:23:13",
+        "13 m"
       ]
     }
   ],
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 27773.9,
-  "totalDistanceKm": 150782,
+  "observedWeeksKm": 27969.7,
+  "totalDistanceKm": 150977.8,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 166579
+    "totalWithEstimatesKm": 166774.8
   }
 }

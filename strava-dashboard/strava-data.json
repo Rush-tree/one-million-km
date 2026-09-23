@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T06:30:43.419Z",
+  "generatedAt": "2026-09-23T07:00:51.070Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14118,
+  "totalActivities": 14128,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 165314100,
-    "totalMovingTime": 47177927,
-    "totalElevation": 1181875.6
+    "totalDistance": 165334800,
+    "totalMovingTime": 47188247,
+    "totalElevation": 1182040.6
   },
   "monthStats": {
-    "totalDistance": 26509000,
-    "totalMovingTime": 7691700,
+    "totalDistance": 26529700,
+    "totalMovingTime": 7702020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4360100,
-    "totalMovingTime": 1272180,
-    "count": 368
+    "totalDistance": 4380800,
+    "totalMovingTime": 1282500,
+    "count": 375
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 149517.1,
+    "measuredDistanceKm": 149537.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20292158533",
+        "name": "🌞 Morning Cycl⚙️Taf 🚴",
+        "date": "September 23, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "19:02",
+          "7 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -104,19 +117,6 @@
           "1:42:46",
           "131 m"
         ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20291313799",
-        "name": "585/730 gün koşusu",
-        "date": "September 23, 2026",
-        "distanceKm": 15.4,
-        "stats": [
-          "15.4 km",
-          "1:15:25",
-          "61 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 165314.1
+      "totalWithEstimatesKm": 165334.8
     }
   }
 }

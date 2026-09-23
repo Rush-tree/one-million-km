@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-23T06:30:43.419Z",
+  "generatedAt": "2026-09-23T07:00:51.070Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 368,
-    "distanceKm": 4360.1,
-    "elevationM": 29847,
-    "movingSeconds": 1272180,
+    "activities": 375,
+    "distanceKm": 4380.8,
+    "elevationM": 30012,
+    "movingSeconds": 1282500,
     "raw": {
-      "activities": "368",
-      "distance": "4,360.1 km",
-      "time": "353 h 23 m",
-      "elevation": "29,847 m"
+      "activities": "375",
+      "distance": "4,380.8 km",
+      "time": "356 h 15 m",
+      "elevation": "30,012 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20292158533",
+      "name": "🌞 Morning Cycl⚙️Taf 🚴",
+      "date": "September 23, 2026",
+      "distanceKm": 6.7,
+      "stats": [
+        "6.7 km",
+        "19:02",
+        "7 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -67,19 +80,6 @@
         "1:42:46",
         "131 m"
       ]
-    },
-    {
-      "athlete": "Bülent Sevil",
-      "athleteId": "156559910",
-      "activityId": "20291313799",
-      "name": "585/730 gün koşusu",
-      "date": "September 23, 2026",
-      "distanceKm": 15.4,
-      "stats": [
-        "15.4 km",
-        "1:15:25",
-        "61 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 26509,
-  "totalDistanceKm": 149517.1,
+  "observedWeeksKm": 26529.7,
+  "totalDistanceKm": 149537.8,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 165314.1
+    "totalWithEstimatesKm": 165334.8
   }
 }

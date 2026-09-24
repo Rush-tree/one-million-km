@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T05:30:41.557Z",
+  "generatedAt": "2026-09-24T06:00:52.930Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14293,
+  "totalActivities": 14297,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167425300,
-    "totalMovingTime": 47774927,
-    "totalElevation": 1196903.6
+    "totalDistance": 167500800,
+    "totalMovingTime": 47789147,
+    "totalElevation": 1197183.6
   },
   "monthStats": {
-    "totalDistance": 28620200,
-    "totalMovingTime": 8288700,
+    "totalDistance": 28695700,
+    "totalMovingTime": 8302920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6471300,
-    "totalMovingTime": 1869180,
-    "count": 543
+    "totalDistance": 6546800,
+    "totalMovingTime": 1883400,
+    "count": 548
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151628.3,
+    "measuredDistanceKm": 151703.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20305816926",
-        "name": "Morning Pilates",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20306085598",
+        "name": "Commute #106/2026 🏥🩺",
         "date": "September 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 9,
         "stats": [
-          "0 km",
-          "16:02",
-          "0 m"
+          "9.0 km",
+          "20:03",
+          "38 m"
+        ]
+      },
+      {
+        "athlete": "Rareș Brânzoi",
+        "athleteId": "4792098",
+        "activityId": "20306144739",
+        "name": "Morning Run",
+        "date": "September 24, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "1:13:35",
+          "94 m"
         ]
       },
       {
@@ -93,29 +106,16 @@
         ]
       },
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20305794166",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20306030385",
+        "name": "Morning Ride",
         "date": "September 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 37.1,
         "stats": [
-          "0 km",
-          "1:01:55",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20305768855",
-        "name": "Morning Run",
-        "date": "September 24, 2026",
-        "distanceKm": 7.3,
-        "stats": [
-          "7.3 km",
-          "1:10:59",
-          "202 m"
+          "37.1 km",
+          "1:29:10",
+          "64 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167425.3
+      "totalWithEstimatesKm": 167500.8
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T04:00:47.605Z",
+  "generatedAt": "2026-09-24T04:30:44.071Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14279,
+  "totalActivities": 14278,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,18 +13,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167365400,
-    "totalMovingTime": 47827127,
-    "totalElevation": 1196287.6
+    "totalDistance": 167379300,
+    "totalMovingTime": 47748167,
+    "totalElevation": 1196308.6
   },
   "monthStats": {
-    "totalDistance": 28560300,
-    "totalMovingTime": 8340900,
+    "totalDistance": 28574200,
+    "totalMovingTime": 8261940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6411400,
-    "totalMovingTime": 1921380,
+    "totalDistance": 6425300,
+    "totalMovingTime": 1842420,
     "count": 532
   },
   "lastWeekStats": {
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151568.4,
+    "measuredDistanceKm": 151582.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "0 km",
           "16:40",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20305662626",
+        "name": "Corsa mattutina",
+        "date": "September 24, 2026",
+        "distanceKm": 13.8,
+        "stats": [
+          "13.8 km",
+          "1:03:26",
+          "21 m"
         ]
       },
       {
@@ -90,19 +103,6 @@
           "7.0 km",
           "16:09",
           "11 m"
-        ]
-      },
-      {
-        "athlete": "Biken Ginayatova",
-        "athleteId": "92872558",
-        "activityId": "20305408097",
-        "name": "Thursday Morning Run",
-        "date": "September 24, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "29:34",
-          "3 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167365.4
+      "totalWithEstimatesKm": 167379.3
     }
   }
 }

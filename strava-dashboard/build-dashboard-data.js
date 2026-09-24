@@ -163,7 +163,67 @@ const facts = {
   // Scale comparisons. Equator and Moon are the two that need no explaining.
   timesAroundEarth: Math.round((publishedKm / 40075) * 100) / 100,
   percentToMoon: Math.round((publishedKm / 384400) * 1000) / 10,
+
+  comparisons: buildComparisons(publishedKm),
 };
+
+// Turns the running total into distances people can picture. Every reference
+// below is a fixed, checkable number — no "average person walks X in a
+// lifetime" estimates, which vary by a factor of two between sources.
+//
+// Each entry states its own threshold so the list stays true as the total
+// grows: a comparison only appears once it has something to say, and phrasing
+// switches from "on the way to" to "past" at the right moment.
+function buildComparisons(km) {
+  const round1 = (n) => Math.round(n * 10) / 10;
+  const out = [];
+
+  // Earth's equator: 40,075 km. The anchor comparison — and at the finish line
+  // it lands on exactly 25 laps, which is worth telling people now.
+  out.push({
+    key: "equator",
+    value: round1(km / 40075),
+    text: `${round1(km / 40075)}× around the equator`,
+    detail: "One million kilometres is exactly 25 laps of the Earth.",
+  });
+
+  // The Moon: 384,400 km average. Past that, count return trips.
+  const moonPct = Math.round((km / 384400) * 1000) / 10;
+  out.push(moonPct < 100
+    ? { key: "moon", value: moonPct, text: `${moonPct}% of the way to the Moon`,
+        detail: "384,400 km — the club is climbing towards it." }
+    : { key: "moon", value: round1(km / 384400),
+        text: `${round1(km / 384400)}× the distance to the Moon`,
+        detail: "Past the Moon and still going." });
+
+  // Long, familiar lines on a map.
+  out.push({
+    key: "greatwall",
+    value: round1(km / 21196),
+    text: `${round1(km / 21196)}× the Great Wall of China`,
+    detail: "21,196 km end to end.",
+  });
+  out.push({
+    key: "nile",
+    value: round1(km / 6650),
+    text: `${round1(km / 6650)}× the length of the Nile`,
+    detail: "6,650 km from source to sea.",
+  });
+  out.push({
+    key: "transatlantic",
+    value: round1(km / 6385),
+    text: `${round1(km / 6385)} return trips Berlin to New York`,
+    detail: "6,385 km one way.",
+  });
+  out.push({
+    key: "autobahn",
+    value: round1(km / 13200),
+    text: `${round1(km / 13200)}× the German autobahn network`,
+    detail: "About 13,200 km of it.",
+  });
+
+  return out;
+}
 
 const output = {
   generatedAt: wd.generatedAt,

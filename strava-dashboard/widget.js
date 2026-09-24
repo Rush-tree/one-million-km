@@ -400,6 +400,56 @@ const CSS = `
   }
   .pace-note strong { color: var(--text); }
 
+  /* ─── Scale comparisons ────────────────────────────────────────────────── */
+  .scale { margin-bottom: 22px; }
+  /* One card carries the accent; the rest stay quiet so the lead reads first. */
+  .scale-lead {
+    background: var(--orange);
+    border-radius: var(--radius);
+    padding: 18px 20px;
+    margin-bottom: 12px;
+  }
+  .scale-lead-text {
+    font-size: 21px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.25;
+    font-variant-numeric: tabular-nums;
+  }
+  .scale-lead-detail {
+    font-size: 13px;
+    color: rgba(255,255,255,0.85);
+    margin-top: 4px;
+  }
+  /* Flex, not grid: a grid's empty trailing cells show as bare gap colour when
+     the item count does not fill the last row. Here the last item just grows. */
+  .scale-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .scale-item {
+    background: var(--card);
+    padding: 14px 16px;
+    flex: 1 1 190px;
+  }
+  .scale-item-text {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.3;
+    font-variant-numeric: tabular-nums;
+  }
+  .scale-item-detail {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 3px;
+  }
+
   .no-dist { font-size: 11px; font-weight: 500; color: var(--muted); white-space: nowrap; }
 
   @media (prefers-reduced-motion: reduce) {
@@ -470,6 +520,38 @@ function missionPanel(data) {
       <div class="mission-foot">
         <span><strong>${nf(f.remainingKm)} km</strong> to go</span>
         ${f.timesAroundEarth ? `<span class="mission-scale">${nf(f.timesAroundEarth, 2)}× around the equator</span>` : ""}
+      </div>
+    </section>`;
+}
+
+// Distances nobody can picture become distances everybody can. Every reference
+// is a fixed figure (equator, Moon, the Nile), not a survey average — those
+// vary by a factor of two between sources and would make the whole panel
+// suspect. The lead card is the Moon: it is the one with a finish line.
+function scaleCards(data) {
+  const list = (data.facts && data.facts.comparisons) || [];
+  if (!list.length) return "";
+
+  const lead = list.find((c) => c.key === "moon") || list[0];
+  const rest = list.filter((c) => c !== lead);
+
+  return `
+    <section class="scale">
+      <div class="section-header" style="margin-top:4px">
+        <span class="section-title">What that distance looks like</span>
+      </div>
+
+      <div class="scale-lead">
+        <div class="scale-lead-text">${lead.text}</div>
+        <div class="scale-lead-detail">${lead.detail}</div>
+      </div>
+
+      <div class="scale-grid">
+        ${rest.map((c) => `
+          <div class="scale-item">
+            <div class="scale-item-text">${c.text}</div>
+            <div class="scale-item-detail">${c.detail}</div>
+          </div>`).join("")}
       </div>
     </section>`;
 }
@@ -644,6 +726,7 @@ class StravaDashboard extends HTMLElement {
     this._container.innerHTML = `
       ${missionPanel(data)}
       ${totalsStrip(data)}
+      ${scaleCards(data)}
       ${paceGrid(data)}
 
       <div class="section-header" style="margin-top:4px">

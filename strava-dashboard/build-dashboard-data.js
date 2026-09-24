@@ -103,9 +103,72 @@ const monthSeconds = Object.entries(history.weeks || {})
   })
   .reduce((s, [, w]) => s + (w.movingSeconds || 0), 0);
 
+// Derived facts for the progress panel ------------------------------------
+// The pace figures come only from weeks observed end to end. A week that was
+// cut short by an outage, or the one still running, would drag the average
+// down and make the projection look worse than reality.
+const GOAL_KM = 1_000_000;
+const completeWeeks = Object.values(history.weeks || {})
+  .filter((w) => w.complete && !w.truncated);
+
+const paceWeeks = completeWeeks.length;
+const avgWeekKm = paceWeeks
+  ? completeWeeks.reduce((s, w) => s + (w.distanceKm || 0), 0) / paceWeeks
+  : 0;
+const avgWeekActivities = paceWeeks
+  ? completeWeeks.reduce((s, w) => s + (w.activities || 0), 0) / paceWeeks
+  : 0;
+
+const remainingKm = Math.max(GOAL_KM - publishedKm, 0);
+const weeksToGoal = avgWeekKm > 0 ? remainingKm / avgWeekKm : null;
+
+let projectedDate = null;
+if (weeksToGoal !== null && Number.isFinite(weeksToGoal)) {
+  const d = new Date();
+  d.setUTCDate(d.getUTCDate() + Math.round(weeksToGoal * 7));
+  projectedDate = d.toISOString().slice(0, 10);
+}
+
+const membersNow = wd.memberCount || 237;
+const currentWeek = wd.currentWeek || {};
+
+const facts = {
+  goalKm: GOAL_KM,
+  remainingKm: Math.round(remainingKm),
+  percentComplete: Math.round((publishedKm / GOAL_KM) * 10000) / 100,
+
+  // Pace, and how thin the basis for it is. One September week is not a year;
+  // the page says "at the current pace" rather than promising a finish date.
+  paceBasisWeeks: paceWeeks,
+  avgWeekKm: Math.round(avgWeekKm * 10) / 10,
+  avgDayKm: Math.round((avgWeekKm / 7) * 10) / 10,
+  weeksToGoal: weeksToGoal !== null ? Math.round(weeksToGoal) : null,
+  projectedDate,
+
+  // Per-member and per-activity figures, from the same complete weeks.
+  kmPerMemberWeek: paceWeeks ? Math.round((avgWeekKm / membersNow) * 10) / 10 : null,
+  activitiesPerWeek: paceWeeks ? Math.round(avgWeekActivities) : null,
+  avgActivityKm: avgWeekActivities
+    ? Math.round((avgWeekKm / avgWeekActivities) * 10) / 10
+    : null,
+
+  // This week so far, straight from the widget.
+  thisWeekKm: currentWeek.distanceKm ?? null,
+  thisWeekActivities: currentWeek.activities ?? null,
+  thisWeekHours: currentWeek.movingSeconds
+    ? Math.round(currentWeek.movingSeconds / 3600)
+    : null,
+  thisWeekElevationM: currentWeek.elevationM ?? null,
+
+  // Scale comparisons. Equator and Moon are the two that need no explaining.
+  timesAroundEarth: Math.round((publishedKm / 40075) * 100) / 100,
+  percentToMoon: Math.round((publishedKm / 384400) * 1000) / 10,
+};
+
 const output = {
   generatedAt: wd.generatedAt,
   clubId:      wd.clubId,
+  facts,
   clubName:    "One Million Kilometers - The Million Project",
   clubProfile: "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
   totalActivities,

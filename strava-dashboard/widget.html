@@ -3,27 +3,67 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Strava Club Dashboard</title>
+<title>One Million Kilometers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@600;700&display=swap">
 <style>
   /* ─── Reset & Base ─────────────────────────────────────────────────────── */
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+  /* Light palette. Neutrals carry a slight green bias so they sit with the
+     project's green rather than beside it. Legacy --orange-* names are kept:
+     they hold the brand green and are referenced throughout. */
   :root {
     --orange: #0c6a37;
-    --orange-light: #1a8fd3;
-    --orange-pale: #e8f5ee;
-    --bg: #F7F7F7;
+    --orange-light: #16a34a;
+    --orange-pale: #e8f2ec;
+    --bg: #FAFAF8;
     --card: #FFFFFF;
-    --text: #1A1A1A;
-    --muted: #5c5c5c;
-    --border: #d3b973;
+    --text: #12201a;
+    --muted: #6b7370;
+    --border: #e3e6e3;
+    --border-strong: #cdd4cf;
+    --track: #e8ebe8;
     --gold: #ffd700;
     --silver: #87ceeb;
     --bronze: #8b4513;
     --radius: 16px;
     --radius-sm: 10px;
-    --shadow: 0 2px 12px rgba(0,0,0,0.08);
-    --shadow-lg: 0 8px 32px rgba(0,0,0,0.12);
+    --shadow: 0 1px 2px rgba(18,32,26,0.04), 0 2px 8px rgba(18,32,26,0.04);
+    --shadow-lg: 0 8px 32px rgba(18,32,26,0.10);
+  }
+
+  /* Dark: unstamped (system) and explicitly chosen both resolve here. */
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --orange: #3fa86a;
+      --orange-light: #5cc487;
+      --orange-pale: #16281f;
+      --bg: #0f1512;
+      --card: #172019;
+      --text: #e8efea;
+      --muted: #97a39c;
+      --border: #24302a;
+      --border-strong: #35443c;
+      --track: #223029;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.25);
+      --shadow-lg: 0 8px 32px rgba(0,0,0,0.4);
+    }
+  }
+  :root[data-theme="dark"] {
+    --orange: #3fa86a;
+    --orange-light: #5cc487;
+    --orange-pale: #16281f;
+    --bg: #0f1512;
+    --card: #172019;
+    --text: #e8efea;
+    --muted: #97a39c;
+    --border: #24302a;
+    --border-strong: #35443c;
+    --track: #223029;
+    --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.25);
+    --shadow-lg: 0 8px 32px rgba(0,0,0,0.4);
   }
 
   body {
@@ -341,7 +381,225 @@
   }
   .show-more-btn:hover { background: var(--orange-pale); }
 
-  /* ─── Million Progress Bar ─────────────────────────────────────────────── */
+  /* ─── Mission panel ────────────────────────────────────────────────────── */
+  /* The one element that carries weight: filled ground, larger type, the only
+     place the accent is spent at full strength. */
+  .mission {
+    background: var(--card);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 24px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .mission-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .mission-eyebrow {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.11em;
+    color: var(--orange);
+    margin-bottom: 3px;
+  }
+
+  .mission-goal {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--muted);
+  }
+
+  .mission-pct {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .mission-pct span { font-size: 24px; color: var(--text); }
+
+  .mission-figure {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .mission-km {
+    font-family: "Outfit", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: clamp(38px, 10vw, 62px);
+    font-weight: 700;
+    line-height: 0.95;
+    letter-spacing: -0.025em;
+    color: var(--text);
+    font-variant-numeric: tabular-nums;
+  }
+  .mission-unit {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--muted);
+  }
+
+  .mission-track {
+    position: relative;
+    height: 12px;
+    background: var(--track);
+    border-radius: 999px;
+    overflow: visible;
+  }
+
+  .mission-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--orange), var(--orange-light));
+    border-radius: 999px;
+    position: relative;
+    transition: width 900ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+
+  /* Ticks turn the bar into a scale. Without them a 17% fill is just a stub. */
+  .ms-tick {
+    position: absolute;
+    top: -3px;
+    bottom: -3px;
+    width: 1px;
+    background: var(--border-strong);
+  }
+  .ms-label {
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+    font-weight: 600;
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Room for the tick labels that sit below the track. */
+  .mission-foot {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: 13px;
+    color: var(--muted);
+    margin-top: 22px;
+  }
+  .mission-foot strong {
+    color: var(--text);
+    font-variant-numeric: tabular-nums;
+  }
+  .mission-scale { color: var(--orange); font-weight: 600; }
+
+  /* ─── Totals strip ─────────────────────────────────────────────────────── */
+  /* Deliberately not cards: dividers only, so these read as one row of
+     supporting figures rather than five competing objects. */
+  .totals {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(118px, 1fr));
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .total {
+    padding: 14px 16px;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .total:last-child { border-right: none; }
+  .total-label {
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin-bottom: 5px;
+  }
+  .total-value {
+    font-size: 19px;
+    font-weight: 700;
+    color: var(--text);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.1;
+  }
+  .total-unit {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-left: 3px;
+  }
+
+  /* ─── Pace ─────────────────────────────────────────────────────────────── */
+  .pace { margin-bottom: 22px; }
+  .pace-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .pace-cell { background: var(--card); padding: 16px; }
+  .pace-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  .pace-value {
+    font-family: "Outfit", -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--text);
+    font-variant-numeric: tabular-nums;
+    line-height: 1.05;
+  }
+  .pace-unit {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--muted);
+    margin-left: 3px;
+  }
+  .pace-sub {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 5px;
+  }
+  .pace-note {
+    font-size: 13px;
+    line-height: 1.55;
+    color: var(--muted);
+    margin-top: 12px;
+    padding-left: 12px;
+    border-left: 2px solid var(--orange-pale);
+  }
+  .pace-note strong { color: var(--text); }
+
+  .no-dist {
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .mission-fill { transition: none; }
+  }
+
+  /* ─── Million Progress Bar (legacy) ────────────────────────────────────── */
   .million-bar-wrap {
     background: var(--card);
     border-radius: var(--radius);
@@ -543,11 +801,6 @@ function metersToKm(m) {
     maximumFractionDigits: 1,
   });
 }
-function secondsToHHMM(s) {
-  const h = Math.floor(s / 3600);
-  const m = Math.floor((s % 3600) / 60);
-  return `${h.toLocaleString()}h ${m}m`;
-}
 function formatRelativeTime(iso) {
   const diff = Date.now() - new Date(iso).getTime();
   const mins = Math.floor(diff / 60000);
@@ -583,26 +836,109 @@ function icon(name, cls = "") {
 // ─── Million Progress Bar ────────────────────────────────────────────────────
 const GOAL_KM = 1_000_000;
 
-function millionProgressBar(totalMeters) {
-  const km = totalMeters / 1000;
+const nf = (n, d = 0) =>
+  (n ?? 0).toLocaleString(undefined, { minimumFractionDigits: d, maximumFractionDigits: d });
+
+// The mission panel: the running total, the bar, and the distance still to go.
+// Milestone ticks sit on the track so the bar reads as a scale rather than a
+// decorative fill — at 17% an unmarked bar says almost nothing.
+function missionPanel(data) {
+  const f = data.facts || {};
+  const km = data.allTimeStats.totalDistance / 1000;
   const pct = Math.min((km / GOAL_KM) * 100, 100);
-  const pctDisplay = pct < 0.01 ? pct.toFixed(4) : pct < 1 ? pct.toFixed(2) : pct.toFixed(2);
-  const remaining = Math.max(GOAL_KM - km, 0);
+
+  const milestones = [25, 50, 75].map((m) => `
+    <div class="ms-tick" style="left:${m}%">
+      <span class="ms-label">${m}%</span>
+    </div>`).join("");
 
   return `
-    <div class="million-bar-wrap">
-      <div class="million-bar-header">
-        <span class="million-bar-title">Mission: 1.000.000 km</span>
-        <div class="million-bar-stats">
-          <span class="million-bar-pct">${pctDisplay}%</span>
-          <span class="million-bar-km">${km.toLocaleString("de-DE", { maximumFractionDigits: 1 })} km</span>
+    <section class="mission" aria-labelledby="mission-heading">
+      <div class="mission-top">
+        <div>
+          <h2 class="mission-eyebrow" id="mission-heading">Mission</h2>
+          <div class="mission-goal">1,000,000 km together</div>
         </div>
+        <div class="mission-pct"><span>${pct.toFixed(2)}</span>%</div>
       </div>
-      <div class="million-bar-track">
-        <div class="million-bar-fill" style="width:${pct}%"></div>
+
+      <div class="mission-figure">
+        <span class="mission-km">${nf(km, 1)}</span>
+        <span class="mission-unit">km</span>
       </div>
-      <div class="million-bar-remaining">${remaining.toLocaleString("de-DE", { maximumFractionDigits: 0 })} km verbleibend</div>
-    </div>`;
+
+      <div class="mission-track" role="img"
+           aria-label="${pct.toFixed(1)} percent of one million kilometres completed">
+        <div class="mission-fill" style="width:${pct}%"></div>
+        ${milestones}
+      </div>
+
+      <div class="mission-foot">
+        <span><strong>${nf(f.remainingKm)} km</strong> to go</span>
+        ${f.timesAroundEarth ? `<span class="mission-scale">${nf(f.timesAroundEarth, 2)}× around the equator</span>` : ""}
+      </div>
+    </section>`;
+}
+
+// Cumulative totals. A quiet row, not four shouting cards: these numbers are
+// context for the mission figure above, not the headline themselves.
+function totalsStrip(data) {
+  const s = data.allTimeStats;
+  const items = [
+    ["Distance",   `${nf(s.totalDistance / 1000, 1)}`, "km"],
+    ["Moving time", nf(Math.floor(s.totalMovingTime / 3600)), "h"],
+    ["Activities",  nf(data.totalActivities), ""],
+    ["Elevation",   nf(Math.round(s.totalElevation / 1000)), "km"],
+    ["Members",     nf(data.memberCount), ""],
+  ];
+  return `
+    <section class="totals" aria-label="All-time totals">
+      ${items.map(([label, value, unit]) => `
+        <div class="total">
+          <div class="total-label">${label}</div>
+          <div class="total-value">${value}${unit ? `<span class="total-unit">${unit}</span>` : ""}</div>
+        </div>`).join("")}
+    </section>`;
+}
+
+// Pace and the week in progress. Pace is derived only from weeks measured end
+// to end, so the basis is stated: one September week is not a forecast, and
+// the copy says "at this pace" rather than naming a finish date as a promise.
+function paceGrid(data) {
+  const f = data.facts || {};
+  if (!f.paceBasisWeeks) return "";
+
+  const projected = f.projectedDate
+    ? new Date(f.projectedDate + "T00:00:00Z").toLocaleDateString(undefined,
+        { year: "numeric", month: "long" })
+    : null;
+
+  const cells = [
+    ["This week so far", `${nf(f.thisWeekKm, 1)}`, "km",
+      `${nf(f.thisWeekActivities)} activities · ${nf(f.thisWeekHours)} h`],
+    ["Per day", `${nf(f.avgDayKm)}`, "km", "average of full weeks"],
+    ["Per member", `${nf(f.kmPerMemberWeek, 1)}`, "km", "per week"],
+    ["Per activity", `${nf(f.avgActivityKm, 1)}`, "km", `${nf(f.activitiesPerWeek)} activities a week`],
+  ];
+
+  return `
+    <section class="pace" aria-label="Current pace">
+      <div class="pace-grid">
+        ${cells.map(([label, value, unit, sub]) => `
+          <div class="pace-cell">
+            <div class="pace-label">${label}</div>
+            <div class="pace-value">${value}${unit ? `<span class="pace-unit">${unit}</span>` : ""}</div>
+            <div class="pace-sub">${sub}</div>
+          </div>`).join("")}
+      </div>
+      ${projected ? `
+      <p class="pace-note">
+        At this pace the club reaches one million kilometres around
+        <strong>${projected}</strong>. Based on ${f.paceBasisWeeks}
+        fully measured week${f.paceBasisWeeks === 1 ? "" : "s"}, so treat it as a
+        direction of travel rather than a date in the calendar.
+      </p>` : ""}
+    </section>`;
 }
 
 // ─── Render ───────────────────────────────────────────────────────────────────
@@ -610,7 +946,6 @@ function renderDashboard(data) {
   const dash = document.getElementById("dashboard");
 
   const now = new Date(data.generatedAt);
-  const currentMonthLabel = monthName(data.generatedAt);
 
   dash.innerHTML = `
     <!-- Header -->
@@ -628,35 +963,13 @@ function renderDashboard(data) {
       </a>
     </div>
 
-    <!-- Million Progress Bar -->
-    ${millionProgressBar(data.allTimeStats.totalDistance)}
+    <!-- The mission is the page. Everything else supports it. -->
+    ${missionPanel(data)}
 
-    <!-- All-time Stats -->
-    <div class="section-header">
-      <span class="section-title">All-Time Stats</span>
-    </div>
-    <div class="stats-grid" id="alltime-stats">
-      ${statCard("distance", "Total Distance",
-          metersToKm(data.allTimeStats.totalDistance), "km", false)}
-      ${statCard("time", "Total Time",
-          Math.floor(data.allTimeStats.totalMovingTime / 3600).toLocaleString(), "h", false)}
-      ${statCard("activities", "Activities",
-          data.totalActivities.toLocaleString(), "", false)}
-      ${statCard("elevation", "Elevation",
-          Math.round(data.allTimeStats.totalElevation / 1000).toLocaleString(), "km", false)}
-    </div>
-
-    <!-- This Month Stats -->
-    <div class="section-header" style="margin-top:8px">
-      <span class="section-title">${currentMonthLabel}</span>
-      <span class="section-badge">This Month</span>
-    </div>
-    <div class="stats-grid" id="month-stats">
-      ${statCard("distance", "Distance This Month",
-          metersToKm(data.monthStats.totalDistance), "km", true)}
-      ${statCard("time", "Time This Month",
-          secondsToHHMM(data.monthStats.totalMovingTime), "", true)}
-    </div>
+    <!-- Totals, then pace, then the week in progress: cumulative down to
+         current, so the reader moves from "where are we" to "how fast". -->
+    ${totalsStrip(data)}
+    ${paceGrid(data)}
 
     <!-- Recent activity. Per-athlete leaderboards were removed when Strava
          shut off the club activities API on 2026-09-01; see dataSourceNote. -->
@@ -678,15 +991,6 @@ function renderDashboard(data) {
 
 }
 
-function statCard(iconName, label, value, unit, accent) {
-  return `
-    <div class="stat-card${accent ? " accent" : ""}">
-      <div class="stat-icon">${ICONS[iconName]}</div>
-      <div class="stat-label">${label}</div>
-      <div class="stat-value">${value}<span class="stat-unit">${unit}</span></div>
-    </div>`;
-}
-
 function latestActivitiesCard(data) {
   const acts = (data.dataSource && data.dataSource.latestActivities) || [];
   if (!acts.length) {
@@ -696,7 +1000,11 @@ function latestActivitiesCard(data) {
   }
   const rows = acts.map((a) => {
     const name = a.athlete || "Unknown";
-    const dist = (a.distanceKm != null) ? `${a.distanceKm.toLocaleString()}<span>km</span>` : "";
+    // Strength training, yoga and the like cover no ground. Showing "0 km"
+    // reads as a failed reading; these activities count in time, not distance.
+    const dist = (a.distanceKm != null && a.distanceKm > 0)
+      ? `${a.distanceKm.toLocaleString()}<span>km</span>`
+      : `<span class="no-dist">no distance</span>`;
     const link = a.activityId
       ? `https://www.strava.com/activities/${a.activityId}`
       : CLUB_URL;
@@ -715,10 +1023,6 @@ function latestActivitiesCard(data) {
 
   return `
     <div class="leaderboard-card">
-      <div class="leaderboard-header">
-        <div class="leaderboard-icon month">${ICONS.calendar}</div>
-        <span class="leaderboard-title">Most Recent</span>
-      </div>
       <ul class="leaderboard-list">${rows}</ul>
     </div>`;
 }

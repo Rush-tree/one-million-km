@@ -109,7 +109,9 @@ const output = {
   clubName:    "One Million Kilometers - The Million Project",
   clubProfile: "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
   totalActivities,
-  memberCount: 237, // last known; the members endpoint was removed with the rest
+  // Scraped from the club's public page, since the members API endpoint is gone.
+  // Falls back to the last figure the API reported if that ever stops working.
+  memberCount: wd.memberCount || 237,
 
   // The macOS widget reads memberGrowth. The members endpoint is gone, so there
   // is no way to compute growth any more. Emit zeros with an explicit reason

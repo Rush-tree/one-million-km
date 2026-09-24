@@ -533,10 +533,16 @@
 // ─── Configuration ──────────────────────────────────────────────────────────
 const DATA_URL = "strava-data.json"; // path to your cached JSON file
 const CLUB_URL = "https://www.strava.com/clubs/1491053";
-const DEFAULT_LEADERBOARD_LIMIT = 10;
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
-function metersToKm(m) { return (m / 1000).toFixed(1); }
+// Thousands separators matter now that the total is six figures: "168715.1"
+// is hard to read at a glance, "168.715,1" is not.
+function metersToKm(m) {
+  return (m / 1000).toLocaleString(undefined, {
+    minimumFractionDigits: 1,
+    maximumFractionDigits: 1,
+  });
+}
 function secondsToHHMM(s) {
   const h = Math.floor(s / 3600);
   const m = Math.floor((s % 3600) / 60);
@@ -615,7 +621,7 @@ function renderDashboard(data) {
       }
       <div class="header-text">
         <div class="header-club-name">${data.clubName}</div>
-        <div class="header-meta">${data.totalActivities.toLocaleString()} activities &middot; Updated ${formatRelativeTime(data.generatedAt)}</div>
+        <div class="header-meta">${data.memberCount ? `${data.memberCount.toLocaleString()} members &middot; ` : ""}${data.totalActivities.toLocaleString()} activities &middot; Updated ${formatRelativeTime(data.generatedAt)}</div>
       </div>
       <a class="strava-badge" href="${CLUB_URL}" target="_blank" rel="noopener">
         ${ICONS.strava} View Club
@@ -652,29 +658,12 @@ function renderDashboard(data) {
           secondsToHHMM(data.monthStats.totalMovingTime), "", true)}
     </div>
 
-    <!-- Leaderboards -->
-    ${hasLeaderboards(data) ? `
-    <div class="section-header" style="margin-top:8px">
-      <span class="section-title">Leaderboards</span>
-      <div class="tabs" id="lb-tabs" style="margin-bottom:0;margin-left:auto">
-        <button class="tab active" data-view="all">All Activities</button>
-        <button class="tab" data-view="run">🏃 Running</button>
-        <button class="tab" data-view="ride">🚴 Cycling</button>
-        <button class="tab" data-view="relative">⚡ Performance</button>
-      </div>
-    </div>
-
-    <div id="leaderboard-grid" class="leaderboards">
-      ${leaderboardCard("alltime", "All-Time", data.allTimeLeaderboard, "allTime")}
-      ${leaderboardCard("month", currentMonthLabel, data.monthLeaderboard, "month")}
-    </div>
-    <div id="relative-info-box" class="relative-info" style="display:none">
-      ⚡ <strong>Relative Performance</strong> — Ranked by energy expenditure (kJ). Running burns significantly more calories per km than cycling, making this comparison fair across sport types.
-    </div>` : `
+    <!-- Recent activity. Per-athlete leaderboards were removed when Strava
+         shut off the club activities API on 2026-09-01; see dataSourceNote. -->
     <div class="section-header" style="margin-top:8px">
       <span class="section-title">Latest Activities</span>
     </div>
-    ${latestActivitiesCard(data)}`}
+    ${latestActivitiesCard(data)}
 
     ${dataSourceNote(data)}
 
@@ -687,57 +676,6 @@ function renderDashboard(data) {
     </div>
   `;
 
-  // Wire up tab switching
-  document.querySelectorAll("#lb-tabs .tab").forEach(tab => {
-    tab.addEventListener("click", () => {
-      document.querySelectorAll("#lb-tabs .tab").forEach(t => t.classList.remove("active"));
-      tab.classList.add("active");
-      const view = tab.dataset.view;
-      // Absent when leaderboards are unavailable and the activity feed is shown.
-      const infoBox = document.getElementById("relative-info-box");
-      if (infoBox) infoBox.style.display = view === "relative" ? "block" : "none";
-
-      const keyMap = { all: ["allTime", "month"], run: ["run", "run"], ride: ["ride", "ride"], relative: [null, null] };
-      const titleMap = {
-        all: ["All-Time", currentMonthLabel],
-        run: ["All-Time · Running", currentMonthLabel + " · Running"],
-        ride: ["All-Time · Cycling", currentMonthLabel + " · Cycling"],
-      };
-
-      const grid = document.getElementById("leaderboard-grid");
-      if (view === "relative") {
-        grid.innerHTML =
-          relativeLeaderboardCard(data.relativeLeaderboard || [], "All-Time · Performance") +
-          relativeLeaderboardCard(data.relativeLeaderboard || [], currentMonthLabel + " · Performance");
-      } else if (view === "all") {
-        grid.innerHTML =
-          leaderboardCard("alltime", "All-Time",        data.allTimeLeaderboard, "allTime") +
-          leaderboardCard("month",   currentMonthLabel, data.monthLeaderboard,   "month");
-      } else if (view === "run") {
-        grid.innerHTML =
-          leaderboardCard("alltime", "All-Time · Running",        data.runLeaderboard || [], "run") +
-          leaderboardCard("month",   currentMonthLabel + " · Running", data.runLeaderboard || [], "run");
-      } else if (view === "ride") {
-        grid.innerHTML =
-          leaderboardCard("alltime", "All-Time · Cycling",        data.rideLeaderboard || [], "ride") +
-          leaderboardCard("month",   currentMonthLabel + " · Cycling", data.rideLeaderboard || [], "ride");
-      }
-
-      wireShowMore();
-    });
-  });
-
-  function wireShowMore() {
-    document.querySelectorAll(".show-more-btn").forEach(btn => {
-      btn.addEventListener("click", () => {
-        const list = btn.previousElementSibling;
-        list.querySelectorAll(".leaderboard-item[style*='none']").forEach(el => el.style.display = "");
-        btn.style.display = "none";
-      });
-    });
-  }
-
-  wireShowMore();
 }
 
 function statCard(iconName, label, value, unit, accent) {
@@ -747,15 +685,6 @@ function statCard(iconName, label, value, unit, accent) {
       <div class="stat-label">${label}</div>
       <div class="stat-value">${value}<span class="stat-unit">${unit}</span></div>
     </div>`;
-}
-
-// Strava removed the club API on 2026-09-01. The embed widget that replaced it
-// exposes only the 5 most recent activities, which is not enough to rank 237
-// members: anyone uploading during busy hours would be dropped. So when the
-// leaderboards come through empty we show the recent activity feed instead of
-// a ranking that would quietly be wrong.
-function hasLeaderboards(data) {
-  return Array.isArray(data.allTimeLeaderboard) && data.allTimeLeaderboard.length > 0;
 }
 
 function latestActivitiesCard(data) {
@@ -812,99 +741,6 @@ function dataSourceNote(data) {
         Club totals continue to update automatically via Strava's official club widget.
         Keep running, walking and hiking &mdash; it all adds up.
       </div>
-    </div>`;
-}
-
-function leaderboardCard(type, title, entries, key, metric) {
-  const limit = DEFAULT_LEADERBOARD_LIMIT;
-  const hasMore = entries.length > limit;
-
-  const rows = entries.map((a, i) => {
-    const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
-    const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
-    const hidden = i >= limit ? ' style="display:none"' : "";
-
-    const dist = metersToKm(a[key].distance);
-    const time = secondsToHHMM(a[key].movingTime);
-    const count = a[key].count;
-
-    const avatar = a.profile
-      ? `<img class="athlete-avatar" src="${a.profile}" alt="${a.name}" onerror="this.replaceWith(makeInitialAvatar('${initials(a.name)}'))">`
-      : `<div class="athlete-avatar-placeholder">${initials(a.name)}</div>`;
-
-    return `
-      <li class="leaderboard-item ${rankClass}"${hidden}>
-        <div class="rank-badge ${badgeClass}">${a.rank}</div>
-        ${avatar}
-        <div class="athlete-info">
-          <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"} &middot; ${time}</div>
-        </div>
-        <div class="athlete-distance">
-          ${dist}<span>km</span>
-        </div>
-      </li>`;
-  }).join("");
-
-  const iconClass = type === "alltime" ? "alltime" : "month";
-  const iconName = type === "alltime" ? "trophy" : "calendar";
-
-  return `
-    <div class="leaderboard-card">
-      <div class="leaderboard-header">
-        <div class="leaderboard-icon ${iconClass}">${ICONS[iconName]}</div>
-        <span class="leaderboard-title">${title}</span>
-        <span class="section-badge" style="margin-left:auto">${entries.length}</span>
-      </div>
-      <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:var(--muted);font-size:13px">No activities yet.</li>'}
-      </ul>
-      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
-    </div>`;
-}
-
-function relativeLeaderboardCard(entries, title) {
-  const limit = DEFAULT_LEADERBOARD_LIMIT;
-  const hasMore = entries.length > limit;
-  const iconClass = title && title.includes(new Date().toLocaleString("default", { month: "long" })) ? "month" : "alltime";
-  const iconName = iconClass === "month" ? "calendar" : "trophy";
-
-  const rows = entries.map((a, i) => {
-    const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
-    const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
-    const hidden = i >= limit ? ' style="display:none"' : "";
-    const cals = Math.round(a.relative.calories).toLocaleString("en");
-    const count = a.relative.count;
-
-    const avatar = a.profile
-      ? `<img class="athlete-avatar" src="${a.profile}" alt="${a.name}" onerror="this.replaceWith(makeInitialAvatar('${initials(a.name)}'))">`
-      : `<div class="athlete-avatar-placeholder">${initials(a.name)}</div>`;
-
-    return `
-      <li class="leaderboard-item ${rankClass}"${hidden}>
-        <div class="rank-badge ${badgeClass}">${a.rank}</div>
-        ${avatar}
-        <div class="athlete-info">
-          <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"}</div>
-        </div>
-        <div class="athlete-distance">
-          ${cals}<span>kJ</span>
-        </div>
-      </li>`;
-  }).join("");
-
-  return `
-    <div class="leaderboard-card">
-      <div class="leaderboard-header">
-        <div class="leaderboard-icon ${iconClass}">${ICONS[iconName]}</div>
-        <span class="leaderboard-title">${title || "Performance"}</span>
-        <span class="section-badge" style="margin-left:auto">${entries.length}</span>
-      </div>
-      <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:var(--muted);font-size:13px">No activities yet.</li>'}
-      </ul>
-      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
     </div>`;
 }
 

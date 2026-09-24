@@ -61,6 +61,35 @@ function get(url, redirects = 0) {
 const widgetUrl = (showRides) =>
   `https://www.strava.com/clubs/${CLUB_ID}/latest-rides/${WIDGET_TOKEN}?show_rides=${showRides}`;
 
+// The widget carries no member count, and the members API endpoint was removed
+// with the rest. The club's public page still states it, though: it renders
+// server-side into the Next.js payload, readable without a login.
+//
+// Best-effort by design. A failure here must not abort the run — kilometres
+// matter more than the headcount — so the caller falls back to the last known
+// value rather than failing or publishing a zero.
+async function fetchMemberCount() {
+  const html = await get(`https://www.strava.com/clubs/${CLUB_ID}`);
+
+  // Preferred: the structured payload. Survives CSS/markup restyles.
+  const payload = /<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/.exec(html);
+  if (payload) {
+    try {
+      const n = JSON.parse(payload[1])?.props?.pageProps?.club?.memberCount;
+      if (Number.isInteger(n) && n > 0) return { count: n, via: "__NEXT_DATA__" };
+    } catch (_) { /* fall through to the text scan */ }
+  }
+
+  // Fallback: the rendered "238 members" heading.
+  const text = /([\d,.]+)\s+members/i.exec(html);
+  if (text) {
+    const n = parseInt(text[1].replace(/[,.]/g, ""), 10);
+    if (Number.isInteger(n) && n > 0) return { count: n, via: "page text" };
+  }
+
+  throw new Error("Member count not found on the public club page");
+}
+
 function stripTags(html) {
   return html
     .replace(/<script[\s\S]*?<\/script>/g, "")
@@ -184,6 +213,17 @@ async function main() {
   console.log(`  Elevation:  ${weekly.elevationM?.toLocaleString("de-DE")} m`);
   console.log(`  Latest activities parsed: ${activities.length}`);
 
+  // Best-effort: keep the previous figure if the page shape changed, so a
+  // scraping hiccup never turns into a published "0 members".
+  let memberCount = null;
+  try {
+    const m = await fetchMemberCount();
+    memberCount = m.count;
+    console.log(`  Members:    ${memberCount} (via ${m.via})`);
+  } catch (e) {
+    console.error(`  Member count unavailable (keeping last known): ${e.message}`);
+  }
+
   // The widget only ever reports the current week, so history is kept here.
   // Keyed by week label: re-running on the same day overwrites that week's
   // entry with the newer figure instead of double counting.
@@ -245,6 +285,16 @@ async function main() {
     }
   }
 
+  // Member count: keep the last known figure when a fetch fails, and record one
+  // dated sample per day so membership growth stays visible over time.
+  if (memberCount !== null) {
+    history.members = history.members || { current: null, history: {} };
+    history.members.current = memberCount;
+    history.members.updatedAt = new Date().toISOString();
+    history.members.history[new Date().toISOString().slice(0, 10)] = memberCount;
+  }
+  const effectiveMemberCount = history.members?.current ?? null;
+
   // Cumulative total = frozen API baseline + every week observed since.
   // baseline is set once, from the last good API figure (see --set-baseline).
   const weeksSum = Object.values(history.weeks)
@@ -278,6 +328,8 @@ async function main() {
     generatedAt: new Date().toISOString(),
     source: "strava-embed-widget",
     clubId: CLUB_ID,
+    memberCount: effectiveMemberCount,
+    memberCountUpdatedAt: history.members?.updatedAt || null,
     currentWeek: weekly,
     latestActivities: activities,
     baseline: history.baseline,

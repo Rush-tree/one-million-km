@@ -1073,8 +1073,12 @@ async function loadData(forceRefresh = false) {
   }
 
   try {
-    const url = DATA_URL + (forceRefresh ? `?_=${Date.now()}` : "");
-    const res = await fetch(url);
+    // GitHub Pages serves this with cache-control: max-age=600, so without a
+    // buster a viewer can sit on a ten-minute-old total — and inside the Wix
+    // iframe, on a much older one. The data changes every half hour, so every
+    // load gets a unique URL, not just an explicit Refresh.
+    const url = `${DATA_URL}?_=${Date.now()}`;
+    const res = await fetch(url, { cache: "no-store" });
 
     if (!res.ok) throw new Error(`HTTP ${res.status}: ${res.statusText}`);
 

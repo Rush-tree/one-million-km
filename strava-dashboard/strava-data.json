@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T10:30:41.871Z",
+  "generatedAt": "2026-09-24T11:00:53.067Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14318,
+  "totalActivities": 14325,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167601200,
-    "totalMovingTime": 47831627,
-    "totalElevation": 1198229.6
+    "totalDistance": 167634500,
+    "totalMovingTime": 47847287,
+    "totalElevation": 1198331.6
   },
   "monthStats": {
-    "totalDistance": 28796100,
-    "totalMovingTime": 8345400,
+    "totalDistance": 28829400,
+    "totalMovingTime": 8361060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6647200,
-    "totalMovingTime": 1925880,
-    "count": 564
+    "totalDistance": 6680500,
+    "totalMovingTime": 1941540,
+    "count": 570
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151804.2,
+    "measuredDistanceKm": 151837.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20307399242",
-        "name": "Pedalada matinal",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20308595532",
+        "name": "Lunch Ride",
         "date": "September 24, 2026",
-        "distanceKm": 2,
+        "distanceKm": 5.3,
         "stats": [
-          "2.0 km",
-          "7:38",
-          "22 m"
+          "5.3 km",
+          "24:01",
+          "46 m"
+        ]
+      },
+      {
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20308660996",
+        "name": "Mittagslauf",
+        "date": "September 24, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "28:53",
+          "42 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20308542878",
+        "name": "Ciclismo all’ora di pranzo",
+        "date": "September 24, 2026",
+        "distanceKm": 23,
+        "stats": [
+          "23.0 km",
+          "1:13:50",
+          "14 m"
         ]
       },
       {
@@ -80,19 +106,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20307305144",
-        "name": "Morning Walk",
-        "date": "September 24, 2026",
-        "distanceKm": 2.7,
-        "stats": [
-          "2.7 km",
-          "46:46",
-          "20 m"
-        ]
-      },
-      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20307645993",
@@ -103,19 +116,6 @@
           "2.8 km",
           "2:18:00",
           "2 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20307448689",
-        "name": "BANADA MI BAĞLARBAŞI ⁉️ BY ÇAVRİLİLİ 🏃🏿‍♂️👣👟🔥🏆🥇🇹🇷🙋🏻‍♂️👑💞🎯🙌🌊🌀🏔️🌅",
-        "date": "September 24, 2026",
-        "distanceKm": 21.2,
-        "stats": [
-          "21.2 km",
-          "2:47:12",
-          "345 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167601.2
+      "totalWithEstimatesKm": 167634.5
     }
   }
 }

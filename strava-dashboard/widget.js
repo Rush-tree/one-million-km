@@ -1,6 +1,5 @@
 const DATA_URL = "https://rush-tree.github.io/one-million-km/strava-dashboard/strava-data.json";
 const CLUB_URL = "https://www.strava.com/clubs/1491053";
-const DEFAULT_LEADERBOARD_LIMIT = 10;
 const GOAL_KM = 1_000_000;
 
 const CSS = `
@@ -8,19 +7,42 @@ const CSS = `
   :host {
     display: block;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    /* Neutrals carry a slight green bias so they sit with the project's green
+       rather than beside it. The --orange-* names are legacy; they hold the
+       brand green and are referenced throughout. */
     --orange: #0c6a37;
-    --orange-light: #1a8fd3;
-    --orange-pale: #e8f5ee;
-    --bg: #F7F7F7;
+    --orange-light: #16a34a;
+    --orange-pale: #e8f2ec;
+    --bg: #FAFAF8;
     --card: #FFFFFF;
-    --text: #1A1A1A;
-    --muted: #5c5c5c;
-    --border: #d3b973;
+    --text: #12201a;
+    --muted: #6b7370;
+    --border: #e3e6e3;
+    --border-strong: #cdd4cf;
+    --track: #e8ebe8;
     --gold: #ffd700;
     --silver: #87ceeb;
     --bronze: #8b4513;
     --radius: 16px;
-    --shadow: 0 2px 12px rgba(0,0,0,0.08);
+    --shadow: 0 1px 2px rgba(18,32,26,0.04), 0 2px 8px rgba(18,32,26,0.04);
+  }
+
+  /* The host page decides the theme; this widget follows the OS preference.
+     Tokens are redefined, never the components themselves. */
+  @media (prefers-color-scheme: dark) {
+    :host {
+      --orange: #3fa86a;
+      --orange-light: #5cc487;
+      --orange-pale: #16281f;
+      --bg: #0f1512;
+      --card: #172019;
+      --text: #e8efea;
+      --muted: #97a39c;
+      --border: #24302a;
+      --border-strong: #35443c;
+      --track: #223029;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3), 0 2px 8px rgba(0,0,0,0.25);
+    }
   }
   .dashboard {
     max-width: 900px;
@@ -262,6 +284,127 @@ const CSS = `
   @media (max-width: 380px) {
     .stats-grid { grid-template-columns: 1fr; }
   }
+
+  /* ─── Mission panel ────────────────────────────────────────────────────── */
+  /* The one element that carries weight: the only place the accent is spent
+     at full strength. */
+  .mission {
+    background: var(--card);
+    border: 1px solid var(--border-strong);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 24px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+  }
+  .mission-top {
+    display: flex; align-items: flex-start; justify-content: space-between;
+    gap: 16px; flex-wrap: wrap;
+  }
+  .mission-eyebrow {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.11em; color: var(--orange); margin-bottom: 3px;
+  }
+  .mission-goal { font-size: 15px; font-weight: 600; color: var(--muted); }
+  .mission-pct {
+    font-size: 15px; font-weight: 700; color: var(--muted);
+    font-variant-numeric: tabular-nums; white-space: nowrap;
+  }
+  .mission-pct span { font-size: 24px; color: var(--text); }
+  .mission-figure { display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+  .mission-km {
+    font-size: clamp(38px, 10vw, 62px);
+    font-weight: 800; line-height: 0.95; letter-spacing: -0.025em;
+    color: var(--text); font-variant-numeric: tabular-nums;
+  }
+  .mission-unit { font-size: 20px; font-weight: 600; color: var(--muted); }
+  .mission-track {
+    position: relative; height: 12px;
+    background: var(--track); border-radius: 999px; overflow: visible;
+  }
+  .mission-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--orange), var(--orange-light));
+    border-radius: 999px;
+    transition: width 900ms cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  /* Ticks make the bar a scale; without them a 17% fill is just a stub. */
+  .ms-tick {
+    position: absolute; top: -3px; bottom: -3px;
+    width: 1px; background: var(--border-strong);
+  }
+  .ms-label {
+    position: absolute; top: 16px; left: 50%; transform: translateX(-50%);
+    font-size: 10px; font-weight: 600; color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .mission-foot {
+    display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+    font-size: 13px; color: var(--muted);
+    margin-top: 22px; /* room for the tick labels below the track */
+  }
+  .mission-foot strong { color: var(--text); font-variant-numeric: tabular-nums; }
+  .mission-scale { color: var(--orange); font-weight: 600; }
+
+  /* ─── Totals strip ─────────────────────────────────────────────────────── */
+  .totals {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(118px, 1fr));
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .total {
+    padding: 14px 16px;
+    border-right: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+  .total:last-child { border-right: none; }
+  .total-label {
+    font-size: 10px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--muted); margin-bottom: 5px;
+  }
+  .total-value {
+    font-size: 19px; font-weight: 700; color: var(--text);
+    font-variant-numeric: tabular-nums; line-height: 1.1;
+  }
+  .total-unit { font-size: 12px; font-weight: 600; color: var(--muted); margin-left: 3px; }
+
+  /* ─── Pace ─────────────────────────────────────────────────────────────── */
+  .pace { margin-bottom: 22px; }
+  .pace-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+  }
+  .pace-cell { background: var(--card); padding: 16px; }
+  .pace-label { font-size: 11px; font-weight: 600; color: var(--muted); margin-bottom: 6px; }
+  .pace-value {
+    font-size: 26px; font-weight: 700; color: var(--text);
+    font-variant-numeric: tabular-nums; line-height: 1.05;
+  }
+  .pace-unit { font-size: 13px; font-weight: 600; color: var(--muted); margin-left: 3px; }
+  .pace-sub { font-size: 11px; color: var(--muted); margin-top: 5px; }
+  .pace-note {
+    font-size: 13px; line-height: 1.55; color: var(--muted);
+    margin-top: 12px; padding-left: 12px;
+    border-left: 2px solid var(--orange-pale);
+  }
+  .pace-note strong { color: var(--text); }
+
+  .no-dist { font-size: 11px; font-weight: 500; color: var(--muted); white-space: nowrap; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .mission-fill { transition: none; }
+  }
 `;
 
 const ICONS = {
@@ -275,11 +418,13 @@ const ICONS = {
   elevation: `<svg viewBox="0 0 24 24"><path d="M14 6l-3.75 5 2.85 3.8-1.6 1.2C9.81 13.75 7 10 7 10l-6 8h22L14 6z"/></svg>`,
 };
 
-function metersToKm(m) { return (m / 1000).toFixed(1); }
-function secondsToHHMM(s) {
-  const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60);
-  return `${h.toLocaleString()}h ${m}m`;
+// Thousands separators matter at six figures: "168715.1" is hard to read.
+function metersToKm(m) {
+  return (m / 1000).toLocaleString(undefined, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
 }
+
+const nf = (n, d = 0) =>
+  (n ?? 0).toLocaleString(undefined, { minimumFractionDigits: d, maximumFractionDigits: d });
 function formatRelativeTime(iso) {
   const diff = Date.now() - new Date(iso).getTime();
   const mins = Math.floor(diff / 60000);
@@ -289,120 +434,153 @@ function formatRelativeTime(iso) {
   if (hrs < 24) return `${hrs}h ago`;
   return `${Math.floor(hrs / 24)}d ago`;
 }
-function monthName(date) {
-  return new Date(date).toLocaleString("default", { month: "long", year: "numeric" });
-}
 function initials(name) {
   return name.split(" ").map(w => w[0]).join("").substring(0, 2).toUpperCase();
 }
 
-function millionProgressBar(totalMeters) {
-  const km = totalMeters / 1000;
+// The mission panel: the running total, the bar, and the distance still to go.
+// Milestone ticks turn the bar into a scale — at 17% an unmarked fill says
+// almost nothing about how far there is left to run.
+function missionPanel(data) {
+  const f = data.facts || {};
+  const km = data.allTimeStats.totalDistance / 1000;
   const pct = Math.min((km / GOAL_KM) * 100, 100);
-  const pctDisplay = pct < 0.01 ? pct.toFixed(4) : pct.toFixed(2);
-  const remaining = Math.max(GOAL_KM - km, 0);
+
+  const milestones = [25, 50, 75].map((m) => `
+    <div class="ms-tick" style="left:${m}%"><span class="ms-label">${m}%</span></div>`).join("");
+
   return `
-    <div class="million-bar-wrap">
-      <div class="million-bar-header">
-        <span class="million-bar-title">Mission: 1.000.000 km</span>
-        <div class="million-bar-stats">
-          <span class="million-bar-pct">${pctDisplay}%</span>
-          <span class="million-bar-km">${km.toLocaleString("de-DE", { maximumFractionDigits: 1 })} km</span>
+    <section class="mission">
+      <div class="mission-top">
+        <div>
+          <div class="mission-eyebrow">Mission</div>
+          <div class="mission-goal">1,000,000 km together</div>
         </div>
+        <div class="mission-pct"><span>${pct.toFixed(2)}</span>%</div>
       </div>
-      <div class="million-bar-track">
-        <div class="million-bar-fill" style="width:${pct}%"></div>
+      <div class="mission-figure">
+        <span class="mission-km">${nf(km, 1)}</span>
+        <span class="mission-unit">km</span>
       </div>
-      <div class="million-bar-remaining">${remaining.toLocaleString("de-DE", { maximumFractionDigits: 0 })} km verbleibend</div>
-    </div>`;
+      <div class="mission-track" role="img"
+           aria-label="${pct.toFixed(1)} percent of one million kilometres completed">
+        <div class="mission-fill" style="width:${pct}%"></div>
+        ${milestones}
+      </div>
+      <div class="mission-foot">
+        <span><strong>${nf(f.remainingKm)} km</strong> to go</span>
+        ${f.timesAroundEarth ? `<span class="mission-scale">${nf(f.timesAroundEarth, 2)}× around the equator</span>` : ""}
+      </div>
+    </section>`;
 }
 
-function statCard(iconName, label, value, unit, accent) {
+// Cumulative totals: a quiet row divided by rules, not five competing cards.
+// These are context for the mission figure, not headlines of their own.
+function totalsStrip(data) {
+  const s = data.allTimeStats;
+  const items = [
+    ["Distance",    nf(s.totalDistance / 1000, 1), "km"],
+    ["Moving time", nf(Math.floor(s.totalMovingTime / 3600)), "h"],
+    ["Activities",  nf(data.totalActivities), ""],
+    ["Elevation",   nf(Math.round(s.totalElevation / 1000)), "km"],
+    ["Members",     nf(data.memberCount), ""],
+  ];
   return `
-    <div class="stat-card${accent ? " accent" : ""}">
-      <div class="stat-icon">${ICONS[iconName]}</div>
-      <div class="stat-label">${label}</div>
-      <div class="stat-value">${value}<span class="stat-unit">${unit}</span></div>
-    </div>`;
+    <section class="totals">
+      ${items.map(([label, value, unit]) => `
+        <div class="total">
+          <div class="total-label">${label}</div>
+          <div class="total-value">${value}${unit ? `<span class="total-unit">${unit}</span>` : ""}</div>
+        </div>`).join("")}
+    </section>`;
 }
 
-function leaderboardCard(type, title, entries, key) {
-  const limit = DEFAULT_LEADERBOARD_LIMIT;
-  const hasMore = entries.length > limit;
-  const iconClass = type === "alltime" ? "alltime" : "month";
-  const iconName = type === "alltime" ? "trophy" : "calendar";
-  const rows = entries.map((a, i) => {
-    const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
-    const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
-    const hidden = i >= limit ? ' style="display:none"' : "";
-    const dist = metersToKm(a[key].distance);
-    const time = secondsToHHMM(a[key].movingTime);
-    const count = a[key].count;
-    const avatar = a.profile
-      ? `<img class="athlete-avatar" src="${a.profile}" alt="${a.name}">`
-      : `<div class="athlete-avatar-placeholder">${initials(a.name)}</div>`;
+// Pace, derived only from weeks measured end to end. A truncated or in-progress
+// week would drag the average down and understate the club.
+function paceGrid(data) {
+  const f = data.facts || {};
+  if (!f.paceBasisWeeks) return "";
+
+  const projected = f.projectedDate
+    ? new Date(f.projectedDate + "T00:00:00Z").toLocaleDateString(undefined, { year: "numeric", month: "long" })
+    : null;
+
+  const cells = [
+    ["This week so far", nf(f.thisWeekKm, 1), "km",
+      `${nf(f.thisWeekActivities)} activities · ${nf(f.thisWeekHours)} h`],
+    ["Per day", nf(f.avgDayKm), "km", "average of full weeks"],
+    ["Per member", nf(f.kmPerMemberWeek, 1), "km", "per week"],
+    ["Per activity", nf(f.avgActivityKm, 1), "km", `${nf(f.activitiesPerWeek)} activities a week`],
+  ];
+
+  return `
+    <section class="pace">
+      <div class="pace-grid">
+        ${cells.map(([label, value, unit, sub]) => `
+          <div class="pace-cell">
+            <div class="pace-label">${label}</div>
+            <div class="pace-value">${value}${unit ? `<span class="pace-unit">${unit}</span>` : ""}</div>
+            <div class="pace-sub">${sub}</div>
+          </div>`).join("")}
+      </div>
+      ${projected ? `
+      <p class="pace-note">
+        At this pace the club reaches one million kilometres around <strong>${projected}</strong>.
+        Based on ${f.paceBasisWeeks} fully measured week${f.paceBasisWeeks === 1 ? "" : "s"},
+        so treat it as a direction of travel rather than a date in the calendar.
+      </p>` : ""}
+    </section>`;
+}
+
+function latestActivitiesCard(data) {
+  const acts = (data.dataSource && data.dataSource.latestActivities) || [];
+  if (!acts.length) {
+    return `<div class="leaderboard-card"><ul class="leaderboard-list">
+      <li style="padding:16px 20px;color:var(--muted);font-size:13px">No recent activities available.</li>
+    </ul></div>`;
+  }
+  const rows = acts.map((a) => {
+    const who = a.athlete || "Unknown";
+    // Strength training and yoga cover no ground; "0 km" reads as a failed
+    // reading, when in fact these activities count in time, not distance.
+    const dist = (a.distanceKm != null && a.distanceKm > 0)
+      ? `${a.distanceKm.toLocaleString()}<span>km</span>`
+      : `<span class="no-dist">no distance</span>`;
+    const link = a.activityId
+      ? `https://www.strava.com/activities/${a.activityId}`
+      : CLUB_URL;
     return `
-      <li class="leaderboard-item ${rankClass}"${hidden}>
-        <div class="rank-badge ${badgeClass}">${a.rank}</div>
-        ${avatar}
+      <li class="leaderboard-item">
+        <div class="athlete-avatar-placeholder">${initials(who)}</div>
         <div class="athlete-info">
-          <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"} &middot; ${time}</div>
+          <div class="athlete-name">
+            <a href="${link}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${a.name || "Activity"}</a>
+          </div>
+          <div class="athlete-sub">${who}${a.date ? " · " + a.date : ""}</div>
         </div>
-        <div class="athlete-distance">${dist}<span>km</span></div>
+        <div class="athlete-distance">${dist}</div>
       </li>`;
   }).join("");
-  return `
-    <div class="leaderboard-card">
-      <div class="leaderboard-header">
-        <div class="leaderboard-icon ${iconClass}">${ICONS[iconName]}</div>
-        <span class="leaderboard-title">${title}</span>
-        <span class="section-badge" style="margin-left:auto">${entries.length}</span>
-      </div>
-      <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:#5c5c5c;font-size:13px">No activities yet.</li>'}
-      </ul>
-      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
-    </div>`;
+
+  return `<div class="leaderboard-card"><ul class="leaderboard-list">${rows}</ul></div>`;
 }
 
-function relativeLeaderboardCard(entries, title, key) {
-  const limit = DEFAULT_LEADERBOARD_LIMIT;
-  const hasMore = entries.length > limit;
-  const dataKey = key === "relativeMonth" ? "relativeMonth" : "relative";
-  const rows = entries.map((a, i) => {
-    const rankClass = i === 0 ? "top-1" : i === 1 ? "top-2" : i === 2 ? "top-3" : "";
-    const badgeClass = i === 0 ? "rank-1" : i === 1 ? "rank-2" : i === 2 ? "rank-3" : "rank-other";
-    const hidden = i >= limit ? ' style="display:none"' : "";
-    const pts = Math.round(a[dataKey].points).toLocaleString("en");
-    const count = a[dataKey].count;
-    const avatar = a.profile
-      ? `<img class="athlete-avatar" src="${a.profile}" alt="${a.name}">`
-      : `<div class="athlete-avatar-placeholder">${initials(a.name)}</div>`;
-    return `
-      <li class="leaderboard-item ${rankClass}"${hidden}>
-        <div class="rank-badge ${badgeClass}">${a.rank}</div>
-        ${avatar}
-        <div class="athlete-info">
-          <div class="athlete-name">${a.name}</div>
-          <div class="athlete-sub">${count} activit${count === 1 ? "y" : "ies"}</div>
-        </div>
-        <div class="athlete-distance">${pts}<span>EP</span></div>
-      </li>`;
-  }).join("");
-  const iconClass = title && title.includes("All-Time") ? "alltime" : "month";
-  const iconName = iconClass === "alltime" ? "trophy" : "calendar";
+// Explains why per-athlete rankings disappeared. Members will wonder where
+// their name went; saying it plainly prevents them assuming their kilometres
+// stopped counting. They still count — only the attribution is gone.
+function dataSourceNote() {
   return `
-    <div class="leaderboard-card">
-      <div class="leaderboard-header">
-        <div class="leaderboard-icon ${iconClass}">${ICONS[iconName]}</div>
-        <span class="leaderboard-title">${title || "Performance"}</span>
-        <span class="section-badge" style="margin-left:auto">${entries.length}</span>
+    <div class="relative-info" style="margin-top:10px;line-height:1.55">
+      ℹ️ <strong>Why there is no athlete ranking any more</strong><br>
+      On 1 September 2026, Strava switched off the interface that let external
+      projects read a club's activities athlete by athlete. Every kilometre you
+      log still counts toward our total — we simply can no longer see which
+      kilometre belongs to whom, so a per-athlete leaderboard is not possible.
+      This affects every project using Strava club data, not just ours.
+      <div style="margin-top:6px">
+        Club totals continue to update automatically via Strava's official club widget.
+        Keep running, walking and hiking — it all adds up.
       </div>
-      <ul class="leaderboard-list">
-        ${rows || '<li style="padding:16px 20px;color:#5c5c5c;font-size:13px">No activities yet.</li>'}
-      </ul>
-      ${hasMore ? `<button class="show-more-btn">Show all ${entries.length} athletes ▾</button>` : ""}
     </div>`;
 }
 
@@ -462,11 +640,14 @@ class StravaDashboard extends HTMLElement {
   }
 
   render(data) {
-    const currentMonthLabel = monthName(data.generatedAt);
+    const f = data.facts || {};
     this._container.innerHTML = `
-      ${millionProgressBar(data.allTimeStats.totalDistance)}
-      <div class="section-header">
-        <span class="section-title">All-Time Stats</span>
+      ${missionPanel(data)}
+      ${totalsStrip(data)}
+      ${paceGrid(data)}
+
+      <div class="section-header" style="margin-top:4px">
+        <span class="section-title">Latest Activities</span>
         <div style="margin-left:auto; display:flex; gap:8px; align-items:center">
           <button class="refresh-btn" id="refresh-btn" title="Reload latest data">
             ${ICONS.refresh}<span>Refresh</span>
@@ -476,87 +657,15 @@ class StravaDashboard extends HTMLElement {
           </a>
         </div>
       </div>
-      <div class="stats-grid">
-        ${statCard("distance", "Total Distance", metersToKm(data.allTimeStats.totalDistance), "km", false)}
-        ${statCard("time", "Total Time", Math.floor(data.allTimeStats.totalMovingTime / 3600).toLocaleString(), "h", false)}
-        ${statCard("activities", "Activities", data.totalActivities.toLocaleString(), "", false)}
-        ${statCard("elevation", "Elevation", Math.round(data.allTimeStats.totalElevation / 1000).toLocaleString(), "km", false)}
-      </div>
-      <div class="section-header" style="margin-top:8px">
-        <span class="section-title">${currentMonthLabel}</span>
-        <span class="section-badge">This Month</span>
-      </div>
-      <div class="stats-grid">
-        ${statCard("distance", "Distance This Month", metersToKm(data.monthStats.totalDistance), "km", true)}
-        ${statCard("time", "Time This Month", secondsToHHMM(data.monthStats.totalMovingTime), "", true)}
-      </div>
-      <div class="section-header" style="margin-top:8px">
-        <span class="section-title">Leaderboards</span>
-        <div class="tabs" id="lb-tabs" style="margin-bottom:0;margin-left:auto">
-          <button class="tab active" data-view="all">All Activities</button>
-          <button class="tab" data-view="run">🏃 Running</button>
-          <button class="tab" data-view="ride">🚴 Cycling</button>
-          <button class="tab" data-view="relative">⚡ Performance</button>
-        </div>
-      </div>
-      <div id="relative-info-box" class="relative-info" style="display:none">
-        ⚡ <strong>Effort Points (EP)</strong> — a sport-independent score that combines distance, sport type, elevation and speed.<br>
-        <code>EP = (distance_km + elevation_m × hm_factor) × sport_factor × speed_multiplier</code><br>
-        <strong>Sport factor:</strong> running 1.0, cycling 0.4 (cycling burns ~40% as much energy per km as running). <strong>Elevation:</strong> 1 m climbed counts as 10 m flat running / 8 m flat cycling. <strong>Speed multiplier:</strong> your average speed divided by a reference speed (10 km/h running, 20 km/h cycling).
-      </div>
-      <div class="leaderboards" id="leaderboard-grid">
-        ${leaderboardCard("alltime", "All-Time", data.allTimeLeaderboard, "allTime")}
-        ${leaderboardCard("month", currentMonthLabel, data.monthLeaderboard, "month")}
-      </div>
+      ${latestActivitiesCard(data)}
+      ${dataSourceNote(data)}
+
       <div class="footer">
         <span>Last updated ${new Date(data.generatedAt).toLocaleString()}</span>
       </div>`;
 
-    const shadow = this._shadow;
-
-    const refreshBtn = shadow.getElementById("refresh-btn");
+    const refreshBtn = this._shadow.getElementById("refresh-btn");
     if (refreshBtn) refreshBtn.addEventListener("click", () => this.loadData(true));
-
-    shadow.querySelectorAll("#lb-tabs .tab").forEach(tab => {
-      tab.addEventListener("click", () => {
-        shadow.querySelectorAll("#lb-tabs .tab").forEach(t => t.classList.remove("active"));
-        tab.classList.add("active");
-        const view = tab.dataset.view;
-        const infoBox = shadow.getElementById("relative-info-box");
-        infoBox.style.display = view === "relative" ? "block" : "none";
-        const grid = shadow.getElementById("leaderboard-grid");
-
-        if (view === "relative") {
-          grid.innerHTML =
-            relativeLeaderboardCard(data.relativeLeaderboard || [],      "All-Time · Performance", "points") +
-            relativeLeaderboardCard(data.relativeMonthLeaderboard || [], currentMonthLabel + " · Performance", "relativeMonth");
-        } else if (view === "all") {
-          grid.innerHTML =
-            leaderboardCard("alltime", "All-Time",        data.allTimeLeaderboard, "allTime") +
-            leaderboardCard("month",   currentMonthLabel, data.monthLeaderboard,   "month");
-        } else if (view === "run") {
-          grid.innerHTML =
-            leaderboardCard("alltime", "All-Time · Running",             data.runLeaderboard || [],      "run") +
-            leaderboardCard("month",   currentMonthLabel + " · Running", data.runMonthLeaderboard || [], "runMonth");
-        } else if (view === "ride") {
-          grid.innerHTML =
-            leaderboardCard("alltime", "All-Time · Cycling",             data.rideLeaderboard || [],      "ride") +
-            leaderboardCard("month",   currentMonthLabel + " · Cycling", data.rideMonthLeaderboard || [], "rideMonth");
-        }
-        wireShowMore(shadow);
-      });
-    });
-
-    function wireShowMore(root) {
-      root.querySelectorAll(".show-more-btn").forEach(btn => {
-        btn.addEventListener("click", () => {
-          btn.previousElementSibling.querySelectorAll(".leaderboard-item[style*='none']")
-            .forEach(el => el.style.display = "");
-          btn.style.display = "none";
-        });
-      });
-    }
-    wireShowMore(shadow);
   }
 }
 

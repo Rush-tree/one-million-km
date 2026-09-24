@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T16:30:45.119Z",
+  "generatedAt": "2026-09-24T17:00:51.732Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14390,
+  "totalActivities": 14394,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 168279700,
-    "totalMovingTime": 48047687,
-    "totalElevation": 1202636.6
+    "totalDistance": 168335100,
+    "totalMovingTime": 48061007,
+    "totalElevation": 1203213.6
   },
   "monthStats": {
-    "totalDistance": 29474600,
-    "totalMovingTime": 8561460,
+    "totalDistance": 29530000,
+    "totalMovingTime": 8574780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7325700,
-    "totalMovingTime": 2141940,
-    "count": 631
+    "totalDistance": 7381100,
+    "totalMovingTime": 2155260,
+    "count": 635
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,48 +48,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 152482.7,
+    "measuredDistanceKm": 152538.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20312583494",
-        "name": "Abendradfahrt",
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20313131223",
+        "name": "Afternoon Walk",
         "date": "September 24, 2026",
-        "distanceKm": 4.6,
+        "distanceKm": 3.1,
         "stats": [
-          "4.6 km",
-          "14:12",
-          "41 m"
+          "3.1 km",
+          "36:29",
+          "31 m"
+        ]
+      },
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20312801959",
+        "name": "Lauf am Nachmittag",
+        "date": "September 24, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "55:59",
+          "69 m"
         ]
       },
       {
         "athlete": "Luka M",
         "athleteId": "33218706",
         "activityId": "20312659248",
-        "name": "Afternoon Run",
+        "name": "Finale Marathonvorbereitung - Basis",
         "date": "September 24, 2026",
         "distanceKm": 11.2,
         "stats": [
           "11.2 km",
           "53:20",
           "45 m"
-        ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20312642294",
-        "name": "Afternoon Run",
-        "date": "September 24, 2026",
-        "distanceKm": 8.1,
-        "stats": [
-          "8.1 km",
-          "52:58",
-          "91 m"
         ]
       },
       {
@@ -106,16 +106,16 @@
         ]
       },
       {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20312511718",
-        "name": "Trail run matinal",
+        "athlete": "Marcel Eisenreich",
+        "athleteId": "203408258",
+        "activityId": "20312844893",
+        "name": "Afternoon Ride",
         "date": "September 24, 2026",
-        "distanceKm": 5,
+        "distanceKm": 35.9,
         "stats": [
-          "5.0 km",
-          "2:17:36",
-          "294 m"
+          "35.9 km",
+          "1:41:48",
+          "414 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 168279.7
+      "totalWithEstimatesKm": 168335.1
     }
   }
 }

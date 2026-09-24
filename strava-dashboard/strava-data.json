@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T19:30:44.327Z",
+  "generatedAt": "2026-09-24T20:00:50.983Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 831213,
+    "remainingKm": 831170,
     "percentComplete": 16.88,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 7832.6,
-    "thisWeekActivities": 686,
-    "thisWeekHours": 646,
-    "thisWeekElevationM": 54193,
+    "thisWeekKm": 7876.4,
+    "thisWeekActivities": 692,
+    "thisWeekHours": 651,
+    "thisWeekElevationM": 54594,
     "timesAroundEarth": 4.21,
     "percentToMoon": 43.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14452,
+  "totalActivities": 14459,
   "memberCount": 238,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 168786600,
-    "totalMovingTime": 48232367,
-    "totalElevation": 1206221.6
+    "totalDistance": 168830400,
+    "totalMovingTime": 48250487,
+    "totalElevation": 1206622.6
   },
   "monthStats": {
-    "totalDistance": 29981500,
-    "totalMovingTime": 8746140,
+    "totalDistance": 30025300,
+    "totalMovingTime": 8764260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7832600,
-    "totalMovingTime": 2326620,
-    "count": 686
+    "totalDistance": 7876400,
+    "totalMovingTime": 2344740,
+    "count": 692
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 152989.6,
+    "measuredDistanceKm": 153033.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20314123545",
-        "name": "Abendradfahrt",
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20315278131",
+        "name": "Gece Yürüyüş",
         "date": "September 24, 2026",
-        "distanceKm": 4.7,
+        "distanceKm": 1.5,
         "stats": [
-          "4.7 km",
-          "12:10",
-          "31 m"
+          "1.5 km",
+          "1:00:00",
+          "17 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20315310450",
+        "name": "Afternoon Hike",
+        "date": "September 24, 2026",
+        "distanceKm": 1.6,
+        "stats": [
+          "1.6 km",
+          "1:17:06",
+          "25 m"
+        ]
+      },
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20315263866",
+        "name": "Evening Workout",
+        "date": "September 24, 2026",
+        "distanceKm": 5.4,
+        "stats": [
+          "5.4 km",
+          "1:01:45",
+          "26 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "1:13:49",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Aparna Rajeev Thekke Kurungott",
-        "athleteId": "1791686294",
-        "activityId": "20314928728",
-        "name": "Evening Walk",
-        "date": "September 24, 2026",
-        "distanceKm": 4.6,
-        "stats": [
-          "4.6 km",
-          "1:14:42",
-          "13 m"
-        ]
-      },
-      {
-        "athlete": "Kupfer Hardy",
-        "athleteId": "19034101",
-        "activityId": "20314097807",
-        "name": "Evening Run",
-        "date": "September 24, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "59:34",
-          "46 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 168786.6
+      "totalWithEstimatesKm": 168830.4
     }
   }
 }

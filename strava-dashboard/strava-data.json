@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T13:30:44.719Z",
+  "generatedAt": "2026-09-24T14:00:54.298Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14341,
+  "totalActivities": 14347,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167792600,
-    "totalMovingTime": 47916047,
-    "totalElevation": 1199206.6
+    "totalDistance": 167847800,
+    "totalMovingTime": 47929787,
+    "totalElevation": 1199508.6
   },
   "monthStats": {
-    "totalDistance": 28987500,
-    "totalMovingTime": 8429820,
+    "totalDistance": 29042700,
+    "totalMovingTime": 8443560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6838600,
-    "totalMovingTime": 2010300,
-    "count": 585
+    "totalDistance": 6893800,
+    "totalMovingTime": 2024040,
+    "count": 590
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151995.6,
+    "measuredDistanceKm": 152050.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20310045287",
-        "name": "Pendel Home",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20310680244",
+        "name": "Spaziergang am Nachmittag",
         "date": "September 24, 2026",
-        "distanceKm": 6.9,
+        "distanceKm": 1.4,
         "stats": [
-          "6.9 km",
-          "18:08",
-          "24 m"
+          "1.4 km",
+          "16:07",
+          "47 m"
+        ]
+      },
+      {
+        "athlete": "Marcel Gehrer",
+        "athleteId": "135991683",
+        "activityId": "20310825077",
+        "name": "Schwelle",
+        "date": "September 24, 2026",
+        "distanceKm": 5.4,
+        "stats": [
+          "5.4 km",
+          "32:48",
+          "16 m"
+        ]
+      },
+      {
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20310674176",
+        "name": "Lauf am Nachmittag_Testlauf für Sonntag",
+        "date": "September 24, 2026",
+        "distanceKm": 10.1,
+        "stats": [
+          "10.1 km",
+          "59:44",
+          "65 m"
         ]
       },
       {
@@ -80,19 +106,6 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20309995016",
-        "name": "ROUVY - Alpine Panorama route | Stage 6 | Stalden - Tafers",
-        "date": "September 24, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "25:08",
-          "122 m"
-        ]
-      },
-      {
         "athlete": "Mangala Pai",
         "athleteId": "118301293",
         "activityId": "20310393056",
@@ -102,19 +115,6 @@
         "stats": [
           "0 km",
           "1:35:52",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20310040531",
-        "name": "Morning Pilates",
-        "date": "September 24, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "5:34:14",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167792.6
+      "totalWithEstimatesKm": 167847.8
     }
   }
 }

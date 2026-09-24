@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T09:30:44.816Z",
+  "generatedAt": "2026-09-24T10:00:54.275Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14314,
+  "totalActivities": 14318,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167574700,
-    "totalMovingTime": 47821127,
-    "totalElevation": 1198073.6
+    "totalDistance": 167601200,
+    "totalMovingTime": 47831627,
+    "totalElevation": 1198229.6
   },
   "monthStats": {
-    "totalDistance": 28769600,
-    "totalMovingTime": 8334900,
+    "totalDistance": 28796100,
+    "totalMovingTime": 8345400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6620700,
-    "totalMovingTime": 1915380,
-    "count": 561
+    "totalDistance": 6647200,
+    "totalMovingTime": 1925880,
+    "count": 564
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,7 +48,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151777.7,
+    "measuredDistanceKm": 151804.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -64,6 +64,19 @@
           "2.0 km",
           "7:38",
           "22 m"
+        ]
+      },
+      {
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20307932477",
+        "name": "Lauf am Morgen",
+        "date": "September 24, 2026",
+        "distanceKm": 10.5,
+        "stats": [
+          "10.5 km",
+          "1:14:50",
+          "0 m"
         ]
       },
       {
@@ -90,19 +103,6 @@
           "2.8 km",
           "2:18:00",
           "2 m"
-        ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20307200721",
-        "name": "Morning Walk",
-        "date": "September 24, 2026",
-        "distanceKm": 6.3,
-        "stats": [
-          "6.3 km",
-          "1:25:08",
-          "80 m"
         ]
       },
       {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167574.7
+      "totalWithEstimatesKm": 167601.2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T12:30:44.210Z",
+  "generatedAt": "2026-09-24T13:00:53.604Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14333,
+  "totalActivities": 14339,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167747500,
-    "totalMovingTime": 47875487,
-    "totalElevation": 1198970.6
+    "totalDistance": 167778900,
+    "totalMovingTime": 47903507,
+    "totalElevation": 1199161.6
   },
   "monthStats": {
-    "totalDistance": 28942400,
-    "totalMovingTime": 8389260,
+    "totalDistance": 28973800,
+    "totalMovingTime": 8417280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6793500,
-    "totalMovingTime": 1969740,
-    "count": 578
+    "totalDistance": 6824900,
+    "totalMovingTime": 1997760,
+    "count": 583
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151950.5,
+    "measuredDistanceKm": 151981.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20310045287",
+        "name": "Pendel Home",
+        "date": "September 24, 2026",
+        "distanceKm": 6.9,
+        "stats": [
+          "6.9 km",
+          "18:08",
+          "24 m"
+        ]
+      },
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20310263093",
+        "name": "Fahrt am Nachmittag",
+        "date": "September 24, 2026",
+        "distanceKm": 10.3,
+        "stats": [
+          "10.3 km",
+          "46:29",
+          "38 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20309995016",
+        "name": "ROUVY - Alpine Panorama route | Stage 6 | Stalden - Tafers",
+        "date": "September 24, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "25:08",
+          "122 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -67,54 +106,15 @@
         ]
       },
       {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20309709361",
-        "name": "Afternoon Run",
-        "date": "September 24, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "1:03:23",
-          "59 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20309680583",
-        "name": "Zwift - Double Sweet Anchor",
-        "date": "September 24, 2026",
-        "distanceKm": 30.3,
-        "stats": [
-          "30.3 km",
-          "1:05:07",
-          "160 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20309382402",
-        "name": "Zwift - Hell of the North in France",
-        "date": "September 24, 2026",
-        "distanceKm": 33.1,
-        "stats": [
-          "33.1 km",
-          "1:15:28",
-          "239 m"
-        ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20308889931",
-        "name": "Entrenamiento con pesas a la hora del almuerzo",
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20310040531",
+        "name": "Morning Pilates",
         "date": "September 24, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "50:34",
+          "5:34:14",
           "0 m"
         ]
       }
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167747.5
+      "totalWithEstimatesKm": 167778.9
     }
   }
 }

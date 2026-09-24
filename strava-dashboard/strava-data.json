@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T07:30:43.306Z",
+  "generatedAt": "2026-09-24T08:01:31.363Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14303,
+  "totalActivities": 14306,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167523900,
-    "totalMovingTime": 47796887,
-    "totalElevation": 1197477.6
+    "totalDistance": 167527200,
+    "totalMovingTime": 47798207,
+    "totalElevation": 1197496.6
   },
   "monthStats": {
-    "totalDistance": 28718800,
-    "totalMovingTime": 8310660,
+    "totalDistance": 28722100,
+    "totalMovingTime": 8311980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6569900,
-    "totalMovingTime": 1891140,
-    "count": 552
+    "totalDistance": 6573200,
+    "totalMovingTime": 1892460,
+    "count": 554
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151726.9,
+    "measuredDistanceKm": 151730.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20306969431",
+        "name": "Morning Walk",
+        "date": "September 24, 2026",
+        "distanceKm": 0.9,
+        "stats": [
+          "0.9 km",
+          "11:03",
+          "8 m"
+        ]
+      },
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20306889830",
+        "name": "Morning Run",
+        "date": "September 24, 2026",
+        "distanceKm": 2.3,
+        "stats": [
+          "2.3 km",
+          "13:10",
+          "11 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -91,32 +117,6 @@
           "42:00",
           "133 m"
         ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20306401125",
-        "name": "Morning Walk",
-        "date": "September 24, 2026",
-        "distanceKm": 6.3,
-        "stats": [
-          "6.3 km",
-          "1:01:13",
-          "116 m"
-        ]
-      },
-      {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20306144739",
-        "name": "Morning Run",
-        "date": "September 24, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "1:13:35",
-          "94 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167523.9
+      "totalWithEstimatesKm": 167527.2
     }
   }
 }

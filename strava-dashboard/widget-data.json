@@ -1,21 +1,34 @@
 {
-  "generatedAt": "2026-09-24T15:30:47.375Z",
+  "generatedAt": "2026-09-24T16:00:55.322Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 610,
-    "distanceKm": 7079.4,
-    "elevationM": 48968,
-    "movingSeconds": 2077440,
+    "activities": 620,
+    "distanceKm": 7234.9,
+    "elevationM": 49478,
+    "movingSeconds": 2109840,
     "raw": {
-      "activities": "610",
-      "distance": "7,079.4 km",
-      "time": "577 h 4 m",
-      "elevation": "48,968 m"
+      "activities": "620",
+      "distance": "7,234.9 km",
+      "time": "586 h 4 m",
+      "elevation": "49,478 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Werner Hunold",
+      "athleteId": "372952540",
+      "activityId": "20312292648",
+      "name": "Lauf am Nachmittag",
+      "date": "September 24, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "37:01",
+        "22 m"
+      ]
+    },
     {
       "athlete": "Norick Maurer",
       "athleteId": "107445415",
@@ -30,16 +43,29 @@
       ]
     },
     {
-      "athlete": "Nujaim Noorahdheen",
-      "athleteId": "191343444",
-      "activityId": "20311677902",
-      "name": "Evening Run",
+      "athlete": "Jenny Heitschötter",
+      "athleteId": "769523801",
+      "activityId": "20312198944",
+      "name": "Lauf am Nachmittag",
       "date": "September 24, 2026",
-      "distanceKm": 6.4,
+      "distanceKm": 6,
       "stats": [
-        "6.4 km",
-        "40:52",
-        "26 m"
+        "6.0 km",
+        "37:48",
+        "29 m"
+      ]
+    },
+    {
+      "athlete": "Cristian Stănciulescu",
+      "athleteId": "67352997",
+      "activityId": "20312170206",
+      "name": "Afternoon Run",
+      "date": "September 24, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:00:37",
+        "27 m"
       ]
     },
     {
@@ -54,32 +80,6 @@
         "1:17:10",
         "18 m"
       ]
-    },
-    {
-      "athlete": "conny tonder",
-      "athleteId": "66434073",
-      "activityId": "20311532084",
-      "name": "Spaziergang am Nachmittag",
-      "date": "September 24, 2026",
-      "distanceKm": 3.9,
-      "stats": [
-        "3.9 km",
-        "59:41",
-        "63 m"
-      ]
-    },
-    {
-      "athlete": "Ralf Rogall",
-      "athleteId": "105597565",
-      "activityId": "20311371088",
-      "name": "Morning Ride",
-      "date": "September 24, 2026",
-      "distanceKm": 88.4,
-      "stats": [
-        "88.4 km",
-        "6:03:22",
-        "806 m"
-      ]
     }
   ],
   "baseline": {
@@ -88,8 +88,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 29228.3,
-  "totalDistanceKm": 152236.4,
+  "observedWeeksKm": 29383.8,
+  "totalDistanceKm": 152391.9,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -109,6 +109,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 168033.4
+    "totalWithEstimatesKm": 168188.9
   }
 }

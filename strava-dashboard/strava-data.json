@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T18:00:51.855Z",
+  "generatedAt": "2026-09-24T18:30:44.177Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14421,
+  "totalActivities": 14439,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 168551000,
-    "totalMovingTime": 48148847,
-    "totalElevation": 1204447.6
+    "totalDistance": 168694900,
+    "totalMovingTime": 48191747,
+    "totalElevation": 1205329.6
   },
   "monthStats": {
-    "totalDistance": 29745900,
-    "totalMovingTime": 8662620,
+    "totalDistance": 29889800,
+    "totalMovingTime": 8705520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7597000,
-    "totalMovingTime": 2243100,
-    "count": 659
+    "totalDistance": 7740900,
+    "totalMovingTime": 2286000,
+    "count": 675
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 152754,
+    "measuredDistanceKm": 152897.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20314123545",
+        "name": "Abendradfahrt",
+        "date": "September 24, 2026",
+        "distanceKm": 4.7,
+        "stats": [
+          "4.7 km",
+          "12:10",
+          "31 m"
+        ]
+      },
       {
         "athlete": "René Sauer",
         "athleteId": "190842154",
@@ -67,55 +80,42 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20313826953",
-        "name": "Abendlauf",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20314501224",
+        "name": "Evening Weight Training",
         "date": "September 24, 2026",
-        "distanceKm": 6,
+        "distanceKm": 0,
         "stats": [
-          "6.0 km",
-          "28:45",
+          "0 km",
+          "1:09:16",
           "0 m"
         ]
       },
       {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20313981711",
-        "name": "Abendlauf",
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20314385014",
+        "name": "Wieczorny trening siłowy",
         "date": "September 24, 2026",
-        "distanceKm": 7.8,
+        "distanceKm": 0,
         "stats": [
-          "7.8 km",
-          "1:15:18",
+          "0 km",
+          "1:13:49",
           "0 m"
         ]
       },
       {
-        "athlete": "Georg Weinig",
-        "athleteId": "166650923",
-        "activityId": "20313782029",
-        "name": "Mit Fabian Kaka",
+        "athlete": "Kupfer Hardy",
+        "athleteId": "19034101",
+        "activityId": "20314097807",
+        "name": "Evening Run",
         "date": "September 24, 2026",
-        "distanceKm": 20,
+        "distanceKm": 7,
         "stats": [
-          "20.0 km",
-          "2:20:05",
-          "84 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20313914596",
-        "name": "Spaziergang am Nachmittag",
-        "date": "September 24, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "6:25:40",
-          "173 m"
+          "7.0 km",
+          "59:34",
+          "46 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 168551
+      "totalWithEstimatesKm": 168694.9
     }
   }
 }

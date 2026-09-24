@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T11:00:53.067Z",
+  "generatedAt": "2026-09-24T12:00:54.467Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14325,
+  "totalActivities": 14329,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167634500,
-    "totalMovingTime": 47847287,
-    "totalElevation": 1198331.6
+    "totalDistance": 167683600,
+    "totalMovingTime": 47863907,
+    "totalElevation": 1198547.6
   },
   "monthStats": {
-    "totalDistance": 28829400,
-    "totalMovingTime": 8361060,
+    "totalDistance": 28878500,
+    "totalMovingTime": 8377680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6680500,
-    "totalMovingTime": 1941540,
-    "count": 570
+    "totalDistance": 6729600,
+    "totalMovingTime": 1958160,
+    "count": 574
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151837.5,
+    "measuredDistanceKm": 151886.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20308595532",
-        "name": "Lunch Ride",
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20309382402",
+        "name": "Zwift - Hell of the North in France",
         "date": "September 24, 2026",
-        "distanceKm": 5.3,
+        "distanceKm": 33.1,
         "stats": [
-          "5.3 km",
-          "24:01",
-          "46 m"
+          "33.1 km",
+          "1:15:28",
+          "239 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20308889931",
+        "name": "Entrenamiento con pesas a la hora del almuerzo",
+        "date": "September 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "50:34",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Adriano Perri",
+        "athleteId": "99629318",
+        "activityId": "20308978959",
+        "name": "Upper Body 💪🏼🔥",
+        "date": "September 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "44:10",
+          "0 m"
         ]
       },
       {
@@ -91,32 +117,6 @@
           "1:13:50",
           "14 m"
         ]
-      },
-      {
-        "athlete": "Rainer Gatzmaga",
-        "athleteId": "119550686",
-        "activityId": "20307932477",
-        "name": "Treadmill with Lucie",
-        "date": "September 24, 2026",
-        "distanceKm": 10.5,
-        "stats": [
-          "10.5 km",
-          "1:14:49",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20307645993",
-        "name": "Camminata mattutina",
-        "date": "September 24, 2026",
-        "distanceKm": 2.8,
-        "stats": [
-          "2.8 km",
-          "2:18:00",
-          "2 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167634.5
+      "totalWithEstimatesKm": 167683.6
     }
   }
 }

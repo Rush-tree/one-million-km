@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T12:00:54.467Z",
+  "generatedAt": "2026-09-24T12:30:44.210Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14329,
+  "totalActivities": 14333,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167683600,
-    "totalMovingTime": 47863907,
-    "totalElevation": 1198547.6
+    "totalDistance": 167747500,
+    "totalMovingTime": 47875487,
+    "totalElevation": 1198970.6
   },
   "monthStats": {
-    "totalDistance": 28878500,
-    "totalMovingTime": 8377680,
+    "totalDistance": 28942400,
+    "totalMovingTime": 8389260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6729600,
-    "totalMovingTime": 1958160,
-    "count": 574
+    "totalDistance": 6793500,
+    "totalMovingTime": 1969740,
+    "count": 578
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,11 +48,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151886.6,
+    "measuredDistanceKm": 151950.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20309915710",
+        "name": "Afternoon Swim",
+        "date": "September 24, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "30:11",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20309709361",
+        "name": "Afternoon Run",
+        "date": "September 24, 2026",
+        "distanceKm": 12,
+        "stats": [
+          "12.0 km",
+          "1:03:23",
+          "59 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20309680583",
+        "name": "Zwift - Double Sweet Anchor",
+        "date": "September 24, 2026",
+        "distanceKm": 30.3,
+        "stats": [
+          "30.3 km",
+          "1:05:07",
+          "160 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -78,45 +117,6 @@
           "50:34",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20308978959",
-        "name": "Upper Body 💪🏼🔥",
-        "date": "September 24, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "44:10",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Laura Oerter",
-        "athleteId": "166620468",
-        "activityId": "20308660996",
-        "name": "Mittagslauf",
-        "date": "September 24, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "28:53",
-          "42 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20308542878",
-        "name": "Ciclismo all’ora di pranzo",
-        "date": "September 24, 2026",
-        "distanceKm": 23,
-        "stats": [
-          "23.0 km",
-          "1:13:50",
-          "14 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167683.6
+      "totalWithEstimatesKm": 167747.5
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T06:30:39.271Z",
+  "generatedAt": "2026-09-24T07:00:50.937Z",
   "clubId": "1491053",
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14297,
+  "totalActivities": 14303,
   "memberCount": 237,
   "memberGrowth": {
     "day": 0,
@@ -13,19 +13,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 167500800,
-    "totalMovingTime": 47789147,
-    "totalElevation": 1197183.6
+    "totalDistance": 167523900,
+    "totalMovingTime": 47796887,
+    "totalElevation": 1197477.6
   },
   "monthStats": {
-    "totalDistance": 28695700,
-    "totalMovingTime": 8302920,
+    "totalDistance": 28718800,
+    "totalMovingTime": 8310660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6546800,
-    "totalMovingTime": 1883400,
-    "count": 548
+    "totalDistance": 6569900,
+    "totalMovingTime": 1891140,
+    "count": 552
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -48,22 +48,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 151703.8,
+    "measuredDistanceKm": 151726.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20306085598",
-        "name": "Commute #106/2026 🏥🩺",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20306452395",
+        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
         "date": "September 24, 2026",
-        "distanceKm": 9,
+        "distanceKm": 0,
         "stats": [
-          "9.0 km",
-          "20:03",
-          "38 m"
+          "0 km",
+          "16:10",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20306410623",
+        "name": "Morning Ride",
+        "date": "September 24, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "17:03",
+          "45 m"
+        ]
+      },
+      {
+        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
+        "athleteId": "51333291",
+        "activityId": "20306501229",
+        "name": "SchlaDo😎",
+        "date": "September 24, 2026",
+        "distanceKm": 12.1,
+        "stats": [
+          "12.1 km",
+          "42:00",
+          "133 m"
+        ]
+      },
+      {
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20306401125",
+        "name": "Morning Walk",
+        "date": "September 24, 2026",
+        "distanceKm": 6.3,
+        "stats": [
+          "6.3 km",
+          "1:01:13",
+          "116 m"
         ]
       },
       {
@@ -77,45 +116,6 @@
           "10.2 km",
           "1:13:35",
           "94 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20305935242",
-        "name": "Morning Walk",
-        "date": "September 24, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "32:07",
-          "56 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20305902465",
-        "name": "Morning Walk_ Cool down",
-        "date": "September 24, 2026",
-        "distanceKm": 3.9,
-        "stats": [
-          "3.9 km",
-          "38:22",
-          "61 m"
-        ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20306030385",
-        "name": "Morning Ride",
-        "date": "September 24, 2026",
-        "distanceKm": 37.1,
-        "stats": [
-          "37.1 km",
-          "1:29:10",
-          "64 m"
         ]
       }
     ],
@@ -137,7 +137,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 167500.8
+      "totalWithEstimatesKm": 167523.9
     }
   }
 }

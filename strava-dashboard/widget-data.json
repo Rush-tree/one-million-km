@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-24T20:00:50.983Z",
+  "generatedAt": "2026-09-24T20:30:43.065Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 238,
-  "memberCountUpdatedAt": "2026-09-24T20:00:50.983Z",
+  "memberCountUpdatedAt": "2026-09-24T20:30:43.065Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 692,
-    "distanceKm": 7876.4,
-    "elevationM": 54594,
-    "movingSeconds": 2344740,
+    "activities": 693,
+    "distanceKm": 7887.7,
+    "elevationM": 54739,
+    "movingSeconds": 2348520,
     "raw": {
-      "activities": "692",
-      "distance": "7,876.4 km",
-      "time": "651 h 19 m",
-      "elevation": "54,594 m"
+      "activities": "693",
+      "distance": "7,887.7 km",
+      "time": "652 h 22 m",
+      "elevation": "54,739 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20315571133",
+      "name": "Abendlauf",
+      "date": "September 24, 2026",
+      "distanceKm": 11.3,
+      "stats": [
+        "11.3 km",
+        "1:03:04",
+        "145 m"
+      ]
+    },
     {
       "athlete": "Muhammed Edip KARABACAK 🇹🇷",
       "athleteId": "47897742",
@@ -69,19 +82,6 @@
         "1:09:16",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Paweł Siergiej",
-      "athleteId": "147932574",
-      "activityId": "20314385014",
-      "name": "Wieczorny trening siłowy",
-      "date": "September 24, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:13:49",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 30025.3,
-  "totalDistanceKm": 153033.4,
+  "observedWeeksKm": 30036.6,
+  "totalDistanceKm": 153044.7,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 168830.4
+    "totalWithEstimatesKm": 168841.7
   }
 }

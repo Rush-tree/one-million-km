@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T07:00:52.766Z",
+  "generatedAt": "2026-09-25T07:30:43.893Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 830787,
-    "percentComplete": 16.92,
+    "remainingKm": 830726,
+    "percentComplete": 16.93,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 8259.1,
-    "thisWeekActivities": 734,
-    "thisWeekHours": 688,
-    "thisWeekElevationM": 57380,
+    "thisWeekKm": 8320,
+    "thisWeekActivities": 737,
+    "thisWeekHours": 693,
+    "thisWeekElevationM": 57934,
     "timesAroundEarth": 4.22,
     "percentToMoon": 44,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 25.4,
-        "text": "25.4× the length of the Nile",
+        "value": 25.5,
+        "text": "25.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14506,
+  "totalActivities": 14508,
   "memberCount": 238,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 169213100,
-    "totalMovingTime": 48382367,
-    "totalElevation": 1209408.6
+    "totalDistance": 169274000,
+    "totalMovingTime": 48398987,
+    "totalElevation": 1209962.6
   },
   "monthStats": {
-    "totalDistance": 30408000,
-    "totalMovingTime": 8896140,
+    "totalDistance": 30468900,
+    "totalMovingTime": 8912760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8259100,
-    "totalMovingTime": 2476620,
-    "count": 734
+    "totalDistance": 8320000,
+    "totalMovingTime": 2493240,
+    "count": 737
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 153416.1,
+    "measuredDistanceKm": 153477,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Alli Pace",
+        "athleteId": "169219498",
+        "activityId": "20320358129",
+        "name": "Morning Pilates",
+        "date": "September 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "55:58",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -161,19 +174,6 @@
           "18:08",
           "56 m"
         ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20319687329",
-        "name": "Morning Run",
-        "date": "September 25, 2026",
-        "distanceKm": 33,
-        "stats": [
-          "33.0 km",
-          "3:26:49",
-          "130 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 169213.1
+      "totalWithEstimatesKm": 169274
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-25T07:00:52.766Z",
+  "generatedAt": "2026-09-25T07:30:43.893Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 238,
-  "memberCountUpdatedAt": "2026-09-25T07:00:52.766Z",
+  "memberCountUpdatedAt": "2026-09-25T07:30:43.893Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 734,
-    "distanceKm": 8259.1,
-    "elevationM": 57380,
-    "movingSeconds": 2476620,
+    "activities": 737,
+    "distanceKm": 8320,
+    "elevationM": 57934,
+    "movingSeconds": 2493240,
     "raw": {
-      "activities": "734",
-      "distance": "8,259.1 km",
-      "time": "687 h 57 m",
-      "elevation": "57,380 m"
+      "activities": "737",
+      "distance": "8,320.0 km",
+      "time": "692 h 34 m",
+      "elevation": "57,934 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alli Pace",
+      "athleteId": "169219498",
+      "activityId": "20320358129",
+      "name": "Morning Pilates",
+      "date": "September 25, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "55:58",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -69,19 +82,6 @@
         "18:08",
         "56 m"
       ]
-    },
-    {
-      "athlete": "Amit Zadka",
-      "athleteId": "25927820",
-      "activityId": "20319687329",
-      "name": "Morning Run",
-      "date": "September 25, 2026",
-      "distanceKm": 33,
-      "stats": [
-        "33.0 km",
-        "3:26:49",
-        "130 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 30408,
-  "totalDistanceKm": 153416.1,
+  "observedWeeksKm": 30468.9,
+  "totalDistanceKm": 153477,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 169213.1
+    "totalWithEstimatesKm": 169274
   }
 }

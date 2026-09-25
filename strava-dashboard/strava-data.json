@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T00:30:40.885Z",
+  "generatedAt": "2026-09-25T01:00:53.912Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 831114,
+    "remainingKm": 831096,
     "percentComplete": 16.89,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 7932.4,
-    "thisWeekActivities": 699,
-    "thisWeekHours": 658,
-    "thisWeekElevationM": 55290,
+    "thisWeekKm": 7950.5,
+    "thisWeekActivities": 700,
+    "thisWeekHours": 659,
+    "thisWeekElevationM": 55314,
     "timesAroundEarth": 4.21,
     "percentToMoon": 43.9,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 168886400,
-    "totalMovingTime": 48275327,
-    "totalElevation": 1207318.6
+    "totalDistance": 168904500,
+    "totalMovingTime": 48278027,
+    "totalElevation": 1207342.6
   },
   "monthStats": {
-    "totalDistance": 30081300,
-    "totalMovingTime": 8789100,
+    "totalDistance": 30099400,
+    "totalMovingTime": 8791800,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7932400,
-    "totalMovingTime": 2369580,
-    "count": 699
+    "totalDistance": 7950500,
+    "totalMovingTime": 2372280,
+    "count": 700
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 153089.4,
+    "measuredDistanceKm": 153107.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20318091393",
+        "name": "Nachtausfahrt ☁",
+        "date": "September 25, 2026",
+        "distanceKm": 18.1,
+        "stats": [
+          "18.1 km",
+          "1:00:46",
+          "24 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -161,19 +174,6 @@
           "1:03:04",
           "145 m"
         ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20315278131",
-        "name": "Gece Yürüyüş",
-        "date": "September 24, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "1:00:00",
-          "17 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 168886.4
+      "totalWithEstimatesKm": 168904.5
     }
   }
 }

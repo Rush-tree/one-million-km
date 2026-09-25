@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-25T00:30:40.885Z",
+  "generatedAt": "2026-09-25T01:00:53.912Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 238,
-  "memberCountUpdatedAt": "2026-09-25T00:30:40.885Z",
+  "memberCountUpdatedAt": "2026-09-25T01:00:53.912Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 699,
-    "distanceKm": 7932.4,
-    "elevationM": 55290,
-    "movingSeconds": 2369580,
+    "activities": 700,
+    "distanceKm": 7950.5,
+    "elevationM": 55314,
+    "movingSeconds": 2372280,
     "raw": {
-      "activities": "699",
-      "distance": "7,932.4 km",
-      "time": "658 h 13 m",
-      "elevation": "55,290 m"
+      "activities": "700",
+      "distance": "7,950.5 km",
+      "time": "658 h 58 m",
+      "elevation": "55,314 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "André Brune",
+      "athleteId": "4536289",
+      "activityId": "20318091393",
+      "name": "Nachtausfahrt ☁",
+      "date": "September 25, 2026",
+      "distanceKm": 18.1,
+      "stats": [
+        "18.1 km",
+        "1:00:46",
+        "24 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -69,19 +82,6 @@
         "1:03:04",
         "145 m"
       ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20315278131",
-      "name": "Gece Yürüyüş",
-      "date": "September 24, 2026",
-      "distanceKm": 1.5,
-      "stats": [
-        "1.5 km",
-        "1:00:00",
-        "17 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 30081.3,
-  "totalDistanceKm": 153089.4,
+  "observedWeeksKm": 30099.4,
+  "totalDistanceKm": 153107.5,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 168886.4
+    "totalWithEstimatesKm": 168904.5
   }
 }

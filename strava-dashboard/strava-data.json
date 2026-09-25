@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T10:30:41.949Z",
+  "generatedAt": "2026-09-25T11:00:54.196Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 830610,
+    "remainingKm": 830553,
     "percentComplete": 16.94,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 8435.7,
-    "thisWeekActivities": 751,
-    "thisWeekHours": 703,
-    "thisWeekElevationM": 58739,
+    "thisWeekKm": 8492.9,
+    "thisWeekActivities": 753,
+    "thisWeekHours": 706,
+    "thisWeekElevationM": 58825,
     "timesAroundEarth": 4.23,
     "percentToMoon": 44.1,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 169389700,
-    "totalMovingTime": 48436907,
-    "totalElevation": 1210767.6
+    "totalDistance": 169446900,
+    "totalMovingTime": 48446987,
+    "totalElevation": 1210853.6
   },
   "monthStats": {
-    "totalDistance": 30584600,
-    "totalMovingTime": 8950680,
+    "totalDistance": 30641800,
+    "totalMovingTime": 8960760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8435700,
-    "totalMovingTime": 2531160,
-    "count": 751
+    "totalDistance": 8492900,
+    "totalMovingTime": 2541240,
+    "count": 753
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 153592.7,
+    "measuredDistanceKm": 153649.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20321908607",
+        "name": "Mittagspaziergang",
+        "date": "September 25, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "31:14",
+          "5 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20320480329",
-        "name": "Morning E-Bike Ride",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20321952659",
+        "name": "Ciclismo mattutino",
         "date": "September 25, 2026",
-        "distanceKm": 3.8,
+        "distanceKm": 54.3,
         "stats": [
-          "3.8 km",
-          "21:20",
-          "18 m"
-        ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20320669651",
-        "name": "Morning Walk",
-        "date": "September 25, 2026",
-        "distanceKm": 5.7,
-        "stats": [
-          "5.7 km",
-          "1:29:12",
-          "67 m"
+          "54.3 km",
+          "4:06:26",
+          "80 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 169389.7
+      "totalWithEstimatesKm": 169446.9
     }
   }
 }

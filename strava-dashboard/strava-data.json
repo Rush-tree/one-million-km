@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T15:00:56.043Z",
+  "generatedAt": "2026-09-25T15:30:45.700Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 830036,
-    "percentComplete": 17,
+    "remainingKm": 829855,
+    "percentComplete": 17.01,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 9009.9,
-    "thisWeekActivities": 784,
-    "thisWeekHours": 743,
-    "thisWeekElevationM": 63332,
-    "timesAroundEarth": 4.24,
-    "percentToMoon": 44.2,
+    "thisWeekKm": 9190.8,
+    "thisWeekActivities": 787,
+    "thisWeekHours": 752,
+    "thisWeekElevationM": 64921,
+    "timesAroundEarth": 4.25,
+    "percentToMoon": 44.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 44.2,
-        "text": "44.2% of the way to the Moon",
+        "value": 44.3,
+        "text": "44.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14550,
+  "totalActivities": 14547,
   "memberCount": 238,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 169963900,
-    "totalMovingTime": 48578987,
-    "totalElevation": 1215360.6
+    "totalDistance": 170144800,
+    "totalMovingTime": 48613127,
+    "totalElevation": 1216949.6
   },
   "monthStats": {
-    "totalDistance": 31158800,
-    "totalMovingTime": 9092760,
+    "totalDistance": 31339700,
+    "totalMovingTime": 9126900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9009900,
-    "totalMovingTime": 2673240,
-    "count": 784
+    "totalDistance": 9190800,
+    "totalMovingTime": 2707380,
+    "count": 787
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 154166.9,
+    "measuredDistanceKm": 154347.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,19 +121,6 @@
           "2.4 km",
           "24:04",
           "3 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20324411115",
-        "name": "Afternoon Ride",
-        "date": "September 25, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "17:19",
-          "55 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "2:18:53",
           "0 m"
         ]
+      },
+      {
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20325195550",
+        "name": "Morning Ride",
+        "date": "September 25, 2026",
+        "distanceKm": 92.7,
+        "stats": [
+          "92.7 km",
+          "7:16:38",
+          "1,147 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 169963.9
+      "totalWithEstimatesKm": 170144.8
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T04:30:43.154Z",
+  "generatedAt": "2026-09-25T05:01:00.200Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 830919,
+    "remainingKm": 830871,
     "percentComplete": 16.91,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 8126.9,
-    "thisWeekActivities": 714,
-    "thisWeekHours": 672,
-    "thisWeekElevationM": 56450,
+    "thisWeekKm": 8175.5,
+    "thisWeekActivities": 718,
+    "thisWeekHours": 677,
+    "thisWeekElevationM": 56777,
     "timesAroundEarth": 4.22,
     "percentToMoon": 44,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14482,
+  "totalActivities": 14486,
   "memberCount": 238,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 169080900,
-    "totalMovingTime": 48325247,
-    "totalElevation": 1208478.6
+    "totalDistance": 169129500,
+    "totalMovingTime": 48344147,
+    "totalElevation": 1208805.6
   },
   "monthStats": {
-    "totalDistance": 30275800,
-    "totalMovingTime": 8839020,
+    "totalDistance": 30324400,
+    "totalMovingTime": 8857920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8126900,
-    "totalMovingTime": 2419500,
-    "count": 714
+    "totalDistance": 8175500,
+    "totalMovingTime": 2438400,
+    "count": 718
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 153283.9,
+    "measuredDistanceKm": 153332.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20319393711",
+        "name": "Morning Walk",
+        "date": "September 25, 2026",
+        "distanceKm": 5.6,
+        "stats": [
+          "5.6 km",
+          "1:10:36",
+          "115 m"
+        ]
+      },
       {
         "athlete": "Susi Wong",
         "athleteId": "44756315",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20319178899",
-        "name": "Friday Morning Activity",
-        "date": "September 25, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "23:23",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20318946440",
-        "name": "Running - Sep 2026 - Enghelab complex 🌞🏃‍♂️🕊",
-        "date": "September 25, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "43:26",
-          "77 m"
-        ]
-      },
-      {
-        "athlete": "Meenu Nagori",
-        "athleteId": "69685863",
-        "activityId": "20318968122",
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20319395089",
         "name": "Morning Run",
         "date": "September 25, 2026",
-        "distanceKm": 8.2,
+        "distanceKm": 10.5,
         "stats": [
-          "8.2 km",
-          "1:22:28",
-          "58 m"
+          "10.5 km",
+          "1:32:38",
+          "169 m"
         ]
       },
       {
         "athlete": "Bülent Sevil",
         "athleteId": "156559910",
         "activityId": "20319136324",
-        "name": "Açık alanda koşu",
+        "name": "587/730 gün koşusu",
         "date": "September 25, 2026",
         "distanceKm": 13,
         "stats": [
           "13.0 km",
           "1:00:16",
           "60 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20319329481",
+        "name": "Loops on Haji Ali Cycle track with friends.",
+        "date": "September 25, 2026",
+        "distanceKm": 32.5,
+        "stats": [
+          "32.5 km",
+          "3:03:20",
+          "42 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 169080.9
+      "totalWithEstimatesKm": 169129.5
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T08:02:06.005Z",
+  "generatedAt": "2026-09-25T08:30:44.635Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 830689,
+    "remainingKm": 830670,
     "percentComplete": 16.93,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 8357.3,
-    "thisWeekActivities": 742,
-    "thisWeekHours": 696,
-    "thisWeekElevationM": 58266,
-    "timesAroundEarth": 4.22,
-    "percentToMoon": 44,
+    "thisWeekKm": 8376.5,
+    "thisWeekActivities": 746,
+    "thisWeekHours": 699,
+    "thisWeekElevationM": 58356,
+    "timesAroundEarth": 4.23,
+    "percentToMoon": 44.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 44,
-        "text": "44% of the way to the Moon",
+        "value": 44.1,
+        "text": "44.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14514,
+  "totalActivities": 14520,
   "memberCount": 238,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 169311300,
-    "totalMovingTime": 48409607,
-    "totalElevation": 1210294.6
+    "totalDistance": 169330500,
+    "totalMovingTime": 48421667,
+    "totalElevation": 1210384.6
   },
   "monthStats": {
-    "totalDistance": 30506200,
-    "totalMovingTime": 8923380,
+    "totalDistance": 30525400,
+    "totalMovingTime": 8935440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8357300,
-    "totalMovingTime": 2503860,
-    "count": 742
+    "totalDistance": 8376500,
+    "totalMovingTime": 2515920,
+    "count": 746
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 153514.3,
+    "measuredDistanceKm": 153533.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
+        "athleteId": "24992941",
+        "activityId": "20320732003",
+        "name": "🏃🏻‍♂️DL 45🏃🏻‍♂️",
+        "date": "September 25, 2026",
+        "distanceKm": 8.6,
+        "stats": [
+          "8.6 km",
+          "45:03",
+          "14 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20320672816",
+        "name": "Entrenamiento con pesas matutino",
+        "date": "September 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "46:02",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -121,19 +147,6 @@
           "3.8 km",
           "21:20",
           "18 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20320404987",
-        "name": "Sabah Yürüyüş",
-        "date": "September 25, 2026",
-        "distanceKm": 2.2,
-        "stats": [
-          "2.2 km",
-          "38:00",
-          "33 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20320388264",
-        "name": "Traillauf am Morgen",
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20320669651",
+        "name": "Morning Walk",
         "date": "September 25, 2026",
-        "distanceKm": 7.7,
+        "distanceKm": 5.7,
         "stats": [
-          "7.7 km",
-          "35:36",
-          "71 m"
-        ]
-      },
-      {
-        "athlete": "Alli Pace",
-        "athleteId": "169219498",
-        "activityId": "20320358129",
-        "name": "Morning Pilates",
-        "date": "September 25, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "55:58",
-          "0 m"
+          "5.7 km",
+          "1:29:12",
+          "67 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 169311.3
+      "totalWithEstimatesKm": 169330.5
     }
   }
 }

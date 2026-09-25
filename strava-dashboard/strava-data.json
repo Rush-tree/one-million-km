@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-24T23:30:43.001Z",
+  "generatedAt": "2026-09-25T00:00:55.383Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 831125,
+    "remainingKm": 831114,
     "percentComplete": 16.89,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
     "weeksToGoal": 52,
-    "projectedDate": "2027-09-21",
+    "projectedDate": "2027-09-22",
     "kmPerMemberWeek": 67.5,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 7920.8,
-    "thisWeekActivities": 695,
-    "thisWeekHours": 655,
-    "thisWeekElevationM": 55231,
+    "thisWeekKm": 7932.4,
+    "thisWeekActivities": 698,
+    "thisWeekHours": 657,
+    "thisWeekElevationM": 55290,
     "timesAroundEarth": 4.21,
     "percentToMoon": 43.9,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 26.4,
-        "text": "26.4 return trips Berlin to New York",
+        "value": 26.5,
+        "text": "26.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14462,
+  "totalActivities": 14466,
   "memberCount": 238,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 168874800,
-    "totalMovingTime": 48262787,
-    "totalElevation": 1207259.6
+    "totalDistance": 168886400,
+    "totalMovingTime": 48271127,
+    "totalElevation": 1207318.6
   },
   "monthStats": {
-    "totalDistance": 30069700,
-    "totalMovingTime": 8776560,
+    "totalDistance": 30081300,
+    "totalMovingTime": 8784900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7920800,
-    "totalMovingTime": 2357040,
-    "count": 695
+    "totalDistance": 7932400,
+    "totalMovingTime": 2365380,
+    "count": 698
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 153077.8,
+    "measuredDistanceKm": 153089.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20317597145",
+        "name": "Musculação ao entardecer",
+        "date": "September 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:18:12",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -121,6 +134,19 @@
           "12.1 km",
           "1:13:45",
           "166 m"
+        ]
+      },
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20317468835",
+        "name": "Pedalada da tarde",
+        "date": "September 24, 2026",
+        "distanceKm": 4.3,
+        "stats": [
+          "4.3 km",
+          "1:42:07",
+          "59 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "1:00:00",
           "17 m"
         ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20315310450",
-        "name": "Afternoon Hike",
-        "date": "September 24, 2026",
-        "distanceKm": 1.6,
-        "stats": [
-          "1.6 km",
-          "1:17:06",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20315263866",
-        "name": "Evening Workout",
-        "date": "September 24, 2026",
-        "distanceKm": 5.4,
-        "stats": [
-          "5.4 km",
-          "1:01:45",
-          "26 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 168874.8
+      "totalWithEstimatesKm": 168886.4
     }
   }
 }

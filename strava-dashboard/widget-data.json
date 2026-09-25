@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-25T14:30:50.100Z",
+  "generatedAt": "2026-09-25T15:00:56.043Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 238,
-  "memberCountUpdatedAt": "2026-09-25T14:30:50.100Z",
+  "memberCountUpdatedAt": "2026-09-25T15:00:56.043Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 781,
-    "distanceKm": 9000.4,
-    "elevationM": 63294,
-    "movingSeconds": 2658480,
+    "activities": 784,
+    "distanceKm": 9009.9,
+    "elevationM": 63332,
+    "movingSeconds": 2673240,
     "raw": {
-      "activities": "781",
-      "distance": "9,000.4 km",
-      "time": "738 h 28 m",
-      "elevation": "63,294 m"
+      "activities": "784",
+      "distance": "9,009.9 km",
+      "time": "742 h 34 m",
+      "elevation": "63,332 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nujaim Noorahdheen",
+      "athleteId": "191343444",
+      "activityId": "20324837963",
+      "name": "Evening Run",
+      "date": "September 25, 2026",
+      "distanceKm": 2.4,
+      "stats": [
+        "2.4 km",
+        "24:04",
+        "3 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20324400875",
-      "name": "Afternoon Walk",
+      "athlete": "Elsa Rottluff",
+      "athleteId": "110130704",
+      "activityId": "20324773386",
+      "name": "Afternoon Workout",
       "date": "September 25, 2026",
-      "distanceKm": 1.7,
+      "distanceKm": 0,
       "stats": [
-        "1.7 km",
-        "2:29:48",
-        "7 m"
-      ]
-    },
-    {
-      "athlete": "Gisbert Drumm",
-      "athleteId": "10905376",
-      "activityId": "20324392177",
-      "name": "Mittagsradfahrt",
-      "date": "September 25, 2026",
-      "distanceKm": 100,
-      "stats": [
-        "100.0 km",
-        "3:55:22",
-        "364 m"
+        "0 km",
+        "2:18:53",
+        "0 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 31149.3,
-  "totalDistanceKm": 154157.4,
+  "observedWeeksKm": 31158.8,
+  "totalDistanceKm": 154166.9,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 169954.4
+    "totalWithEstimatesKm": 169963.9
   }
 }

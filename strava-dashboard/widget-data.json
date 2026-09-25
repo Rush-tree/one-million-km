@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-25T03:30:40.108Z",
+  "generatedAt": "2026-09-25T04:00:52.404Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 238,
-  "memberCountUpdatedAt": "2026-09-25T03:30:40.108Z",
+  "memberCountUpdatedAt": "2026-09-25T04:00:52.403Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 709,
-    "distanceKm": 8078.2,
-    "elevationM": 56283,
-    "movingSeconds": 2407200,
+    "activities": 713,
+    "distanceKm": 8123.2,
+    "elevationM": 56441,
+    "movingSeconds": 2417280,
     "raw": {
-      "activities": "709",
-      "distance": "8,078.2 km",
-      "time": "668 h 40 m",
-      "elevation": "56,283 m"
+      "activities": "713",
+      "distance": "8,123.2 km",
+      "time": "671 h 28 m",
+      "elevation": "56,441 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Susi Wong",
+      "athleteId": "44756315",
+      "activityId": "20319149665",
+      "name": "Morning Yoga",
+      "date": "September 25, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "16:59",
+        "0 m"
+      ]
+    },
     {
       "athlete": "siavash Akbari",
       "athleteId": "56213794",
@@ -45,32 +58,6 @@
       ]
     },
     {
-      "athlete": "Manuel Zamora",
-      "athleteId": "27178448",
-      "activityId": "20318813563",
-      "name": "Footing 🏃",
-      "date": "September 24, 2026",
-      "distanceKm": 5.2,
-      "stats": [
-        "5.2 km",
-        "1:00:16",
-        "124 m"
-      ]
-    },
-    {
-      "athlete": "Goro Shigeno",
-      "athleteId": "37029557",
-      "activityId": "20318863492",
-      "name": "Morning Walk",
-      "date": "September 25, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "1:30:41",
-        "54 m"
-      ]
-    },
-    {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
       "activityId": "20318823158",
@@ -82,6 +69,19 @@
         "2:40:27",
         "189 m"
       ]
+    },
+    {
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "20319136324",
+      "name": "Açık alanda koşu",
+      "date": "September 25, 2026",
+      "distanceKm": 13,
+      "stats": [
+        "13.0 km",
+        "1:00:16",
+        "60 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 30227.1,
-  "totalDistanceKm": 153235.2,
+  "observedWeeksKm": 30272.1,
+  "totalDistanceKm": 153280.2,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 169032.2
+    "totalWithEstimatesKm": 169077.2
   }
 }

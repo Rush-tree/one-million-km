@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T17:19:04.879Z",
+  "generatedAt": "2026-09-26T17:30:40.663Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 826087,
+    "remainingKm": 826063,
     "percentComplete": 17.39,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.4,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 12958.7,
-    "thisWeekActivities": 1010,
-    "thisWeekHours": 1029,
-    "thisWeekElevationM": 98508,
+    "thisWeekKm": 12983.1,
+    "thisWeekActivities": 1011,
+    "thisWeekHours": 1031,
+    "thisWeekElevationM": 98588,
     "timesAroundEarth": 4.34,
     "percentToMoon": 45.2,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 173912700,
-    "totalMovingTime": 49608587,
-    "totalElevation": 1250536.6
+    "totalDistance": 173937100,
+    "totalMovingTime": 49617047,
+    "totalElevation": 1250616.6
   },
   "monthStats": {
-    "totalDistance": 35107600,
-    "totalMovingTime": 10122360,
+    "totalDistance": 35132000,
+    "totalMovingTime": 10130820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12958700,
-    "totalMovingTime": 3702840,
-    "count": 1010
+    "totalDistance": 12983100,
+    "totalMovingTime": 3711300,
+    "count": 1011
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 158115.7,
+    "measuredDistanceKm": 158140.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20339409986",
-        "name": "Fahrt am Morgen mit dem Jagdgeschwader - KÜN- HD -KÜN",
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20340725159",
+        "name": "Poranna jazda na rowerze",
         "date": "September 26, 2026",
-        "distanceKm": 244.1,
+        "distanceKm": 24.4,
         "stats": [
-          "244.1 km",
-          "11:05:34",
-          "1,893 m"
+          "24.4 km",
+          "8:59:16",
+          "80 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 173912.7
+      "totalWithEstimatesKm": 173937.1
     }
   }
 }

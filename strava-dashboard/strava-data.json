@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-26T12:30:41.309Z",
+  "generatedAt": "2026-09-26T13:00:50.120Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 827728,
+    "remainingKm": 827658,
     "percentComplete": 17.23,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
     "weeksToGoal": 51,
     "projectedDate": "2027-09-21",
-    "kmPerMemberWeek": 67,
+    "kmPerMemberWeek": 66.7,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 11317.8,
-    "thisWeekActivities": 953,
-    "thisWeekHours": 925,
-    "thisWeekElevationM": 81309,
+    "thisWeekKm": 11387.8,
+    "thisWeekActivities": 959,
+    "thisWeekHours": 931,
+    "thisWeekElevationM": 82271,
     "timesAroundEarth": 4.3,
     "percentToMoon": 44.8,
     "comparisons": [
@@ -60,8 +60,8 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14707,
-  "memberCount": 240,
+  "totalActivities": 14713,
+  "memberCount": 241,
   "memberGrowth": {
     "day": 0,
     "week": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 172271800,
-    "totalMovingTime": 49237367,
-    "totalElevation": 1233337.6
+    "totalDistance": 172341800,
+    "totalMovingTime": 49258967,
+    "totalElevation": 1234299.6
   },
   "monthStats": {
-    "totalDistance": 33466700,
-    "totalMovingTime": 9751140,
+    "totalDistance": 33536700,
+    "totalMovingTime": 9772740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11317800,
-    "totalMovingTime": 3331620,
-    "count": 953
+    "totalDistance": 11387800,
+    "totalMovingTime": 3353220,
+    "count": 959
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 156474.8,
+    "measuredDistanceKm": 156544.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20336657828",
+        "name": "Traillauf am Nachmittag",
+        "date": "September 26, 2026",
+        "distanceKm": 10.3,
+        "stats": [
+          "10.3 km",
+          "49:26",
+          "128 m"
+        ]
+      },
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20336426464",
+        "name": "Lauf am Nachmittag",
+        "date": "September 26, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "46:09",
+          "118 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -124,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20336530902",
+        "name": "Evening Yoga",
+        "date": "September 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:08:09",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Elsa Rottluff",
         "athleteId": "110130704",
         "activityId": "20336284533",
@@ -134,45 +173,6 @@
           "0 km",
           "1:04:12",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Britta Prasse",
-        "athleteId": "200634990",
-        "activityId": "20335885166",
-        "name": "Mittagswanderung",
-        "date": "September 26, 2026",
-        "distanceKm": 8.4,
-        "stats": [
-          "8.4 km",
-          "2:02:15",
-          "231 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20336106967",
-        "name": "Zur Burg Hohnstein",
-        "date": "September 26, 2026",
-        "distanceKm": 8.1,
-        "stats": [
-          "8.1 km",
-          "3:07:47",
-          "200 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20335997371",
-        "name": "Morning Mountain Bike Ride",
-        "date": "September 26, 2026",
-        "distanceKm": 46.7,
-        "stats": [
-          "46.7 km",
-          "3:37:07",
-          "809 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 172271.8
+      "totalWithEstimatesKm": 172341.8
     }
   }
 }

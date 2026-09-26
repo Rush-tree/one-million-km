@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T08:30:44.832Z",
+  "generatedAt": "2026-09-26T09:00:51.586Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 828513,
+    "remainingKm": 828497,
     "percentComplete": 17.15,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 10533.4,
-    "thisWeekActivities": 907,
-    "thisWeekHours": 863,
-    "thisWeekElevationM": 74311,
+    "thisWeekKm": 10549,
+    "thisWeekActivities": 911,
+    "thisWeekHours": 866,
+    "thisWeekElevationM": 74412,
     "timesAroundEarth": 4.28,
     "percentToMoon": 44.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14670,
+  "totalActivities": 14676,
   "memberCount": 240,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 171487400,
-    "totalMovingTime": 49012247,
-    "totalElevation": 1226339.6
+    "totalDistance": 171503000,
+    "totalMovingTime": 49023947,
+    "totalElevation": 1226440.6
   },
   "monthStats": {
-    "totalDistance": 32682300,
-    "totalMovingTime": 9526020,
+    "totalDistance": 32697900,
+    "totalMovingTime": 9537720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10533400,
-    "totalMovingTime": 3106500,
-    "count": 907
+    "totalDistance": 10549000,
+    "totalMovingTime": 3118200,
+    "count": 911
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 155690.4,
+    "measuredDistanceKm": 155706,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,45 @@
         ]
       },
       {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20333040686",
+        "name": "Ride and Run - Run",
+        "date": "September 26, 2026",
+        "distanceKm": 9,
+        "stats": [
+          "9.0 km",
+          "51:58",
+          "62 m"
+        ]
+      },
+      {
+        "athlete": "Nils Werthebach",
+        "athleteId": "62336173",
+        "activityId": "20333334675",
+        "name": "Morning Yoga",
+        "date": "September 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:22:58",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20333250534",
+        "name": "Spaziergang am Morgen",
+        "date": "September 26, 2026",
+        "distanceKm": 2.6,
+        "stats": [
+          "2.6 km",
+          "43:16",
+          "12 m"
+        ]
+      },
+      {
         "athlete": "Luka M",
         "athleteId": "33218706",
         "activityId": "20332939269",
@@ -134,45 +173,6 @@
           "14.0 km",
           "1:09:38",
           "58 m"
-        ]
-      },
-      {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20332630412",
-        "name": "Durch den Olympiapark",
-        "date": "September 26, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "40:14",
-          "45 m"
-        ]
-      },
-      {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20332481974",
-        "name": "Shakeout Run for Berlin Marathon",
-        "date": "September 26, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "36:07",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20332459611",
-        "name": "Sortie vélo le matin",
-        "date": "September 26, 2026",
-        "distanceKm": 24.4,
-        "stats": [
-          "24.4 km",
-          "59:10",
-          "191 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 171487.4
+      "totalWithEstimatesKm": 171503
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-26T16:30:41.841Z",
+  "generatedAt": "2026-09-26T17:00:52.187Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-09-26T16:30:41.841Z",
+  "memberCountUpdatedAt": "2026-09-26T17:00:52.187Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 1004,
-    "distanceKm": 12730.5,
-    "elevationM": 96846,
-    "movingSeconds": 3663720,
+    "activities": 1008,
+    "distanceKm": 12772.9,
+    "elevationM": 96953,
+    "movingSeconds": 3676260,
     "raw": {
-      "activities": "1004",
-      "distance": "12,730.5 km",
-      "time": "1,017 h 42 m",
-      "elevation": "96,846 m"
+      "activities": "1008",
+      "distance": "12,772.9 km",
+      "time": "1,021 h 11 m",
+      "elevation": "96,953 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20340340802",
+      "name": "Evening Walk",
+      "date": "September 26, 2026",
+      "distanceKm": 2.2,
+      "stats": [
+        "2.2 km",
+        "37:09",
+        "24 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -48,7 +61,7 @@
       "athlete": "Ricardo Ferre",
       "athleteId": "45223374",
       "activityId": "20339163308",
-      "name": "Mittagslauf",
+      "name": "Basketball refereeing weekend pt 1",
       "date": "September 26, 2026",
       "distanceKm": 7,
       "stats": [
@@ -69,19 +82,6 @@
         "11:05:34",
         "1,893 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20339222213",
-      "name": "Schwimmen am Nachmittag",
-      "date": "September 26, 2026",
-      "distanceKm": 2,
-      "stats": [
-        "2.0 km",
-        "48:06",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 34879.4,
-  "totalDistanceKm": 157887.5,
+  "observedWeeksKm": 34921.8,
+  "totalDistanceKm": 157929.9,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 173684.5
+    "totalWithEstimatesKm": 173726.9
   }
 }

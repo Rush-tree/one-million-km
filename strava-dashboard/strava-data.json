@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T08:01:20.608Z",
+  "generatedAt": "2026-09-26T08:30:44.832Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 828553,
-    "percentComplete": 17.14,
+    "remainingKm": 828513,
+    "percentComplete": 17.15,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 10493.2,
-    "thisWeekActivities": 902,
-    "thisWeekHours": 859,
-    "thisWeekElevationM": 73916,
+    "thisWeekKm": 10533.4,
+    "thisWeekActivities": 907,
+    "thisWeekHours": 863,
+    "thisWeekElevationM": 74311,
     "timesAroundEarth": 4.28,
     "percentToMoon": 44.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14665,
+  "totalActivities": 14670,
   "memberCount": 240,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 171447200,
-    "totalMovingTime": 48999767,
-    "totalElevation": 1225944.6
+    "totalDistance": 171487400,
+    "totalMovingTime": 49012247,
+    "totalElevation": 1226339.6
   },
   "monthStats": {
-    "totalDistance": 32642100,
-    "totalMovingTime": 9513540,
+    "totalDistance": 32682300,
+    "totalMovingTime": 9526020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10493200,
-    "totalMovingTime": 3094020,
-    "count": 902
+    "totalDistance": 10533400,
+    "totalMovingTime": 3106500,
+    "count": 907
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 155650.2,
+    "measuredDistanceKm": 155690.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20332895049",
+        "name": "Gewichtstraining am Morgen",
+        "date": "September 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "28:29",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20332939269",
+        "name": "Morning Run",
+        "date": "September 26, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "1:09:38",
+          "58 m"
+        ]
+      },
       {
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
@@ -148,32 +174,6 @@
           "59:10",
           "191 m"
         ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20332584522",
-        "name": "🚴Vélo Croissants 🥐☕ Ride",
-        "date": "September 26, 2026",
-        "distanceKm": 7.1,
-        "stats": [
-          "7.1 km",
-          "1:17:48",
-          "6 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20332435390",
-        "name": "Zwift - Pacer Group Ride with Coco",
-        "date": "September 26, 2026",
-        "distanceKm": 64.6,
-        "stats": [
-          "64.6 km",
-          "1:36:46",
-          "96 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 171447.2
+      "totalWithEstimatesKm": 171487.4
     }
   }
 }

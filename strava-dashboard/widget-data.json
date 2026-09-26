@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-26T20:00:51.457Z",
+  "generatedAt": "2026-09-26T20:31:19.950Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-26T20:00:51.457Z",
+  "memberCountUpdatedAt": "2026-09-26T20:31:19.950Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 1025,
-    "distanceKm": 13201.8,
-    "elevationM": 101110,
-    "movingSeconds": 3782400,
+    "activities": 1027,
+    "distanceKm": 13258.9,
+    "elevationM": 101511,
+    "movingSeconds": 3797520,
     "raw": {
-      "activities": "1025",
-      "distance": "13,201.8 km",
-      "time": "1,050 h 40 m",
-      "elevation": "101,110 m"
+      "activities": "1027",
+      "distance": "13,258.9 km",
+      "time": "1,054 h 52 m",
+      "elevation": "101,511 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "20342264573",
+      "name": "Camminata serale",
+      "date": "September 26, 2026",
+      "distanceKm": 3.8,
+      "stats": [
+        "3.8 km",
+        "1:28:25",
+        "2 m"
+      ]
+    },
     {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
@@ -69,19 +82,6 @@
         "1:02:43",
         "51 m"
       ]
-    },
-    {
-      "athlete": "Georg Weinig",
-      "athleteId": "166650923",
-      "activityId": "20341069183",
-      "name": "Trail aka schnell Wandern",
-      "date": "September 26, 2026",
-      "distanceKm": 22,
-      "stats": [
-        "22.0 km",
-        "3:40:36",
-        "912 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 35350.7,
-  "totalDistanceKm": 158358.8,
+  "observedWeeksKm": 35407.8,
+  "totalDistanceKm": 158415.9,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 174155.8
+    "totalWithEstimatesKm": 174212.9
   }
 }

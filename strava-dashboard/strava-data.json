@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T16:30:42.578Z",
+  "generatedAt": "2026-09-27T17:00:54.565Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 822529,
-    "percentComplete": 17.75,
+    "remainingKm": 822398,
+    "percentComplete": 17.76,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 16517.5,
-    "thisWeekActivities": 1185,
-    "thisWeekHours": 1294,
-    "thisWeekElevationM": 128233,
+    "thisWeekKm": 16648.2,
+    "thisWeekActivities": 1188,
+    "thisWeekHours": 1305,
+    "thisWeekElevationM": 130370,
     "timesAroundEarth": 4.43,
     "percentToMoon": 46.2,
     "comparisons": [
@@ -52,8 +52,8 @@
       },
       {
         "key": "autobahn",
-        "value": 13.4,
-        "text": "13.4× the German autobahn network",
+        "value": 13.5,
+        "text": "13.5× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 177471500,
-    "totalMovingTime": 50565467,
-    "totalElevation": 1280261.6
+    "totalDistance": 177602200,
+    "totalMovingTime": 50604647,
+    "totalElevation": 1282398.6
   },
   "monthStats": {
-    "totalDistance": 38666400,
-    "totalMovingTime": 11079240,
+    "totalDistance": 38797100,
+    "totalMovingTime": 11118420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 16517500,
-    "totalMovingTime": 4659720,
-    "count": 1185
+    "totalDistance": 16648200,
+    "totalMovingTime": 4698900,
+    "count": 1188
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 161674.5,
+    "measuredDistanceKm": 161805.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,19 +124,6 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20354513520",
-        "name": "Evening Walk",
-        "date": "September 27, 2026",
-        "distanceKm": 0.4,
-        "stats": [
-          "0.4 km",
-          "15:47",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
         "activityId": "20354616598",
@@ -150,10 +137,23 @@
         ]
       },
       {
+        "athlete": "Thorsten Schamper",
+        "athleteId": "136616262",
+        "activityId": "20354717172",
+        "name": "Padel am Nachmittag",
+        "date": "September 27, 2026",
+        "distanceKm": 0.6,
+        "stats": [
+          "0.6 km",
+          "1:35:23",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Daniel Stodden",
         "athleteId": "23274828",
         "activityId": "20354253381",
-        "name": "Lauf am Nachmittag",
+        "name": "Entzugserscheinungen",
         "date": "September 27, 2026",
         "distanceKm": 10,
         "stats": [
@@ -166,7 +166,7 @@
         "athlete": "Josué González",
         "athleteId": "178408867",
         "activityId": "20354486063",
-        "name": "Morning Run",
+        "name": "MMMX 🇲🇽 LONG 🏃‍♂️….. CHICAGO IS LOADING",
         "date": "September 27, 2026",
         "distanceKm": 29,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 177471.5
+      "totalWithEstimatesKm": 177602.2
     }
   }
 }

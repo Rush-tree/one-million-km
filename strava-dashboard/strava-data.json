@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T21:00:54.315Z",
+  "generatedAt": "2026-09-27T21:31:06.610Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 821787,
+    "remainingKm": 821771,
     "percentComplete": 17.82,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 17258.8,
-    "thisWeekActivities": 1213,
-    "thisWeekHours": 1342,
-    "thisWeekElevationM": 134713,
+    "thisWeekKm": 17275.1,
+    "thisWeekActivities": 1218,
+    "thisWeekHours": 1344,
+    "thisWeekElevationM": 134848,
     "timesAroundEarth": 4.45,
     "percentToMoon": 46.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14874,
+  "totalActivities": 14880,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 178212800,
-    "totalMovingTime": 50738687,
-    "totalElevation": 1286741.6
+    "totalDistance": 178229100,
+    "totalMovingTime": 50743787,
+    "totalElevation": 1286876.6
   },
   "monthStats": {
-    "totalDistance": 39407700,
-    "totalMovingTime": 11252460,
+    "totalDistance": 39424000,
+    "totalMovingTime": 11257560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 17258800,
-    "totalMovingTime": 4832940,
-    "count": 1213
+    "totalDistance": 17275100,
+    "totalMovingTime": 4838040,
+    "count": 1218
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 162415.8,
+    "measuredDistanceKm": 162432.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20357427150",
+        "name": "Night E-Bike Ride",
+        "date": "September 27, 2026",
+        "distanceKm": 5.6,
+        "stats": [
+          "5.6 km",
+          "15:00",
+          "79 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20357350841",
+        "name": "Afternoon Walk",
+        "date": "September 27, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "28:24",
+          "3 m"
+        ]
+      },
       {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20356388869",
-        "name": "Evening Walk",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20357423842",
+        "name": "Afternoon E-Bike Ride",
         "date": "September 27, 2026",
-        "distanceKm": 1.4,
+        "distanceKm": 2.8,
         "stats": [
-          "1.4 km",
-          "38:29",
-          "12 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20356030479",
-        "name": "Evening Workout",
-        "date": "September 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "53:15",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20355781344",
-        "name": "Zum Abendessen nach Motovun",
-        "date": "September 27, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "2:29:48",
-          "247 m"
+          "2.8 km",
+          "3:21:52",
+          "10 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 178212.8
+      "totalWithEstimatesKm": 178229.1
     }
   }
 }

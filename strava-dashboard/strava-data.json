@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T17:00:54.565Z",
+  "generatedAt": "2026-09-27T17:30:42.507Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 822398,
-    "percentComplete": 17.76,
+    "remainingKm": 822240,
+    "percentComplete": 17.78,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 16648.2,
-    "thisWeekActivities": 1188,
-    "thisWeekHours": 1305,
-    "thisWeekElevationM": 130370,
-    "timesAroundEarth": 4.43,
+    "thisWeekKm": 16805.7,
+    "thisWeekActivities": 1195,
+    "thisWeekHours": 1313,
+    "thisWeekElevationM": 130872,
+    "timesAroundEarth": 4.44,
     "percentToMoon": 46.2,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14858,
+  "totalActivities": 14862,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 177602200,
-    "totalMovingTime": 50604647,
-    "totalElevation": 1282398.6
+    "totalDistance": 177759700,
+    "totalMovingTime": 50633207,
+    "totalElevation": 1282900.6
   },
   "monthStats": {
-    "totalDistance": 38797100,
-    "totalMovingTime": 11118420,
+    "totalDistance": 38954600,
+    "totalMovingTime": 11146980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 16648200,
-    "totalMovingTime": 4698900,
-    "count": 1188
+    "totalDistance": 16805700,
+    "totalMovingTime": 4727460,
+    "count": 1195
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 161805.2,
+    "measuredDistanceKm": 161962.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20354417477",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20355223199",
+        "name": "Afternoon Walk",
         "date": "September 27, 2026",
-        "distanceKm": 5,
+        "distanceKm": 1.9,
         "stats": [
-          "5.0 km",
-          "26:36",
-          "12 m"
+          "1.9 km",
+          "35:27",
+          "9 m"
         ]
       },
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20354616598",
-        "name": "Tussendoortje",
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20355358686",
+        "name": "schwelle",
         "date": "September 27, 2026",
-        "distanceKm": 5.7,
+        "distanceKm": 9,
         "stats": [
-          "5.7 km",
-          "1:15:19",
-          "5 m"
+          "9.0 km",
+          "37:54",
+          "67 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20355190857",
+        "name": "Afternoon Ride",
+        "date": "September 27, 2026",
+        "distanceKm": 25,
+        "stats": [
+          "25.0 km",
+          "1:08:14",
+          "71 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20354253381",
-        "name": "Entzugserscheinungen",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20355095991",
+        "name": "Pedalata pomeridiana",
         "date": "September 27, 2026",
         "distanceKm": 10,
         "stats": [
           "10.0 km",
-          "54:50",
-          "123 m"
-        ]
-      },
-      {
-        "athlete": "Josué González",
-        "athleteId": "178408867",
-        "activityId": "20354486063",
-        "name": "MMMX 🇲🇽 LONG 🏃‍♂️….. CHICAGO IS LOADING",
-        "date": "September 27, 2026",
-        "distanceKm": 29,
-        "stats": [
-          "29.0 km",
-          "3:09:03",
-          "155 m"
+          "2:49:39",
+          "18 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 177602.2
+      "totalWithEstimatesKm": 177759.7
     }
   }
 }

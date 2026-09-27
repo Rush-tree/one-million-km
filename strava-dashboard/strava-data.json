@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T06:30:40.356Z",
+  "generatedAt": "2026-09-27T07:01:01.866Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 825295,
+    "remainingKm": 825284,
     "percentComplete": 17.47,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 13750.9,
-    "thisWeekActivities": 1051,
-    "thisWeekHours": 1094,
-    "thisWeekElevationM": 105019,
+    "thisWeekKm": 13761.9,
+    "thisWeekActivities": 1053,
+    "thisWeekHours": 1096,
+    "thisWeekElevationM": 105422,
     "timesAroundEarth": 4.36,
-    "percentToMoon": 45.4,
+    "percentToMoon": 45.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 45.4,
-        "text": "45.4% of the way to the Moon",
+        "value": 45.5,
+        "text": "45.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14759,
+  "totalActivities": 14762,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 174704900,
-    "totalMovingTime": 49843367,
-    "totalElevation": 1257047.6
+    "totalDistance": 174715900,
+    "totalMovingTime": 49851767,
+    "totalElevation": 1257450.6
   },
   "monthStats": {
-    "totalDistance": 35899800,
-    "totalMovingTime": 10357140,
+    "totalDistance": 35910800,
+    "totalMovingTime": 10365540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13750900,
-    "totalMovingTime": 3937620,
-    "count": 1051
+    "totalDistance": 13761900,
+    "totalMovingTime": 3946020,
+    "count": 1053
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 158907.9,
+    "measuredDistanceKm": 158918.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20345974768",
+        "name": "Poranna jazda na rowerze",
+        "date": "September 27, 2026",
+        "distanceKm": 5.4,
+        "stats": [
+          "5.4 km",
+          "16:57",
+          "14 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -161,19 +174,6 @@
           "1:58:36",
           "318 m"
         ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20345503716",
-        "name": "Açık alanda koşu",
-        "date": "September 27, 2026",
-        "distanceKm": 32.9,
-        "stats": [
-          "32.9 km",
-          "3:54:17",
-          "911 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 174704.9
+      "totalWithEstimatesKm": 174715.9
     }
   }
 }

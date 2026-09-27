@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-27T06:30:40.356Z",
+  "generatedAt": "2026-09-27T07:01:01.866Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-27T06:30:40.356Z",
+  "memberCountUpdatedAt": "2026-09-27T07:01:01.866Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 1051,
-    "distanceKm": 13750.9,
-    "elevationM": 105019,
-    "movingSeconds": 3937620,
+    "activities": 1053,
+    "distanceKm": 13761.9,
+    "elevationM": 105422,
+    "movingSeconds": 3946020,
     "raw": {
-      "activities": "1051",
-      "distance": "13,750.9 km",
-      "time": "1,093 h 47 m",
-      "elevation": "105,019 m"
+      "activities": "1053",
+      "distance": "13,761.9 km",
+      "time": "1,096 h 7 m",
+      "elevation": "105,422 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Paweł Siergiej",
+      "athleteId": "147932574",
+      "activityId": "20345974768",
+      "name": "Poranna jazda na rowerze",
+      "date": "September 27, 2026",
+      "distanceKm": 5.4,
+      "stats": [
+        "5.4 km",
+        "16:57",
+        "14 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -69,19 +82,6 @@
         "1:58:36",
         "318 m"
       ]
-    },
-    {
-      "athlete": "Bülent Sevil",
-      "athleteId": "156559910",
-      "activityId": "20345503716",
-      "name": "Açık alanda koşu",
-      "date": "September 27, 2026",
-      "distanceKm": 32.9,
-      "stats": [
-        "32.9 km",
-        "3:54:17",
-        "911 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 35899.8,
-  "totalDistanceKm": 158907.9,
+  "observedWeeksKm": 35910.8,
+  "totalDistanceKm": 158918.9,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 174704.9
+    "totalWithEstimatesKm": 174715.9
   }
 }

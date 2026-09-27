@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T14:00:55.166Z",
+  "generatedAt": "2026-09-27T14:09:38.537Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 823560,
-    "percentComplete": 17.64,
+    "remainingKm": 823400,
+    "percentComplete": 17.66,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 15485.8,
-    "thisWeekActivities": 1143,
-    "thisWeekHours": 1223,
-    "thisWeekElevationM": 119607,
-    "timesAroundEarth": 4.4,
+    "thisWeekKm": 15645.8,
+    "thisWeekActivities": 1148,
+    "thisWeekHours": 1233,
+    "thisWeekElevationM": 122242,
+    "timesAroundEarth": 4.41,
     "percentToMoon": 45.9,
     "comparisons": [
       {
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 26.5,
-        "text": "26.5× the length of the Nile",
+        "value": 26.6,
+        "text": "26.6× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 27.6,
-        "text": "27.6 return trips Berlin to New York",
+        "value": 27.7,
+        "text": "27.7 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14832,
+  "totalActivities": 14833,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 176439800,
-    "totalMovingTime": 50306807,
-    "totalElevation": 1271635.6
+    "totalDistance": 176599800,
+    "totalMovingTime": 50342927,
+    "totalElevation": 1274270.6
   },
   "monthStats": {
-    "totalDistance": 37634700,
-    "totalMovingTime": 10820580,
+    "totalDistance": 37794700,
+    "totalMovingTime": 10856700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 15485800,
-    "totalMovingTime": 4401060,
-    "count": 1143
+    "totalDistance": 15645800,
+    "totalMovingTime": 4437180,
+    "count": 1148
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 160642.8,
+    "measuredDistanceKm": 160802.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "3.5 km",
           "41:22",
           "32 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20352231196",
+        "name": "Zwift - Recovery Ride With Activations",
+        "date": "September 27, 2026",
+        "distanceKm": 18.7,
+        "stats": [
+          "18.7 km",
+          "50:10",
+          "157 m"
         ]
       },
       {
@@ -147,19 +160,6 @@
           "56.8 km",
           "2:11:58",
           "419 m"
-        ]
-      },
-      {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "20351468159",
-        "name": "Traumtag",
-        "date": "September 27, 2026",
-        "distanceKm": 56.7,
-        "stats": [
-          "56.7 km",
-          "3:05:07",
-          "945 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 176439.8
+      "totalWithEstimatesKm": 176599.8
     }
   }
 }

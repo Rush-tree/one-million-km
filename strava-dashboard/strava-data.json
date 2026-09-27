@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T04:00:53.246Z",
+  "generatedAt": "2026-09-27T04:30:42.343Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 825447,
+    "remainingKm": 825380,
     "percentComplete": 17.46,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 13599.3,
-    "thisWeekActivities": 1040,
-    "thisWeekHours": 1082,
-    "thisWeekElevationM": 103591,
+    "thisWeekKm": 13666.4,
+    "thisWeekActivities": 1042,
+    "thisWeekHours": 1085,
+    "thisWeekElevationM": 103675,
     "timesAroundEarth": 4.36,
     "percentToMoon": 45.4,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 26.2,
-        "text": "26.2× the length of the Nile",
+        "value": 26.3,
+        "text": "26.3× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 174553300,
-    "totalMovingTime": 49799387,
-    "totalElevation": 1255619.6
+    "totalDistance": 174620400,
+    "totalMovingTime": 49812287,
+    "totalElevation": 1255703.6
   },
   "monthStats": {
-    "totalDistance": 35748200,
-    "totalMovingTime": 10313160,
+    "totalDistance": 35815300,
+    "totalMovingTime": 10326060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13599300,
-    "totalMovingTime": 3893640,
-    "count": 1040
+    "totalDistance": 13666400,
+    "totalMovingTime": 3906540,
+    "count": 1042
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 158756.3,
+    "measuredDistanceKm": 158823.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20345270545",
+        "name": "Sunday Morning Activity",
+        "date": "September 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "3:40",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Meenu Nagori",
         "athleteId": "69685863",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20342264573",
-        "name": "Camminata serale",
-        "date": "September 26, 2026",
-        "distanceKm": 3.8,
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20345285674",
+        "name": "SEPTEMBER MNG RIDE NO 27 🚵‍♂️",
+        "date": "September 27, 2026",
+        "distanceKm": 67,
         "stats": [
-          "3.8 km",
-          "1:28:25",
-          "2 m"
+          "67.0 km",
+          "4:14:22",
+          "84 m"
         ]
       },
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20342369606",
-        "name": "Morning Walk",
-        "date": "September 26, 2026",
-        "distanceKm": 10.4,
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20345327493",
+        "name": "Morning Ride",
+        "date": "September 27, 2026",
+        "distanceKm": 71.1,
         "stats": [
-          "10.4 km",
-          "3:54:11",
-          "39 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20344247469",
-        "name": "🥉Kreuzhorst Backyard Ultra 2026",
-        "date": "September 26, 2026",
-        "distanceKm": 121,
-        "stats": [
-          "121.0 km",
-          "17:55:57",
-          "259 m"
+          "71.1 km",
+          "5:18:14",
+          "275 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 174553.3
+      "totalWithEstimatesKm": 174620.4
     }
   }
 }

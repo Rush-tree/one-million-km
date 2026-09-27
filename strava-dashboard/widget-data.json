@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-27T18:00:52.360Z",
+  "generatedAt": "2026-09-27T18:30:42.882Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-27T18:00:52.359Z",
+  "memberCountUpdatedAt": "2026-09-27T18:30:42.882Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 1201,
-    "distanceKm": 16862.6,
-    "elevationM": 131743,
-    "movingSeconds": 4756440,
+    "activities": 1205,
+    "distanceKm": 16983.4,
+    "elevationM": 132847,
+    "movingSeconds": 4781940,
     "raw": {
-      "activities": "1201",
-      "distance": "16,862.6 km",
-      "time": "1,321 h 14 m",
-      "elevation": "131,743 m"
+      "activities": "1205",
+      "distance": "16,983.4 km",
+      "time": "1,328 h 19 m",
+      "elevation": "132,847 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20356030479",
+      "name": "Evening Workout",
+      "date": "September 27, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "53:15",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Jasper Mermans",
       "athleteId": "25786886",
@@ -32,28 +45,15 @@
       ]
     },
     {
-      "athlete": "Hannah-Malin Henigin",
-      "athleteId": "162779271",
-      "activityId": "20355573893",
-      "name": "Lauf am Abend",
-      "date": "September 27, 2026",
-      "distanceKm": 6.5,
-      "stats": [
-        "6.5 km",
-        "43:57",
-        "14 m"
-      ]
-    },
-    {
       "athlete": "Rainer Gatzmaga",
       "athleteId": "119550686",
       "activityId": "20355560385",
-      "name": "Evening Run",
+      "name": "GA1",
       "date": "September 27, 2026",
       "distanceKm": 12.2,
       "stats": [
         "12.2 km",
-        "1:23:48",
+        "1:23:47",
         "114 m"
       ]
     },
@@ -61,7 +61,7 @@
       "athlete": "Susanne Liepert",
       "athleteId": "28515644",
       "activityId": "20355781344",
-      "name": "Spaziergang am Nachmittag",
+      "name": "Zum Abendessen nach Motovun",
       "date": "September 27, 2026",
       "distanceKm": 7.5,
       "stats": [
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39011.5,
-  "totalDistanceKm": 162019.6,
+  "observedWeeksKm": 39132.3,
+  "totalDistanceKm": 162140.4,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 177816.6
+    "totalWithEstimatesKm": 177937.4
   }
 }

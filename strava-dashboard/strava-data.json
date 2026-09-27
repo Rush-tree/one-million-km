@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T18:00:52.360Z",
+  "generatedAt": "2026-09-27T18:30:42.882Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 822183,
-    "percentComplete": 17.78,
+    "remainingKm": 822063,
+    "percentComplete": 17.79,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 16862.6,
-    "thisWeekActivities": 1201,
-    "thisWeekHours": 1321,
-    "thisWeekElevationM": 131743,
+    "thisWeekKm": 16983.4,
+    "thisWeekActivities": 1205,
+    "thisWeekHours": 1328,
+    "thisWeekElevationM": 132847,
     "timesAroundEarth": 4.44,
     "percentToMoon": 46.3,
     "comparisons": [
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 26.7,
-        "text": "26.7× the length of the Nile",
+        "value": 26.8,
+        "text": "26.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 27.8,
-        "text": "27.8 return trips Berlin to New York",
+        "value": 27.9,
+        "text": "27.9 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14869,
+  "totalActivities": 14871,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 177816600,
-    "totalMovingTime": 50662187,
-    "totalElevation": 1283771.6
+    "totalDistance": 177937400,
+    "totalMovingTime": 50687687,
+    "totalElevation": 1284875.6
   },
   "monthStats": {
-    "totalDistance": 39011500,
-    "totalMovingTime": 11175960,
+    "totalDistance": 39132300,
+    "totalMovingTime": 11201460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 16862600,
-    "totalMovingTime": 4756440,
-    "count": 1201
+    "totalDistance": 16983400,
+    "totalMovingTime": 4781940,
+    "count": 1205
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 162019.6,
+    "measuredDistanceKm": 162140.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20356030479",
+        "name": "Evening Workout",
+        "date": "September 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "53:15",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -124,28 +137,15 @@
         ]
       },
       {
-        "athlete": "Hannah-Malin Henigin",
-        "athleteId": "162779271",
-        "activityId": "20355573893",
-        "name": "Lauf am Abend",
-        "date": "September 27, 2026",
-        "distanceKm": 6.5,
-        "stats": [
-          "6.5 km",
-          "43:57",
-          "14 m"
-        ]
-      },
-      {
         "athlete": "Rainer Gatzmaga",
         "athleteId": "119550686",
         "activityId": "20355560385",
-        "name": "Evening Run",
+        "name": "GA1",
         "date": "September 27, 2026",
         "distanceKm": 12.2,
         "stats": [
           "12.2 km",
-          "1:23:48",
+          "1:23:47",
           "114 m"
         ]
       },
@@ -153,7 +153,7 @@
         "athlete": "Susanne Liepert",
         "athleteId": "28515644",
         "activityId": "20355781344",
-        "name": "Spaziergang am Nachmittag",
+        "name": "Zum Abendessen nach Motovun",
         "date": "September 27, 2026",
         "distanceKm": 7.5,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 177816.6
+      "totalWithEstimatesKm": 177937.4
     }
   }
 }

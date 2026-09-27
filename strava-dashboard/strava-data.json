@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T04:30:42.343Z",
+  "generatedAt": "2026-09-27T05:00:48.576Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 825380,
+    "remainingKm": 825366,
     "percentComplete": 17.46,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 13666.4,
-    "thisWeekActivities": 1042,
-    "thisWeekHours": 1085,
-    "thisWeekElevationM": 103675,
+    "thisWeekKm": 13680.4,
+    "thisWeekActivities": 1043,
+    "thisWeekHours": 1086,
+    "thisWeekElevationM": 103709,
     "timesAroundEarth": 4.36,
     "percentToMoon": 45.4,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 27.3,
-        "text": "27.3 return trips Berlin to New York",
+        "value": 27.4,
+        "text": "27.4 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14749,
+  "totalActivities": 14750,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 174620400,
-    "totalMovingTime": 49812287,
-    "totalElevation": 1255703.6
+    "totalDistance": 174634400,
+    "totalMovingTime": 49814507,
+    "totalElevation": 1255737.6
   },
   "monthStats": {
-    "totalDistance": 35815300,
-    "totalMovingTime": 10326060,
+    "totalDistance": 35829300,
+    "totalMovingTime": 10328280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13666400,
-    "totalMovingTime": 3906540,
-    "count": 1042
+    "totalDistance": 13680400,
+    "totalMovingTime": 3908760,
+    "count": 1043
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 158823.4,
+    "measuredDistanceKm": 158837.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20345401154",
+        "name": "Fahrt am Morgen",
+        "date": "September 27, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "38:19",
+          "34 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -137,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "20344322980",
-        "name": "Vuelta ciclística vespertina",
-        "date": "September 26, 2026",
-        "distanceKm": 18.5,
-        "stats": [
-          "18.5 km",
-          "47:51",
-          "118 m"
-        ]
-      },
-      {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "20345285674",
@@ -166,7 +166,7 @@
         "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
         "athleteId": "72351185",
         "activityId": "20345327493",
-        "name": "Morning Ride",
+        "name": "Ahmedabad Randonneurs Sunday Meetup Ride",
         "date": "September 27, 2026",
         "distanceKm": 71.1,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 174620.4
+      "totalWithEstimatesKm": 174634.4
     }
   }
 }

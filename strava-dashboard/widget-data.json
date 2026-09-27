@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-27T04:30:42.343Z",
+  "generatedAt": "2026-09-27T05:00:48.576Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-27T04:30:42.343Z",
+  "memberCountUpdatedAt": "2026-09-27T05:00:48.576Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 1042,
-    "distanceKm": 13666.4,
-    "elevationM": 103675,
-    "movingSeconds": 3906540,
+    "activities": 1043,
+    "distanceKm": 13680.4,
+    "elevationM": 103709,
+    "movingSeconds": 3908760,
     "raw": {
-      "activities": "1042",
-      "distance": "13,666.4 km",
-      "time": "1,085 h 9 m",
-      "elevation": "103,675 m"
+      "activities": "1043",
+      "distance": "13,680.4 km",
+      "time": "1,085 h 46 m",
+      "elevation": "103,709 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20345401154",
+      "name": "Fahrt am Morgen",
+      "date": "September 27, 2026",
+      "distanceKm": 14,
+      "stats": [
+        "14.0 km",
+        "38:19",
+        "34 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -45,19 +58,6 @@
       ]
     },
     {
-      "athlete": "Manuel Zamora",
-      "athleteId": "27178448",
-      "activityId": "20344322980",
-      "name": "Vuelta ciclística vespertina",
-      "date": "September 26, 2026",
-      "distanceKm": 18.5,
-      "stats": [
-        "18.5 km",
-        "47:51",
-        "118 m"
-      ]
-    },
-    {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
       "activityId": "20345285674",
@@ -74,7 +74,7 @@
       "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
       "athleteId": "72351185",
       "activityId": "20345327493",
-      "name": "Morning Ride",
+      "name": "Ahmedabad Randonneurs Sunday Meetup Ride",
       "date": "September 27, 2026",
       "distanceKm": 71.1,
       "stats": [
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 35815.3,
-  "totalDistanceKm": 158823.4,
+  "observedWeeksKm": 35829.3,
+  "totalDistanceKm": 158837.4,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 174620.4
+    "totalWithEstimatesKm": 174634.4
   }
 }

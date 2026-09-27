@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T08:25:14.408Z",
+  "generatedAt": "2026-09-27T08:30:43.694Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 825100,
+    "remainingKm": 825089,
     "percentComplete": 17.49,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 13946.5,
-    "thisWeekActivities": 1068,
-    "thisWeekHours": 1111,
-    "thisWeekElevationM": 106416,
+    "thisWeekKm": 13956.6,
+    "thisWeekActivities": 1069,
+    "thisWeekHours": 1112,
+    "thisWeekElevationM": 106445,
     "timesAroundEarth": 4.36,
     "percentToMoon": 45.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14777,
+  "totalActivities": 14778,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 174900500,
-    "totalMovingTime": 49906247,
-    "totalElevation": 1258444.6
+    "totalDistance": 174910600,
+    "totalMovingTime": 49910387,
+    "totalElevation": 1258473.6
   },
   "monthStats": {
-    "totalDistance": 36095400,
-    "totalMovingTime": 10420020,
+    "totalDistance": 36105500,
+    "totalMovingTime": 10424160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13946500,
-    "totalMovingTime": 4000500,
-    "count": 1068
+    "totalDistance": 13956600,
+    "totalMovingTime": 4004640,
+    "count": 1069
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 159103.5,
+    "measuredDistanceKm": 159113.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,19 +137,6 @@
         ]
       },
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20346450893",
-        "name": "Zwift - CotW: Crow Road at 100% Elevation in France",
-        "date": "September 27, 2026",
-        "distanceKm": 18.2,
-        "stats": [
-          "18.2 km",
-          "31:42",
-          "277 m"
-        ]
-      },
-      {
         "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
         "athleteId": "24992941",
         "activityId": "20346576661",
@@ -160,6 +147,19 @@
           "9.0 km",
           "48:16",
           "13 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20346735714",
+        "name": "Morning Run",
+        "date": "September 27, 2026",
+        "distanceKm": 10.1,
+        "stats": [
+          "10.1 km",
+          "1:08:48",
+          "29 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 174900.5
+      "totalWithEstimatesKm": 174910.6
     }
   }
 }

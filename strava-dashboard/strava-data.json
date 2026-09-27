@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-27T15:00:54.022Z",
+  "generatedAt": "2026-09-27T16:01:32.651Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 823383,
-    "percentComplete": 17.66,
+    "remainingKm": 822623,
+    "percentComplete": 17.74,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
     "weeksToGoal": 51,
-    "projectedDate": "2027-09-21",
+    "projectedDate": "2027-09-20",
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 15663.4,
-    "thisWeekActivities": 1150,
-    "thisWeekHours": 1236,
-    "thisWeekElevationM": 122230,
-    "timesAroundEarth": 4.41,
-    "percentToMoon": 45.9,
+    "thisWeekKm": 16423.3,
+    "thisWeekActivities": 1172,
+    "thisWeekHours": 1277,
+    "thisWeekElevationM": 127681,
+    "timesAroundEarth": 4.43,
+    "percentToMoon": 46.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,26 +28,26 @@
       },
       {
         "key": "moon",
-        "value": 45.9,
-        "text": "45.9% of the way to the Moon",
+        "value": 46.1,
+        "text": "46.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
         "key": "greatwall",
-        "value": 8.3,
-        "text": "8.3× the Great Wall of China",
+        "value": 8.4,
+        "text": "8.4× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
         "key": "nile",
-        "value": 26.6,
-        "text": "26.6× the length of the Nile",
+        "value": 26.7,
+        "text": "26.7× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 27.7,
-        "text": "27.7 return trips Berlin to New York",
+        "value": 27.8,
+        "text": "27.8 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14836,
+  "totalActivities": 14842,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 176617400,
-    "totalMovingTime": 50354687,
-    "totalElevation": 1274258.6
+    "totalDistance": 177377300,
+    "totalMovingTime": 50503127,
+    "totalElevation": 1279709.6
   },
   "monthStats": {
-    "totalDistance": 37812300,
-    "totalMovingTime": 10868460,
+    "totalDistance": 38572200,
+    "totalMovingTime": 11016900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 15663400,
-    "totalMovingTime": 4448940,
-    "count": 1150
+    "totalDistance": 16423300,
+    "totalMovingTime": 4597380,
+    "count": 1172
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,74 +105,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 160820.4,
+    "measuredDistanceKm": 161580.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20352467695",
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20353654365",
+        "name": "Afternoon Run",
+        "date": "September 27, 2026",
+        "distanceKm": 24,
+        "stats": [
+          "24.0 km",
+          "3:14:13",
+          "756 m"
+        ]
+      },
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20353650688",
+        "name": "Lunch Ride",
+        "date": "September 27, 2026",
+        "distanceKm": 75.8,
+        "stats": [
+          "75.8 km",
+          "4:33:47",
+          "675 m"
+        ]
+      },
+      {
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20353489645",
+        "name": "Mittagspaziergang",
+        "date": "September 27, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "4:46:21",
+          "8 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20353388294",
+        "name": "Mountainbike-Fahrt am Morgen",
+        "date": "September 27, 2026",
+        "distanceKm": 76.5,
+        "stats": [
+          "76.5 km",
+          "6:09:15",
+          "498 m"
+        ]
+      },
+      {
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "20353612001",
         "name": "Fahrt am Nachmittag",
         "date": "September 27, 2026",
-        "distanceKm": 5.8,
+        "distanceKm": 41.3,
         "stats": [
-          "5.8 km",
-          "25:56",
-          "10 m"
-        ]
-      },
-      {
-        "athlete": "Meenu Nagori",
-        "athleteId": "69685863",
-        "activityId": "20352140603",
-        "name": "Evening Run",
-        "date": "September 27, 2026",
-        "distanceKm": 3.5,
-        "stats": [
-          "3.5 km",
-          "41:22",
-          "32 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20352231196",
-        "name": "Zwift - Recovery Ride With Activations",
-        "date": "September 27, 2026",
-        "distanceKm": 18.7,
-        "stats": [
-          "18.7 km",
-          "50:10",
-          "157 m"
-        ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20351882572",
-        "name": "Morning Walk",
-        "date": "September 27, 2026",
-        "distanceKm": 12.9,
-        "stats": [
-          "12.9 km",
-          "1:49:21",
-          "27 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20352449908",
-        "name": "Lunch Hike",
-        "date": "September 27, 2026",
-        "distanceKm": 11.7,
-        "stats": [
-          "11.7 km",
-          "3:46:40",
-          "164 m"
+          "41.3 km",
+          "1:30:51",
+          "144 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 176617.4
+      "totalWithEstimatesKm": 177377.3
     }
   }
 }

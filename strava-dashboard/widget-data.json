@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-27T18:33:26.814Z",
+  "generatedAt": "2026-09-27T19:00:57.224Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-27T18:33:26.814Z",
+  "memberCountUpdatedAt": "2026-09-27T19:00:57.224Z",
   "currentWeek": {
     "week": "Sep 21, 2026 - Sep 27, 2026",
-    "activities": 1205,
-    "distanceKm": 16983.4,
-    "elevationM": 132847,
-    "movingSeconds": 4781940,
+    "activities": 1207,
+    "distanceKm": 16988.5,
+    "elevationM": 132928,
+    "movingSeconds": 4787160,
     "raw": {
-      "activities": "1205",
-      "distance": "16,983.4 km",
-      "time": "1,328 h 19 m",
-      "elevation": "132,847 m"
+      "activities": "1207",
+      "distance": "16,988.5 km",
+      "time": "1,329 h 46 m",
+      "elevation": "132,928 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20356388869",
+      "name": "Evening Walk",
+      "date": "September 27, 2026",
+      "distanceKm": 1.4,
+      "stats": [
+        "1.4 km",
+        "38:29",
+        "12 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -29,19 +42,6 @@
         "0 km",
         "53:15",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20355576708",
-      "name": "Plezant weekend weeral",
-      "date": "September 27, 2026",
-      "distanceKm": 11.8,
-      "stats": [
-        "11.8 km",
-        "34:04",
-        "26 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39132.3,
-  "totalDistanceKm": 162140.4,
+  "observedWeeksKm": 39137.4,
+  "totalDistanceKm": 162145.5,
   "weeksTracked": 3,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 177937.4
+    "totalWithEstimatesKm": 177942.5
   }
 }

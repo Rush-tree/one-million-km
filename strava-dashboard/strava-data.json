@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T10:00:52.314Z",
+  "generatedAt": "2026-09-27T10:30:41.928Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 824841,
-    "percentComplete": 17.52,
+    "remainingKm": 824651,
+    "percentComplete": 17.53,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 14205.5,
-    "thisWeekActivities": 1091,
-    "thisWeekHours": 1137,
-    "thisWeekElevationM": 107898,
-    "timesAroundEarth": 4.37,
+    "thisWeekKm": 14394.8,
+    "thisWeekActivities": 1097,
+    "thisWeekHours": 1147,
+    "thisWeekElevationM": 108240,
+    "timesAroundEarth": 4.38,
     "percentToMoon": 45.6,
     "comparisons": [
       {
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 26.3,
-        "text": "26.3× the length of the Nile",
+        "value": 26.4,
+        "text": "26.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 27.4,
-        "text": "27.4 return trips Berlin to New York",
+        "value": 27.5,
+        "text": "27.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14801,
+  "totalActivities": 14803,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 175159500,
-    "totalMovingTime": 49998527,
-    "totalElevation": 1259926.6
+    "totalDistance": 175348800,
+    "totalMovingTime": 50035007,
+    "totalElevation": 1260268.6
   },
   "monthStats": {
-    "totalDistance": 36354400,
-    "totalMovingTime": 10512300,
+    "totalDistance": 36543700,
+    "totalMovingTime": 10548780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14205500,
-    "totalMovingTime": 4092780,
-    "count": 1091
+    "totalDistance": 14394800,
+    "totalMovingTime": 4129260,
+    "count": 1097
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 159362.5,
+    "measuredDistanceKm": 159551.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "René Sauer",
+        "athleteId": "190842154",
+        "activityId": "20348580921",
+        "name": "Mittagslauf",
+        "date": "September 27, 2026",
+        "distanceKm": 5.3,
+        "stats": [
+          "5.3 km",
+          "34:45",
+          "31 m"
+        ]
+      },
       {
         "athlete": "Lukas Baumann",
         "athleteId": "16802593",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Britta Prasse",
-        "athleteId": "200634990",
-        "activityId": "20347330733",
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20348410474",
+        "name": "Poranne bieganie",
+        "date": "September 27, 2026",
+        "distanceKm": 21.2,
+        "stats": [
+          "21.2 km",
+          "1:49:46",
+          "67 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20348778489",
         "name": "Lauf am Morgen",
         "date": "September 27, 2026",
-        "distanceKm": 5.1,
+        "distanceKm": 30,
         "stats": [
-          "5.1 km",
-          "37:35",
-          "23 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20347386909",
-        "name": "Morning Run",
-        "date": "September 27, 2026",
-        "distanceKm": 13.5,
-        "stats": [
-          "13.5 km",
-          "1:22:34",
-          "216 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20347148846",
-        "name": "10K 🎗️🟢 Morning Run 🏃‍♂️",
-        "date": "September 27, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "1:23:34",
-          "70 m"
+          "30.0 km",
+          "3:21:47",
+          "242 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 175159.5
+      "totalWithEstimatesKm": 175348.8
     }
   }
 }

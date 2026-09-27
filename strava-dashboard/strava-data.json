@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T08:00:59.888Z",
+  "generatedAt": "2026-09-27T08:25:14.408Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 825161,
-    "percentComplete": 17.48,
+    "remainingKm": 825100,
+    "percentComplete": 17.49,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 13884.9,
-    "thisWeekActivities": 1063,
-    "thisWeekHours": 1107,
-    "thisWeekElevationM": 106144,
+    "thisWeekKm": 13946.5,
+    "thisWeekActivities": 1068,
+    "thisWeekHours": 1111,
+    "thisWeekElevationM": 106416,
     "timesAroundEarth": 4.36,
     "percentToMoon": 45.5,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 8.2,
-        "text": "8.2× the Great Wall of China",
+        "value": 8.3,
+        "text": "8.3× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 13.2,
-        "text": "13.2× the German autobahn network",
+        "value": 13.3,
+        "text": "13.3× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14772,
+  "totalActivities": 14777,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 174838900,
-    "totalMovingTime": 49889507,
-    "totalElevation": 1258172.6
+    "totalDistance": 174900500,
+    "totalMovingTime": 49906247,
+    "totalElevation": 1258444.6
   },
   "monthStats": {
-    "totalDistance": 36033800,
-    "totalMovingTime": 10403280,
+    "totalDistance": 36095400,
+    "totalMovingTime": 10420020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13884900,
-    "totalMovingTime": 3983760,
-    "count": 1063
+    "totalDistance": 13946500,
+    "totalMovingTime": 4000500,
+    "count": 1068
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,42 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 159041.9,
+    "measuredDistanceKm": 159103.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20346566391",
+        "name": "Course à pied le matin",
+        "date": "September 27, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "32:43",
+          "35 m"
+        ]
+      },
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20346670525",
+        "name": "Morning Run",
+        "date": "September 27, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "47:13",
+          "27 m"
+        ]
+      },
+      {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
         "activityId": "20346450893",
-        "name": "Zwift - Climb Portal: Crow Road at 100% Elevation in France",
+        "name": "Zwift - CotW: Crow Road at 100% Elevation in France",
         "date": "September 27, 2026",
         "distanceKm": 18.2,
         "stats": [
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "20346334095",
-        "name": "Lauf am Morgen",
+        "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
+        "athleteId": "24992941",
+        "activityId": "20346576661",
+        "name": "Ochtendloop",
         "date": "September 27, 2026",
         "distanceKm": 9,
         "stats": [
           "9.0 km",
-          "43:05",
-          "71 m"
+          "48:16",
+          "13 m"
         ]
       },
       {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20346076444",
-        "name": "Crosul Arenelor 2026",
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20346587906",
+        "name": "Trail le matin",
         "date": "September 27, 2026",
-        "distanceKm": 10,
+        "distanceKm": 15,
         "stats": [
-          "10.0 km",
-          "43:04",
-          "63 m"
-        ]
-      },
-      {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "20346210081",
-        "name": "Morning Weight Training",
-        "date": "September 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:05:31",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20346360621",
-        "name": "Morning Ride",
-        "date": "September 27, 2026",
-        "distanceKm": 23.1,
-        "stats": [
-          "23.1 km",
-          "6:58:11",
-          "29 m"
+          "15.0 km",
+          "1:29:06",
+          "177 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 174838.9
+      "totalWithEstimatesKm": 174900.5
     }
   }
 }

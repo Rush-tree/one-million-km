@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T20:30:40.082Z",
+  "generatedAt": "2026-09-27T21:00:54.315Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 821856,
-    "percentComplete": 17.81,
+    "remainingKm": 821787,
+    "percentComplete": 17.82,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 17190.4,
-    "thisWeekActivities": 1210,
-    "thisWeekHours": 1339,
-    "thisWeekElevationM": 134475,
+    "thisWeekKm": 17258.8,
+    "thisWeekActivities": 1213,
+    "thisWeekHours": 1342,
+    "thisWeekElevationM": 134713,
     "timesAroundEarth": 4.45,
-    "percentToMoon": 46.3,
+    "percentToMoon": 46.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 46.3,
-        "text": "46.3% of the way to the Moon",
+        "value": 46.4,
+        "text": "46.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14872,
+  "totalActivities": 14874,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 178144400,
-    "totalMovingTime": 50725427,
-    "totalElevation": 1286503.6
+    "totalDistance": 178212800,
+    "totalMovingTime": 50738687,
+    "totalElevation": 1286741.6
   },
   "monthStats": {
-    "totalDistance": 39339300,
-    "totalMovingTime": 11239200,
+    "totalDistance": 39407700,
+    "totalMovingTime": 11252460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 17190400,
-    "totalMovingTime": 4819680,
-    "count": 1210
+    "totalDistance": 17258800,
+    "totalMovingTime": 4832940,
+    "count": 1213
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 162347.4,
+    "measuredDistanceKm": 162415.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "0.6 km",
           "10:04",
           "3 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20357200978",
+        "name": "Camminata serale",
+        "date": "September 27, 2026",
+        "distanceKm": 3.2,
+        "stats": [
+          "3.2 km",
+          "2:02:19",
+          "5 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "2:29:48",
           "247 m"
         ]
-      },
-      {
-        "athlete": "Hans-Georg Acker ♣",
-        "athleteId": "34456629",
-        "activityId": "20355615747",
-        "name": "RR Tauschte Karten für DEL-Spiel 🏒gegen 1. Reihe auf dem Irschenberg ⛰️🌞♣️😍 ...",
-        "date": "September 27, 2026",
-        "distanceKm": 121.1,
-        "stats": [
-          "121.1 km",
-          "5:54:56",
-          "1,224 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 178144.4
+      "totalWithEstimatesKm": 178212.8
     }
   }
 }

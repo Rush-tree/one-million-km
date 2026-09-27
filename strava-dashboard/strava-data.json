@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-27T12:00:52.671Z",
+  "generatedAt": "2026-09-27T12:30:40.737Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 824262,
-    "percentComplete": 17.57,
+    "remainingKm": 824047,
+    "percentComplete": 17.6,
     "paceBasisWeeks": 1,
     "avgWeekKm": 16073.3,
     "avgDayKm": 2296.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1239,
     "avgActivityKm": 13,
-    "thisWeekKm": 14783.7,
-    "thisWeekActivities": 1118,
-    "thisWeekHours": 1183,
-    "thisWeekElevationM": 111315,
+    "thisWeekKm": 14999,
+    "thisWeekActivities": 1125,
+    "thisWeekHours": 1193,
+    "thisWeekElevationM": 113794,
     "timesAroundEarth": 4.39,
-    "percentToMoon": 45.7,
+    "percentToMoon": 45.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 45.7,
-        "text": "45.7% of the way to the Moon",
+        "value": 45.8,
+        "text": "45.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 26.4,
-        "text": "26.4× the length of the Nile",
+        "value": 26.5,
+        "text": "26.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 27.5,
-        "text": "27.5 return trips Berlin to New York",
+        "value": 27.6,
+        "text": "27.6 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14820,
+  "totalActivities": 14822,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 175737700,
-    "totalMovingTime": 50165507,
-    "totalElevation": 1263343.6
+    "totalDistance": 175953000,
+    "totalMovingTime": 50201567,
+    "totalElevation": 1265822.6
   },
   "monthStats": {
-    "totalDistance": 36932600,
-    "totalMovingTime": 10679280,
+    "totalDistance": 37147900,
+    "totalMovingTime": 10715340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14783700,
-    "totalMovingTime": 4259760,
-    "count": 1118
+    "totalDistance": 14999000,
+    "totalMovingTime": 4295820,
+    "count": 1125
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 159940.7,
+    "measuredDistanceKm": 160156,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20350188325",
-        "name": "Popołudniowa jazda na rowerze",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20350683194",
+        "name": "Mittagsradfahrt",
         "date": "September 27, 2026",
-        "distanceKm": 2.7,
+        "distanceKm": 43.4,
         "stats": [
-          "2.7 km",
-          "16:54",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "Werner Hunold",
-        "athleteId": "372952540",
-        "activityId": "20349947107",
-        "name": "Lunch Run",
-        "date": "September 27, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "59:52",
-          "24 m"
+          "43.4 km",
+          "1:46:26",
+          "170 m"
         ]
       },
       {
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20350172898",
-        "name": "Lauf am Morgen",
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20350464049",
+        "name": "Pedalada matinal",
         "date": "September 27, 2026",
-        "distanceKm": 42.2,
+        "distanceKm": 58,
         "stats": [
-          "42.2 km",
-          "3:43:37",
-          "79 m"
+          "58.0 km",
+          "3:18:51",
+          "515 m"
+        ]
+      },
+      {
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20350461320",
+        "name": "Fahrt am Morgen fast gemütlich zu zweit",
+        "date": "September 27, 2026",
+        "distanceKm": 84.4,
+        "stats": [
+          "84.4 km",
+          "4:15:48",
+          "934 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 175737.7
+      "totalWithEstimatesKm": 175953
     }
   }
 }

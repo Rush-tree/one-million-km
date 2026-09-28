@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-09-28T08:30:48.180Z",
+  "generatedAt": "2026-09-28T09:00:55.395Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T08:30:48.179Z",
+  "memberCountUpdatedAt": "2026-09-28T09:00:55.395Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 37,
-    "distanceKm": 357.8,
-    "elevationM": 1930,
-    "movingSeconds": 100440,
+    "activities": 39,
+    "distanceKm": 367.9,
+    "elevationM": 1957,
+    "movingSeconds": 105060,
     "raw": {
-      "activities": "37",
-      "distance": "357.8 km",
-      "time": "27 h 54 m",
-      "elevation": "1,930 m"
+      "activities": "39",
+      "distance": "367.9 km",
+      "time": "29 h 11 m",
+      "elevation": "1,957 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20361106391",
+      "name": "Pedalada matinal",
+      "date": "September 28, 2026",
+      "distanceKm": 10.1,
+      "stats": [
+        "10.1 km",
+        "32:51",
+        "27 m"
+      ]
+    },
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20361029378",
+      "name": "HIIT matinal",
+      "date": "September 28, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "44:15",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -45,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Hanna Greß",
-      "athleteId": "75797079",
-      "activityId": "20360656686",
-      "name": "Morning Run",
-      "date": "September 28, 2026",
-      "distanceKm": 5.2,
-      "stats": [
-        "5.2 km",
-        "31:12",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
       "activityId": "20360823085",
@@ -69,19 +82,6 @@
         "1:08:24",
         "104 m"
       ]
-    },
-    {
-      "athlete": "Alfonso Contreras Calderón",
-      "athleteId": "123434994",
-      "activityId": "20360393779",
-      "name": "Carrera de mañana",
-      "date": "September 28, 2026",
-      "distanceKm": 9.1,
-      "stats": [
-        "9.1 km",
-        "46:26",
-        "119 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39781.8,
-  "totalDistanceKm": 162789.9,
+  "observedWeeksKm": 39791.9,
+  "totalDistanceKm": 162800,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 178586.9
+    "totalWithEstimatesKm": 178597
   }
 }

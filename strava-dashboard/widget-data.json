@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T08:00:55.352Z",
+  "generatedAt": "2026-09-28T08:30:48.180Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T08:00:55.352Z",
+  "memberCountUpdatedAt": "2026-09-28T08:30:48.179Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 34,
-    "distanceKm": 336.5,
-    "elevationM": 1733,
-    "movingSeconds": 93120,
+    "activities": 37,
+    "distanceKm": 357.8,
+    "elevationM": 1930,
+    "movingSeconds": 100440,
     "raw": {
-      "activities": "34",
-      "distance": "336.5 km",
-      "time": "25 h 52 m",
-      "elevation": "1,733 m"
+      "activities": "37",
+      "distance": "357.8 km",
+      "time": "27 h 54 m",
+      "elevation": "1,930 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20360866911",
+      "name": "Corrida matinal",
+      "date": "September 28, 2026",
+      "distanceKm": 6.3,
+      "stats": [
+        "6.3 km",
+        "36:17",
+        "63 m"
+      ]
+    },
     {
       "athlete": "Phil Duffy",
       "athleteId": "17634808",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20360823085",
+      "name": "Morning Run",
+      "date": "September 28, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:08:24",
+        "104 m"
+      ]
+    },
+    {
       "athlete": "Alfonso Contreras Calderón",
       "athleteId": "123434994",
       "activityId": "20360393779",
@@ -56,32 +82,6 @@
         "46:26",
         "119 m"
       ]
-    },
-    {
-      "athlete": "Agata Borovska",
-      "athleteId": "129470144",
-      "activityId": "20360216632",
-      "name": "Morning run",
-      "date": "September 28, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "42:08",
-        "9 m"
-      ]
-    },
-    {
-      "athlete": "# MarshmallowBen",
-      "athleteId": "114783849",
-      "activityId": "20360342064",
-      "name": "Morgenausfahrt",
-      "date": "September 28, 2026",
-      "distanceKm": 21.2,
-      "stats": [
-        "21.2 km",
-        "48:28",
-        "24 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39760.5,
-  "totalDistanceKm": 162768.6,
+  "observedWeeksKm": 39781.8,
+  "totalDistanceKm": 162789.9,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 178565.6
+    "totalWithEstimatesKm": 178586.9
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T05:00:53.722Z",
+  "generatedAt": "2026-09-28T05:30:42.166Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T05:00:53.722Z",
+  "memberCountUpdatedAt": "2026-09-28T05:30:42.166Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 13,
-    "distanceKm": 196.4,
-    "elevationM": 850,
-    "movingSeconds": 46020,
+    "activities": 16,
+    "distanceKm": 220.4,
+    "elevationM": 1133,
+    "movingSeconds": 53100,
     "raw": {
-      "activities": "13",
-      "distance": "196.4 km",
-      "time": "12 h 47 m",
-      "elevation": "850 m"
+      "activities": "16",
+      "distance": "220.4 km",
+      "time": "14 h 45 m",
+      "elevation": "1,133 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20359757317",
+      "name": "Spaziergang am Morgen",
+      "date": "September 28, 2026",
+      "distanceKm": 2.8,
+      "stats": [
+        "2.8 km",
+        "28:29",
+        "51 m"
+      ]
+    },
     {
       "athlete": "Louis Mwanja",
       "athleteId": "14992965",
@@ -42,19 +55,6 @@
         "0 km",
         "30:53",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Benny Pos",
-      "athleteId": "85148884",
-      "activityId": "20359321818",
-      "name": "Pendel Work",
-      "date": "September 28, 2026",
-      "distanceKm": 8.6,
-      "stats": [
-        "8.6 km",
-        "18:51",
-        "16 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39620.4,
-  "totalDistanceKm": 162628.5,
+  "observedWeeksKm": 39644.4,
+  "totalDistanceKm": 162652.5,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 178425.5
+    "totalWithEstimatesKm": 178449.5
   }
 }

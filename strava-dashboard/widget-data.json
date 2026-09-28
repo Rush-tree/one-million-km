@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T10:00:52.940Z",
+  "generatedAt": "2026-09-28T10:30:51.555Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T10:00:52.940Z",
+  "memberCountUpdatedAt": "2026-09-28T10:30:51.555Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 44,
-    "distanceKm": 470.6,
-    "elevationM": 2138,
-    "movingSeconds": 120720,
+    "activities": 46,
+    "distanceKm": 485.6,
+    "elevationM": 2312,
+    "movingSeconds": 128820,
     "raw": {
-      "activities": "44",
-      "distance": "470.6 km",
-      "time": "33 h 32 m",
-      "elevation": "2,138 m"
+      "activities": "46",
+      "distance": "485.6 km",
+      "time": "35 h 47 m",
+      "elevation": "2,312 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "20361887550",
+      "name": "Radfahrt am Mittag",
+      "date": "September 28, 2026",
+      "distanceKm": 14.9,
+      "stats": [
+        "14.9 km",
+        "1:17:22",
+        "174 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -69,19 +82,6 @@
         "1:48:33",
         "17 m"
       ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20360866911",
-      "name": "Corrida matinal",
-      "date": "September 28, 2026",
-      "distanceKm": 6.3,
-      "stats": [
-        "6.3 km",
-        "36:17",
-        "63 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39894.6,
-  "totalDistanceKm": 162902.7,
+  "observedWeeksKm": 39909.6,
+  "totalDistanceKm": 162917.7,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 178699.7
+    "totalWithEstimatesKm": 178714.7
   }
 }

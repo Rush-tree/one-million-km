@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T22:30:47.093Z",
+  "generatedAt": "2026-09-28T23:00:53.239Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T22:30:47.093Z",
+  "memberCountUpdatedAt": "2026-09-28T23:00:53.239Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 158,
-    "distanceKm": 1771.2,
-    "elevationM": 15155,
-    "movingSeconds": 586260,
+    "activities": 159,
+    "distanceKm": 1791.3,
+    "elevationM": 15416,
+    "movingSeconds": 589800,
     "raw": {
-      "activities": "158",
-      "distance": "1,771.2 km",
-      "time": "162 h 51 m",
-      "elevation": "15,155 m"
+      "activities": "159",
+      "distance": "1,791.3 km",
+      "time": "163 h 50 m",
+      "elevation": "15,416 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20370434107",
+      "name": "Pedalada ao entardecer",
+      "date": "September 28, 2026",
+      "distanceKm": 20,
+      "stats": [
+        "20.0 km",
+        "58:07",
+        "261 m"
+      ]
+    },
     {
       "athlete": "Henrique Juhas",
       "athleteId": "118657757",
@@ -69,19 +82,6 @@
         "25:38",
         "7 m"
       ]
-    },
-    {
-      "athlete": "Heiko Kraushaar",
-      "athleteId": "78179687",
-      "activityId": "20368350006",
-      "name": "Fahrt am Nachmittag",
-      "date": "September 28, 2026",
-      "distanceKm": 113.4,
-      "stats": [
-        "113.4 km",
-        "4:30:48",
-        "1,088 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41195.2,
-  "totalDistanceKm": 164203.3,
+  "observedWeeksKm": 41215.3,
+  "totalDistanceKm": 164223.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180000.3
+    "totalWithEstimatesKm": 180020.4
   }
 }

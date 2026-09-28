@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-09-28T15:41:41.042Z",
+  "generatedAt": "2026-09-28T16:01:03.335Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T15:41:41.042Z",
+  "memberCountUpdatedAt": "2026-09-28T16:01:03.335Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 80,
-    "distanceKm": 902.5,
-    "elevationM": 6445,
-    "movingSeconds": 267660,
+    "activities": 86,
+    "distanceKm": 964.3,
+    "elevationM": 7571,
+    "movingSeconds": 302880,
     "raw": {
-      "activities": "80",
-      "distance": "902.5 km",
-      "time": "74 h 21 m",
-      "elevation": "6,445 m"
+      "activities": "86",
+      "distance": "964.3 km",
+      "time": "84 h 8 m",
+      "elevation": "7,571 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20365684405",
+      "name": "Sauna",
+      "date": "September 28, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "28:40",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Fabrice Clausse",
+      "athleteId": "162101062",
+      "activityId": "20365800290",
+      "name": "Marche dans l'après-midi",
+      "date": "September 28, 2026",
+      "distanceKm": 2.9,
+      "stats": [
+        "2.9 km",
+        "39:51",
+        "29 m"
+      ]
+    },
     {
       "athlete": "Werner Hunold",
       "athleteId": "372952540",
@@ -45,41 +71,15 @@
       ]
     },
     {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "20365055267",
-      "name": "Fahrt am Nachmittag",
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20365675461",
+      "name": "Afternoon Swim",
       "date": "September 28, 2026",
-      "distanceKm": 13.9,
+      "distanceKm": 1.7,
       "stats": [
-        "13.9 km",
-        "45:16",
-        "136 m"
-      ]
-    },
-    {
-      "athlete": "Meenu Nagori",
-      "athleteId": "69685863",
-      "activityId": "20365256438",
-      "name": "Evening Run",
-      "date": "September 28, 2026",
-      "distanceKm": 8.1,
-      "stats": [
-        "8.1 km",
-        "1:34:10",
-        "63 m"
-      ]
-    },
-    {
-      "athlete": "Elsa Rottluff",
-      "athleteId": "110130704",
-      "activityId": "20365090339",
-      "name": "Nachmittagstraining",
-      "date": "September 28, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:20:03",
+        "1.7 km",
+        "28:24",
         "0 m"
       ]
     }
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 40326.5,
-  "totalDistanceKm": 163334.6,
+  "observedWeeksKm": 40388.3,
+  "totalDistanceKm": 163396.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 179131.6
+    "totalWithEstimatesKm": 179193.4
   }
 }

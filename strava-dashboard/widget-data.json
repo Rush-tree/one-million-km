@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T15:30:49.254Z",
+  "generatedAt": "2026-09-28T15:41:41.042Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T15:30:49.253Z",
+  "memberCountUpdatedAt": "2026-09-28T15:41:41.042Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 79,
-    "distanceKm": 898.9,
-    "elevationM": 6396,
-    "movingSeconds": 266100,
+    "activities": 80,
+    "distanceKm": 902.5,
+    "elevationM": 6445,
+    "movingSeconds": 267660,
     "raw": {
-      "activities": "79",
-      "distance": "898.9 km",
-      "time": "73 h 55 m",
-      "elevation": "6,396 m"
+      "activities": "80",
+      "distance": "902.5 km",
+      "time": "74 h 21 m",
+      "elevation": "6,445 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Werner Hunold",
+      "athleteId": "372952540",
+      "activityId": "20365553828",
+      "name": "Erholungslauf",
+      "date": "September 28, 2026",
+      "distanceKm": 3.5,
+      "stats": [
+        "3.5 km",
+        "26:02",
+        "49 m"
+      ]
+    },
     {
       "athlete": "Norick Maurer",
       "athleteId": "107445415",
@@ -69,19 +82,6 @@
         "1:20:03",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Susanne Liepert",
-      "athleteId": "28515644",
-      "activityId": "20364814421",
-      "name": "Lunch Walk - Premantura Küstenwanderung inklusive ins Meer hüpfen",
-      "date": "September 28, 2026",
-      "distanceKm": 14.6,
-      "stats": [
-        "14.6 km",
-        "4:37:38",
-        "171 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 40322.9,
-  "totalDistanceKm": 163331,
+  "observedWeeksKm": 40326.5,
+  "totalDistanceKm": 163334.6,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 179128
+    "totalWithEstimatesKm": 179131.6
   }
 }

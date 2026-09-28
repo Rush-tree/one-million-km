@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T14:30:50.088Z",
+  "generatedAt": "2026-09-28T15:01:01.109Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 821011,
+    "remainingKm": 820982,
     "percentComplete": 17.9,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 760.1,
-    "thisWeekActivities": 72,
-    "thisWeekHours": 61,
-    "thisWeekElevationM": 4930,
+    "thisWeekKm": 788.7,
+    "thisWeekActivities": 75,
+    "thisWeekHours": 67,
+    "thisWeekElevationM": 5236,
     "timesAroundEarth": 4.47,
     "percentToMoon": 46.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14957,
+  "totalActivities": 14961,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 178989200,
-    "totalMovingTime": 50963807,
-    "totalElevation": 1291806.6
+    "totalDistance": 179017800,
+    "totalMovingTime": 50984207,
+    "totalElevation": 1292112.6
   },
   "monthStats": {
-    "totalDistance": 40184100,
-    "totalMovingTime": 11477580,
+    "totalDistance": 40212700,
+    "totalMovingTime": 11497980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 760100,
-    "totalMovingTime": 220020,
-    "count": 72
+    "totalDistance": 788700,
+    "totalMovingTime": 240420,
+    "count": 75
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 163192.2,
+    "measuredDistanceKm": 163220.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20365055267",
+        "name": "Fahrt am Nachmittag",
+        "date": "September 28, 2026",
+        "distanceKm": 13.9,
+        "stats": [
+          "13.9 km",
+          "45:16",
+          "136 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -121,6 +134,19 @@
           "4.5 km",
           "31:47",
           "54 m"
+        ]
+      },
+      {
+        "athlete": "Elsa Rottluff",
+        "athleteId": "110130704",
+        "activityId": "20365090339",
+        "name": "Nachmittagstraining",
+        "date": "September 28, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:20:03",
+          "0 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20364190544",
-        "name": "Afternoon Walk",
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20364814421",
+        "name": "Lunch Walk - Premantura Küstenwanderung inklusive ins Meer hüpfen",
         "date": "September 28, 2026",
-        "distanceKm": 2.8,
+        "distanceKm": 14.6,
         "stats": [
-          "2.8 km",
-          "29:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20364396519",
-        "name": "Morning Walk",
-        "date": "September 28, 2026",
-        "distanceKm": 12.9,
-        "stats": [
-          "12.9 km",
-          "1:46:11",
-          "131 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20364251685",
-        "name": "Gewichtstraining am Nachmittag",
-        "date": "September 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:50:44",
-          "0 m"
+          "14.6 km",
+          "4:37:38",
+          "171 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 178989.2
+      "totalWithEstimatesKm": 179017.8
     }
   }
 }

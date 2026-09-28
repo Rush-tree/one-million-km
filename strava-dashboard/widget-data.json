@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T09:00:55.395Z",
+  "generatedAt": "2026-09-28T09:30:42.626Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T09:00:55.395Z",
+  "memberCountUpdatedAt": "2026-09-28T09:30:42.626Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 39,
-    "distanceKm": 367.9,
-    "elevationM": 1957,
-    "movingSeconds": 105060,
+    "activities": 42,
+    "distanceKm": 387.5,
+    "elevationM": 1994,
+    "movingSeconds": 111240,
     "raw": {
-      "activities": "39",
-      "distance": "367.9 km",
-      "time": "29 h 11 m",
-      "elevation": "1,957 m"
+      "activities": "42",
+      "distance": "387.5 km",
+      "time": "30 h 54 m",
+      "elevation": "1,994 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20361277315",
+      "name": "Morning Walk",
+      "date": "September 28, 2026",
+      "distanceKm": 1.9,
+      "stats": [
+        "1.9 km",
+        "28:08",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "20361387215",
+      "name": "Ciclismo mattutino",
+      "date": "September 28, 2026",
+      "distanceKm": 17.6,
+      "stats": [
+        "17.6 km",
+        "1:48:33",
+        "17 m"
+      ]
+    },
+    {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
       "activityId": "20360866911",
@@ -56,32 +82,6 @@
         "36:17",
         "63 m"
       ]
-    },
-    {
-      "athlete": "Phil Duffy",
-      "athleteId": "17634808",
-      "activityId": "20360673117",
-      "name": "Morning E-Bike Ride",
-      "date": "September 28, 2026",
-      "distanceKm": 3.8,
-      "stats": [
-        "3.8 km",
-        "24:29",
-        "18 m"
-      ]
-    },
-    {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20360823085",
-      "name": "Morning Run",
-      "date": "September 28, 2026",
-      "distanceKm": 10,
-      "stats": [
-        "10.0 km",
-        "1:08:24",
-        "104 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 39791.9,
-  "totalDistanceKm": 162800,
+  "observedWeeksKm": 39811.5,
+  "totalDistanceKm": 162819.6,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 178597
+    "totalWithEstimatesKm": 178616.6
   }
 }

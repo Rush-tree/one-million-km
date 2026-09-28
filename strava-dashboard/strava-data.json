@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-28T10:30:51.555Z",
+  "generatedAt": "2026-09-28T11:00:56.839Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 821285,
-    "percentComplete": 17.87,
+    "remainingKm": 821208,
+    "percentComplete": 17.88,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 485.6,
-    "thisWeekActivities": 46,
-    "thisWeekHours": 36,
-    "thisWeekElevationM": 2312,
+    "thisWeekKm": 562.8,
+    "thisWeekActivities": 49,
+    "thisWeekHours": 40,
+    "thisWeekElevationM": 3087,
     "timesAroundEarth": 4.46,
     "percentToMoon": 46.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14929,
+  "totalActivities": 14931,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 178714700,
-    "totalMovingTime": 50872607,
-    "totalElevation": 1289188.6
+    "totalDistance": 178791900,
+    "totalMovingTime": 50888627,
+    "totalElevation": 1289963.6
   },
   "monthStats": {
-    "totalDistance": 39909600,
-    "totalMovingTime": 11386380,
+    "totalDistance": 39986800,
+    "totalMovingTime": 11402400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 485600,
-    "totalMovingTime": 128820,
-    "count": 46
+    "totalDistance": 562800,
+    "totalMovingTime": 144840,
+    "count": 49
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 162917.7,
+    "measuredDistanceKm": 162994.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20362309217",
+        "name": "Afternoon Swim",
+        "date": "September 28, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "53:00",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20362139759",
+        "name": "Mittagslauf",
+        "date": "September 28, 2026",
+        "distanceKm": 12.3,
+        "stats": [
+          "12.3 km",
+          "1:17:14",
+          "191 m"
+        ]
+      },
       {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
@@ -124,42 +150,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20361277315",
-        "name": "Morning Walk",
+        "athlete": "Andreas Glaser 🇩🇪🚲",
+        "athleteId": "3109388",
+        "activityId": "20362072446",
+        "name": "Moritzburgrunde mit unfreiwilligen Gravelwegen auf 26 mm 😆🚴‍♂️",
         "date": "September 28, 2026",
-        "distanceKm": 1.9,
+        "distanceKm": 63.6,
         "stats": [
-          "1.9 km",
-          "28:08",
-          "19 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20361106391",
-        "name": "Pedalada matinal",
-        "date": "September 28, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "32:51",
-          "27 m"
-        ]
-      },
-      {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20361029378",
-        "name": "HIIT matinal",
-        "date": "September 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "44:15",
-          "0 m"
+          "63.6 km",
+          "2:42:11",
+          "584 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 178714.7
+      "totalWithEstimatesKm": 178791.9
     }
   }
 }

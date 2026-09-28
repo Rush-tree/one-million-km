@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T04:30:42.075Z",
+  "generatedAt": "2026-09-28T05:00:53.722Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 821603,
+    "remainingKm": 821575,
     "percentComplete": 17.84,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 168.1,
-    "thisWeekActivities": 9,
-    "thisWeekHours": 10,
-    "thisWeekElevationM": 637,
+    "thisWeekKm": 196.4,
+    "thisWeekActivities": 13,
+    "thisWeekHours": 13,
+    "thisWeekElevationM": 850,
     "timesAroundEarth": 4.45,
     "percentToMoon": 46.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 14888,
+  "totalActivities": 14892,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 178397200,
-    "totalMovingTime": 50780267,
-    "totalElevation": 1287513.6
+    "totalDistance": 178425500,
+    "totalMovingTime": 50789807,
+    "totalElevation": 1287726.6
   },
   "monthStats": {
-    "totalDistance": 39592100,
-    "totalMovingTime": 11294040,
+    "totalDistance": 39620400,
+    "totalMovingTime": 11303580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 168100,
-    "totalMovingTime": 36480,
-    "count": 9
+    "totalDistance": 196400,
+    "totalMovingTime": 46020,
+    "count": 13
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 162600.2,
+    "measuredDistanceKm": 162628.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20359639038",
+        "name": "Morning Run",
+        "date": "September 28, 2026",
+        "distanceKm": 7.3,
+        "stats": [
+          "7.3 km",
+          "1:12:16",
+          "153 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20359564874",
+        "name": "Gewichtstraining am Morgen",
+        "date": "September 28, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "30:53",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20359277948",
-        "name": "Monday Morning Activity",
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20359566940",
+        "name": "Fahrt am Morgen",
         "date": "September 28, 2026",
-        "distanceKm": 0,
+        "distanceKm": 14.3,
         "stats": [
-          "0 km",
-          "10:01",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20359241240",
-        "name": "Morning Activity",
-        "date": "September 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:40",
-          "0 m"
+          "14.3 km",
+          "1:28:26",
+          "36 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "13.0 km",
           "1:24:19",
           "25 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20359239392",
-        "name": "SEPTEMBER MNG RIDE NO 28 🚵‍♂️ (☁️ MyWhoosh - Mompox City)",
-        "date": "September 28, 2026",
-        "distanceKm": 65,
-        "stats": [
-          "65.0 km",
-          "2:25:08",
-          "99 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 178397.2
+      "totalWithEstimatesKm": 178425.5
     }
   }
 }

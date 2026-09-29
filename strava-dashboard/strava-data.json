@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T23:00:57.568Z",
+  "generatedAt": "2026-09-29T23:30:42.447Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 817285,
+    "remainingKm": 817264,
     "percentComplete": 18.27,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 4485.8,
-    "thisWeekActivities": 359,
-    "thisWeekHours": 369,
-    "thisWeekElevationM": 36138,
+    "thisWeekKm": 4507,
+    "thisWeekActivities": 360,
+    "thisWeekHours": 371,
+    "thisWeekElevationM": 36226,
     "timesAroundEarth": 4.56,
     "percentToMoon": 47.5,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 182714900,
-    "totalMovingTime": 52072127,
-    "totalElevation": 1323014.6
+    "totalDistance": 182736100,
+    "totalMovingTime": 52078907,
+    "totalElevation": 1323102.6
   },
   "monthStats": {
-    "totalDistance": 43909800,
-    "totalMovingTime": 12585900,
+    "totalDistance": 43931000,
+    "totalMovingTime": 12592680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4485800,
-    "totalMovingTime": 1328340,
-    "count": 359
+    "totalDistance": 4507000,
+    "totalMovingTime": 1335120,
+    "count": 360
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 166917.9,
+    "measuredDistanceKm": 166939.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20385694692",
+        "name": "🏃🏻‍♂️🥵\"Emek görülmemişse mesafe haktır,Değer bilinmemişse sessizlik cevaptır. ✍️\"BY ÇAVRİLİLİ 🏃🏿‍♂️👣👟🔥💪👊🏆🥇🌀🎯🙌💐🇹🇷🧠🏔️💯🇰🇪🇪🇹🇺🇬🇩🇪🇦🇿🇪🇦",
+        "date": "September 29, 2026",
+        "distanceKm": 21.2,
+        "stats": [
+          "21.2 km",
+          "2:20:07",
+          "88 m"
+        ]
+      },
+      {
         "athlete": "Henrique Juhas",
         "athleteId": "118657757",
         "activityId": "20384630495",
@@ -134,19 +147,6 @@
           "5.2 km",
           "1:11:26",
           "68 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20383549971",
-        "name": "Stretching 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "September 29, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "20:11",
-          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 182714.9
+      "totalWithEstimatesKm": 182736.1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T19:00:56.027Z",
+  "generatedAt": "2026-09-29T19:30:47.545Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 817342,
+    "remainingKm": 817313,
     "percentComplete": 18.27,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 4429.4,
-    "thisWeekActivities": 349,
-    "thisWeekHours": 360,
-    "thisWeekElevationM": 35800,
+    "thisWeekKm": 4458,
+    "thisWeekActivities": 353,
+    "thisWeekHours": 365,
+    "thisWeekElevationM": 35994,
     "timesAroundEarth": 4.56,
     "percentToMoon": 47.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15232,
+  "totalActivities": 15236,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 182658500,
-    "totalMovingTime": 52039727,
-    "totalElevation": 1322676.6
+    "totalDistance": 182687100,
+    "totalMovingTime": 52056167,
+    "totalElevation": 1322870.6
   },
   "monthStats": {
-    "totalDistance": 43853400,
-    "totalMovingTime": 12553500,
+    "totalDistance": 43882000,
+    "totalMovingTime": 12569940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4429400,
-    "totalMovingTime": 1295940,
-    "count": 349
+    "totalDistance": 4458000,
+    "totalMovingTime": 1312380,
+    "count": 353
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 166861.5,
+    "measuredDistanceKm": 166890.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Gilbert Schwartmann",
-        "athleteId": "147030966",
-        "activityId": "20382595188",
-        "name": "Abendlauf \"Into the dark\"",
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20383180022",
+        "name": "Gym --> Hotel",
         "date": "September 29, 2026",
-        "distanceKm": 10.1,
+        "distanceKm": 4.2,
         "stats": [
-          "10.1 km",
-          "1:01:39",
-          "125 m"
+          "4.2 km",
+          "29:32",
+          "67 m"
         ]
       },
       {
-        "athlete": "heike moschel",
-        "athleteId": "79094374",
-        "activityId": "20382447783",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 1 (C)",
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20383316144",
+        "name": "Yoga am Abend",
         "date": "September 29, 2026",
-        "distanceKm": 27,
+        "distanceKm": 0,
         "stats": [
-          "27.0 km",
-          "57:59",
-          "232 m"
-        ]
-      },
-      {
-        "athlete": "Kupfer Hardy",
-        "athleteId": "19034101",
-        "activityId": "20382322657",
-        "name": "Evening Run",
-        "date": "September 29, 2026",
-        "distanceKm": 7.6,
-        "stats": [
-          "7.6 km",
-          "1:04:09",
-          "7 m"
+          "0 km",
+          "1:48:31",
+          "0 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "2:24:39",
           "0 m"
         ]
+      },
+      {
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20383388710",
+        "name": "Abendlauf",
+        "date": "September 29, 2026",
+        "distanceKm": 15.1,
+        "stats": [
+          "15.1 km",
+          "1:28:44",
+          "45 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 182658.5
+      "totalWithEstimatesKm": 182687.1
     }
   }
 }

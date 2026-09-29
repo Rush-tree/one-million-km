@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T14:00:57.482Z",
+  "generatedAt": "2026-09-29T14:30:50.689Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819061,
-    "percentComplete": 18.09,
+    "remainingKm": 818956,
+    "percentComplete": 18.1,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2710,
-    "thisWeekActivities": 241,
-    "thisWeekHours": 238,
-    "thisWeekElevationM": 20259,
+    "thisWeekKm": 2815.2,
+    "thisWeekActivities": 255,
+    "thisWeekHours": 251,
+    "thisWeekElevationM": 21191,
     "timesAroundEarth": 4.52,
     "percentToMoon": 47.1,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 28.3,
-        "text": "28.3 return trips Berlin to New York",
+        "value": 28.4,
+        "text": "28.4 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15133,
+  "totalActivities": 15149,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180939100,
-    "totalMovingTime": 51601307,
-    "totalElevation": 1307135.6
+    "totalDistance": 181044300,
+    "totalMovingTime": 51647927,
+    "totalElevation": 1308067.6
   },
   "monthStats": {
-    "totalDistance": 42134000,
-    "totalMovingTime": 12115080,
+    "totalDistance": 42239200,
+    "totalMovingTime": 12161700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2710000,
-    "totalMovingTime": 857520,
-    "count": 241
+    "totalDistance": 2815200,
+    "totalMovingTime": 904140,
+    "count": 255
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 165142.1,
+    "measuredDistanceKm": 165247.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20378864505",
+        "name": "Afternoon Walk",
+        "date": "September 29, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "22:02",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20378888339",
+        "name": "Afternoon Walk",
+        "date": "September 29, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "22:09",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20378284542",
-        "name": "Afternoon Ride",
-        "date": "September 29, 2026",
-        "distanceKm": 22.4,
-        "stats": [
-          "22.4 km",
-          "2:06:13",
-          "111 m"
-        ]
-      },
-      {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
-        "activityId": "20378610789",
-        "name": "Zwift - Cobbled Climbs Run in Richmond",
+        "activityId": "20378655531",
+        "name": "Gravel-Fahrt zur Mittagszeit",
         "date": "September 29, 2026",
-        "distanceKm": 4.6,
+        "distanceKm": 6.8,
         "stats": [
-          "4.6 km",
-          "2:52:09",
-          "0 m"
+          "6.8 km",
+          "3:14:27",
+          "100 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "9.3 km",
           "3:15:50",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20378073162",
-        "name": "Evening Run",
-        "date": "September 29, 2026",
-        "distanceKm": 18.5,
-        "stats": [
-          "18.5 km",
-          "2:33:42",
-          "119 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180939.1
+      "totalWithEstimatesKm": 181044.3
     }
   }
 }

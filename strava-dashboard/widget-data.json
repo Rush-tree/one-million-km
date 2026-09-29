@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-09-29T14:00:57.482Z",
+  "generatedAt": "2026-09-29T14:30:50.689Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T14:00:57.482Z",
+  "memberCountUpdatedAt": "2026-09-29T14:30:50.689Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 241,
-    "distanceKm": 2710,
-    "elevationM": 20259,
-    "movingSeconds": 857520,
+    "activities": 255,
+    "distanceKm": 2815.2,
+    "elevationM": 21191,
+    "movingSeconds": 904140,
     "raw": {
-      "activities": "241",
-      "distance": "2,710.0 km",
-      "time": "238 h 12 m",
-      "elevation": "20,259 m"
+      "activities": "255",
+      "distance": "2,815.2 km",
+      "time": "251 h 9 m",
+      "elevation": "21,191 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20378864505",
+      "name": "Afternoon Walk",
+      "date": "September 29, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "22:02",
+        "4 m"
+      ]
+    },
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20378888339",
+      "name": "Afternoon Walk",
+      "date": "September 29, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "22:09",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Herbert Tüns",
       "athleteId": "42803858",
@@ -32,29 +58,16 @@
       ]
     },
     {
-      "athlete": "Ralf Rogall",
-      "athleteId": "105597565",
-      "activityId": "20378284542",
-      "name": "Afternoon Ride",
-      "date": "September 29, 2026",
-      "distanceKm": 22.4,
-      "stats": [
-        "22.4 km",
-        "2:06:13",
-        "111 m"
-      ]
-    },
-    {
       "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
       "athleteId": "9696032",
-      "activityId": "20378610789",
-      "name": "Zwift - Cobbled Climbs Run in Richmond",
+      "activityId": "20378655531",
+      "name": "Gravel-Fahrt zur Mittagszeit",
       "date": "September 29, 2026",
-      "distanceKm": 4.6,
+      "distanceKm": 6.8,
       "stats": [
-        "4.6 km",
-        "2:52:09",
-        "0 m"
+        "6.8 km",
+        "3:14:27",
+        "100 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "3:15:50",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Goro Shigeno",
-      "athleteId": "37029557",
-      "activityId": "20378073162",
-      "name": "Evening Run",
-      "date": "September 29, 2026",
-      "distanceKm": 18.5,
-      "stats": [
-        "18.5 km",
-        "2:33:42",
-        "119 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 42134,
-  "totalDistanceKm": 165142.1,
+  "observedWeeksKm": 42239.2,
+  "totalDistanceKm": 165247.3,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180939.1
+    "totalWithEstimatesKm": 181044.3
   }
 }

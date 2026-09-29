@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T16:01:45.750Z",
+  "generatedAt": "2026-09-29T16:30:45.800Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 818503,
-    "percentComplete": 18.15,
+    "remainingKm": 818383,
+    "percentComplete": 18.16,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3268.4,
-    "thisWeekActivities": 270,
-    "thisWeekHours": 279,
-    "thisWeekElevationM": 25421,
+    "thisWeekKm": 3387.9,
+    "thisWeekActivities": 280,
+    "thisWeekHours": 289,
+    "thisWeekElevationM": 26181,
     "timesAroundEarth": 4.53,
     "percentToMoon": 47.2,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 13.7,
-        "text": "13.7× the German autobahn network",
+        "value": 13.8,
+        "text": "13.8× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15157,
+  "totalActivities": 15167,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 181497500,
-    "totalMovingTime": 51749687,
-    "totalElevation": 1312297.6
+    "totalDistance": 181617000,
+    "totalMovingTime": 51783647,
+    "totalElevation": 1313057.6
   },
   "monthStats": {
-    "totalDistance": 42692400,
-    "totalMovingTime": 12263460,
+    "totalDistance": 42811900,
+    "totalMovingTime": 12297420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3268400,
-    "totalMovingTime": 1005900,
-    "count": 270
+    "totalDistance": 3387900,
+    "totalMovingTime": 1039860,
+    "count": 280
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 165700.5,
+    "measuredDistanceKm": 165820,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Marcel Gehrer",
+        "athleteId": "135991683",
+        "activityId": "20380414697",
+        "name": "Lauf am Nachmittag",
+        "date": "September 29, 2026",
+        "distanceKm": 6.4,
+        "stats": [
+          "6.4 km",
+          "44:05",
+          "10 m"
+        ]
+      },
+      {
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20380566205",
+        "name": "Afternoon Walk",
+        "date": "September 29, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "1:03:27",
+          "126 m"
+        ]
+      },
+      {
+        "athlete": "Alois Petrausch",
+        "athleteId": "40799429",
+        "activityId": "20380270179",
+        "name": "Aqua Fitness im Klutenseebad",
+        "date": "September 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:26:03",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Daniel Stodden",
         "athleteId": "23274828",
@@ -124,55 +163,16 @@
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20379804711",
-        "name": "Course à pied dans l'après-midi",
+        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
+        "athleteId": "78581066",
+        "activityId": "20380535526",
+        "name": "Morgenausfahrt",
         "date": "September 29, 2026",
-        "distanceKm": 11,
+        "distanceKm": 163.6,
         "stats": [
-          "11.0 km",
-          "58:04",
-          "189 m"
-        ]
-      },
-      {
-        "athlete": "Werner Hunold",
-        "athleteId": "372952540",
-        "activityId": "20379661170",
-        "name": "Long time no see - Grundlagenlauf",
-        "date": "September 29, 2026",
-        "distanceKm": 7.8,
-        "stats": [
-          "7.8 km",
-          "47:01",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20379587133",
-        "name": "Afternoon Run",
-        "date": "September 29, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "51:15",
-          "137 m"
-        ]
-      },
-      {
-        "athlete": "Marcel Eisenreich",
-        "athleteId": "203408258",
-        "activityId": "20379449722",
-        "name": "Morning Hike",
-        "date": "September 29, 2026",
-        "distanceKm": 23.8,
-        "stats": [
-          "23.8 km",
-          "7:29:30",
-          "766 m"
+          "163.6 km",
+          "7:09:25",
+          "1,968 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 181497.5
+      "totalWithEstimatesKm": 181617
     }
   }
 }

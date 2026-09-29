@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T11:30:44.569Z",
+  "generatedAt": "2026-09-29T12:00:55.376Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T11:30:44.569Z",
+  "memberCountUpdatedAt": "2026-09-29T12:00:55.376Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 223,
-    "distanceKm": 2404.3,
-    "elevationM": 19320,
-    "movingSeconds": 787620,
+    "activities": 226,
+    "distanceKm": 2407,
+    "elevationM": 19381,
+    "movingSeconds": 796560,
     "raw": {
-      "activities": "223",
-      "distance": "2,404.3 km",
-      "time": "218 h 47 m",
-      "elevation": "19,320 m"
+      "activities": "226",
+      "distance": "2,407.0 km",
+      "time": "221 h 16 m",
+      "elevation": "19,381 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Jenny Heitschötter",
+      "athleteId": "769523801",
+      "activityId": "20376897722",
+      "name": "Treppenstepper am Nachmittag",
+      "date": "September 29, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "36:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
       "athleteId": "51333291",
@@ -48,7 +61,7 @@
       "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
       "athleteId": "129712916",
       "activityId": "20375964124",
-      "name": "Mittagsradfahrt",
+      "name": "Mittagsradfahrt gemütlich rollend",
       "date": "September 29, 2026",
       "distanceKm": 39.1,
       "stats": [
@@ -69,19 +82,6 @@
         "2:09:22",
         "251 m"
       ]
-    },
-    {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "20375587028",
-      "name": "Ciclismo mattutino",
-      "date": "September 29, 2026",
-      "distanceKm": 51.2,
-      "stats": [
-        "51.2 km",
-        "2:38:26",
-        "28 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41828.3,
-  "totalDistanceKm": 164836.4,
+  "observedWeeksKm": 41831,
+  "totalDistanceKm": 164839.1,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180633.4
+    "totalWithEstimatesKm": 180636.1
   }
 }

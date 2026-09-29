@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T15:00:57.409Z",
+  "generatedAt": "2026-09-29T15:30:46.782Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T15:00:57.409Z",
+  "memberCountUpdatedAt": "2026-09-29T15:30:46.782Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 260,
-    "distanceKm": 3064.6,
-    "elevationM": 23257,
-    "movingSeconds": 950460,
+    "activities": 262,
+    "distanceKm": 3099.6,
+    "elevationM": 24185,
+    "movingSeconds": 975240,
     "raw": {
-      "activities": "260",
-      "distance": "3,064.6 km",
-      "time": "264 h 1 m",
-      "elevation": "23,257 m"
+      "activities": "262",
+      "distance": "3,099.6 km",
+      "time": "270 h 54 m",
+      "elevation": "24,185 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Werner Hunold",
+      "athleteId": "372952540",
+      "activityId": "20379661170",
+      "name": "Lauf am Nachmittag",
+      "date": "September 29, 2026",
+      "distanceKm": 7.8,
+      "stats": [
+        "7.8 km",
+        "47:01",
+        "25 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -32,42 +45,16 @@
       ]
     },
     {
-      "athlete": "Nujaim Noorahdheen",
-      "athleteId": "191343444",
-      "activityId": "20379166459",
-      "name": "Evening Run",
+      "athlete": "Norick Maurer",
+      "athleteId": "107445415",
+      "activityId": "20379587133",
+      "name": "Afternoon Run",
       "date": "September 29, 2026",
-      "distanceKm": 5,
+      "distanceKm": 8,
       "stats": [
-        "5.0 km",
-        "33:50",
-        "3 m"
-      ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20378864505",
-      "name": "Afternoon Walk",
-      "date": "September 29, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "22:02",
-        "4 m"
-      ]
-    },
-    {
-      "athlete": "André Brune",
-      "athleteId": "4536289",
-      "activityId": "20378995778",
-      "name": "Fahrt am Nachmittag ☁",
-      "date": "September 29, 2026",
-      "distanceKm": 24.4,
-      "stats": [
-        "24.4 km",
-        "55:49",
-        "40 m"
+        "8.0 km",
+        "51:15",
+        "137 m"
       ]
     },
     {
@@ -82,6 +69,19 @@
         "4:25:50",
         "78 m"
       ]
+    },
+    {
+      "athlete": "Marcel Eisenreich",
+      "athleteId": "203408258",
+      "activityId": "20379449722",
+      "name": "Morning Hike",
+      "date": "September 29, 2026",
+      "distanceKm": 23.8,
+      "stats": [
+        "23.8 km",
+        "7:29:30",
+        "766 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 42488.6,
-  "totalDistanceKm": 165496.7,
+  "observedWeeksKm": 42523.6,
+  "totalDistanceKm": 165531.7,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 181293.7
+    "totalWithEstimatesKm": 181328.7
   }
 }

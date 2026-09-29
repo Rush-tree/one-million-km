@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T15:00:57.409Z",
+  "generatedAt": "2026-09-29T15:30:46.782Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 818706,
+    "remainingKm": 818671,
     "percentComplete": 18.13,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3064.6,
-    "thisWeekActivities": 260,
-    "thisWeekHours": 264,
-    "thisWeekElevationM": 23257,
+    "thisWeekKm": 3099.6,
+    "thisWeekActivities": 262,
+    "thisWeekHours": 271,
+    "thisWeekElevationM": 24185,
     "timesAroundEarth": 4.52,
     "percentToMoon": 47.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15149,
+  "totalActivities": 15151,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 181293700,
-    "totalMovingTime": 51694247,
-    "totalElevation": 1310133.6
+    "totalDistance": 181328700,
+    "totalMovingTime": 51719027,
+    "totalElevation": 1311061.6
   },
   "monthStats": {
-    "totalDistance": 42488600,
-    "totalMovingTime": 12208020,
+    "totalDistance": 42523600,
+    "totalMovingTime": 12232800,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3064600,
-    "totalMovingTime": 950460,
-    "count": 260
+    "totalDistance": 3099600,
+    "totalMovingTime": 975240,
+    "count": 262
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 165496.7,
+    "measuredDistanceKm": 165531.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Werner Hunold",
+        "athleteId": "372952540",
+        "activityId": "20379661170",
+        "name": "Lauf am Nachmittag",
+        "date": "September 29, 2026",
+        "distanceKm": 7.8,
+        "stats": [
+          "7.8 km",
+          "47:01",
+          "25 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -124,42 +137,16 @@
         ]
       },
       {
-        "athlete": "Nujaim Noorahdheen",
-        "athleteId": "191343444",
-        "activityId": "20379166459",
-        "name": "Evening Run",
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20379587133",
+        "name": "Afternoon Run",
         "date": "September 29, 2026",
-        "distanceKm": 5,
+        "distanceKm": 8,
         "stats": [
-          "5.0 km",
-          "33:50",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20378864505",
-        "name": "Afternoon Walk",
-        "date": "September 29, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "22:02",
-          "4 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20378995778",
-        "name": "Fahrt am Nachmittag ☁",
-        "date": "September 29, 2026",
-        "distanceKm": 24.4,
-        "stats": [
-          "24.4 km",
-          "55:49",
-          "40 m"
+          "8.0 km",
+          "51:15",
+          "137 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "11.1 km",
           "4:25:50",
           "78 m"
+        ]
+      },
+      {
+        "athlete": "Marcel Eisenreich",
+        "athleteId": "203408258",
+        "activityId": "20379449722",
+        "name": "Morning Hike",
+        "date": "September 29, 2026",
+        "distanceKm": 23.8,
+        "stats": [
+          "23.8 km",
+          "7:29:30",
+          "766 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 181293.7
+      "totalWithEstimatesKm": 181328.7
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-28T23:30:43.292Z",
+  "generatedAt": "2026-09-29T00:00:56.499Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-28T23:30:43.292Z",
+  "memberCountUpdatedAt": "2026-09-29T00:00:56.499Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 160,
-    "distanceKm": 1795.1,
-    "elevationM": 15453,
-    "movingSeconds": 591060,
+    "activities": 162,
+    "distanceKm": 1801.3,
+    "elevationM": 15514,
+    "movingSeconds": 601800,
     "raw": {
-      "activities": "160",
-      "distance": "1,795.1 km",
-      "time": "164 h 11 m",
-      "elevation": "15,453 m"
+      "activities": "162",
+      "distance": "1,801.3 km",
+      "time": "167 h 10 m",
+      "elevation": "15,514 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20371136784",
+      "name": "Musculação ao entardecer",
+      "date": "September 28, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:41:49",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -69,19 +82,6 @@
         "1:10:34",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Dirk Mang",
-      "athleteId": "60711719",
-      "activityId": "20368769705",
-      "name": "Abendwanderung",
-      "date": "September 28, 2026",
-      "distanceKm": 0.5,
-      "stats": [
-        "0.5 km",
-        "48:02",
-        "4 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41219.1,
-  "totalDistanceKm": 164227.2,
+  "observedWeeksKm": 41225.3,
+  "totalDistanceKm": 164233.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180024.2
+    "totalWithEstimatesKm": 180030.4
   }
 }

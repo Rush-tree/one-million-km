@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T10:30:45.294Z",
+  "generatedAt": "2026-09-29T11:00:53.712Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819478,
-    "percentComplete": 18.05,
+    "remainingKm": 819422,
+    "percentComplete": 18.06,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2292.9,
-    "thisWeekActivities": 217,
-    "thisWeekHours": 213,
-    "thisWeekElevationM": 18614,
-    "timesAroundEarth": 4.5,
+    "thisWeekKm": 2349.2,
+    "thisWeekActivities": 221,
+    "thisWeekHours": 216,
+    "thisWeekElevationM": 18998,
+    "timesAroundEarth": 4.51,
     "percentToMoon": 47,
     "comparisons": [
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 27.1,
-        "text": "27.1× the length of the Nile",
+        "value": 27.2,
+        "text": "27.2× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15112,
+  "totalActivities": 15116,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180522000,
-    "totalMovingTime": 51511667,
-    "totalElevation": 1305490.6
+    "totalDistance": 180578300,
+    "totalMovingTime": 51520667,
+    "totalElevation": 1305874.6
   },
   "monthStats": {
-    "totalDistance": 41716900,
-    "totalMovingTime": 12025440,
+    "totalDistance": 41773200,
+    "totalMovingTime": 12034440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2292900,
-    "totalMovingTime": 767880,
-    "count": 217
+    "totalDistance": 2349200,
+    "totalMovingTime": 776880,
+    "count": 221
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 164725,
+    "measuredDistanceKm": 164781.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20375964124",
+        "name": "Mittagsradfahrt",
+        "date": "September 29, 2026",
+        "distanceKm": 39.1,
+        "stats": [
+          "39.1 km",
+          "1:11:28",
+          "237 m"
+        ]
+      },
       {
         "athlete": "Alfonso Contreras Calderón",
         "athleteId": "123434994",
@@ -121,19 +134,6 @@
           "0 km",
           "51:58",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20374799116",
-        "name": "Pedalada matinal",
-        "date": "September 29, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "18:19",
-          "22 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180522
+      "totalWithEstimatesKm": 180578.3
     }
   }
 }

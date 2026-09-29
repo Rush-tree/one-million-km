@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T00:00:56.499Z",
+  "generatedAt": "2026-09-29T00:30:42.115Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T00:00:56.499Z",
+  "memberCountUpdatedAt": "2026-09-29T00:30:42.115Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 162,
-    "distanceKm": 1801.3,
-    "elevationM": 15514,
-    "movingSeconds": 601800,
+    "activities": 163,
+    "distanceKm": 1805.3,
+    "elevationM": 15541,
+    "movingSeconds": 602820,
     "raw": {
-      "activities": "162",
-      "distance": "1,801.3 km",
-      "time": "167 h 10 m",
-      "elevation": "15,514 m"
+      "activities": "163",
+      "distance": "1,805.3 km",
+      "time": "167 h 27 m",
+      "elevation": "15,541 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20371376147",
+      "name": "Pedalada ao entardecer",
+      "date": "September 28, 2026",
+      "distanceKm": 3.9,
+      "stats": [
+        "3.9 km",
+        "21:25",
+        "27 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -69,19 +82,6 @@
         "51:55",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Domenic Winges",
-      "athleteId": "179823094",
-      "activityId": "20369353800",
-      "name": "Gewichtstraining in der Nacht",
-      "date": "September 28, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:10:34",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41225.3,
-  "totalDistanceKm": 164233.4,
+  "observedWeeksKm": 41229.3,
+  "totalDistanceKm": 164237.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180030.4
+    "totalWithEstimatesKm": 180034.4
   }
 }

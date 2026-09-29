@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T03:30:44.058Z",
+  "generatedAt": "2026-09-29T04:00:54.291Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819846,
+    "remainingKm": 819785,
     "percentComplete": 18.02,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1924.9,
-    "thisWeekActivities": 168,
-    "thisWeekHours": 175,
-    "thisWeekElevationM": 15919,
+    "thisWeekKm": 1986.4,
+    "thisWeekActivities": 170,
+    "thisWeekHours": 178,
+    "thisWeekElevationM": 16079,
     "timesAroundEarth": 4.5,
     "percentToMoon": 46.9,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 13.6,
-        "text": "13.6× the German autobahn network",
+        "value": 13.7,
+        "text": "13.7× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15055,
+  "totalActivities": 15056,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180154000,
-    "totalMovingTime": 51372527,
-    "totalElevation": 1302795.6
+    "totalDistance": 180215500,
+    "totalMovingTime": 51383387,
+    "totalElevation": 1302955.6
   },
   "monthStats": {
-    "totalDistance": 41348900,
-    "totalMovingTime": 11886300,
+    "totalDistance": 41410400,
+    "totalMovingTime": 11897160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1924900,
-    "totalMovingTime": 628740,
-    "count": 168
+    "totalDistance": 1986400,
+    "totalMovingTime": 639600,
+    "count": 170
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 164357,
+    "measuredDistanceKm": 164418.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -114,13 +114,26 @@
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "20372727005",
-        "name": "Gravel",
+        "name": "Pendel Work",
         "date": "September 29, 2026",
         "distanceKm": 6.5,
         "stats": [
           "6.5 km",
           "14:42",
           "16 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20372840458",
+        "name": "Tuesday Morning Activity",
+        "date": "September 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "7:27",
+          "0 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20371376147",
-        "name": "Pedalada ao entardecer",
-        "date": "September 28, 2026",
-        "distanceKm": 3.9,
-        "stats": [
-          "3.9 km",
-          "21:25",
-          "27 m"
-        ]
-      },
-      {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
-        "activityId": "20372508014",
+        "activityId": "20372872781",
         "name": "⛅ Tuesday Morning Ride",
         "date": "September 29, 2026",
-        "distanceKm": 61.5,
+        "distanceKm": 61.4,
         "stats": [
-          "61.5 km",
-          "3:04:07",
-          "167 m"
+          "61.4 km",
+          "3:05:07",
+          "160 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180154
+      "totalWithEstimatesKm": 180215.5
     }
   }
 }

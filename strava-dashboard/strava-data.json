@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T12:00:55.376Z",
+  "generatedAt": "2026-09-29T12:30:50.092Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819364,
-    "percentComplete": 18.06,
+    "remainingKm": 819237,
+    "percentComplete": 18.08,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2407,
-    "thisWeekActivities": 226,
-    "thisWeekHours": 221,
-    "thisWeekElevationM": 19381,
+    "thisWeekKm": 2534.1,
+    "thisWeekActivities": 231,
+    "thisWeekHours": 227,
+    "thisWeekElevationM": 19523,
     "timesAroundEarth": 4.51,
     "percentToMoon": 47,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15121,
+  "totalActivities": 15124,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180636100,
-    "totalMovingTime": 51540347,
-    "totalElevation": 1306257.6
+    "totalDistance": 180763200,
+    "totalMovingTime": 51560807,
+    "totalElevation": 1306399.6
   },
   "monthStats": {
-    "totalDistance": 41831000,
-    "totalMovingTime": 12054120,
+    "totalDistance": 41958100,
+    "totalMovingTime": 12074580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2407000,
-    "totalMovingTime": 796560,
-    "count": 226
+    "totalDistance": 2534100,
+    "totalMovingTime": 817020,
+    "count": 231
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 164839.1,
+    "measuredDistanceKm": 164966.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Josué González",
+        "athleteId": "178408867",
+        "activityId": "20377374405",
+        "name": "MMMX 🇲🇽 MORNING EASY 🏃‍♂️",
+        "date": "September 29, 2026",
+        "distanceKm": 7.4,
+        "stats": [
+          "7.4 km",
+          "44:06",
+          "25 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20377392989",
+        "name": "Finale Marathonvorbereitung - Tempo",
+        "date": "September 29, 2026",
+        "distanceKm": 11,
+        "stats": [
+          "11.0 km",
+          "51:48",
+          "46 m"
+        ]
+      },
       {
         "athlete": "Jenny Heitschötter",
         "athleteId": "769523801",
@@ -124,16 +150,16 @@
         ]
       },
       {
-        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
-        "athleteId": "51333291",
-        "activityId": "20376445196",
-        "name": "Mittagsradfahrt",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20377164359",
+        "name": "🌬️🌬️ Lunch 🥪 Ride 🚴",
         "date": "September 29, 2026",
-        "distanceKm": 27.6,
+        "distanceKm": 10.4,
         "stats": [
-          "27.6 km",
-          "1:29:07",
-          "248 m"
+          "10.4 km",
+          "54:52",
+          "64 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "27.3 km",
           "1:54:26",
           "74 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20375964124",
-        "name": "Mittagsradfahrt gemütlich rollend",
-        "date": "September 29, 2026",
-        "distanceKm": 39.1,
-        "stats": [
-          "39.1 km",
-          "1:11:28",
-          "237 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20375687201",
-        "name": "Fahrt am Morgen",
-        "date": "September 29, 2026",
-        "distanceKm": 54.3,
-        "stats": [
-          "54.3 km",
-          "2:09:22",
-          "251 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180636.1
+      "totalWithEstimatesKm": 180763.2
     }
   }
 }

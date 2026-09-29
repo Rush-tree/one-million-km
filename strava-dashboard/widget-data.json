@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-09-29T05:00:54.817Z",
+  "generatedAt": "2026-09-29T05:30:46.925Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T05:00:54.816Z",
+  "memberCountUpdatedAt": "2026-09-29T05:30:46.924Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 179,
-    "distanceKm": 2012.7,
-    "elevationM": 16167,
-    "movingSeconds": 662820,
+    "activities": 190,
+    "distanceKm": 2065.6,
+    "elevationM": 16591,
+    "movingSeconds": 685200,
     "raw": {
-      "activities": "179",
-      "distance": "2,012.7 km",
-      "time": "184 h 7 m",
-      "elevation": "16,167 m"
+      "activities": "190",
+      "distance": "2,065.6 km",
+      "time": "190 h 20 m",
+      "elevation": "16,591 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20373217162",
+      "name": "Allenamento mattutino",
+      "date": "September 29, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "21:09",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
       "activityId": "20373138862",
-      "name": "Yoga am Morgen",
+      "name": "Mobi und Stabi für den Start in den Tag …",
       "date": "September 29, 2026",
       "distanceKm": 0,
       "stats": [
@@ -69,19 +82,6 @@
         "1:04:39",
         "15 m"
       ]
-    },
-    {
-      "athlete": "Jara Baumann",
-      "athleteId": "32588016",
-      "activityId": "20373094841",
-      "name": "Morning HIIT",
-      "date": "September 29, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:15:00",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41436.7,
-  "totalDistanceKm": 164444.8,
+  "observedWeeksKm": 41489.6,
+  "totalDistanceKm": 164497.7,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180241.8
+    "totalWithEstimatesKm": 180294.7
   }
 }

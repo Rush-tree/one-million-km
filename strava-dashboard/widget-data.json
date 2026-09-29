@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T08:48:32.061Z",
+  "generatedAt": "2026-09-29T09:00:56.574Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T08:48:32.061Z",
+  "memberCountUpdatedAt": "2026-09-29T09:00:56.574Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 205,
-    "distanceKm": 2159.1,
-    "elevationM": 18160,
-    "movingSeconds": 723720,
+    "activities": 206,
+    "distanceKm": 2164.3,
+    "elevationM": 18182,
+    "movingSeconds": 724740,
     "raw": {
-      "activities": "205",
-      "distance": "2,159.1 km",
-      "time": "201 h 2 m",
-      "elevation": "18,160 m"
+      "activities": "206",
+      "distance": "2,164.3 km",
+      "time": "201 h 19 m",
+      "elevation": "18,182 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20374799116",
+      "name": "Pedalada matinal",
+      "date": "September 29, 2026",
+      "distanceKm": 5.1,
+      "stats": [
+        "5.1 km",
+        "18:19",
+        "22 m"
+      ]
+    },
     {
       "athlete": "Reynaldo Guerra",
       "athleteId": "59804669",
@@ -69,19 +82,6 @@
         "1:07:04",
         "289 m"
       ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20373660055",
-      "name": "Morning Ride",
-      "date": "September 29, 2026",
-      "distanceKm": 4.5,
-      "stats": [
-        "4.5 km",
-        "16:18",
-        "51 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41583.1,
-  "totalDistanceKm": 164591.2,
+  "observedWeeksKm": 41588.3,
+  "totalDistanceKm": 164596.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180388.2
+    "totalWithEstimatesKm": 180393.4
   }
 }

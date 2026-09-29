@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T06:00:54.655Z",
+  "generatedAt": "2026-09-29T06:30:43.657Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T06:00:54.655Z",
+  "memberCountUpdatedAt": "2026-09-29T06:30:43.657Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 193,
-    "distanceKm": 2075.3,
-    "elevationM": 16654,
-    "movingSeconds": 690480,
+    "activities": 197,
+    "distanceKm": 2113.8,
+    "elevationM": 17572,
+    "movingSeconds": 704280,
     "raw": {
-      "activities": "193",
-      "distance": "2,075.3 km",
-      "time": "191 h 48 m",
-      "elevation": "16,654 m"
+      "activities": "197",
+      "distance": "2,113.8 km",
+      "time": "195 h 38 m",
+      "elevation": "17,572 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20373660055",
+      "name": "Morning Ride",
+      "date": "September 29, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "16:18",
+        "51 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -29,6 +42,19 @@
         "6.8 km",
         "17:47",
         "9 m"
+      ]
+    },
+    {
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20373604486",
+      "name": "Morning Walk",
+      "date": "September 29, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "1:01:12",
+        "63 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "40:24",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20373513575",
-      "name": "Morning Walk",
-      "date": "September 29, 2026",
-      "distanceKm": 2.9,
-      "stats": [
-        "2.9 km",
-        "31:14",
-        "54 m"
-      ]
-    },
-    {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20373138862",
-      "name": "Mobi und Stabi für den Start in den Tag …",
-      "date": "September 29, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "23:07",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41499.3,
-  "totalDistanceKm": 164507.4,
+  "observedWeeksKm": 41537.8,
+  "totalDistanceKm": 164545.9,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180304.4
+    "totalWithEstimatesKm": 180342.9
   }
 }

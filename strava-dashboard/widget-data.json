@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T03:00:52.074Z",
+  "generatedAt": "2026-09-29T03:30:44.058Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T03:00:52.073Z",
+  "memberCountUpdatedAt": "2026-09-29T03:30:44.058Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 165,
-    "distanceKm": 1866.8,
-    "elevationM": 15709,
-    "movingSeconds": 613620,
+    "activities": 168,
+    "distanceKm": 1924.9,
+    "elevationM": 15919,
+    "movingSeconds": 628740,
     "raw": {
-      "activities": "165",
-      "distance": "1,866.8 km",
-      "time": "170 h 27 m",
-      "elevation": "15,709 m"
+      "activities": "168",
+      "distance": "1,924.9 km",
+      "time": "174 h 39 m",
+      "elevation": "15,919 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20372727005",
+      "name": "Gravel",
+      "date": "September 29, 2026",
+      "distanceKm": 6.5,
+      "stats": [
+        "6.5 km",
+        "14:42",
+        "16 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -29,6 +42,19 @@
         "0 km",
         "6:12",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Meenu Nagori",
+      "athleteId": "69685863",
+      "activityId": "20372666603",
+      "name": "Morning Run",
+      "date": "September 29, 2026",
+      "distanceKm": 10.1,
+      "stats": [
+        "10.1 km",
+        "1:56:34",
+        "69 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "3:04:07",
         "167 m"
       ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20371136784",
-      "name": "Musculação ao entardecer",
-      "date": "September 28, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:41:49",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "20370434107",
-      "name": "Pedalada ao entardecer",
-      "date": "September 28, 2026",
-      "distanceKm": 20,
-      "stats": [
-        "20.0 km",
-        "58:07",
-        "261 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41290.8,
-  "totalDistanceKm": 164298.9,
+  "observedWeeksKm": 41348.9,
+  "totalDistanceKm": 164357,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180095.9
+    "totalWithEstimatesKm": 180154
   }
 }

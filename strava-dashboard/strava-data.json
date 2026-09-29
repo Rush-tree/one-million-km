@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T05:30:46.925Z",
+  "generatedAt": "2026-09-29T06:00:54.655Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819705,
+    "remainingKm": 819696,
     "percentComplete": 18.03,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2065.6,
-    "thisWeekActivities": 190,
-    "thisWeekHours": 190,
-    "thisWeekElevationM": 16591,
+    "thisWeekKm": 2075.3,
+    "thisWeekActivities": 193,
+    "thisWeekHours": 192,
+    "thisWeekElevationM": 16654,
     "timesAroundEarth": 4.5,
     "percentToMoon": 46.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15082,
+  "totalActivities": 15086,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180294700,
-    "totalMovingTime": 51428987,
-    "totalElevation": 1303467.6
+    "totalDistance": 180304400,
+    "totalMovingTime": 51434267,
+    "totalElevation": 1303530.6
   },
   "monthStats": {
-    "totalDistance": 41489600,
-    "totalMovingTime": 11942760,
+    "totalDistance": 41499300,
+    "totalMovingTime": 11948040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2065600,
-    "totalMovingTime": 685200,
-    "count": 190
+    "totalDistance": 2075300,
+    "totalMovingTime": 690480,
+    "count": 193
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 164497.7,
+    "measuredDistanceKm": 164507.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20373516128",
+        "name": "Morning Commuting 👔 Ride 🚴",
+        "date": "September 29, 2026",
+        "distanceKm": 6.8,
+        "stats": [
+          "6.8 km",
+          "17:47",
+          "9 m"
+        ]
+      },
       {
         "athlete": "Silvio Lazzarin",
         "athleteId": "139275594",
@@ -124,6 +137,32 @@
         ]
       },
       {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20373497408",
+        "name": "Yoga am Morgen",
+        "date": "September 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "40:24",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20373513575",
+        "name": "Morning Walk",
+        "date": "September 29, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "31:14",
+          "54 m"
+        ]
+      },
+      {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
         "activityId": "20373138862",
@@ -134,45 +173,6 @@
           "0 km",
           "23:07",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20373116782",
-        "name": "Morning Run",
-        "date": "September 29, 2026",
-        "distanceKm": 6.2,
-        "stats": [
-          "6.2 km",
-          "38:35",
-          "13 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20373105502",
-        "name": "Morgenausfahrt ☁",
-        "date": "September 29, 2026",
-        "distanceKm": 22.1,
-        "stats": [
-          "22.1 km",
-          "50:11",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20373031319",
-        "name": "Corsa mattutina",
-        "date": "September 29, 2026",
-        "distanceKm": 14.2,
-        "stats": [
-          "14.2 km",
-          "1:04:39",
-          "15 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180294.7
+      "totalWithEstimatesKm": 180304.4
     }
   }
 }

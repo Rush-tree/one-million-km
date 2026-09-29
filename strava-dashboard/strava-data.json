@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T07:30:53.236Z",
+  "generatedAt": "2026-09-29T08:00:56.370Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819631,
+    "remainingKm": 819620,
     "percentComplete": 18.04,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2139.5,
-    "thisWeekActivities": 201,
-    "thisWeekHours": 198,
-    "thisWeekElevationM": 17814,
+    "thisWeekKm": 2150.7,
+    "thisWeekActivities": 202,
+    "thisWeekHours": 199,
+    "thisWeekElevationM": 18103,
     "timesAroundEarth": 4.5,
     "percentToMoon": 46.9,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 28.2,
-        "text": "28.2 return trips Berlin to New York",
+        "value": 28.3,
+        "text": "28.3 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15095,
+  "totalActivities": 15096,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180368600,
-    "totalMovingTime": 51457607,
-    "totalElevation": 1304690.6
+    "totalDistance": 180379800,
+    "totalMovingTime": 51461567,
+    "totalElevation": 1304979.6
   },
   "monthStats": {
-    "totalDistance": 41563500,
-    "totalMovingTime": 11971380,
+    "totalDistance": 41574700,
+    "totalMovingTime": 11975340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2139500,
-    "totalMovingTime": 713820,
-    "count": 201
+    "totalDistance": 2150700,
+    "totalMovingTime": 717780,
+    "count": 202
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 164571.6,
+    "measuredDistanceKm": 164582.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20374402372",
+        "name": "Traillauf am Morgen",
+        "date": "September 29, 2026",
+        "distanceKm": 11.2,
+        "stats": [
+          "11.2 km",
+          "1:07:04",
+          "289 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -161,19 +174,6 @@
           "1:01:12",
           "63 m"
         ]
-      },
-      {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20373497408",
-        "name": "Yoga am Morgen",
-        "date": "September 29, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "40:24",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180368.6
+      "totalWithEstimatesKm": 180379.8
     }
   }
 }

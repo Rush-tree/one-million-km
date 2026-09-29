@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-29T07:30:53.236Z",
+  "generatedAt": "2026-09-29T08:00:56.370Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-29T07:30:53.236Z",
+  "memberCountUpdatedAt": "2026-09-29T08:00:56.370Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 201,
-    "distanceKm": 2139.5,
-    "elevationM": 17814,
-    "movingSeconds": 713820,
+    "activities": 202,
+    "distanceKm": 2150.7,
+    "elevationM": 18103,
+    "movingSeconds": 717780,
     "raw": {
-      "activities": "201",
-      "distance": "2,139.5 km",
-      "time": "198 h 17 m",
-      "elevation": "17,814 m"
+      "activities": "202",
+      "distance": "2,150.7 km",
+      "time": "199 h 23 m",
+      "elevation": "18,103 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20374402372",
+      "name": "Traillauf am Morgen",
+      "date": "September 29, 2026",
+      "distanceKm": 11.2,
+      "stats": [
+        "11.2 km",
+        "1:07:04",
+        "289 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -69,19 +82,6 @@
         "1:01:12",
         "63 m"
       ]
-    },
-    {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20373497408",
-      "name": "Yoga am Morgen",
-      "date": "September 29, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "40:24",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 41563.5,
-  "totalDistanceKm": 164571.6,
+  "observedWeeksKm": 41574.7,
+  "totalDistanceKm": 164582.8,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 180368.6
+    "totalWithEstimatesKm": 180379.8
   }
 }

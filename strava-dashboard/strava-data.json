@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-29T02:30:41.796Z",
+  "generatedAt": "2026-09-29T03:00:52.074Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 819966,
-    "percentComplete": 18,
+    "remainingKm": 819904,
+    "percentComplete": 18.01,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1805.3,
-    "thisWeekActivities": 163,
-    "thisWeekHours": 167,
-    "thisWeekElevationM": 15541,
+    "thisWeekKm": 1866.8,
+    "thisWeekActivities": 165,
+    "thisWeekHours": 170,
+    "thisWeekElevationM": 15709,
     "timesAroundEarth": 4.49,
-    "percentToMoon": 46.8,
+    "percentToMoon": 46.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 46.8,
-        "text": "46.8% of the way to the Moon",
+        "value": 46.9,
+        "text": "46.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15052,
+  "totalActivities": 15053,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 180034400,
-    "totalMovingTime": 51346607,
-    "totalElevation": 1302417.6
+    "totalDistance": 180095900,
+    "totalMovingTime": 51357407,
+    "totalElevation": 1302585.6
   },
   "monthStats": {
-    "totalDistance": 41229300,
-    "totalMovingTime": 11860380,
+    "totalDistance": 41290800,
+    "totalMovingTime": 11871180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1805300,
-    "totalMovingTime": 602820,
-    "count": 163
+    "totalDistance": 1866800,
+    "totalMovingTime": 613620,
+    "count": 165
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 164237.4,
+    "measuredDistanceKm": 164298.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20372564150",
+        "name": "Morning Activity",
+        "date": "September 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "6:12",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -121,6 +134,19 @@
           "3.9 km",
           "21:25",
           "27 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20372508014",
+        "name": "⛅ Tuesday Morning Ride",
+        "date": "September 29, 2026",
+        "distanceKm": 61.5,
+        "stats": [
+          "61.5 km",
+          "3:04:07",
+          "167 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "58:07",
           "261 m"
         ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20371028427",
-        "name": "Pedalada ao entardecer",
-        "date": "September 28, 2026",
-        "distanceKm": 3.8,
-        "stats": [
-          "3.8 km",
-          "25:43",
-          "37 m"
-        ]
-      },
-      {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20369611117",
-        "name": "Musculação vespertina",
-        "date": "September 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "51:55",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 180034.4
+      "totalWithEstimatesKm": 180095.9
     }
   }
 }

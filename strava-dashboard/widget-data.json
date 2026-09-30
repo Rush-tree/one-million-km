@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-30T06:30:44.367Z",
+  "generatedAt": "2026-09-30T06:59:56.834Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-30T06:30:44.367Z",
+  "memberCountUpdatedAt": "2026-09-30T06:59:56.833Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 397,
-    "distanceKm": 4817.9,
-    "elevationM": 37975,
-    "movingSeconds": 1423980,
+    "activities": 399,
+    "distanceKm": 4837.9,
+    "elevationM": 38173,
+    "movingSeconds": 1430760,
     "raw": {
-      "activities": "397",
-      "distance": "4,817.9 km",
-      "time": "395 h 33 m",
-      "elevation": "37,975 m"
+      "activities": "399",
+      "distance": "4,837.9 km",
+      "time": "397 h 26 m",
+      "elevation": "38,173 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cathi Caesar",
+      "athleteId": "74482280",
+      "activityId": "20388668150",
+      "name": "2k - 1k 4.50 - 2x2k 4.55 - 1k 4.40 - auslaufen",
+      "date": "September 30, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "52:12",
+        "30 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Louis Mwanja",
-      "athleteId": "14992965",
-      "activityId": "20388169084",
-      "name": "Morning Run",
+      "athlete": "Rainer Gatzmaga",
+      "athleteId": "119550686",
+      "activityId": "20388616126",
+      "name": "Hill-Reps",
       "date": "September 30, 2026",
-      "distanceKm": 4,
+      "distanceKm": 10,
       "stats": [
-        "4.0 km",
-        "42:16",
-        "85 m"
-      ]
-    },
-    {
-      "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
-      "athleteId": "24992941",
-      "activityId": "20388126222",
-      "name": "🏃🏻‍♂️Running to the Sun🏃🏻‍♂️",
-      "date": "September 30, 2026",
-      "distanceKm": 9,
-      "stats": [
-        "9.0 km",
-        "52:26",
-        "3 m"
+        "10.0 km",
+        "1:18:11",
+        "168 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 44241.9,
-  "totalDistanceKm": 167250,
+  "observedWeeksKm": 44261.9,
+  "totalDistanceKm": 167270,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 183047
+    "totalWithEstimatesKm": 183067
   }
 }

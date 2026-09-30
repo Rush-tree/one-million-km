@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-30T08:00:55.620Z",
+  "generatedAt": "2026-09-30T08:30:45.786Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-30T08:00:55.620Z",
+  "memberCountUpdatedAt": "2026-09-30T08:30:45.786Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 402,
-    "distanceKm": 4858.6,
-    "elevationM": 39003,
-    "movingSeconds": 1449540,
+    "activities": 404,
+    "distanceKm": 4861.1,
+    "elevationM": 39104,
+    "movingSeconds": 1453800,
     "raw": {
-      "activities": "402",
-      "distance": "4,858.6 km",
-      "time": "402 h 39 m",
-      "elevation": "39,003 m"
+      "activities": "404",
+      "distance": "4,861.1 km",
+      "time": "403 h 50 m",
+      "elevation": "39,104 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20389429385",
+      "name": "Morning Workout",
+      "date": "September 30, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "59:05",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20388254729",
-      "name": "Morning Yoga 🌖",
-      "date": "September 30, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "24:23",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Rainer Gatzmaga",
       "athleteId": "119550686",
       "activityId": "20388616126",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 44282.6,
-  "totalDistanceKm": 167290.7,
+  "observedWeeksKm": 44285.1,
+  "totalDistanceKm": 167293.2,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 183087.7
+    "totalWithEstimatesKm": 183090.2
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-30T09:30:47.491Z",
+  "generatedAt": "2026-09-30T10:00:55.374Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-30T09:30:47.491Z",
+  "memberCountUpdatedAt": "2026-09-30T10:00:55.374Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 408,
-    "distanceKm": 4924.3,
-    "elevationM": 39458,
-    "movingSeconds": 1468380,
+    "activities": 416,
+    "distanceKm": 4948.4,
+    "elevationM": 39767,
+    "movingSeconds": 1482180,
     "raw": {
-      "activities": "408",
-      "distance": "4,924.3 km",
-      "time": "407 h 53 m",
-      "elevation": "39,458 m"
+      "activities": "416",
+      "distance": "4,948.4 km",
+      "time": "411 h 43 m",
+      "elevation": "39,767 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20389948344",
+      "name": "Lunch Walk",
+      "date": "September 30, 2026",
+      "distanceKm": 0.4,
+      "stats": [
+        "0.4 km",
+        "16:55",
+        "2 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -29,6 +42,19 @@
         "1.4 km",
         "24:44",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Dirk Mang",
+      "athleteId": "60711719",
+      "activityId": "20390021337",
+      "name": "Lauf am Morgen",
+      "date": "September 30, 2026",
+      "distanceKm": 10.9,
+      "stats": [
+        "10.9 km",
+        "1:19:31",
+        "181 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:30:26",
         "163 m"
       ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20389429385",
-      "name": "Morning Workout",
-      "date": "September 30, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "59:05",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20388949333",
-      "name": "Spaziergang am Morgen",
-      "date": "September 30, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "47:11",
-        "83 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 44348.3,
-  "totalDistanceKm": 167356.4,
+  "observedWeeksKm": 44372.4,
+  "totalDistanceKm": 167380.5,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 183153.4
+    "totalWithEstimatesKm": 183177.5
   }
 }

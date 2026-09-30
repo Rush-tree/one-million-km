@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T11:30:43.256Z",
+  "generatedAt": "2026-09-30T12:00:54.746Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 816677,
-    "percentComplete": 18.33,
+    "remainingKm": 816636,
+    "percentComplete": 18.34,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 68.6,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 5093.8,
-    "thisWeekActivities": 421,
-    "thisWeekHours": 417,
-    "thisWeekElevationM": 39950,
-    "timesAroundEarth": 4.57,
+    "thisWeekKm": 5134.7,
+    "thisWeekActivities": 424,
+    "thisWeekHours": 419,
+    "thisWeekElevationM": 40169,
+    "timesAroundEarth": 4.58,
     "percentToMoon": 47.7,
     "comparisons": [
       {
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 8.6,
-        "text": "8.6× the Great Wall of China",
+        "value": 8.7,
+        "text": "8.7× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15311,
+  "totalActivities": 15314,
   "memberCount": 243,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 183322900,
-    "totalMovingTime": 52243487,
-    "totalElevation": 1326826.6
+    "totalDistance": 183363800,
+    "totalMovingTime": 52253927,
+    "totalElevation": 1327045.6
   },
   "monthStats": {
-    "totalDistance": 44517800,
-    "totalMovingTime": 12757260,
+    "totalDistance": 44558700,
+    "totalMovingTime": 12767700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5093800,
-    "totalMovingTime": 1499700,
-    "count": 421
+    "totalDistance": 5134700,
+    "totalMovingTime": 1510140,
+    "count": 424
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 167525.9,
+    "measuredDistanceKm": 167566.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,16 +137,29 @@
         ]
       },
       {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20389948344",
-        "name": "Lunch Walk",
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20391533796",
+        "name": "Mittagsradfahrt",
         "date": "September 30, 2026",
-        "distanceKm": 0.4,
+        "distanceKm": 14.1,
         "stats": [
-          "0.4 km",
-          "16:55",
-          "2 m"
+          "14.1 km",
+          "39:47",
+          "52 m"
+        ]
+      },
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20391585923",
+        "name": "Easy Run ☀️🍁🍂🏃‍♀️",
+        "date": "September 30, 2026",
+        "distanceKm": 15,
+        "stats": [
+          "15.0 km",
+          "1:41:56",
+          "51 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "10.9 km",
           "1:19:31",
           "181 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20389831133",
-        "name": "Zwift - Beach Island Loop in Watopia",
-        "date": "September 30, 2026",
-        "distanceKm": 43.2,
-        "stats": [
-          "43.2 km",
-          "1:30:26",
-          "163 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 183322.9
+      "totalWithEstimatesKm": 183363.8
     }
   }
 }

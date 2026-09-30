@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-09-30T09:00:57.286Z",
+  "generatedAt": "2026-09-30T09:30:47.491Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 243,
-  "memberCountUpdatedAt": "2026-09-30T09:00:57.286Z",
+  "memberCountUpdatedAt": "2026-09-30T09:30:47.491Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 405,
-    "distanceKm": 4873.3,
-    "elevationM": 39231,
-    "movingSeconds": 1456080,
+    "activities": 408,
+    "distanceKm": 4924.3,
+    "elevationM": 39458,
+    "movingSeconds": 1468380,
     "raw": {
-      "activities": "405",
-      "distance": "4,873.3 km",
-      "time": "404 h 28 m",
-      "elevation": "39,231 m"
+      "activities": "408",
+      "distance": "4,924.3 km",
+      "time": "407 h 53 m",
+      "elevation": "39,458 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20389729152",
+      "name": "Morning Walk",
+      "date": "September 30, 2026",
+      "distanceKm": 1.4,
+      "stats": [
+        "1.4 km",
+        "24:44",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -29,6 +42,19 @@
         "12.2 km",
         "37:08",
         "127 m"
+      ]
+    },
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20389831133",
+      "name": "Zwift - Beach Island Loop in Watopia",
+      "date": "September 30, 2026",
+      "distanceKm": 43.2,
+      "stats": [
+        "43.2 km",
+        "1:30:26",
+        "163 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "47:11",
         "83 m"
       ]
-    },
-    {
-      "athlete": "Cathi Caesar",
-      "athleteId": "74482280",
-      "activityId": "20388668150",
-      "name": "2k - 1k 4.50 - 2x2k 4.55 - 1k 4.40 - auslaufen",
-      "date": "September 30, 2026",
-      "distanceKm": 10,
-      "stats": [
-        "10.0 km",
-        "52:12",
-        "30 m"
-      ]
-    },
-    {
-      "athlete": "Rainer Gatzmaga",
-      "athleteId": "119550686",
-      "activityId": "20388616126",
-      "name": "Hill-Reps",
-      "date": "September 30, 2026",
-      "distanceKm": 10,
-      "stats": [
-        "10.0 km",
-        "1:18:11",
-        "168 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 44297.3,
-  "totalDistanceKm": 167305.4,
+  "observedWeeksKm": 44348.3,
+  "totalDistanceKm": 167356.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 183102.4
+    "totalWithEstimatesKm": 183153.4
   }
 }

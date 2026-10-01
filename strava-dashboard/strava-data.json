@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T15:01:04.046Z",
+  "generatedAt": "2026-10-01T15:30:51.054Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 814154,
-    "percentComplete": 18.58,
+    "remainingKm": 814097,
+    "percentComplete": 18.59,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 7617,
-    "thisWeekActivities": 622,
-    "thisWeekHours": 630,
-    "thisWeekElevationM": 58548,
+    "thisWeekKm": 7674,
+    "thisWeekActivities": 629,
+    "thisWeekHours": 636,
+    "thisWeekElevationM": 58822,
     "timesAroundEarth": 4.64,
-    "percentToMoon": 48.3,
+    "percentToMoon": 48.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 48.3,
-        "text": "48.3% of the way to the Moon",
+        "value": 48.4,
+        "text": "48.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 27.9,
-        "text": "27.9× the length of the Nile",
+        "value": 28,
+        "text": "28× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15513,
+  "totalActivities": 15521,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 185846100,
-    "totalMovingTime": 53012147,
-    "totalElevation": 1345424.6
+    "totalDistance": 185903100,
+    "totalMovingTime": 53034467,
+    "totalElevation": 1345698.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7617000,
-    "totalMovingTime": 2268360,
-    "count": 622
+    "totalDistance": 7674000,
+    "totalMovingTime": 2290680,
+    "count": 629
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 170049.1,
+    "measuredDistanceKm": 170106.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20408058813",
+        "name": "Afternoon Ride",
+        "date": "October 1, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "44:51",
+          "135 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20407607692",
-        "name": "Mountainbike-Fahrt zur Mittagszeit",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20408030526",
+        "name": "Afternoon Walk",
         "date": "October 1, 2026",
-        "distanceKm": 38.6,
+        "distanceKm": 5.1,
         "stats": [
-          "38.6 km",
-          "3:43:12",
-          "199 m"
+          "5.1 km",
+          "1:18:53",
+          "28 m"
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20407582988",
-        "name": "MTB Ausfahrt zum Schloss Moritzburg",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20408059713",
+        "name": "Stand-up-Paddeln am Nachmittag",
         "date": "October 1, 2026",
-        "distanceKm": 54.3,
+        "distanceKm": 11,
         "stats": [
-          "54.3 km",
-          "5:43:13",
-          "353 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20407560277",
-        "name": "Mountainbike-Fahrt am Morgen",
-        "date": "October 1, 2026",
-        "distanceKm": 53.3,
-        "stats": [
-          "53.3 km",
-          "5:45:27",
-          "283 m"
+          "11.0 km",
+          "1:20:46",
+          "25 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 185846.1
+      "totalWithEstimatesKm": 185903.1
     }
   }
 }

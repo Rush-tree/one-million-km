@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-01T15:01:04.046Z",
+  "generatedAt": "2026-10-01T15:30:51.054Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-01T15:01:04.046Z",
+  "memberCountUpdatedAt": "2026-10-01T15:30:51.054Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 622,
-    "distanceKm": 7617,
-    "elevationM": 58548,
-    "movingSeconds": 2268360,
+    "activities": 629,
+    "distanceKm": 7674,
+    "elevationM": 58822,
+    "movingSeconds": 2290680,
     "raw": {
-      "activities": "622",
-      "distance": "7,617.0 km",
-      "time": "630 h 6 m",
-      "elevation": "58,548 m"
+      "activities": "629",
+      "distance": "7,674.0 km",
+      "time": "636 h 18 m",
+      "elevation": "58,822 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20408058813",
+      "name": "Afternoon Ride",
+      "date": "October 1, 2026",
+      "distanceKm": 14,
+      "stats": [
+        "14.0 km",
+        "44:51",
+        "135 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -45,42 +58,29 @@
       ]
     },
     {
-      "athlete": "Jürgen Bootsmann",
-      "athleteId": "30645305",
-      "activityId": "20407607692",
-      "name": "Mountainbike-Fahrt zur Mittagszeit",
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20408030526",
+      "name": "Afternoon Walk",
       "date": "October 1, 2026",
-      "distanceKm": 38.6,
+      "distanceKm": 5.1,
       "stats": [
-        "38.6 km",
-        "3:43:12",
-        "199 m"
+        "5.1 km",
+        "1:18:53",
+        "28 m"
       ]
     },
     {
-      "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-      "athleteId": "4351490",
-      "activityId": "20407582988",
-      "name": "MTB Ausfahrt zum Schloss Moritzburg",
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "20408059713",
+      "name": "Stand-up-Paddeln am Nachmittag",
       "date": "October 1, 2026",
-      "distanceKm": 54.3,
+      "distanceKm": 11,
       "stats": [
-        "54.3 km",
-        "5:43:13",
-        "353 m"
-      ]
-    },
-    {
-      "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-      "athleteId": "9696032",
-      "activityId": "20407560277",
-      "name": "Mountainbike-Fahrt am Morgen",
-      "date": "October 1, 2026",
-      "distanceKm": 53.3,
-      "stats": [
-        "53.3 km",
-        "5:45:27",
-        "283 m"
+        "11.0 km",
+        "1:20:46",
+        "25 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 47041,
-  "totalDistanceKm": 170049.1,
+  "observedWeeksKm": 47098,
+  "totalDistanceKm": 170106.1,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 185846.1
+    "totalWithEstimatesKm": 185903.1
   }
 }

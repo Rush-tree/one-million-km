@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T17:01:00.708Z",
+  "generatedAt": "2026-10-01T17:30:46.916Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 813769,
-    "percentComplete": 18.62,
+    "remainingKm": 813725,
+    "percentComplete": 18.63,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8002.3,
-    "thisWeekActivities": 658,
-    "thisWeekHours": 659,
-    "thisWeekElevationM": 60966,
+    "thisWeekKm": 8045.7,
+    "thisWeekActivities": 663,
+    "thisWeekHours": 664,
+    "thisWeekElevationM": 61080,
     "timesAroundEarth": 4.65,
-    "percentToMoon": 48.4,
+    "percentToMoon": 48.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 48.4,
-        "text": "48.4% of the way to the Moon",
+        "value": 48.5,
+        "text": "48.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15551,
+  "totalActivities": 15557,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 186231400,
-    "totalMovingTime": 53117687,
-    "totalElevation": 1347842.6
+    "totalDistance": 186274800,
+    "totalMovingTime": 53135207,
+    "totalElevation": 1347956.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8002300,
-    "totalMovingTime": 2373900,
-    "count": 658
+    "totalDistance": 8045700,
+    "totalMovingTime": 2391420,
+    "count": 663
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 170434.4,
+    "measuredDistanceKm": 170477.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,16 +124,16 @@
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20409140158",
-        "name": "Abendspaziergang",
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20409542662",
+        "name": "Evening Run",
         "date": "October 1, 2026",
-        "distanceKm": 2.1,
+        "distanceKm": 8.5,
         "stats": [
-          "2.1 km",
-          "30:31",
-          "49 m"
+          "8.5 km",
+          "52:40",
+          "36 m"
         ]
       },
       {
@@ -150,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20409139864",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20409607627",
+        "name": "Pedalata pomeridiana",
         "date": "October 1, 2026",
-        "distanceKm": 8.1,
+        "distanceKm": 15.1,
         "stats": [
-          "8.1 km",
-          "4:51:24",
-          "195 m"
+          "15.1 km",
+          "2:28:01",
+          "26 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 186231.4
+      "totalWithEstimatesKm": 186274.8
     }
   }
 }

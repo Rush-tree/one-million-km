@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T07:01:03.020Z",
+  "generatedAt": "2026-10-01T07:30:42.150Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 814773,
-    "percentComplete": 18.52,
+    "remainingKm": 814732,
+    "percentComplete": 18.53,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 6997.8,
-    "thisWeekActivities": 567,
-    "thisWeekHours": 571,
-    "thisWeekElevationM": 53785,
+    "thisWeekKm": 7039.4,
+    "thisWeekActivities": 568,
+    "thisWeekHours": 572,
+    "thisWeekElevationM": 54061,
     "timesAroundEarth": 4.62,
     "percentToMoon": 48.2,
     "comparisons": [
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 185226900,
-    "totalMovingTime": 52798247,
-    "totalElevation": 1340661.6
+    "totalDistance": 185268500,
+    "totalMovingTime": 52803467,
+    "totalElevation": 1340937.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6997800,
-    "totalMovingTime": 2054460,
-    "count": 567
+    "totalDistance": 7039400,
+    "totalMovingTime": 2059680,
+    "count": 568
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 169429.9,
+    "measuredDistanceKm": 169471.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20403033109",
+        "name": "Zwift - Group Ride: Bikealicious Joy Ride (E)",
+        "date": "October 1, 2026",
+        "distanceKm": 41.6,
+        "stats": [
+          "41.6 km",
+          "1:27:22",
+          "276 m"
+        ]
+      },
+      {
         "athlete": "David Rondon",
         "athleteId": "1002628",
         "activityId": "20402490484",
@@ -134,19 +147,6 @@
           "4.4 km",
           "14:52",
           "69 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20402393722",
-        "name": "Gravel",
-        "date": "October 1, 2026",
-        "distanceKm": 6.8,
-        "stats": [
-          "6.8 km",
-          "18:30",
-          "72 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 185226.9
+      "totalWithEstimatesKm": 185268.5
     }
   }
 }

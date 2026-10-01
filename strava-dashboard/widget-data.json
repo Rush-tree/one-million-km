@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-01T02:00:52.909Z",
+  "generatedAt": "2026-10-01T02:30:45.787Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-01T02:00:52.909Z",
+  "memberCountUpdatedAt": "2026-10-01T02:30:45.787Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 532,
-    "distanceKm": 6705.8,
-    "elevationM": 52145,
-    "movingSeconds": 1966320,
+    "activities": 533,
+    "distanceKm": 6708.8,
+    "elevationM": 52163,
+    "movingSeconds": 1967700,
     "raw": {
-      "activities": "532",
-      "distance": "6,705.8 km",
-      "time": "546 h 12 m",
-      "elevation": "52,145 m"
+      "activities": "533",
+      "distance": "6,708.8 km",
+      "time": "546 h 35 m",
+      "elevation": "52,163 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Meenu Nagori",
+      "athleteId": "69685863",
+      "activityId": "20401399081",
+      "name": "Morning run",
+      "date": "October 1, 2026",
+      "distanceKm": 3,
+      "stats": [
+        "3.0 km",
+        "22:42",
+        "18 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "20398106153",
-      "name": "Nachtradfahrt",
-      "date": "September 30, 2026",
-      "distanceKm": 14,
-      "stats": [
-        "14.0 km",
-        "47:39",
-        "120 m"
-      ]
-    },
-    {
       "athlete": "Walter Donè",
       "athleteId": "31420262",
       "activityId": "20398321180",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 46129.8,
-  "totalDistanceKm": 169137.9,
+  "observedWeeksKm": 46132.8,
+  "totalDistanceKm": 169140.9,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 184934.9
+    "totalWithEstimatesKm": 184937.9
   }
 }

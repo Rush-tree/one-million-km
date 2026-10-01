@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-01T18:30:43.050Z",
+  "generatedAt": "2026-10-01T19:00:56.835Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 813562,
-    "percentComplete": 18.64,
+    "remainingKm": 813533,
+    "percentComplete": 18.65,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8208.9,
-    "thisWeekActivities": 682,
-    "thisWeekHours": 682,
-    "thisWeekElevationM": 62060,
+    "thisWeekKm": 8237.6,
+    "thisWeekActivities": 688,
+    "thisWeekHours": 687,
+    "thisWeekElevationM": 62242,
     "timesAroundEarth": 4.65,
     "percentToMoon": 48.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15578,
+  "totalActivities": 15585,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 186438000,
-    "totalMovingTime": 53198627,
-    "totalElevation": 1348936.6
+    "totalDistance": 186466700,
+    "totalMovingTime": 53216687,
+    "totalElevation": 1349118.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8208900,
-    "totalMovingTime": 2454840,
-    "count": 682
+    "totalDistance": 8237600,
+    "totalMovingTime": 2472900,
+    "count": 688
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 170641,
+    "measuredDistanceKm": 170669.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20410783105",
+        "name": "Evening Walk",
+        "date": "October 1, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "21:08",
+          "13 m"
+        ]
+      },
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20411005844",
+        "name": "Wieczorne bieganie",
+        "date": "October 1, 2026",
+        "distanceKm": 9.6,
+        "stats": [
+          "9.6 km",
+          "54:27",
+          "63 m"
+        ]
+      },
       {
         "athlete": "Susi Wong",
         "athleteId": "44756315",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "20410171964",
-        "name": "Abendlauf",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20410950490",
+        "name": "Evening Weight Training",
         "date": "October 1, 2026",
-        "distanceKm": 4.9,
+        "distanceKm": 0,
         "stats": [
-          "4.9 km",
-          "30:39",
+          "0 km",
+          "1:20:20",
           "0 m"
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20410320174",
-        "name": "🏃‍♀️Run Test 🎧 Shokz x I-Run",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20410963115",
+        "name": "Morning Walk",
         "date": "October 1, 2026",
-        "distanceKm": 6,
+        "distanceKm": 6.1,
         "stats": [
-          "6.0 km",
-          "57:32",
-          "18 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20410143234",
-        "name": "Abendlauf",
-        "date": "October 1, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "47:01",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20410271175",
-        "name": "Abendlauf",
-        "date": "October 1, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "1:17:44",
-          "0 m"
+          "6.1 km",
+          "2:31:53",
+          "107 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 186438
+      "totalWithEstimatesKm": 186466.7
     }
   }
 }

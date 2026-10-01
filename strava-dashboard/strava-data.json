@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T08:00:53.220Z",
+  "generatedAt": "2026-10-01T08:30:44.226Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 814732,
+    "remainingKm": 814728,
     "percentComplete": 18.53,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 7039.4,
-    "thisWeekActivities": 568,
+    "thisWeekKm": 7043.3,
+    "thisWeekActivities": 569,
     "thisWeekHours": 572,
-    "thisWeekElevationM": 54061,
+    "thisWeekElevationM": 54082,
     "timesAroundEarth": 4.62,
     "percentToMoon": 48.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15456,
+  "totalActivities": 15458,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 185268500,
-    "totalMovingTime": 52803467,
-    "totalElevation": 1340937.6
+    "totalDistance": 185272400,
+    "totalMovingTime": 52804427,
+    "totalElevation": 1340958.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7039400,
-    "totalMovingTime": 2059680,
-    "count": 568
+    "totalDistance": 7043300,
+    "totalMovingTime": 2060640,
+    "count": 569
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 169471.5,
+    "measuredDistanceKm": 169475.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20403413946",
+        "name": "Morning E-Bike Ride",
+        "date": "October 1, 2026",
+        "distanceKm": 3.8,
+        "stats": [
+          "3.8 km",
+          "24:36",
+          "21 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -134,19 +147,6 @@
           "41.6 km",
           "1:27:22",
           "276 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20402490484",
-        "name": "Morning Ride",
-        "date": "October 1, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "14:52",
-          "69 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 185268.5
+      "totalWithEstimatesKm": 185272.4
     }
   }
 }

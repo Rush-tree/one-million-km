@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T17:00:57.289Z",
+  "generatedAt": "2026-10-02T17:30:44.441Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811719,
+    "remainingKm": 811669,
     "percentComplete": 18.83,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,9 +13,9 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10051.7,
-    "thisWeekActivities": 831,
-    "thisWeekHours": 831,
+    "thisWeekKm": 10101.7,
+    "thisWeekActivities": 834,
+    "thisWeekHours": 835,
     "thisWeekElevationM": 75770,
     "timesAroundEarth": 4.7,
     "percentToMoon": 49,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15729,
+  "totalActivities": 15731,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,8 +70,8 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188280800,
-    "totalMovingTime": 53733707,
+    "totalDistance": 188330800,
+    "totalMovingTime": 53748467,
     "totalElevation": 1362646.6
   },
   "monthStats": {
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10051700,
-    "totalMovingTime": 2989920,
-    "count": 831
+    "totalDistance": 10101700,
+    "totalMovingTime": 3004680,
+    "count": 834
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 172483.8,
+    "measuredDistanceKm": 172533.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20422028359",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Aparna Rajeev Thekke Kurungott",
+        "athleteId": "1791686294",
+        "activityId": "20422743317",
+        "name": "Evening Ride",
         "date": "October 2, 2026",
-        "distanceKm": 5.8,
+        "distanceKm": 5.5,
         "stats": [
-          "5.8 km",
-          "21:53",
-          "2 m"
+          "5.5 km",
+          "26:43",
+          "20 m"
         ]
       },
       {
@@ -137,19 +137,6 @@
         ]
       },
       {
-        "athlete": "Birgit Marco",
-        "athleteId": "63425596",
-        "activityId": "20421968570",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 2, 2026",
-        "distanceKm": 2.1,
-        "stats": [
-          "2.1 km",
-          "29:44",
-          "18 m"
-        ]
-      },
-      {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
         "activityId": "20422331879",
@@ -159,6 +146,19 @@
         "stats": [
           "1.5 km",
           "58:48",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20422688851",
+        "name": "Popołudniowy trening siłowy",
+        "date": "October 2, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:26:55",
           "0 m"
         ]
       },
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188280.8
+      "totalWithEstimatesKm": 188330.8
     }
   }
 }

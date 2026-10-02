@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T08:30:47.223Z",
+  "generatedAt": "2026-10-02T09:00:58.008Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812916,
+    "remainingKm": 812884,
     "percentComplete": 18.71,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8855.2,
-    "thisWeekActivities": 744,
-    "thisWeekHours": 740,
-    "thisWeekElevationM": 66176,
+    "thisWeekKm": 8887,
+    "thisWeekActivities": 752,
+    "thisWeekHours": 746,
+    "thisWeekElevationM": 66497,
     "timesAroundEarth": 4.67,
     "percentToMoon": 48.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15644,
+  "totalActivities": 15654,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187084300,
-    "totalMovingTime": 53409167,
-    "totalElevation": 1353052.6
+    "totalDistance": 187116100,
+    "totalMovingTime": 53428607,
+    "totalElevation": 1353373.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8855200,
-    "totalMovingTime": 2665380,
-    "count": 744
+    "totalDistance": 8887000,
+    "totalMovingTime": 2684820,
+    "count": 752
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171287.3,
+    "measuredDistanceKm": 171319.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20417049753",
+        "name": "Pedalada matinal",
+        "date": "October 2, 2026",
+        "distanceKm": 15.7,
+        "stats": [
+          "15.7 km",
+          "52:49",
+          "177 m"
+        ]
+      },
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20416944800",
+        "name": "HIIT matinal",
+        "date": "October 2, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "42:18",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -120,32 +146,6 @@
         "stats": [
           "0 km",
           "31:13",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20416635358",
-        "name": "Morning Walk",
-        "date": "October 2, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "29:13",
-          "29 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20416696116",
-        "name": "Lauf am Morgen",
-        "date": "October 2, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "30:36",
           "0 m"
         ]
       },
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20416542470",
-        "name": "Morning E-Bike Ride",
+        "athlete": "Nathalie Reichard",
+        "athleteId": "129991187",
+        "activityId": "20416831593",
+        "name": "Wandertag",
         "date": "October 2, 2026",
-        "distanceKm": 4.2,
+        "distanceKm": 4.7,
         "stats": [
-          "4.2 km",
-          "21:04",
-          "21 m"
+          "4.7 km",
+          "1:40:32",
+          "100 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187084.3
+      "totalWithEstimatesKm": 187116.1
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-02T10:30:44.469Z",
+  "generatedAt": "2026-10-02T11:00:57.402Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-02T10:30:44.468Z",
+  "memberCountUpdatedAt": "2026-10-02T11:00:57.402Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 757,
-    "distanceKm": 8916.1,
-    "elevationM": 66747,
-    "movingSeconds": 2700360,
+    "activities": 759,
+    "distanceKm": 8954.3,
+    "elevationM": 66835,
+    "movingSeconds": 2709060,
     "raw": {
-      "activities": "757",
-      "distance": "8,916.1 km",
-      "time": "750 h 6 m",
-      "elevation": "66,747 m"
+      "activities": "759",
+      "distance": "8,954.3 km",
+      "time": "752 h 31 m",
+      "elevation": "66,835 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "conny tonder",
+      "athleteId": "66434073",
+      "activityId": "20417995784",
+      "name": "Mittagspaziergang",
+      "date": "October 2, 2026",
+      "distanceKm": 3,
+      "stats": [
+        "3.0 km",
+        "58:33",
+        "68 m"
+      ]
+    },
     {
       "athlete": "Manfred H",
       "athleteId": "85517467",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "20417049753",
-      "name": "Pedalada matinal",
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "20418165441",
+      "name": "Ciclismo mattutino",
       "date": "October 2, 2026",
-      "distanceKm": 15.7,
+      "distanceKm": 35,
       "stats": [
-        "15.7 km",
-        "52:49",
-        "177 m"
-      ]
-    },
-    {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20417103467",
-      "name": "Fahrt am Morgen",
-      "date": "October 2, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "56:40",
-        "0 m"
+        "35.0 km",
+        "3:33:23",
+        "20 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 48340.1,
-  "totalDistanceKm": 171348.2,
+  "observedWeeksKm": 48378.3,
+  "totalDistanceKm": 171386.4,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 187145.2
+    "totalWithEstimatesKm": 187183.4
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T15:01:02.338Z",
+  "generatedAt": "2026-10-02T15:30:44.904Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812101,
-    "percentComplete": 18.79,
+    "remainingKm": 811870,
+    "percentComplete": 18.81,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9670.1,
-    "thisWeekActivities": 803,
-    "thisWeekHours": 802,
-    "thisWeekElevationM": 72643,
+    "thisWeekKm": 9900.9,
+    "thisWeekActivities": 811,
+    "thisWeekHours": 815,
+    "thisWeekElevationM": 74744,
     "timesAroundEarth": 4.69,
     "percentToMoon": 48.9,
     "comparisons": [
@@ -46,21 +46,21 @@
       },
       {
         "key": "transatlantic",
-        "value": 29.4,
-        "text": "29.4 return trips Berlin to New York",
+        "value": 29.5,
+        "text": "29.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
         "key": "autobahn",
-        "value": 14.2,
-        "text": "14.2× the German autobahn network",
+        "value": 14.3,
+        "text": "14.3× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15701,
+  "totalActivities": 15706,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187899200,
-    "totalMovingTime": 53631287,
-    "totalElevation": 1359519.6
+    "totalDistance": 188130000,
+    "totalMovingTime": 53677727,
+    "totalElevation": 1361620.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9670100,
-    "totalMovingTime": 2887500,
-    "count": 803
+    "totalDistance": 9900900,
+    "totalMovingTime": 2933940,
+    "count": 811
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 172102.2,
+    "measuredDistanceKm": 172333,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20421369364",
+        "name": "Öğleden Sonra Koşu",
+        "date": "October 2, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "48:30",
+          "18 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -121,32 +134,6 @@
           "4.4 km",
           "27:39",
           "55 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20420746069",
-        "name": "Afternoon Workout",
-        "date": "October 2, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "21:11",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20420740747",
-        "name": "Öğleden Sonra Koşu",
-        "date": "October 2, 2026",
-        "distanceKm": 4.1,
-        "stats": [
-          "4.1 km",
-          "21:49",
-          "12 m"
         ]
       },
       {
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20420765562",
-        "name": "Mountainbike-Fahrt am Morgen",
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20421093870",
+        "name": "Mountainbike-Fahrt am Nachmittag",
         "date": "October 2, 2026",
-        "distanceKm": 86,
+        "distanceKm": 32.9,
         "stats": [
-          "86.0 km",
-          "7:08:11",
-          "363 m"
+          "32.9 km",
+          "1:46:36",
+          "438 m"
+        ]
+      },
+      {
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20421309588",
+        "name": "Gravel-Fahrt am Nachmittag",
+        "date": "October 2, 2026",
+        "distanceKm": 58.7,
+        "stats": [
+          "58.7 km",
+          "2:46:32",
+          "831 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187899.2
+      "totalWithEstimatesKm": 188130
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T12:30:48.155Z",
+  "generatedAt": "2026-10-02T12:56:45.688Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812621,
+    "remainingKm": 812584,
     "percentComplete": 18.74,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9150.2,
-    "thisWeekActivities": 778,
-    "thisWeekHours": 768,
-    "thisWeekElevationM": 67698,
+    "thisWeekKm": 9187.4,
+    "thisWeekActivities": 782,
+    "thisWeekHours": 774,
+    "thisWeekElevationM": 68577,
     "timesAroundEarth": 4.68,
-    "percentToMoon": 48.7,
+    "percentToMoon": 48.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 48.7,
-        "text": "48.7% of the way to the Moon",
+        "value": 48.8,
+        "text": "48.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 29.3,
-        "text": "29.3 return trips Berlin to New York",
+        "value": 29.4,
+        "text": "29.4 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15681,
+  "totalActivities": 15686,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187379300,
-    "totalMovingTime": 53507627,
-    "totalElevation": 1354574.6
+    "totalDistance": 187416500,
+    "totalMovingTime": 53530067,
+    "totalElevation": 1355453.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9150200,
-    "totalMovingTime": 2763840,
-    "count": 778
+    "totalDistance": 9187400,
+    "totalMovingTime": 2786280,
+    "count": 782
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171582.3,
+    "measuredDistanceKm": 171619.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20419612578",
+        "name": "Afternoon Run",
+        "date": "October 2, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "41:59",
+          "24 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20419449211",
+        "name": "Longrun - Friday 🏃‍♂️💪🏻",
+        "date": "October 2, 2026",
+        "distanceKm": 18.4,
+        "stats": [
+          "18.4 km",
+          "1:39:50",
+          "193 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -124,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20418541681",
-        "name": "Radfahrt am Mittag",
-        "date": "October 2, 2026",
-        "distanceKm": 16.3,
-        "stats": [
-          "16.3 km",
-          "1:19:25",
-          "36 m"
-        ]
-      },
-      {
         "athlete": "Alli Pace",
         "athleteId": "169219498",
         "activityId": "20418784432",
@@ -147,19 +160,6 @@
           "5.1 km",
           "2:09:26",
           "82 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20418165441",
-        "name": "Ciclismo mattutino",
-        "date": "October 2, 2026",
-        "distanceKm": 35,
-        "stats": [
-          "35.0 km",
-          "3:33:23",
-          "20 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187379.3
+      "totalWithEstimatesKm": 187416.5
     }
   }
 }

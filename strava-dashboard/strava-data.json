@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T14:00:56.521Z",
+  "generatedAt": "2026-10-02T14:30:47.292Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812331,
+    "remainingKm": 812268,
     "percentComplete": 18.77,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9440.3,
-    "thisWeekActivities": 792,
-    "thisWeekHours": 789,
-    "thisWeekElevationM": 71210,
+    "thisWeekKm": 9502.8,
+    "thisWeekActivities": 796,
+    "thisWeekHours": 792,
+    "thisWeekElevationM": 71667,
     "timesAroundEarth": 4.68,
     "percentToMoon": 48.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15692,
+  "totalActivities": 15696,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187669400,
-    "totalMovingTime": 53582567,
-    "totalElevation": 1358086.6
+    "totalDistance": 187731900,
+    "totalMovingTime": 53594927,
+    "totalElevation": 1358543.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9440300,
-    "totalMovingTime": 2838780,
-    "count": 792
+    "totalDistance": 9502800,
+    "totalMovingTime": 2851140,
+    "count": 796
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171872.4,
+    "measuredDistanceKm": 171934.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -113,27 +113,14 @@
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
-        "activityId": "20420247725",
-        "name": "Afternoon Workout",
+        "activityId": "20420494000",
+        "name": "Afternoon Swim",
         "date": "October 2, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1,
         "stats": [
-          "0 km",
-          "11:41",
+          "1.0 km",
+          "20:40",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20420146384",
-        "name": "Afternoon Walk",
-        "date": "October 2, 2026",
-        "distanceKm": 1.1,
-        "stats": [
-          "1.1 km",
-          "18:01",
-          "13 m"
         ]
       },
       {
@@ -150,29 +137,42 @@
         ]
       },
       {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20420010523",
-        "name": "Afternoon Run",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20420636428",
+        "name": "Afternoon Trail Run",
         "date": "October 2, 2026",
-        "distanceKm": 6.7,
+        "distanceKm": 11.5,
         "stats": [
-          "6.7 km",
-          "45:10",
-          "111 m"
+          "11.5 km",
+          "1:22:48",
+          "345 m"
         ]
       },
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20420137619",
-        "name": "Zwift - Cruisin‘ with Coco & Yumi",
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20420400222",
+        "name": "Fahrt am Nachmittag 🌥",
         "date": "October 2, 2026",
-        "distanceKm": 58.6,
+        "distanceKm": 27.4,
         "stats": [
-          "58.6 km",
-          "1:32:56",
-          "301 m"
+          "27.4 km",
+          "1:37:00",
+          "29 m"
+        ]
+      },
+      {
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "20420378298",
+        "name": "Arbeitsweg+ BBRW",
+        "date": "October 2, 2026",
+        "distanceKm": 22.4,
+        "stats": [
+          "22.4 km",
+          "47:35",
+          "83 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187669.4
+      "totalWithEstimatesKm": 187731.9
     }
   }
 }

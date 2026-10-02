@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-02T03:30:42.390Z",
+  "generatedAt": "2026-10-02T04:00:53.466Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-02T03:30:42.390Z",
+  "memberCountUpdatedAt": "2026-10-02T04:00:53.465Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 708,
-    "distanceKm": 8461,
-    "elevationM": 63837,
-    "movingSeconds": 2553300,
+    "activities": 714,
+    "distanceKm": 8546,
+    "elevationM": 64488,
+    "movingSeconds": 2575320,
     "raw": {
-      "activities": "708",
-      "distance": "8,461.0 km",
-      "time": "709 h 15 m",
-      "elevation": "63,837 m"
+      "activities": "714",
+      "distance": "8,546.0 km",
+      "time": "715 h 22 m",
+      "elevation": "64,488 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20415194872",
+      "name": "Gewichtstraining am Morgen",
+      "date": "October 2, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "28:22",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Meenu Nagori",
       "athleteId": "69685863",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Amit Zadka",
+      "athleteId": "25927820",
+      "activityId": "20415134260",
+      "name": "Morning Run",
+      "date": "October 2, 2026",
+      "distanceKm": 17,
+      "stats": [
+        "17.0 km",
+        "1:40:37",
+        "31 m"
+      ]
+    },
+    {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
       "activityId": "20414726686",
@@ -56,32 +82,6 @@
         "24:44",
         "6 m"
       ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20413540140",
-      "name": "Musculação ao entardecer",
-      "date": "October 1, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:23:19",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Henrique Juhas",
-      "athleteId": "118657757",
-      "activityId": "20411312338",
-      "name": "Musculação vespertina",
-      "date": "October 1, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:04:10",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 47885,
-  "totalDistanceKm": 170893.1,
+  "observedWeeksKm": 47970,
+  "totalDistanceKm": 170978.1,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 186690.1
+    "totalWithEstimatesKm": 186775.1
   }
 }

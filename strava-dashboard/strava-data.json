@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T11:30:49.487Z",
+  "generatedAt": "2026-10-02T12:00:55.951Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812705,
+    "remainingKm": 812669,
     "percentComplete": 18.73,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9065.5,
-    "thisWeekActivities": 762,
-    "thisWeekHours": 757,
-    "thisWeekElevationM": 66962,
+    "thisWeekKm": 9102.2,
+    "thisWeekActivities": 766,
+    "thisWeekHours": 761,
+    "thisWeekElevationM": 67350,
     "timesAroundEarth": 4.67,
     "percentToMoon": 48.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15662,
+  "totalActivities": 15667,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187294600,
-    "totalMovingTime": 53468627,
-    "totalElevation": 1353838.6
+    "totalDistance": 187331300,
+    "totalMovingTime": 53484827,
+    "totalElevation": 1354226.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9065500,
-    "totalMovingTime": 2724840,
-    "count": 762
+    "totalDistance": 9102200,
+    "totalMovingTime": 2741040,
+    "count": 766
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171497.6,
+    "measuredDistanceKm": 171534.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Alli Pace",
+        "athleteId": "169219498",
+        "activityId": "20418784432",
+        "name": "Morning walk about with stops",
+        "date": "October 2, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "2:09:26",
+          "82 m"
+        ]
+      },
+      {
         "athlete": "conny tonder",
         "athleteId": "66434073",
         "activityId": "20417995784",
@@ -137,32 +150,6 @@
         ]
       },
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20417828547",
-        "name": "Lunch Run",
-        "date": "October 2, 2026",
-        "distanceKm": 13.4,
-        "stats": [
-          "13.4 km",
-          "1:21:05",
-          "135 m"
-        ]
-      },
-      {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20417696388",
-        "name": "Morning Walk",
-        "date": "October 2, 2026",
-        "distanceKm": 5.4,
-        "stats": [
-          "5.4 km",
-          "1:43:08",
-          "30 m"
-        ]
-      },
-      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20418165441",
@@ -173,6 +160,19 @@
           "35.0 km",
           "3:33:23",
           "20 m"
+        ]
+      },
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20418962414",
+        "name": "Morning Walk",
+        "date": "October 2, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "6:27:02",
+          "42 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187294.6
+      "totalWithEstimatesKm": 187331.3
     }
   }
 }

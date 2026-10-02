@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T18:34:06.583Z",
+  "generatedAt": "2026-10-02T19:00:58.045Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811538,
-    "percentComplete": 18.85,
+    "remainingKm": 811442,
+    "percentComplete": 18.86,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10233.3,
-    "thisWeekActivities": 851,
-    "thisWeekHours": 848,
-    "thisWeekElevationM": 76493,
-    "timesAroundEarth": 4.7,
-    "percentToMoon": 49,
+    "thisWeekKm": 10328.7,
+    "thisWeekActivities": 859,
+    "thisWeekHours": 855,
+    "thisWeekElevationM": 77144,
+    "timesAroundEarth": 4.71,
+    "percentToMoon": 49.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 49,
-        "text": "49% of the way to the Moon",
+        "value": 49.1,
+        "text": "49.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 28.3,
-        "text": "28.3× the length of the Nile",
+        "value": 28.4,
+        "text": "28.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15750,
+  "totalActivities": 15759,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188462400,
-    "totalMovingTime": 53794967,
-    "totalElevation": 1363369.6
+    "totalDistance": 188557800,
+    "totalMovingTime": 53820107,
+    "totalElevation": 1364020.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10233300,
-    "totalMovingTime": 3051180,
-    "count": 851
+    "totalDistance": 10328700,
+    "totalMovingTime": 3076320,
+    "count": 859
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 172665.4,
+    "measuredDistanceKm": 172760.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Aparna Rajeev Thekke Kurungott",
+        "athleteId": "1791686294",
+        "activityId": "20423720758",
+        "name": "Evening Ride",
+        "date": "October 2, 2026",
+        "distanceKm": 4.6,
+        "stats": [
+          "4.6 km",
+          "28:12",
+          "22 m"
+        ]
+      },
       {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
@@ -127,7 +140,7 @@
         "athlete": "Domenic Winges",
         "athleteId": "179823094",
         "activityId": "20423527879",
-        "name": "Gewichtstraining am Abend",
+        "name": "Oberkörper",
         "date": "October 2, 2026",
         "distanceKm": 0,
         "stats": [
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20423243921",
-        "name": "Corrida da tarde",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20423801418",
+        "name": "Evening Walk",
         "date": "October 2, 2026",
-        "distanceKm": 6.7,
+        "distanceKm": 2.7,
         "stats": [
-          "6.7 km",
-          "1:19:05",
-          "81 m"
+          "2.7 km",
+          "1:54:26",
+          "45 m"
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20422968708",
-        "name": "Afternoon E-Bike Ride",
+        "athlete": "Hans-Georg Acker ♣",
+        "athleteId": "34456629",
+        "activityId": "20423518133",
+        "name": "RR Easy-breezy to Schwoich ♣️☁️🇦🇹",
         "date": "October 2, 2026",
-        "distanceKm": 3.3,
+        "distanceKm": 72.7,
         "stats": [
-          "3.3 km",
-          "1:06:12",
-          "33 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20423030226",
-        "name": "Oei, Da is meer als 3km 😅",
-        "date": "October 2, 2026",
-        "distanceKm": 5.8,
-        "stats": [
-          "5.8 km",
-          "1:42:54",
-          "6 m"
+          "72.7 km",
+          "3:25:08",
+          "438 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188462.4
+      "totalWithEstimatesKm": 188557.8
     }
   }
 }

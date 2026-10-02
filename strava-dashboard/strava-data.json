@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T08:00:54.046Z",
+  "generatedAt": "2026-10-02T08:30:47.223Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812925,
+    "remainingKm": 812916,
     "percentComplete": 18.71,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8845.6,
-    "thisWeekActivities": 740,
-    "thisWeekHours": 738,
-    "thisWeekElevationM": 66068,
+    "thisWeekKm": 8855.2,
+    "thisWeekActivities": 744,
+    "thisWeekHours": 740,
+    "thisWeekElevationM": 66176,
     "timesAroundEarth": 4.67,
     "percentToMoon": 48.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15639,
+  "totalActivities": 15644,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187074700,
-    "totalMovingTime": 53400527,
-    "totalElevation": 1352944.6
+    "totalDistance": 187084300,
+    "totalMovingTime": 53409167,
+    "totalElevation": 1353052.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8845600,
-    "totalMovingTime": 2656740,
-    "count": 740
+    "totalDistance": 8855200,
+    "totalMovingTime": 2665380,
+    "count": 744
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171277.7,
+    "measuredDistanceKm": 171287.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20416853256",
+        "name": "Morning Workout",
+        "date": "October 2, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:13",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -124,6 +137,32 @@
         ]
       },
       {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20416696116",
+        "name": "Lauf am Morgen",
+        "date": "October 2, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "30:36",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20416698442",
+        "name": "Entrenamiento con pesas matutino",
+        "date": "October 2, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "39:24",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Phil Duffy",
         "athleteId": "17634808",
         "activityId": "20416542470",
@@ -134,45 +173,6 @@
           "4.2 km",
           "21:04",
           "21 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20416395770",
-        "name": "Gravel",
-        "date": "October 2, 2026",
-        "distanceKm": 7.7,
-        "stats": [
-          "7.7 km",
-          "17:27",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20416330434",
-        "name": "Running - October 2026 - Enghelab complex 🌞🏃‍♂️🕊",
-        "date": "October 2, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "49:46",
-          "70 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20416548288",
-        "name": "Sabah Koşu",
-        "date": "October 2, 2026",
-        "distanceKm": 13.1,
-        "stats": [
-          "13.1 km",
-          "1:26:09",
-          "189 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187074.7
+      "totalWithEstimatesKm": 187084.3
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T05:30:43.230Z",
+  "generatedAt": "2026-10-02T05:57:07.328Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 813093,
-    "percentComplete": 18.69,
+    "remainingKm": 813006,
+    "percentComplete": 18.7,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8677.7,
-    "thisWeekActivities": 724,
-    "thisWeekHours": 725,
-    "thisWeekElevationM": 65352,
-    "timesAroundEarth": 4.66,
+    "thisWeekKm": 8765.1,
+    "thisWeekActivities": 728,
+    "thisWeekHours": 729,
+    "thisWeekElevationM": 65503,
+    "timesAroundEarth": 4.67,
     "percentToMoon": 48.6,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15622,
+  "totalActivities": 15625,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 186906800,
-    "totalMovingTime": 53352407,
-    "totalElevation": 1352228.6
+    "totalDistance": 186994200,
+    "totalMovingTime": 53368427,
+    "totalElevation": 1352379.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8677700,
-    "totalMovingTime": 2608620,
-    "count": 724
+    "totalDistance": 8765100,
+    "totalMovingTime": 2624640,
+    "count": 728
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171109.8,
+    "measuredDistanceKm": 171197.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20415796017",
+        "name": "Fahrt am Morgen",
+        "date": "October 2, 2026",
+        "distanceKm": 9.2,
+        "stats": [
+          "9.2 km",
+          "19:52",
+          "72 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20415788794",
+        "name": "Morning Ride",
+        "date": "October 2, 2026",
+        "distanceKm": 7.5,
+        "stats": [
+          "7.5 km",
+          "45:34",
+          "10 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20415705839",
+        "name": "Yoga am Morgen",
+        "date": "October 2, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "15:50",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -121,45 +160,6 @@
           "0 km",
           "25:09",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20415413182",
-        "name": "Schwimmen am Morgen",
-        "date": "October 2, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "35:52",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20415455795",
-        "name": "Morgenausfahrt 🌙",
-        "date": "October 2, 2026",
-        "distanceKm": 22.3,
-        "stats": [
-          "22.3 km",
-          "53:09",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20415434764",
-        "name": "Trail Running",
-        "date": "October 2, 2026",
-        "distanceKm": 6.5,
-        "stats": [
-          "6.5 km",
-          "1:38:29",
-          "219 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 186906.8
+      "totalWithEstimatesKm": 186994.2
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T17:30:44.441Z",
+  "generatedAt": "2026-10-02T18:00:56.636Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811669,
-    "percentComplete": 18.83,
+    "remainingKm": 811572,
+    "percentComplete": 18.84,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10101.7,
-    "thisWeekActivities": 834,
-    "thisWeekHours": 835,
-    "thisWeekElevationM": 75770,
+    "thisWeekKm": 10198.8,
+    "thisWeekActivities": 848,
+    "thisWeekHours": 846,
+    "thisWeekElevationM": 76441,
     "timesAroundEarth": 4.7,
     "percentToMoon": 49,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15731,
+  "totalActivities": 15747,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188330800,
-    "totalMovingTime": 53748467,
-    "totalElevation": 1362646.6
+    "totalDistance": 188427900,
+    "totalMovingTime": 53787827,
+    "totalElevation": 1363317.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10101700,
-    "totalMovingTime": 3004680,
-    "count": 834
+    "totalDistance": 10198800,
+    "totalMovingTime": 3044040,
+    "count": 848
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 172533.8,
+    "measuredDistanceKm": 172630.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20422927516",
+        "name": "Evening Trail Run",
+        "date": "October 2, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "33:42",
+          "46 m"
+        ]
+      },
       {
         "athlete": "Aparna Rajeev Thekke Kurungott",
         "athleteId": "1791686294",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20422380297",
-        "name": "Schwimmen am Nachmittag",
+        "athlete": "Henrique Juhas",
+        "athleteId": "118657757",
+        "activityId": "20423243921",
+        "name": "Corrida da tarde",
         "date": "October 2, 2026",
-        "distanceKm": 1.3,
+        "distanceKm": 6.7,
         "stats": [
-          "1.3 km",
-          "58:28",
-          "0 m"
+          "6.7 km",
+          "1:19:05",
+          "81 m"
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20422331879",
-        "name": "Schwimmen am Nachmittag",
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20422968708",
+        "name": "Afternoon E-Bike Ride",
         "date": "October 2, 2026",
-        "distanceKm": 1.5,
+        "distanceKm": 3.3,
         "stats": [
-          "1.5 km",
-          "58:48",
-          "0 m"
+          "3.3 km",
+          "1:06:12",
+          "33 m"
         ]
       },
       {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20422688851",
-        "name": "Popołudniowy trening siłowy",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20423030226",
+        "name": "Oei, Da is meer als 3km 😅",
         "date": "October 2, 2026",
-        "distanceKm": 0,
+        "distanceKm": 5.8,
         "stats": [
-          "0 km",
-          "1:26:55",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20422187417",
-        "name": "Afternoon Ride",
-        "date": "October 2, 2026",
-        "distanceKm": 34.3,
-        "stats": [
-          "34.3 km",
-          "1:28:42",
-          "193 m"
+          "5.8 km",
+          "1:42:54",
+          "6 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188330.8
+      "totalWithEstimatesKm": 188427.9
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T06:00:55.334Z",
+  "generatedAt": "2026-10-02T06:30:44.025Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 813006,
+    "remainingKm": 812981,
     "percentComplete": 18.7,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8765.1,
-    "thisWeekActivities": 728,
-    "thisWeekHours": 729,
-    "thisWeekElevationM": 65503,
+    "thisWeekKm": 8790.4,
+    "thisWeekActivities": 731,
+    "thisWeekHours": 732,
+    "thisWeekElevationM": 65689,
     "timesAroundEarth": 4.67,
-    "percentToMoon": 48.6,
+    "percentToMoon": 48.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 48.6,
-        "text": "48.6% of the way to the Moon",
+        "value": 48.7,
+        "text": "48.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15625,
+  "totalActivities": 15628,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 186994200,
-    "totalMovingTime": 53368427,
-    "totalElevation": 1352379.6
+    "totalDistance": 187019500,
+    "totalMovingTime": 53377787,
+    "totalElevation": 1352565.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8765100,
-    "totalMovingTime": 2624640,
-    "count": 728
+    "totalDistance": 8790400,
+    "totalMovingTime": 2634000,
+    "count": 731
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171197.2,
+    "measuredDistanceKm": 171222.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20415972515",
+        "name": "Morning Ride",
+        "date": "October 2, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "17:13",
+          "53 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -124,10 +137,23 @@
         ]
       },
       {
+        "athlete": "David Frerichs",
+        "athleteId": "41924749",
+        "activityId": "20415955420",
+        "name": "Lauf am Morgen",
+        "date": "October 2, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:01:07",
+          "16 m"
+        ]
+      },
+      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20415788794",
-        "name": "Morning Ride",
+        "name": "🥐☕ Chocos-Croissants 👔 Taf Ride 🚴",
         "date": "October 2, 2026",
         "distanceKm": 7.5,
         "stats": [
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20415705839",
-        "name": "Yoga am Morgen",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20415895915",
+        "name": "Morning Run",
         "date": "October 2, 2026",
-        "distanceKm": 0,
+        "distanceKm": 10.7,
         "stats": [
-          "0 km",
-          "15:50",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20415494751",
-        "name": "Friday Morning Activity",
-        "date": "October 2, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "25:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20415539551",
-        "name": "Gandhi Jayanti Ride organised by Rotary club SoBO along with Fit India. Enjoyed the ride with so many cyclist friends 🚴🚴",
-        "date": "October 2, 2026",
-        "distanceKm": 34.3,
-        "stats": [
-          "34.3 km",
-          "4:18:55",
-          "30 m"
+          "10.7 km",
+          "1:22:05",
+          "117 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 186994.2
+      "totalWithEstimatesKm": 187019.5
     }
   }
 }

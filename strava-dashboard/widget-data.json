@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-02T06:00:55.334Z",
+  "generatedAt": "2026-10-02T06:30:44.025Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-02T06:00:55.334Z",
+  "memberCountUpdatedAt": "2026-10-02T06:30:44.025Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 728,
-    "distanceKm": 8765.1,
-    "elevationM": 65503,
-    "movingSeconds": 2624640,
+    "activities": 731,
+    "distanceKm": 8790.4,
+    "elevationM": 65689,
+    "movingSeconds": 2634000,
     "raw": {
-      "activities": "728",
-      "distance": "8,765.1 km",
-      "time": "729 h 4 m",
-      "elevation": "65,503 m"
+      "activities": "731",
+      "distance": "8,790.4 km",
+      "time": "731 h 40 m",
+      "elevation": "65,689 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20415972515",
+      "name": "Morning Ride",
+      "date": "October 2, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "17:13",
+        "53 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -32,10 +45,23 @@
       ]
     },
     {
+      "athlete": "David Frerichs",
+      "athleteId": "41924749",
+      "activityId": "20415955420",
+      "name": "Lauf am Morgen",
+      "date": "October 2, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:01:07",
+        "16 m"
+      ]
+    },
+    {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
       "activityId": "20415788794",
-      "name": "Morning Ride",
+      "name": "🥐☕ Chocos-Croissants 👔 Taf Ride 🚴",
       "date": "October 2, 2026",
       "distanceKm": 7.5,
       "stats": [
@@ -45,42 +71,16 @@
       ]
     },
     {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20415705839",
-      "name": "Yoga am Morgen",
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20415895915",
+      "name": "Morning Run",
       "date": "October 2, 2026",
-      "distanceKm": 0,
+      "distanceKm": 10.7,
       "stats": [
-        "0 km",
-        "15:50",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20415494751",
-      "name": "Friday Morning Activity",
-      "date": "October 2, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "25:09",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Mangala Pai",
-      "athleteId": "118301293",
-      "activityId": "20415539551",
-      "name": "Gandhi Jayanti Ride organised by Rotary club SoBO along with Fit India. Enjoyed the ride with so many cyclist friends 🚴🚴",
-      "date": "October 2, 2026",
-      "distanceKm": 34.3,
-      "stats": [
-        "34.3 km",
-        "4:18:55",
-        "30 m"
+        "10.7 km",
+        "1:22:05",
+        "117 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 48189.1,
-  "totalDistanceKm": 171197.2,
+  "observedWeeksKm": 48214.4,
+  "totalDistanceKm": 171222.5,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 186994.2
+    "totalWithEstimatesKm": 187019.5
   }
 }

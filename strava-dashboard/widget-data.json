@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-02T11:00:57.402Z",
+  "generatedAt": "2026-10-02T11:30:49.487Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-02T11:00:57.402Z",
+  "memberCountUpdatedAt": "2026-10-02T11:30:49.487Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 759,
-    "distanceKm": 8954.3,
-    "elevationM": 66835,
-    "movingSeconds": 2709060,
+    "activities": 762,
+    "distanceKm": 9065.5,
+    "elevationM": 66962,
+    "movingSeconds": 2724840,
     "raw": {
-      "activities": "759",
-      "distance": "8,954.3 km",
-      "time": "752 h 31 m",
-      "elevation": "66,835 m"
+      "activities": "762",
+      "distance": "9,065.5 km",
+      "time": "756 h 54 m",
+      "elevation": "66,962 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "20418541681",
+      "name": "Radfahrt am Mittag",
+      "date": "October 2, 2026",
+      "distanceKm": 16.3,
+      "stats": [
+        "16.3 km",
+        "1:19:25",
+        "36 m"
+      ]
+    },
     {
       "athlete": "conny tonder",
       "athleteId": "66434073",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20417120310",
-      "name": "Öğle Arası Sürüş",
-      "date": "October 2, 2026",
-      "distanceKm": 10.2,
-      "stats": [
-        "10.2 km",
-        "59:59",
-        "85 m"
-      ]
-    },
-    {
       "athlete": "Walter Donè",
       "athleteId": "31420262",
       "activityId": "20418165441",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 48378.3,
-  "totalDistanceKm": 171386.4,
+  "observedWeeksKm": 48489.5,
+  "totalDistanceKm": 171497.6,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 187183.4
+    "totalWithEstimatesKm": 187294.6
   }
 }

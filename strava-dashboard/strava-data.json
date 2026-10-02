@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T11:00:57.402Z",
+  "generatedAt": "2026-10-02T11:30:49.487Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 812817,
-    "percentComplete": 18.72,
+    "remainingKm": 812705,
+    "percentComplete": 18.73,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8954.3,
-    "thisWeekActivities": 759,
-    "thisWeekHours": 753,
-    "thisWeekElevationM": 66835,
+    "thisWeekKm": 9065.5,
+    "thisWeekActivities": 762,
+    "thisWeekHours": 757,
+    "thisWeekElevationM": 66962,
     "timesAroundEarth": 4.67,
     "percentToMoon": 48.7,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 28.1,
-        "text": "28.1× the length of the Nile",
+        "value": 28.2,
+        "text": "28.2× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15661,
+  "totalActivities": 15662,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 187183400,
-    "totalMovingTime": 53452847,
-    "totalElevation": 1353711.6
+    "totalDistance": 187294600,
+    "totalMovingTime": 53468627,
+    "totalElevation": 1353838.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8954300,
-    "totalMovingTime": 2709060,
-    "count": 759
+    "totalDistance": 9065500,
+    "totalMovingTime": 2724840,
+    "count": 762
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 171386.4,
+    "measuredDistanceKm": 171497.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20418541681",
+        "name": "Radfahrt am Mittag",
+        "date": "October 2, 2026",
+        "distanceKm": 16.3,
+        "stats": [
+          "16.3 km",
+          "1:19:25",
+          "36 m"
+        ]
+      },
       {
         "athlete": "conny tonder",
         "athleteId": "66434073",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20417120310",
-        "name": "Öğle Arası Sürüş",
-        "date": "October 2, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "59:59",
-          "85 m"
-        ]
-      },
-      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20418165441",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 187183.4
+      "totalWithEstimatesKm": 187294.6
     }
   }
 }

@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-10-02T19:30:47.574Z",
+  "generatedAt": "2026-10-02T21:00:54.276Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-02T19:30:47.574Z",
+  "memberCountUpdatedAt": "2026-10-02T21:00:54.276Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 864,
-    "distanceKm": 10394.2,
-    "elevationM": 77834,
-    "movingSeconds": 3091620,
+    "activities": 867,
+    "distanceKm": 10429,
+    "elevationM": 78016,
+    "movingSeconds": 3105420,
     "raw": {
-      "activities": "864",
-      "distance": "10,394.2 km",
-      "time": "858 h 47 m",
-      "elevation": "77,834 m"
+      "activities": "867",
+      "distance": "10,429.0 km",
+      "time": "862 h 37 m",
+      "elevation": "78,016 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20424616018",
+      "name": "Afternoon Walk",
+      "date": "October 2, 2026",
+      "distanceKm": 1.6,
+      "stats": [
+        "1.6 km",
+        "24:14",
+        "6 m"
+      ]
+    },
+    {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
       "activityId": "20423952751",
-      "name": "Yoga am Abend",
+      "name": "Stretching 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
       "date": "October 2, 2026",
       "distanceKm": 0,
       "stats": [
@@ -69,19 +82,6 @@
         "1:54:26",
         "45 m"
       ]
-    },
-    {
-      "athlete": "Hans-Georg Acker ♣",
-      "athleteId": "34456629",
-      "activityId": "20423518133",
-      "name": "RR Easy-breezy to Schwoich ♣️☁️🇦🇹",
-      "date": "October 2, 2026",
-      "distanceKm": 72.7,
-      "stats": [
-        "72.7 km",
-        "3:25:08",
-        "438 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 49818.2,
-  "totalDistanceKm": 172826.3,
+  "observedWeeksKm": 49853,
+  "totalDistanceKm": 172861.1,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 188623.3
+    "totalWithEstimatesKm": 188658.1
   }
 }

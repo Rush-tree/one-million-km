@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T16:00:57.875Z",
+  "generatedAt": "2026-10-02T16:30:45.774Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811801,
+    "remainingKm": 811770,
     "percentComplete": 18.82,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9970.2,
-    "thisWeekActivities": 818,
-    "thisWeekHours": 820,
-    "thisWeekElevationM": 75345,
+    "thisWeekKm": 10001.1,
+    "thisWeekActivities": 824,
+    "thisWeekHours": 825,
+    "thisWeekElevationM": 75440,
     "timesAroundEarth": 4.7,
     "percentToMoon": 49,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15713,
+  "totalActivities": 15721,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188199300,
-    "totalMovingTime": 53696687,
-    "totalElevation": 1362221.6
+    "totalDistance": 188230200,
+    "totalMovingTime": 53713067,
+    "totalElevation": 1362316.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9970200,
-    "totalMovingTime": 2952900,
-    "count": 818
+    "totalDistance": 10001100,
+    "totalMovingTime": 2969280,
+    "count": 824
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 172402.3,
+    "measuredDistanceKm": 172433.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20421499712",
-        "name": "Akşam Koşu",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20422028359",
+        "name": "Fahrt am Nachmittag",
         "date": "October 2, 2026",
-        "distanceKm": 1,
+        "distanceKm": 5.8,
         "stats": [
-          "1.0 km",
-          "7:01",
-          "3 m"
+          "5.8 km",
+          "21:53",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20421968570",
+        "name": "Spaziergang am Nachmittag",
+        "date": "October 2, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "29:44",
+          "18 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20421505823",
-        "name": "Afternoon Walk",
+        "athlete": "Werner Hunold",
+        "athleteId": "372952540",
+        "activityId": "20421844455",
+        "name": "Tempodauerlauf",
         "date": "October 2, 2026",
-        "distanceKm": 2.6,
+        "distanceKm": 8.4,
         "stats": [
-          "2.6 km",
-          "56:10",
-          "9 m"
+          "8.4 km",
+          "45:01",
+          "31 m"
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20421534463",
-        "name": "Fridayyyy 🚴 Ride back >>> 🏡",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20421975924",
+        "name": "Spaziergang am Nachmittag",
         "date": "October 2, 2026",
-        "distanceKm": 7.4,
+        "distanceKm": 2.5,
         "stats": [
-          "7.4 km",
-          "1:16:23",
-          "52 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20421594343",
-        "name": "Afternoon Gravel Ride",
-        "date": "October 2, 2026",
-        "distanceKm": 41.8,
-        "stats": [
-          "41.8 km",
-          "2:07:44",
-          "382 m"
+          "2.5 km",
+          "4:46:08",
+          "43 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188199.3
+      "totalWithEstimatesKm": 188230.2
     }
   }
 }

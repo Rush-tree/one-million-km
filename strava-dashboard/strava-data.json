@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-03T15:30:43.471Z",
+  "generatedAt": "2026-10-03T16:00:52.983Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 808769,
-    "percentComplete": 19.12,
+    "remainingKm": 808318,
+    "percentComplete": 19.17,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
-    "weeksToGoal": 49,
-    "projectedDate": "2027-09-08",
+    "weeksToGoal": 48,
+    "projectedDate": "2027-09-07",
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 13002.2,
-    "thisWeekActivities": 1009,
-    "thisWeekHours": 1049,
-    "thisWeekElevationM": 105406,
-    "timesAroundEarth": 4.77,
-    "percentToMoon": 49.7,
+    "thisWeekKm": 13453.1,
+    "thisWeekActivities": 1019,
+    "thisWeekHours": 1072,
+    "thisWeekElevationM": 108207,
+    "timesAroundEarth": 4.78,
+    "percentToMoon": 49.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 49.7,
-        "text": "49.7% of the way to the Moon",
+        "value": 49.9,
+        "text": "49.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15891,
+  "totalActivities": 15893,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 191231300,
-    "totalMovingTime": 54521207,
-    "totalElevation": 1392282.6
+    "totalDistance": 191682200,
+    "totalMovingTime": 54604427,
+    "totalElevation": 1395083.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13002200,
-    "totalMovingTime": 3777420,
-    "count": 1009
+    "totalDistance": 13453100,
+    "totalMovingTime": 3860640,
+    "count": 1019
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 175434.3,
+    "measuredDistanceKm": 175885.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20435670927",
+        "name": "Wanderung am Nachmittag",
+        "date": "October 3, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "15:20",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20435750885",
+        "name": "Afternoon Yoga",
+        "date": "October 3, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "34:20",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Mangala Pai",
         "athleteId": "118301293",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20435258065",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20435766065",
         "name": "Spaziergang am Nachmittag",
         "date": "October 3, 2026",
-        "distanceKm": 3.5,
+        "distanceKm": 6.9,
         "stats": [
-          "3.5 km",
-          "56:04",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20435210326",
-        "name": "Öğleden Sonra Koşu",
-        "date": "October 3, 2026",
-        "distanceKm": 15.1,
-        "stats": [
-          "15.1 km",
-          "1:18:06",
-          "337 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20434948467",
-        "name": "Mountainbike-Fahrt am Morgen",
-        "date": "October 3, 2026",
-        "distanceKm": 73.3,
-        "stats": [
-          "73.3 km",
-          "6:56:26",
-          "427 m"
+          "6.9 km",
+          "2:46:16",
+          "95 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 191231.3
+      "totalWithEstimatesKm": 191682.2
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T17:00:55.527Z",
+  "generatedAt": "2026-10-03T17:30:43.722Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 808166,
-    "percentComplete": 19.18,
+    "remainingKm": 808099,
+    "percentComplete": 19.19,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 13604.5,
-    "thisWeekActivities": 1028,
-    "thisWeekHours": 1082,
-    "thisWeekElevationM": 109205,
+    "thisWeekKm": 13671.7,
+    "thisWeekActivities": 1034,
+    "thisWeekHours": 1090,
+    "thisWeekElevationM": 109627,
     "timesAroundEarth": 4.79,
     "percentToMoon": 49.9,
     "comparisons": [
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 28.8,
-        "text": "28.8× the length of the Nile",
+        "value": 28.9,
+        "text": "28.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 30,
-        "text": "30 return trips Berlin to New York",
+        "value": 30.1,
+        "text": "30.1 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15901,
+  "totalActivities": 15908,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 191833600,
-    "totalMovingTime": 54638447,
-    "totalElevation": 1396081.6
+    "totalDistance": 191900800,
+    "totalMovingTime": 54667967,
+    "totalElevation": 1396503.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13604500,
-    "totalMovingTime": 3894660,
-    "count": 1028
+    "totalDistance": 13671700,
+    "totalMovingTime": 3924180,
+    "count": 1034
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 176036.6,
+    "measuredDistanceKm": 176103.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20436970395",
+        "name": "Afternoon Ride",
+        "date": "October 3, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "1:29:11",
+          "63 m"
+        ]
+      },
+      {
         "athlete": "Werner Hunold",
         "athleteId": "372952540",
         "activityId": "20436060549",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20435750885",
-        "name": "Afternoon Yoga",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20436766967",
+        "name": "Tempo, Tempo 🏃‍♂️🤪",
+        "date": "October 3, 2026",
+        "distanceKm": 15.1,
+        "stats": [
+          "15.1 km",
+          "1:10:45",
+          "6 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20436847387",
+        "name": "Evening Workout",
         "date": "October 3, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "34:20",
+          "1:39:40",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Birgit Marco",
-        "athleteId": "63425596",
-        "activityId": "20435958884",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 3, 2026",
-        "distanceKm": 6.5,
-        "stats": [
-          "6.5 km",
-          "1:27:35",
-          "162 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20435766065",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 3, 2026",
-        "distanceKm": 6.9,
-        "stats": [
-          "6.9 km",
-          "2:46:16",
-          "95 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 191833.6
+      "totalWithEstimatesKm": 191900.8
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T01:00:51.316Z",
+  "generatedAt": "2026-10-03T01:30:39.311Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811330,
+    "remainingKm": 811321,
     "percentComplete": 18.87,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10440.7,
-    "thisWeekActivities": 874,
-    "thisWeekHours": 867,
-    "thisWeekElevationM": 78152,
+    "thisWeekKm": 10450.3,
+    "thisWeekActivities": 875,
+    "thisWeekHours": 868,
+    "thisWeekElevationM": 78175,
     "timesAroundEarth": 4.71,
     "percentToMoon": 49.1,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 29.5,
-        "text": "29.5 return trips Berlin to New York",
+        "value": 29.6,
+        "text": "29.6 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15776,
+  "totalActivities": 15777,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188669800,
-    "totalMovingTime": 53864087,
-    "totalElevation": 1365028.6
+    "totalDistance": 188679400,
+    "totalMovingTime": 53867447,
+    "totalElevation": 1365051.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10440700,
-    "totalMovingTime": 3120300,
-    "count": 874
+    "totalDistance": 10450300,
+    "totalMovingTime": 3123660,
+    "count": 875
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 172872.8,
+    "measuredDistanceKm": 172882.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Josué González",
+        "athleteId": "178408867",
+        "activityId": "20426678761",
+        "name": "MMMX 🇲🇽 NIGHT EASY 🏃‍♂️",
+        "date": "October 2, 2026",
+        "distanceKm": 9.6,
+        "stats": [
+          "9.6 km",
+          "1:01:43",
+          "23 m"
+        ]
+      },
       {
         "athlete": "Jara Baumann",
         "athleteId": "32588016",
@@ -161,19 +174,6 @@
           "5:00",
           "4 m"
         ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20424616018",
-        "name": "Afternoon Walk",
-        "date": "October 2, 2026",
-        "distanceKm": 1.6,
-        "stats": [
-          "1.6 km",
-          "24:14",
-          "6 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188669.8
+      "totalWithEstimatesKm": 188679.4
     }
   }
 }

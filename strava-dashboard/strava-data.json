@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T19:30:45.999Z",
+  "generatedAt": "2026-10-03T20:00:50.548Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 807678,
-    "percentComplete": 19.23,
+    "remainingKm": 807618,
+    "percentComplete": 19.24,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14093.4,
-    "thisWeekActivities": 1047,
-    "thisWeekHours": 1120,
-    "thisWeekElevationM": 113822,
+    "thisWeekKm": 14152.8,
+    "thisWeekActivities": 1051,
+    "thisWeekHours": 1127,
+    "thisWeekElevationM": 114661,
     "timesAroundEarth": 4.8,
     "percentToMoon": 50,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15915,
+  "totalActivities": 15919,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 192322500,
-    "totalMovingTime": 54776207,
-    "totalElevation": 1400698.6
+    "totalDistance": 192381900,
+    "totalMovingTime": 54802727,
+    "totalElevation": 1401537.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14093400,
-    "totalMovingTime": 4032420,
-    "count": 1047
+    "totalDistance": 14152800,
+    "totalMovingTime": 4058940,
+    "count": 1051
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 176525.5,
+    "measuredDistanceKm": 176584.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,16 +124,29 @@
         ]
       },
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20437610031",
-        "name": "Temporun",
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20438323564",
+        "name": "Ojo de agua de mezquite 🚴🏽",
         "date": "October 3, 2026",
-        "distanceKm": 6,
+        "distanceKm": 40.5,
         "stats": [
-          "6.0 km",
-          "33:03",
-          "4 m"
+          "40.5 km",
+          "1:57:34",
+          "488 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20438299756",
+        "name": "Camminata pomeridiana",
+        "date": "October 3, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "3:58:57",
+          "14 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "4:03:30",
           "117 m"
         ]
-      },
-      {
-        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
-        "athleteId": "51333291",
-        "activityId": "20437505283",
-        "name": "Von Bad Wildbad über Grünhütter Steige zum Hochmoor, zur Schwarzwälder Kirschtorte😍 und zurück nach Hause",
-        "date": "October 3, 2026",
-        "distanceKm": 106.3,
-        "stats": [
-          "106.3 km",
-          "9:24:02",
-          "877 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 192322.5
+      "totalWithEstimatesKm": 192381.9
     }
   }
 }

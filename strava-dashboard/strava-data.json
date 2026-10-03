@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T10:30:40.428Z",
+  "generatedAt": "2026-10-03T11:00:54.466Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 810533,
-    "percentComplete": 18.95,
+    "remainingKm": 810435,
+    "percentComplete": 18.96,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 11238.1,
-    "thisWeekActivities": 938,
-    "thisWeekHours": 930,
-    "thisWeekElevationM": 84686,
+    "thisWeekKm": 11336.4,
+    "thisWeekActivities": 944,
+    "thisWeekHours": 937,
+    "thisWeekElevationM": 85279,
     "timesAroundEarth": 4.73,
     "percentToMoon": 49.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15840,
+  "totalActivities": 15845,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 189467200,
-    "totalMovingTime": 54092987,
-    "totalElevation": 1371562.6
+    "totalDistance": 189565500,
+    "totalMovingTime": 54117947,
+    "totalElevation": 1372155.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11238100,
-    "totalMovingTime": 3349200,
-    "count": 938
+    "totalDistance": 11336400,
+    "totalMovingTime": 3374160,
+    "count": 944
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 173670.2,
+    "measuredDistanceKm": 173768.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20431238448",
+        "name": "Lunch Ride",
+        "date": "October 3, 2026",
+        "distanceKm": 16.2,
+        "stats": [
+          "16.2 km",
+          "45:43",
+          "116 m"
+        ]
+      },
+      {
         "athlete": "Domenic Winges",
         "athleteId": "179823094",
         "activityId": "20430876836",
-        "name": "Mittagslauf",
+        "name": "Shake out run in lockerer Pace",
         "date": "October 3, 2026",
         "distanceKm": 4.7,
         "stats": [
@@ -124,16 +137,29 @@
         ]
       },
       {
-        "athlete": "Georg Weinig",
-        "athleteId": "166650923",
-        "activityId": "20430674350",
-        "name": "Upper",
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20431181072",
+        "name": "Lunch Walk",
         "date": "October 3, 2026",
-        "distanceKm": 0,
+        "distanceKm": 7,
         "stats": [
-          "0 km",
-          "1:12:10",
-          "0 m"
+          "7.0 km",
+          "1:04:23",
+          "121 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20431002697",
+        "name": "Ciclismo all’ora di pranzo",
+        "date": "October 3, 2026",
+        "distanceKm": 10.3,
+        "stats": [
+          "10.3 km",
+          "1:16:48",
+          "16 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "15.5 km",
           "1:38:49",
           "144 m"
-        ]
-      },
-      {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20430307473",
-        "name": "Stand-up-Paddeln am Morgen",
-        "date": "October 3, 2026",
-        "distanceKm": 13.5,
-        "stats": [
-          "13.5 km",
-          "1:35:58",
-          "5 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20430516731",
-        "name": "Morning Ride - Ausflug mit dem Jagdgeschwader zur Löwensteiner Platte",
-        "date": "October 3, 2026",
-        "distanceKm": 134.3,
-        "stats": [
-          "134.3 km",
-          "5:07:49",
-          "1,564 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 189467.2
+      "totalWithEstimatesKm": 189565.5
     }
   }
 }

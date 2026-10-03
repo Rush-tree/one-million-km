@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-03T07:30:43.716Z",
+  "generatedAt": "2026-10-03T08:00:59.959Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811092,
+    "remainingKm": 811068,
     "percentComplete": 18.89,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
     "weeksToGoal": 49,
-    "projectedDate": "2027-09-09",
+    "projectedDate": "2027-09-08",
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10678.6,
-    "thisWeekActivities": 897,
-    "thisWeekHours": 889,
-    "thisWeekElevationM": 79674,
+    "thisWeekKm": 10703.2,
+    "thisWeekActivities": 901,
+    "thisWeekHours": 891,
+    "thisWeekElevationM": 79799,
     "timesAroundEarth": 4.71,
     "percentToMoon": 49.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15800,
+  "totalActivities": 15805,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188907700,
-    "totalMovingTime": 53943347,
-    "totalElevation": 1366550.6
+    "totalDistance": 188932300,
+    "totalMovingTime": 53951087,
+    "totalElevation": 1366675.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10678600,
-    "totalMovingTime": 3199560,
-    "count": 897
+    "totalDistance": 10703200,
+    "totalMovingTime": 3207300,
+    "count": 901
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 173110.7,
+    "measuredDistanceKm": 173135.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20428658662",
+        "name": "Morning E-Bike Ride",
+        "date": "October 3, 2026",
+        "distanceKm": 3.7,
+        "stats": [
+          "3.7 km",
+          "19:57",
+          "21 m"
+        ]
+      },
+      {
+        "athlete": "Kupfer Hardy",
+        "athleteId": "19034101",
+        "activityId": "20428681913",
+        "name": "Lauf am Morgen",
+        "date": "October 3, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "34:20",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20428673171",
+        "name": "Course à pied le matin",
+        "date": "October 3, 2026",
+        "distanceKm": 10.5,
+        "stats": [
+          "10.5 km",
+          "1:00:09",
+          "68 m"
+        ]
+      },
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
@@ -121,45 +160,6 @@
           "4.0 km",
           "21:54",
           "11 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20428119644",
-        "name": "Ultimate ☁",
-        "date": "October 3, 2026",
-        "distanceKm": 2.2,
-        "stats": [
-          "2.2 km",
-          "8:16",
-          "4 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20427930546",
-        "name": "Mobi und Stabi zum Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 3, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "17:56",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20428027743",
-        "name": "Course à pied le matin",
-        "date": "October 3, 2026",
-        "distanceKm": 12.5,
-        "stats": [
-          "12.5 km",
-          "1:00:00",
-          "43 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188907.7
+      "totalWithEstimatesKm": 188932.3
     }
   }
 }

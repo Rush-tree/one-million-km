@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T08:00:59.959Z",
+  "generatedAt": "2026-10-03T08:23:06.042Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 811068,
-    "percentComplete": 18.89,
+    "remainingKm": 811025,
+    "percentComplete": 18.9,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10703.2,
-    "thisWeekActivities": 901,
-    "thisWeekHours": 891,
-    "thisWeekElevationM": 79799,
-    "timesAroundEarth": 4.71,
-    "percentToMoon": 49.1,
+    "thisWeekKm": 10746.3,
+    "thisWeekActivities": 907,
+    "thisWeekHours": 897,
+    "thisWeekElevationM": 80341,
+    "timesAroundEarth": 4.72,
+    "percentToMoon": 49.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 49.1,
-        "text": "49.1% of the way to the Moon",
+        "value": 49.2,
+        "text": "49.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15805,
+  "totalActivities": 15811,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 188932300,
-    "totalMovingTime": 53951087,
-    "totalElevation": 1366675.6
+    "totalDistance": 188975400,
+    "totalMovingTime": 53973647,
+    "totalElevation": 1367217.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10703200,
-    "totalMovingTime": 3207300,
-    "count": 901
+    "totalDistance": 10746300,
+    "totalMovingTime": 3229860,
+    "count": 907
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 173135.3,
+    "measuredDistanceKm": 173178.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -127,13 +127,26 @@
         "athlete": "Kupfer Hardy",
         "athleteId": "19034101",
         "activityId": "20428681913",
-        "name": "Lauf am Morgen",
+        "name": "Volksgarten parkrun Düsseldorf",
         "date": "October 3, 2026",
         "distanceKm": 5,
         "stats": [
           "5.0 km",
           "34:20",
           "7 m"
+        ]
+      },
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20428954949",
+        "name": "Poranne bieganie",
+        "date": "October 3, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "32:52",
+          "16 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "21:54",
           "11 m"
         ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20428234199",
-        "name": "Morning Ride",
-        "date": "October 1, 2026",
-        "distanceKm": 726.1,
-        "stats": [
-          "726.1 km",
-          "52:10:39",
-          "4,031 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 188932.3
+      "totalWithEstimatesKm": 188975.4
     }
   }
 }

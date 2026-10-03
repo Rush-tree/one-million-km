@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-03T16:30:45.766Z",
+  "generatedAt": "2026-10-03T17:00:55.527Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-03T16:30:45.766Z",
+  "memberCountUpdatedAt": "2026-10-03T17:00:55.526Z",
   "currentWeek": {
     "week": "Sep 28, 2026 - Oct 4, 2026",
-    "activities": 1024,
-    "distanceKm": 13555.4,
-    "elevationM": 109042,
-    "movingSeconds": 3885180,
+    "activities": 1028,
+    "distanceKm": 13604.5,
+    "elevationM": 109205,
+    "movingSeconds": 3894660,
     "raw": {
-      "activities": "1024",
-      "distance": "13,555.4 km",
-      "time": "1,079 h 13 m",
-      "elevation": "109,042 m"
+      "activities": "1028",
+      "distance": "13,604.5 km",
+      "time": "1,081 h 51 m",
+      "elevation": "109,205 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Phil Duffy",
+      "athleteId": "17634808",
+      "activityId": "20436433628",
+      "name": "Afternoon E-Bike Ride",
+      "date": "October 3, 2026",
+      "distanceKm": 3.3,
+      "stats": [
+        "3.3 km",
+        "16:28",
+        "33 m"
+      ]
+    },
     {
       "athlete": "Werner Hunold",
       "athleteId": "372952540",
@@ -29,19 +42,6 @@
         "5.6 km",
         "33:07",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Dirk Mang",
-      "athleteId": "60711719",
-      "activityId": "20435670927",
-      "name": "Wanderung am Nachmittag",
-      "date": "October 3, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "15:20",
-        "2 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 52979.4,
-  "totalDistanceKm": 175987.5,
+  "observedWeeksKm": 53028.5,
+  "totalDistanceKm": 176036.6,
   "weeksTracked": 4,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 191784.5
+    "totalWithEstimatesKm": 191833.6
   }
 }

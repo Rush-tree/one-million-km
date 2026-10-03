@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-03T17:30:43.722Z",
+  "generatedAt": "2026-10-03T18:00:55.439Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 808099,
-    "percentComplete": 19.19,
+    "remainingKm": 807918,
+    "percentComplete": 19.21,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 13671.7,
-    "thisWeekActivities": 1034,
-    "thisWeekHours": 1090,
-    "thisWeekElevationM": 109627,
+    "thisWeekKm": 13852.9,
+    "thisWeekActivities": 1040,
+    "thisWeekHours": 1103,
+    "thisWeekElevationM": 110587,
     "timesAroundEarth": 4.79,
-    "percentToMoon": 49.9,
+    "percentToMoon": 50,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 49.9,
-        "text": "49.9% of the way to the Moon",
+        "value": 50,
+        "text": "50% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 14.5,
-        "text": "14.5× the German autobahn network",
+        "value": 14.6,
+        "text": "14.6× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15908,
+  "totalActivities": 15911,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 191900800,
-    "totalMovingTime": 54667967,
-    "totalElevation": 1396503.6
+    "totalDistance": 192082000,
+    "totalMovingTime": 54713627,
+    "totalElevation": 1397463.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13671700,
-    "totalMovingTime": 3924180,
-    "count": 1034
+    "totalDistance": 13852900,
+    "totalMovingTime": 3969840,
+    "count": 1040
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 176103.8,
+    "measuredDistanceKm": 176285,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,19 +137,6 @@
         ]
       },
       {
-        "athlete": "Werner Hunold",
-        "athleteId": "372952540",
-        "activityId": "20436060549",
-        "name": "Laufband",
-        "date": "October 3, 2026",
-        "distanceKm": 5.6,
-        "stats": [
-          "5.6 km",
-          "33:07",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
         "activityId": "20436766967",
@@ -174,6 +161,19 @@
           "1:39:40",
           "0 m"
         ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20437229032",
+        "name": "Mainly Marathons Montana",
+        "date": "October 3, 2026",
+        "distanceKm": 43.4,
+        "stats": [
+          "43.4 km",
+          "4:39:09",
+          "39 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 191900.8
+      "totalWithEstimatesKm": 192082
     }
   }
 }

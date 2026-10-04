@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T08:01:00.449Z",
+  "generatedAt": "2026-10-04T08:30:54.440Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 807384,
-    "percentComplete": 19.26,
+    "remainingKm": 806341,
+    "percentComplete": 19.37,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14387.4,
-    "thisWeekActivities": 1072,
-    "thisWeekHours": 1145,
-    "thisWeekElevationM": 115543,
-    "timesAroundEarth": 4.81,
-    "percentToMoon": 50.1,
+    "thisWeekKm": 15430,
+    "thisWeekActivities": 1077,
+    "thisWeekHours": 1194,
+    "thisWeekElevationM": 120419,
+    "timesAroundEarth": 4.83,
+    "percentToMoon": 50.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 50.1,
-        "text": "50.1% of the way to the Moon",
+        "value": 50.4,
+        "text": "50.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,27 +40,27 @@
       },
       {
         "key": "nile",
-        "value": 29,
-        "text": "29× the length of the Nile",
+        "value": 29.1,
+        "text": "29.1× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 30.2,
-        "text": "30.2 return trips Berlin to New York",
+        "value": 30.3,
+        "text": "30.3 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
         "key": "autobahn",
-        "value": 14.6,
-        "text": "14.6× the German autobahn network",
+        "value": 14.7,
+        "text": "14.7× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15941,
+  "totalActivities": 15924,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 192616500,
-    "totalMovingTime": 54866027,
-    "totalElevation": 1402419.6
+    "totalDistance": 193659100,
+    "totalMovingTime": 55043567,
+    "totalElevation": 1407295.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14387400,
-    "totalMovingTime": 4122240,
-    "count": 1072
+    "totalDistance": 15430000,
+    "totalMovingTime": 4299780,
+    "count": 1077
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,20 +105,21 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 176819.5,
+    "measuredDistanceKm": 177862.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20442580966",
-        "name": "Morgentraining",
+        "athlete": "Roland Baumann",
+        "athleteId": "87457914",
+        "activityId": "20442946177",
+        "name": "Lauf am Morgen",
         "date": "October 4, 2026",
-        "distanceKm": 0,
+        "distanceKm": 2.1,
         "stats": [
-          "0 km",
+          "2.1 km",
+          "15:16",
           "0 m"
         ]
       },
@@ -162,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20442540904",
-        "name": "Spaziergang am Morgen",
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20442959096",
+        "name": "Crete Half with 273 m up",
         "date": "October 4, 2026",
-        "distanceKm": 4.7,
+        "distanceKm": 21.1,
         "stats": [
-          "4.7 km",
-          "1:24:40",
-          "66 m"
+          "21.1 km",
+          "1:57:56",
+          "273 m"
         ]
       }
     ],
@@ -193,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 192616.5
+      "totalWithEstimatesKm": 193659.1
     }
   }
 }

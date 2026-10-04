@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T11:30:45.108Z",
+  "generatedAt": "2026-10-04T12:00:53.335Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 805383,
+    "remainingKm": 805354,
     "percentComplete": 19.46,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 16387.5,
-    "thisWeekActivities": 1121,
-    "thisWeekHours": 1261,
-    "thisWeekElevationM": 127986,
+    "thisWeekKm": 16417.1,
+    "thisWeekActivities": 1127,
+    "thisWeekHours": 1266,
+    "thisWeekElevationM": 128534,
     "timesAroundEarth": 4.86,
     "percentToMoon": 50.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15960,
+  "totalActivities": 15967,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 194616600,
-    "totalMovingTime": 55284107,
-    "totalElevation": 1414862.6
+    "totalDistance": 194646200,
+    "totalMovingTime": 55300007,
+    "totalElevation": 1415410.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 16387500,
-    "totalMovingTime": 4540320,
-    "count": 1121
+    "totalDistance": 16417100,
+    "totalMovingTime": 4556220,
+    "count": 1127
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 178819.6,
+    "measuredDistanceKm": 178849.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nujaim Noorahdheen",
+        "athleteId": "191343444",
+        "activityId": "20446383311",
+        "name": "Afternoon Run",
+        "date": "October 4, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "21:21",
+          "3 m"
+        ]
+      },
+      {
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20446409462",
+        "name": "Lunch Walk",
+        "date": "October 4, 2026",
+        "distanceKm": 6.3,
+        "stats": [
+          "6.3 km",
+          "1:05:15",
+          "137 m"
+        ]
+      },
       {
         "athlete": "Marcel Gehrer",
         "athleteId": "135991683",
@@ -124,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20445743977",
-        "name": "Cardiff Superhalf Marathon 2026",
-        "date": "October 4, 2026",
-        "distanceKm": 21.3,
-        "stats": [
-          "21.3 km",
-          "1:47:53",
-          "177 m"
-        ]
-      },
-      {
         "athlete": "Thomas Nanntt",
         "athleteId": "15474485",
         "activityId": "20445814064",
@@ -147,19 +160,6 @@
           "37.8 km",
           "3:08:52",
           "563 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20445744636",
-        "name": "Morning Hike",
-        "date": "October 4, 2026",
-        "distanceKm": 13.7,
-        "stats": [
-          "13.7 km",
-          "3:10:26",
-          "333 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 194616.6
+      "totalWithEstimatesKm": 194646.2
     }
   }
 }

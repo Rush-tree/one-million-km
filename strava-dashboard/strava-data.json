@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-04T08:37:23.260Z",
+  "generatedAt": "2026-10-04T09:01:02.511Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 806339,
+    "remainingKm": 806283,
     "percentComplete": 19.37,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
     "weeksToGoal": 48,
-    "projectedDate": "2027-09-08",
+    "projectedDate": "2027-09-07",
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 15431.6,
-    "thisWeekActivities": 1078,
-    "thisWeekHours": 1195,
-    "thisWeekElevationM": 120419,
+    "thisWeekKm": 15488.1,
+    "thisWeekActivities": 1085,
+    "thisWeekHours": 1201,
+    "thisWeekElevationM": 120975,
     "timesAroundEarth": 4.83,
     "percentToMoon": 50.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15925,
+  "totalActivities": 15933,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 193660700,
-    "totalMovingTime": 55044227,
-    "totalElevation": 1407295.6
+    "totalDistance": 193717200,
+    "totalMovingTime": 55068647,
+    "totalElevation": 1407851.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 15431600,
-    "totalMovingTime": 4300440,
-    "count": 1078
+    "totalDistance": 15488100,
+    "totalMovingTime": 4324860,
+    "count": 1085
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 177863.7,
+    "measuredDistanceKm": 177920.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jenny Heitschötter",
+        "athleteId": "769523801",
+        "activityId": "20443303530",
+        "name": "Lauf am Morgen",
+        "date": "October 4, 2026",
+        "distanceKm": 2.7,
+        "stats": [
+          "2.7 km",
+          "23:24",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "Britta Prasse",
+        "athleteId": "200634990",
+        "activityId": "20443522546",
+        "name": "Lauf am Morgen",
+        "date": "October 4, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "40:36",
+          "9 m"
+        ]
+      },
       {
         "athlete": "Roland Baumann",
         "athleteId": "87457914",
@@ -124,42 +150,16 @@
         ]
       },
       {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20442626592",
-        "name": "Poranna jazda na rowerze",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20443268350",
+        "name": "Lauf am Morgen",
         "date": "October 4, 2026",
-        "distanceKm": 2.9,
+        "distanceKm": 13,
         "stats": [
-          "2.9 km",
-          "8:32",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20442578901",
-        "name": "Allenamento mattutino",
-        "date": "October 4, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "23:43",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20442613918",
-        "name": "Morning Run",
-        "date": "October 4, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "55:38",
-          "43 m"
+          "13.0 km",
+          "1:29:54",
+          "177 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 193660.7
+      "totalWithEstimatesKm": 193717.2
     }
   }
 }

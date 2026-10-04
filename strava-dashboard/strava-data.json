@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T10:30:46.321Z",
+  "generatedAt": "2026-10-04T11:00:59.529Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 805845,
-    "percentComplete": 19.42,
+    "remainingKm": 805692,
+    "percentComplete": 19.43,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 15925.8,
-    "thisWeekActivities": 1109,
-    "thisWeekHours": 1236,
-    "thisWeekElevationM": 124505,
-    "timesAroundEarth": 4.84,
+    "thisWeekKm": 16079.1,
+    "thisWeekActivities": 1112,
+    "thisWeekHours": 1244,
+    "thisWeekElevationM": 125758,
+    "timesAroundEarth": 4.85,
     "percentToMoon": 50.5,
     "comparisons": [
       {
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 194154900,
-    "totalMovingTime": 55191827,
-    "totalElevation": 1411381.6
+    "totalDistance": 194308200,
+    "totalMovingTime": 55221407,
+    "totalElevation": 1412634.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 15925800,
-    "totalMovingTime": 4448040,
-    "count": 1109
+    "totalDistance": 16079100,
+    "totalMovingTime": 4477620,
+    "count": 1112
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,24 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 178357.9,
+    "measuredDistanceKm": 178511.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20445096979",
-        "name": "Ultimate",
-        "date": "October 4, 2026",
-        "distanceKm": 0.3,
-        "stats": [
-          "0.3 km",
-          "2:03",
-          "0 m"
-        ]
-      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -163,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Andreas Glaser 🇩🇪🚲",
+        "athleteId": "3109388",
+        "activityId": "20445571579",
+        "name": "Die Sau rauslassen ...😅🐷🚵🏽‍♂️",
+        "date": "October 4, 2026",
+        "distanceKm": 50.3,
+        "stats": [
+          "50.3 km",
+          "2:10:06",
+          "610 m"
+        ]
+      },
+      {
         "athlete": "Kupfer Hardy",
         "athleteId": "19034101",
         "activityId": "20444877151",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 194154.9
+      "totalWithEstimatesKm": 194308.2
     }
   }
 }

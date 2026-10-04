@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-04T14:30:42.297Z",
+  "generatedAt": "2026-10-04T14:55:01.917Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 804130,
-    "percentComplete": 19.59,
+    "remainingKm": 803842,
+    "percentComplete": 19.62,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
     "weeksToGoal": 48,
-    "projectedDate": "2027-09-07",
+    "projectedDate": "2027-09-06",
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 17641.3,
-    "thisWeekActivities": 1156,
-    "thisWeekHours": 1343,
-    "thisWeekElevationM": 138949,
+    "thisWeekKm": 17929.1,
+    "thisWeekActivities": 1161,
+    "thisWeekHours": 1358,
+    "thisWeekElevationM": 141749,
     "timesAroundEarth": 4.89,
     "percentToMoon": 51,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 9.2,
-        "text": "9.2× the Great Wall of China",
+        "value": 9.3,
+        "text": "9.3× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -52,8 +52,8 @@
       },
       {
         "key": "autobahn",
-        "value": 14.8,
-        "text": "14.8× the German autobahn network",
+        "value": 14.9,
+        "text": "14.9× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 195870400,
-    "totalMovingTime": 55577027,
-    "totalElevation": 1425825.6
+    "totalDistance": 196158200,
+    "totalMovingTime": 55632227,
+    "totalElevation": 1428625.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 17641300,
-    "totalMovingTime": 4833240,
-    "count": 1156
+    "totalDistance": 17929100,
+    "totalMovingTime": 4888440,
+    "count": 1161
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 180073.4,
+    "measuredDistanceKm": 180361.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -114,7 +114,7 @@
         "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
         "athleteId": "24992941",
         "activityId": "20448643948",
-        "name": "Namiddagloop",
+        "name": "🏃🏻‍♂️Nagenieten van de Kustmarathon🏃🏻‍♂️",
         "date": "October 4, 2026",
         "distanceKm": 4.2,
         "stats": [
@@ -150,6 +150,19 @@
         ]
       },
       {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20449188077",
+        "name": "Mountainbike-Fahrt am Nachmittag",
+        "date": "October 4, 2026",
+        "distanceKm": 50.4,
+        "stats": [
+          "50.4 km",
+          "3:45:47",
+          "831 m"
+        ]
+      },
+      {
         "athlete": "Ralf Rogall",
         "athleteId": "105597565",
         "activityId": "20448453332",
@@ -160,19 +173,6 @@
           "60.0 km",
           "4:04:25",
           "857 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20448331886",
-        "name": "Spaziergang am Morgen",
-        "date": "October 4, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "5:07:57",
-          "53 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 195870.4
+      "totalWithEstimatesKm": 196158.2
     }
   }
 }

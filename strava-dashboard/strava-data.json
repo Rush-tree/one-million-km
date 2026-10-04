@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-04T10:00:57.410Z",
+  "generatedAt": "2026-10-04T10:30:46.321Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 805998,
-    "percentComplete": 19.4,
+    "remainingKm": 805845,
+    "percentComplete": 19.42,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
     "avgDayKm": 2382,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 15772.7,
-    "thisWeekActivities": 1101,
-    "thisWeekHours": 1225,
-    "thisWeekElevationM": 122966,
+    "thisWeekKm": 15925.8,
+    "thisWeekActivities": 1109,
+    "thisWeekHours": 1236,
+    "thisWeekElevationM": 124505,
     "timesAroundEarth": 4.84,
     "percentToMoon": 50.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15948,
+  "totalActivities": 15955,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 194001800,
-    "totalMovingTime": 55152947,
-    "totalElevation": 1409842.6
+    "totalDistance": 194154900,
+    "totalMovingTime": 55191827,
+    "totalElevation": 1411381.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 15772700,
-    "totalMovingTime": 4409160,
-    "count": 1101
+    "totalDistance": 15925800,
+    "totalMovingTime": 4448040,
+    "count": 1109
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,29 +105,55 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 178204.8,
+    "measuredDistanceKm": 178357.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20445096979",
+        "name": "Ultimate",
+        "date": "October 4, 2026",
+        "distanceKm": 0.3,
+        "stats": [
+          "0.3 km",
+          "2:03",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
-        "activityId": "20444038122",
-        "name": "Kinomap - 15-min kayaking on the Czarna Nida River - part 4 (Poland)🚣🌲",
+        "activityId": "20444636611",
+        "name": "Crossrope AMP Workout",
         "date": "October 4, 2026",
-        "distanceKm": 0.9,
+        "distanceKm": 0,
         "stats": [
-          "0.9 km",
-          "3:59",
-          "8 m"
+          "0 km",
+          "17:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Biken Ginayatova",
+        "athleteId": "92872558",
+        "activityId": "20444768835",
+        "name": "Sunday Afternoon Run",
+        "date": "October 4, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "33:47",
+          "0 m"
         ]
       },
       {
         "athlete": "Birgit Marco",
         "athleteId": "63425596",
         "activityId": "20444553250",
-        "name": "Lauf am Morgen",
+        "name": "☀️🏃‍♀️🍁",
         "date": "October 4, 2026",
         "distanceKm": 12,
         "stats": [
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20443968751",
-        "name": "Zwift - Seaside Sprint & Cruisn’ with Genie",
-        "date": "October 4, 2026",
-        "distanceKm": 58.9,
-        "stats": [
-          "58.9 km",
-          "1:28:27",
-          "303 m"
-        ]
-      },
-      {
-        "athlete": "Nils Werthebach",
-        "athleteId": "62336173",
-        "activityId": "20444441784",
+        "athlete": "Kupfer Hardy",
+        "athleteId": "19034101",
+        "activityId": "20444877151",
         "name": "Lauf am Morgen",
         "date": "October 4, 2026",
-        "distanceKm": 21.4,
+        "distanceKm": 21.2,
         "stats": [
-          "21.4 km",
-          "2:34:24",
-          "61 m"
-        ]
-      },
-      {
-        "athlete": "Martin Löser",
-        "athleteId": "195854656",
-        "activityId": "20444097520",
-        "name": "Lauf am Morgen",
-        "date": "October 4, 2026",
-        "distanceKm": 21.3,
-        "stats": [
-          "21.3 km",
-          "2:29:43",
-          "58 m"
+          "21.2 km",
+          "2:43:07",
+          "46 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 194001.8
+      "totalWithEstimatesKm": 194154.9
     }
   }
 }

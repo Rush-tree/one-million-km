@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T07:30:47.676Z",
+  "generatedAt": "2026-10-04T08:01:00.449Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 807399,
+    "remainingKm": 807384,
     "percentComplete": 19.26,
     "paceBasisWeeks": 2,
     "avgWeekKm": 16674.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 68.9,
     "activitiesPerWeek": 1229,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14372,
-    "thisWeekActivities": 1067,
-    "thisWeekHours": 1143,
-    "thisWeekElevationM": 115440,
+    "thisWeekKm": 14387.4,
+    "thisWeekActivities": 1072,
+    "thisWeekHours": 1145,
+    "thisWeekElevationM": 115543,
     "timesAroundEarth": 4.81,
     "percentToMoon": 50.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 15934,
+  "totalActivities": 15941,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 192601100,
-    "totalMovingTime": 54859187,
-    "totalElevation": 1402316.6
+    "totalDistance": 192616500,
+    "totalMovingTime": 54866027,
+    "totalElevation": 1402419.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14372000,
-    "totalMovingTime": 4115400,
-    "count": 1067
+    "totalDistance": 14387400,
+    "totalMovingTime": 4122240,
+    "count": 1072
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 176804.1,
+    "measuredDistanceKm": 176819.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -113,14 +113,52 @@
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
-        "activityId": "20442402209",
-        "name": "Nüchternlauf - Grundlage",
+        "activityId": "20442580966",
+        "name": "Morgentraining",
         "date": "October 4, 2026",
-        "distanceKm": 8.2,
+        "distanceKm": 0,
         "stats": [
-          "8.2 km",
-          "44:29",
-          "3 m"
+          "0 km",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "20442626592",
+        "name": "Poranna jazda na rowerze",
+        "date": "October 4, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "8:32",
+          "25 m"
+        ]
+      },
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20442578901",
+        "name": "Allenamento mattutino",
+        "date": "October 4, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "23:43",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20442613918",
+        "name": "Morning Run",
+        "date": "October 4, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "55:38",
+          "43 m"
         ]
       },
       {
@@ -134,45 +172,6 @@
           "4.7 km",
           "1:24:40",
           "66 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20442057366",
-        "name": "Yoga am Morgen",
-        "date": "October 4, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "17:18",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20442285274",
-        "name": "Marcia sul Brenta",
-        "date": "October 4, 2026",
-        "distanceKm": 21.2,
-        "stats": [
-          "21.2 km",
-          "1:45:58",
-          "46 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20442069386",
-        "name": "Course à pied le matin",
-        "date": "October 4, 2026",
-        "distanceKm": 14.1,
-        "stats": [
-          "14.1 km",
-          "1:12:02",
-          "86 m"
         ]
       }
     ],
@@ -194,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 192601.1
+      "totalWithEstimatesKm": 192616.5
     }
   }
 }

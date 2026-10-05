@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T14:00:58.812Z",
+  "generatedAt": "2026-10-05T14:30:47.966Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 801930,
-    "percentComplete": 19.81,
+    "remainingKm": 801848,
+    "percentComplete": 19.82,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 619.4,
-    "thisWeekActivities": 72,
-    "thisWeekHours": 59,
-    "thisWeekElevationM": 4227,
+    "thisWeekKm": 701.5,
+    "thisWeekActivities": 80,
+    "thisWeekHours": 71,
+    "thisWeekElevationM": 5916,
     "timesAroundEarth": 4.94,
     "percentToMoon": 51.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16089,
+  "totalActivities": 16098,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 198070300,
-    "totalMovingTime": 56151707,
-    "totalElevation": 1439219.6
+    "totalDistance": 198152400,
+    "totalMovingTime": 56192567,
+    "totalElevation": 1440908.6
   },
   "monthStats": {
-    "totalDistance": 619400,
-    "totalMovingTime": 213060,
+    "totalDistance": 701500,
+    "totalMovingTime": 253920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 619400,
-    "totalMovingTime": 213060,
-    "count": 72
+    "totalDistance": 701500,
+    "totalMovingTime": 253920,
+    "count": 80
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 182273.3,
+    "measuredDistanceKm": 182355.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -113,51 +113,39 @@
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
-        "activityId": "20460281203",
-        "name": "Sauna",
+        "activityId": "20460617214",
+        "name": "Afternoon Walk",
         "date": "October 5, 2026",
-        "distanceKm": 0,
+        "distanceKm": 0.8,
         "stats": [
-          "0 km",
-          "13:38",
+          "0.8 km",
+          "18:14",
           "0 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20460122563",
-        "name": "Afternoon Swim",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20460692480",
+        "name": "Ge zou et Ni zeggen dak vo nen duathlon aant trainen zen 😅",
         "date": "October 5, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1.5,
         "stats": [
-          "0.0 km",
+          "1.5 km",
+          "58:14",
           "0 m"
         ]
       },
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20459939803",
-        "name": "Afternoon Workout",
+        "athlete": "Alois Petrausch",
+        "athleteId": "40799429",
+        "activityId": "20460656099",
+        "name": "Nachmittagstraining bei Physiotherapie Schult",
         "date": "October 5, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "35:17",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20459907462",
-        "name": "Lunch Workout",
-        "date": "October 5, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:25:14",
+          "1:44:31",
           "0 m"
         ]
       },
@@ -172,6 +160,19 @@
           "46.2 km",
           "2:18:38",
           "222 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20460656491",
+        "name": "Traillauf am Morgen",
+        "date": "October 5, 2026",
+        "distanceKm": 45.4,
+        "stats": [
+          "45.4 km",
+          "6:03:08",
+          "1,570 m"
         ]
       }
     ],
@@ -193,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 198070.3
+      "totalWithEstimatesKm": 198152.4
     }
   }
 }

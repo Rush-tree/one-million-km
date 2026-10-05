@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-05T12:30:51.604Z",
+  "generatedAt": "2026-10-05T13:00:59.058Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T12:30:51.604Z",
+  "memberCountUpdatedAt": "2026-10-05T13:00:59.058Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 59,
-    "distanceKm": 465,
-    "elevationM": 2494,
-    "movingSeconds": 162840,
+    "activities": 62,
+    "distanceKm": 515,
+    "elevationM": 3604,
+    "movingSeconds": 179040,
     "raw": {
-      "activities": "59",
-      "distance": "465.0 km",
-      "time": "45 h 14 m",
-      "elevation": "2,494 m"
+      "activities": "62",
+      "distance": "515.0 km",
+      "time": "49 h 44 m",
+      "elevation": "3,604 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20459735579",
+      "name": "Pendel Home",
+      "date": "October 5, 2026",
+      "distanceKm": 6.9,
+      "stats": [
+        "6.9 km",
+        "16:06",
+        "25 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -29,6 +42,19 @@
         "15.3 km",
         "54:33",
         "95 m"
+      ]
+    },
+    {
+      "athlete": "Max Gräber",
+      "athleteId": "138199030",
+      "activityId": "20459467652",
+      "name": "Cycling",
+      "date": "October 5, 2026",
+      "distanceKm": 29.4,
+      "stats": [
+        "29.4 km",
+        "1:26:32",
+        "595 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "22:29",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20457833875",
-      "name": "Kinomap - 🚣‍♂️ Easy Comeback, Beautiful Scenery! 🌿🌊",
-      "date": "October 5, 2026",
-      "distanceKm": 1.7,
-      "stats": [
-        "1.7 km",
-        "6:44",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20457671354",
-      "name": "Crossen int bos als van ouds",
-      "date": "October 5, 2026",
-      "distanceKm": 28.9,
-      "stats": [
-        "28.9 km",
-        "1:13:55",
-        "31 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 59110.8,
-  "totalDistanceKm": 182118.9,
+  "observedWeeksKm": 59160.8,
+  "totalDistanceKm": 182168.9,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 197915.9
+    "totalWithEstimatesKm": 197965.9
   }
 }

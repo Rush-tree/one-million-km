@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T03:30:43.286Z",
+  "generatedAt": "2026-10-05T04:00:53.961Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 802479,
-    "percentComplete": 19.75,
+    "remainingKm": 802419,
+    "percentComplete": 19.76,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 69.9,
-    "thisWeekActivities": 5,
-    "thisWeekHours": 5,
-    "thisWeekElevationM": 144,
+    "thisWeekKm": 130.6,
+    "thisWeekActivities": 11,
+    "thisWeekHours": 10,
+    "thisWeekElevationM": 355,
     "timesAroundEarth": 4.93,
     "percentToMoon": 51.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16015,
+  "totalActivities": 16021,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 197520800,
-    "totalMovingTime": 55957847,
-    "totalElevation": 1435136.6
+    "totalDistance": 197581500,
+    "totalMovingTime": 55975007,
+    "totalElevation": 1435347.6
   },
   "monthStats": {
-    "totalDistance": 69900,
-    "totalMovingTime": 19200,
+    "totalDistance": 130600,
+    "totalMovingTime": 36360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 69900,
-    "totalMovingTime": 19200,
-    "count": 5
+    "totalDistance": 130600,
+    "totalMovingTime": 36360,
+    "count": 11
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 181723.8,
+    "measuredDistanceKm": 181784.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20455435127",
+        "name": "Morning Weight Training",
+        "date": "October 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "7:50",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20455435026",
+        "name": "Morning Yoga",
+        "date": "October 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:32",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20455288366",
-        "name": "Monday Morning Activity",
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20455364355",
+        "name": "Morning Weight Training",
         "date": "October 5, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "6:18",
+          "1:01:34",
           "0 m"
         ]
       },
       {
-        "athlete": "Jara Baumann",
-        "athleteId": "32588016",
-        "activityId": "20455120016",
-        "name": "Abs workout",
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20455424614",
+        "name": "Morning Run",
         "date": "October 5, 2026",
-        "distanceKm": 0,
+        "distanceKm": 18.1,
         "stats": [
-          "0 km",
-          "1:10:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20455279925",
-        "name": "☁️ MyWhoosh - Mompox City",
-        "date": "October 5, 2026",
-        "distanceKm": 65.1,
-        "stats": [
-          "65.1 km",
-          "2:31:08",
-          "109 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20453187004",
-        "name": "Night Walk",
-        "date": "October 4, 2026",
-        "distanceKm": 0.9,
-        "stats": [
-          "0.9 km",
-          "29:04",
-          "18 m"
+          "18.1 km",
+          "1:45:58",
+          "27 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 197520.8
+      "totalWithEstimatesKm": 197581.5
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-05T13:30:47.367Z",
+  "generatedAt": "2026-10-05T14:00:58.812Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T13:30:47.366Z",
+  "memberCountUpdatedAt": "2026-10-05T14:00:58.812Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 68,
-    "distanceKm": 552.9,
-    "elevationM": 3796,
-    "movingSeconds": 196380,
+    "activities": 72,
+    "distanceKm": 619.4,
+    "elevationM": 4227,
+    "movingSeconds": 213060,
     "raw": {
-      "activities": "68",
-      "distance": "552.9 km",
-      "time": "54 h 33 m",
-      "elevation": "3,796 m"
+      "activities": "72",
+      "distance": "619.4 km",
+      "time": "59 h 11 m",
+      "elevation": "4,227 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20460281203",
+      "name": "Sauna",
+      "date": "October 5, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "13:38",
+        "0 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -28,19 +41,6 @@
       "stats": [
         "0.0 km",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Benny Pos",
-      "athleteId": "85148884",
-      "activityId": "20459735579",
-      "name": "Pendel Home",
-      "date": "October 5, 2026",
-      "distanceKm": 6.9,
-      "stats": [
-        "6.9 km",
-        "16:06",
-        "25 m"
       ]
     },
     {
@@ -70,16 +70,16 @@
       ]
     },
     {
-      "athlete": "Max Gräber",
-      "athleteId": "138199030",
-      "activityId": "20459467652",
-      "name": "Cycling",
+      "athlete": "Ralf Rogall",
+      "athleteId": "105597565",
+      "activityId": "20460410970",
+      "name": "Afternoon Ride",
       "date": "October 5, 2026",
-      "distanceKm": 29.4,
+      "distanceKm": 46.2,
       "stats": [
-        "29.4 km",
-        "1:26:32",
-        "595 m"
+        "46.2 km",
+        "2:18:38",
+        "222 m"
       ]
     }
   ],
@@ -89,8 +89,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 59198.7,
-  "totalDistanceKm": 182206.8,
+  "observedWeeksKm": 59265.2,
+  "totalDistanceKm": 182273.3,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -110,6 +110,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 198003.8
+    "totalWithEstimatesKm": 198070.3
   }
 }

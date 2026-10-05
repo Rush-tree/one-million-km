@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T17:30:48.798Z",
+  "generatedAt": "2026-10-05T18:00:59.805Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 801155,
-    "percentComplete": 19.88,
+    "remainingKm": 800855,
+    "percentComplete": 19.91,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 1393.9,
-    "thisWeekActivities": 129,
-    "thisWeekHours": 117,
-    "thisWeekElevationM": 9942,
-    "timesAroundEarth": 4.96,
-    "percentToMoon": 51.7,
+    "thisWeekKm": 1694.2,
+    "thisWeekActivities": 139,
+    "thisWeekHours": 134,
+    "thisWeekElevationM": 12787,
+    "timesAroundEarth": 4.97,
+    "percentToMoon": 51.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 51.7,
-        "text": "51.7% of the way to the Moon",
+        "value": 51.8,
+        "text": "51.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 31.1,
-        "text": "31.1 return trips Berlin to New York",
+        "value": 31.2,
+        "text": "31.2 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16146,
+  "totalActivities": 16153,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 198844800,
-    "totalMovingTime": 56358587,
-    "totalElevation": 1444934.6
+    "totalDistance": 199145100,
+    "totalMovingTime": 56419847,
+    "totalElevation": 1447779.6
   },
   "monthStats": {
-    "totalDistance": 1393900,
-    "totalMovingTime": 419940,
+    "totalDistance": 1694200,
+    "totalMovingTime": 481200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1393900,
-    "totalMovingTime": 419940,
-    "count": 129
+    "totalDistance": 1694200,
+    "totalMovingTime": 481200,
+    "count": 139
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 183047.8,
+    "measuredDistanceKm": 183348.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20463637571",
+        "name": "Stabi + Legs",
+        "date": "October 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:20:37",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Susanne Liepert",
         "athleteId": "28515644",
@@ -124,29 +137,16 @@
         ]
       },
       {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20462942633",
-        "name": "Evening Weight Training",
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20463444869",
+        "name": "Nachmittagstraining",
         "date": "October 5, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "58:34",
+          "1:44:42",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20462925598",
-        "name": "Evening Walk",
-        "date": "October 5, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "1:05:49",
-          "89 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20462905263",
-        "name": "Evening walk",
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20463377695",
+        "name": "Afternoon Ride mit der Montagsgruppe",
         "date": "October 5, 2026",
-        "distanceKm": 2.5,
+        "distanceKm": 63.8,
         "stats": [
-          "2.5 km",
-          "4:49:02",
-          "6 m"
+          "63.8 km",
+          "2:46:09",
+          "757 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 198844.8
+      "totalWithEstimatesKm": 199145.1
     }
   }
 }

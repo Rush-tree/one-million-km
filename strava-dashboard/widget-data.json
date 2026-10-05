@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-05T08:00:57.455Z",
+  "generatedAt": "2026-10-05T08:30:48.416Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T08:00:57.455Z",
+  "memberCountUpdatedAt": "2026-10-05T08:30:48.416Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 35,
-    "distanceKm": 285,
-    "elevationM": 1456,
-    "movingSeconds": 96900,
+    "activities": 36,
+    "distanceKm": 297,
+    "elevationM": 1513,
+    "movingSeconds": 99480,
     "raw": {
-      "activities": "35",
-      "distance": "285.0 km",
-      "time": "26 h 55 m",
-      "elevation": "1,456 m"
+      "activities": "36",
+      "distance": "297.0 km",
+      "time": "27 h 38 m",
+      "elevation": "1,513 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20457002897",
+      "name": "Pedalada matinal",
+      "date": "October 5, 2026",
+      "distanceKm": 12,
+      "stats": [
+        "12.0 km",
+        "42:58",
+        "57 m"
+      ]
+    },
     {
       "athlete": "Phil Duffy",
       "athleteId": "17634808",
@@ -69,19 +82,6 @@
         "31:24",
         "55 m"
       ]
-    },
-    {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20456136307",
-      "name": "🚴‍♀️Morning V-Taf Ride >>> 👔",
-      "date": "October 5, 2026",
-      "distanceKm": 6.7,
-      "stats": [
-        "6.7 km",
-        "19:45",
-        "11 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 58930.8,
-  "totalDistanceKm": 181938.9,
+  "observedWeeksKm": 58942.8,
+  "totalDistanceKm": 181950.9,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 197735.9
+    "totalWithEstimatesKm": 197747.9
   }
 }

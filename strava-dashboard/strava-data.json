@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T08:30:48.416Z",
+  "generatedAt": "2026-10-05T09:00:59.021Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 802252,
-    "percentComplete": 19.77,
+    "remainingKm": 802230,
+    "percentComplete": 19.78,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 297,
-    "thisWeekActivities": 36,
-    "thisWeekHours": 28,
-    "thisWeekElevationM": 1513,
+    "thisWeekKm": 319.2,
+    "thisWeekActivities": 41,
+    "thisWeekHours": 31,
+    "thisWeekElevationM": 1734,
     "timesAroundEarth": 4.93,
     "percentToMoon": 51.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16050,
+  "totalActivities": 16056,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 197747900,
-    "totalMovingTime": 56038127,
-    "totalElevation": 1436505.6
+    "totalDistance": 197770100,
+    "totalMovingTime": 56051267,
+    "totalElevation": 1436726.6
   },
   "monthStats": {
-    "totalDistance": 297000,
-    "totalMovingTime": 99480,
+    "totalDistance": 319200,
+    "totalMovingTime": 112620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 297000,
-    "totalMovingTime": 99480,
-    "count": 36
+    "totalDistance": 319200,
+    "totalMovingTime": 112620,
+    "count": 41
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 181950.9,
+    "measuredDistanceKm": 181973.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20457162012",
+        "name": "Pedalada matinal",
+        "date": "October 5, 2026",
+        "distanceKm": 10.1,
+        "stats": [
+          "10.1 km",
+          "29:51",
+          "91 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20457084139",
+        "name": "Morning Run",
+        "date": "October 5, 2026",
+        "distanceKm": 6.6,
+        "stats": [
+          "6.6 km",
+          "40:58",
+          "109 m"
+        ]
+      },
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20457086539",
+        "name": "HIIT matinal",
+        "date": "October 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "46:48",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -124,55 +163,16 @@
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20456736657",
-        "name": "Morning E-Bike Ride",
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20457141187",
+        "name": "Laufen is' heut' nicht🧘🏻",
         "date": "October 5, 2026",
-        "distanceKm": 3.8,
+        "distanceKm": 5.5,
         "stats": [
-          "3.8 km",
-          "19:14",
-          "18 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20456808496",
-        "name": "Morning Walk",
-        "date": "October 5, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "32:47",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20456749689",
-        "name": "Nüchternlauf - Irgendwie keine Grundlage 🤷‍♂️",
-        "date": "October 5, 2026",
-        "distanceKm": 12.7,
-        "stats": [
-          "12.7 km",
-          "59:39",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20456344747",
-        "name": "Morning Run",
-        "date": "October 5, 2026",
-        "distanceKm": 6.3,
-        "stats": [
-          "6.3 km",
-          "31:24",
-          "55 m"
+          "5.5 km",
+          "1:00:37",
+          "21 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 197747.9
+      "totalWithEstimatesKm": 197770.1
     }
   }
 }

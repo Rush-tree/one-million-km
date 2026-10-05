@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-05T06:00:56.267Z",
+  "generatedAt": "2026-10-05T06:30:46.420Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T06:00:56.267Z",
+  "memberCountUpdatedAt": "2026-10-05T06:30:46.419Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 24,
-    "distanceKm": 213.7,
-    "elevationM": 878,
-    "movingSeconds": 65700,
+    "activities": 25,
+    "distanceKm": 220.4,
+    "elevationM": 889,
+    "movingSeconds": 66900,
     "raw": {
-      "activities": "24",
-      "distance": "213.7 km",
-      "time": "18 h 15 m",
-      "elevation": "878 m"
+      "activities": "25",
+      "distance": "220.4 km",
+      "time": "18 h 35 m",
+      "elevation": "889 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20456136307",
+      "name": "🚴‍♀️Morning V-Taf Ride >>> 👔",
+      "date": "October 5, 2026",
+      "distanceKm": 6.7,
+      "stats": [
+        "6.7 km",
+        "19:45",
+        "11 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -69,19 +82,6 @@
         "46:17",
         "50 m"
       ]
-    },
-    {
-      "athlete": "Louis Mwanja",
-      "athleteId": "14992965",
-      "activityId": "20455764144",
-      "name": "Morning Run",
-      "date": "October 5, 2026",
-      "distanceKm": 11.7,
-      "stats": [
-        "11.7 km",
-        "1:48:46",
-        "180 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 58859.5,
-  "totalDistanceKm": 181867.6,
+  "observedWeeksKm": 58866.2,
+  "totalDistanceKm": 181874.3,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 197664.6
+    "totalWithEstimatesKm": 197671.3
   }
 }

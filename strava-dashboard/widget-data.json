@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-05T06:30:46.420Z",
+  "generatedAt": "2026-10-05T07:01:31.990Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T06:30:46.419Z",
+  "memberCountUpdatedAt": "2026-10-05T07:01:31.990Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 25,
-    "distanceKm": 220.4,
-    "elevationM": 889,
-    "movingSeconds": 66900,
+    "activities": 29,
+    "distanceKm": 252.7,
+    "elevationM": 1178,
+    "movingSeconds": 80820,
     "raw": {
-      "activities": "25",
-      "distance": "220.4 km",
-      "time": "18 h 35 m",
-      "elevation": "889 m"
+      "activities": "29",
+      "distance": "252.7 km",
+      "time": "22 h 27 m",
+      "elevation": "1,178 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "20456344747",
+      "name": "Morning Run",
+      "date": "October 5, 2026",
+      "distanceKm": 6.3,
+      "stats": [
+        "6.3 km",
+        "31:24",
+        "55 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -45,19 +58,6 @@
       ]
     },
     {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20455919841",
-      "name": "Morning Yoga 🌗🌘",
-      "date": "October 5, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "25:22",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Johanna H",
       "athleteId": "195161116",
       "activityId": "20455959402",
@@ -71,16 +71,16 @@
       ]
     },
     {
-      "athlete": "Gilbert Schwartmann",
-      "athleteId": "147030966",
-      "activityId": "20455715533",
-      "name": "Frühe Runde um den Bostalsee",
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20456279329",
+      "name": "Morning Run",
       "date": "October 5, 2026",
-      "distanceKm": 7.1,
+      "distanceKm": 21.1,
       "stats": [
-        "7.1 km",
-        "46:17",
-        "50 m"
+        "21.1 km",
+        "2:22:00",
+        "201 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 58866.2,
-  "totalDistanceKm": 181874.3,
+  "observedWeeksKm": 58898.5,
+  "totalDistanceKm": 181906.6,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 197671.3
+    "totalWithEstimatesKm": 197703.6
   }
 }

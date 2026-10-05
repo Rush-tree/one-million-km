@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T11:01:01.894Z",
+  "generatedAt": "2026-10-05T11:30:49.931Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 802165,
-    "percentComplete": 19.78,
+    "remainingKm": 802116,
+    "percentComplete": 19.79,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,9 +13,9 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 383.9,
-    "thisWeekActivities": 51,
-    "thisWeekHours": 39,
+    "thisWeekKm": 433.2,
+    "thisWeekActivities": 52,
+    "thisWeekHours": 40,
     "thisWeekElevationM": 2247,
     "timesAroundEarth": 4.94,
     "percentToMoon": 51.5,
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 29.7,
-        "text": "29.7× the length of the Nile",
+        "value": 29.8,
+        "text": "29.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 197834800,
-    "totalMovingTime": 56078027,
+    "totalDistance": 197884100,
+    "totalMovingTime": 56084087,
     "totalElevation": 1437239.6
   },
   "monthStats": {
-    "totalDistance": 383900,
-    "totalMovingTime": 139380,
+    "totalDistance": 433200,
+    "totalMovingTime": 145440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 383900,
-    "totalMovingTime": 139380,
-    "count": 51
+    "totalDistance": 433200,
+    "totalMovingTime": 145440,
+    "count": 52
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 182037.8,
+    "measuredDistanceKm": 182087.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 197834.8
+      "totalWithEstimatesKm": 197884.1
     }
   }
 }

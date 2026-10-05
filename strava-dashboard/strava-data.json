@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T05:30:47.374Z",
+  "generatedAt": "2026-10-05T06:00:56.267Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 802353,
-    "percentComplete": 19.76,
+    "remainingKm": 802335,
+    "percentComplete": 19.77,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 195.7,
-    "thisWeekActivities": 21,
-    "thisWeekHours": 17,
-    "thisWeekElevationM": 841,
+    "thisWeekKm": 213.7,
+    "thisWeekActivities": 24,
+    "thisWeekHours": 18,
+    "thisWeekElevationM": 878,
     "timesAroundEarth": 4.93,
     "percentToMoon": 51.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16033,
+  "totalActivities": 16036,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 197646600,
-    "totalMovingTime": 55999547,
-    "totalElevation": 1435833.6
+    "totalDistance": 197664600,
+    "totalMovingTime": 56004347,
+    "totalElevation": 1435870.6
   },
   "monthStats": {
-    "totalDistance": 195700,
-    "totalMovingTime": 60900,
+    "totalDistance": 213700,
+    "totalMovingTime": 65700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 195700,
-    "totalMovingTime": 60900,
-    "count": 21
+    "totalDistance": 213700,
+    "totalMovingTime": 65700,
+    "count": 24
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 181849.6,
+    "measuredDistanceKm": 181867.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20455947935",
+        "name": "Commute #112/2026 🏥🩺",
+        "date": "October 5, 2026",
+        "distanceKm": 9,
+        "stats": [
+          "9.0 km",
+          "21:41",
+          "37 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20455919841",
+        "name": "Morning Yoga 🌗🌘",
+        "date": "October 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "25:22",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Johanna H",
+        "athleteId": "195161116",
+        "activityId": "20455959402",
+        "name": "Lauf am Morgen",
+        "date": "October 5, 2026",
+        "distanceKm": 9,
+        "stats": [
+          "9.0 km",
+          "1:11:17",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Gilbert Schwartmann",
         "athleteId": "147030966",
@@ -121,45 +160,6 @@
           "7.1 km",
           "46:17",
           "50 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20455599027",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 5, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "21:25",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20455661545",
-        "name": "Grail ☁",
-        "date": "October 5, 2026",
-        "distanceKm": 22.2,
-        "stats": [
-          "22.2 km",
-          "53:20",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20455605077",
-        "name": "Morning Weight Training",
-        "date": "October 5, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:02:21",
-          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 197646.6
+      "totalWithEstimatesKm": 197664.6
     }
   }
 }

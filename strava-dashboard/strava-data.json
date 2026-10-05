@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T16:15:17.692Z",
+  "generatedAt": "2026-10-05T16:30:47.390Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 801542,
+    "remainingKm": 801462,
     "percentComplete": 19.85,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 1007.3,
-    "thisWeekActivities": 103,
-    "thisWeekHours": 91,
-    "thisWeekElevationM": 7881,
+    "thisWeekKm": 1087.2,
+    "thisWeekActivities": 108,
+    "thisWeekHours": 96,
+    "thisWeekElevationM": 7979,
     "timesAroundEarth": 4.95,
     "percentToMoon": 51.6,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 29.8,
-        "text": "29.8× the length of the Nile",
+        "value": 29.9,
+        "text": "29.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16121,
+  "totalActivities": 16126,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 198458200,
-    "totalMovingTime": 56267387,
-    "totalElevation": 1442873.6
+    "totalDistance": 198538100,
+    "totalMovingTime": 56283887,
+    "totalElevation": 1442971.6
   },
   "monthStats": {
-    "totalDistance": 1007300,
-    "totalMovingTime": 328740,
+    "totalDistance": 1087200,
+    "totalMovingTime": 345240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1007300,
-    "totalMovingTime": 328740,
-    "count": 103
+    "totalDistance": 1087200,
+    "totalMovingTime": 345240,
+    "count": 108
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 182661.2,
+    "measuredDistanceKm": 182741.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20462281011",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 5, 2026",
+        "distanceKm": 8.7,
+        "stats": [
+          "8.7 km",
+          "20:42",
+          "75 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Biken Ginayatova",
-        "athleteId": "92872558",
-        "activityId": "20461849092",
-        "name": "Monday Evening Run",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20462242958",
+        "name": "Schwimmen am Nachmittag",
         "date": "October 5, 2026",
-        "distanceKm": 10.1,
+        "distanceKm": 1.1,
         "stats": [
-          "10.1 km",
-          "1:10:36",
+          "1.1 km",
+          "34:25",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20461820039",
-        "name": "Afternoon Ride",
-        "date": "October 5, 2026",
-        "distanceKm": 49.1,
-        "stats": [
-          "49.1 km",
-          "1:50:27",
-          "362 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 198458.2
+      "totalWithEstimatesKm": 198538.1
     }
   }
 }

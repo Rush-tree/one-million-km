@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-05T04:00:53.961Z",
+  "generatedAt": "2026-10-05T04:30:46.403Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T04:00:53.961Z",
+  "memberCountUpdatedAt": "2026-10-05T04:30:46.403Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 11,
-    "distanceKm": 130.6,
-    "elevationM": 355,
-    "movingSeconds": 36360,
+    "activities": 13,
+    "distanceKm": 132.4,
+    "elevationM": 373,
+    "movingSeconds": 37920,
     "raw": {
-      "activities": "11",
-      "distance": "130.6 km",
-      "time": "10 h 6 m",
-      "elevation": "355 m"
+      "activities": "13",
+      "distance": "132.4 km",
+      "time": "10 h 32 m",
+      "elevation": "373 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "20455547216",
+      "name": "Monday Morning Activity",
+      "date": "October 5, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "2:22",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -42,19 +55,6 @@
         "0 km",
         "16:32",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Benny Pos",
-      "athleteId": "85148884",
-      "activityId": "20455342981",
-      "name": "Gravel",
-      "date": "October 5, 2026",
-      "distanceKm": 4.8,
-      "stats": [
-        "4.8 km",
-        "12:13",
-        "35 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 58776.4,
-  "totalDistanceKm": 181784.5,
+  "observedWeeksKm": 58778.2,
+  "totalDistanceKm": 181786.3,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 197581.5
+    "totalWithEstimatesKm": 197583.3
   }
 }

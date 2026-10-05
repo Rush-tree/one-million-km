@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-10-05T03:00:55.597Z",
+  "generatedAt": "2026-10-05T03:30:43.286Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-05T03:00:55.597Z",
+  "memberCountUpdatedAt": "2026-10-05T03:30:43.286Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 2,
-    "distanceKm": 0,
-    "elevationM": 0,
-    "movingSeconds": 9120,
+    "activities": 5,
+    "distanceKm": 69.9,
+    "elevationM": 144,
+    "movingSeconds": 19200,
     "raw": {
-      "activities": "2",
-      "distance": "0 km",
-      "time": "2 h 32 m",
-      "elevation": "0 m"
+      "activities": "5",
+      "distance": "69.9 km",
+      "time": "5 h 20 m",
+      "elevation": "144 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20455342981",
+      "name": "Gravel",
+      "date": "October 5, 2026",
+      "distanceKm": 4.8,
+      "stats": [
+        "4.8 km",
+        "12:13",
+        "35 m"
+      ]
+    },
+    {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "20455288366",
+      "name": "Monday Morning Activity",
+      "date": "October 5, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "6:18",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Jara Baumann",
       "athleteId": "32588016",
@@ -32,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "20455279925",
+      "name": "☁️ MyWhoosh - Mompox City",
+      "date": "October 5, 2026",
+      "distanceKm": 65.1,
+      "stats": [
+        "65.1 km",
+        "2:31:08",
+        "109 m"
+      ]
+    },
+    {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
       "activityId": "20453187004",
@@ -43,45 +82,6 @@
         "29:04",
         "18 m"
       ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20452731576",
-      "name": "Afternoon Walk",
-      "date": "October 4, 2026",
-      "distanceKm": 2.8,
-      "stats": [
-        "2.8 km",
-        "36:24",
-        "21 m"
-      ]
-    },
-    {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20452903429",
-      "name": "Evening Walk",
-      "date": "October 4, 2026",
-      "distanceKm": 1.8,
-      "stats": [
-        "1.8 km",
-        "1:18:32",
-        "8 m"
-      ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20452213773",
-      "name": "Akşam Koşu",
-      "date": "October 4, 2026",
-      "distanceKm": 12.1,
-      "stats": [
-        "12.1 km",
-        "1:14:53",
-        "116 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 58645.8,
-  "totalDistanceKm": 181653.9,
+  "observedWeeksKm": 58715.7,
+  "totalDistanceKm": 181723.8,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 197450.9
+    "totalWithEstimatesKm": 197520.8
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-05T18:00:59.805Z",
+  "generatedAt": "2026-10-05T18:30:52.237Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 800855,
-    "percentComplete": 19.91,
+    "remainingKm": 800838,
+    "percentComplete": 19.92,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 1694.2,
-    "thisWeekActivities": 139,
-    "thisWeekHours": 134,
-    "thisWeekElevationM": 12787,
+    "thisWeekKm": 1711.5,
+    "thisWeekActivities": 142,
+    "thisWeekHours": 136,
+    "thisWeekElevationM": 12970,
     "timesAroundEarth": 4.97,
     "percentToMoon": 51.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16153,
+  "totalActivities": 16156,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 199145100,
-    "totalMovingTime": 56419847,
-    "totalElevation": 1447779.6
+    "totalDistance": 199162400,
+    "totalMovingTime": 56427767,
+    "totalElevation": 1447962.6
   },
   "monthStats": {
-    "totalDistance": 1694200,
-    "totalMovingTime": 481200,
+    "totalDistance": 1711500,
+    "totalMovingTime": 489120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1694200,
-    "totalMovingTime": 481200,
-    "count": 139
+    "totalDistance": 1711500,
+    "totalMovingTime": 489120,
+    "count": 142
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 183348.1,
+    "measuredDistanceKm": 183365.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20464155454",
+        "name": "Evening Ride",
+        "date": "October 5, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "27:50",
+          "84 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20463800835",
+        "name": "Evening Workout",
+        "date": "October 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "42:26",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20464111920",
+        "name": "Akşam Koşu",
+        "date": "October 5, 2026",
+        "distanceKm": 12.1,
+        "stats": [
+          "12.1 km",
+          "1:13:26",
+          "99 m"
+        ]
+      },
       {
         "athlete": "Georg Weinig",
         "athleteId": "166650923",
@@ -124,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20463117883",
-        "name": "Zwift - Group Ride: Rebellunas Banded Ride (D)",
-        "date": "October 5, 2026",
-        "distanceKm": 32.1,
-        "stats": [
-          "32.1 km",
-          "1:05:02",
-          "205 m"
-        ]
-      },
-      {
         "athlete": "conny tonder",
         "athleteId": "66434073",
         "activityId": "20463444869",
@@ -147,32 +173,6 @@
           "0 km",
           "1:44:42",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20463189379",
-        "name": "Afterwork",
-        "date": "October 5, 2026",
-        "distanceKm": 49,
-        "stats": [
-          "49.0 km",
-          "2:30:57",
-          "254 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20463377695",
-        "name": "Afternoon Ride mit der Montagsgruppe",
-        "date": "October 5, 2026",
-        "distanceKm": 63.8,
-        "stats": [
-          "63.8 km",
-          "2:46:09",
-          "757 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 199145.1
+      "totalWithEstimatesKm": 199162.4
     }
   }
 }

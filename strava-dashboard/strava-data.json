@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T11:00:59.578Z",
+  "generatedAt": "2026-10-06T11:30:54.581Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 800185,
-    "percentComplete": 19.98,
+    "remainingKm": 800142,
+    "percentComplete": 19.99,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 2364.1,
-    "thisWeekActivities": 224,
-    "thisWeekHours": 197,
-    "thisWeekElevationM": 17168,
+    "thisWeekKm": 2407.2,
+    "thisWeekActivities": 226,
+    "thisWeekHours": 200,
+    "thisWeekElevationM": 17528,
     "timesAroundEarth": 4.99,
     "percentToMoon": 52,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 30,
-        "text": "30× the length of the Nile",
+        "value": 30.1,
+        "text": "30.1× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16247,
+  "totalActivities": 16249,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 199815000,
-    "totalMovingTime": 56649287,
-    "totalElevation": 1452160.6
+    "totalDistance": 199858100,
+    "totalMovingTime": 56658467,
+    "totalElevation": 1452520.6
   },
   "monthStats": {
-    "totalDistance": 2364100,
-    "totalMovingTime": 710640,
+    "totalDistance": 2407200,
+    "totalMovingTime": 719820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2364100,
-    "totalMovingTime": 710640,
-    "count": 224
+    "totalDistance": 2407200,
+    "totalMovingTime": 719820,
+    "count": 226
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 184018,
+    "measuredDistanceKm": 184061.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20472529419",
+        "name": "Lunch break Ride",
+        "date": "October 6, 2026",
+        "distanceKm": 32.8,
+        "stats": [
+          "32.8 km",
+          "1:17:52",
+          "286 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -161,19 +174,6 @@
           "1:05:55",
           "117 m"
         ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20471262891",
-        "name": "Morning Workout",
-        "date": "October 6, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:36:37",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 199815
+      "totalWithEstimatesKm": 199858.1
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-06T11:00:59.578Z",
+  "generatedAt": "2026-10-06T11:30:54.581Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-06T11:00:59.578Z",
+  "memberCountUpdatedAt": "2026-10-06T11:30:54.581Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 224,
-    "distanceKm": 2364.1,
-    "elevationM": 17168,
-    "movingSeconds": 710640,
+    "activities": 226,
+    "distanceKm": 2407.2,
+    "elevationM": 17528,
+    "movingSeconds": 719820,
     "raw": {
-      "activities": "224",
-      "distance": "2,364.1 km",
-      "time": "197 h 24 m",
-      "elevation": "17,168 m"
+      "activities": "226",
+      "distance": "2,407.2 km",
+      "time": "199 h 57 m",
+      "elevation": "17,528 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ralf Rogall",
+      "athleteId": "105597565",
+      "activityId": "20472529419",
+      "name": "Lunch break Ride",
+      "date": "October 6, 2026",
+      "distanceKm": 32.8,
+      "stats": [
+        "32.8 km",
+        "1:17:52",
+        "286 m"
+      ]
+    },
     {
       "athlete": "Stefan Brueckmann",
       "athleteId": "172247920",
@@ -69,19 +82,6 @@
         "1:05:55",
         "117 m"
       ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20471262891",
-      "name": "Morning Workout",
-      "date": "October 6, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:36:37",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 61009.9,
-  "totalDistanceKm": 184018,
+  "observedWeeksKm": 61053,
+  "totalDistanceKm": 184061.1,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 199815
+    "totalWithEstimatesKm": 199858.1
   }
 }

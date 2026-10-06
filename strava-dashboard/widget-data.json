@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-06T12:30:48.419Z",
+  "generatedAt": "2026-10-06T13:01:01.332Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-06T12:30:48.419Z",
+  "memberCountUpdatedAt": "2026-10-06T13:01:01.332Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 233,
-    "distanceKm": 2483.3,
-    "elevationM": 18543,
-    "movingSeconds": 753900,
+    "activities": 235,
+    "distanceKm": 2504.2,
+    "elevationM": 19261,
+    "movingSeconds": 765480,
     "raw": {
-      "activities": "233",
-      "distance": "2,483.3 km",
-      "time": "209 h 25 m",
-      "elevation": "18,543 m"
+      "activities": "235",
+      "distance": "2,504.2 km",
+      "time": "212 h 38 m",
+      "elevation": "19,261 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Jasper Mermans",
+      "athleteId": "25786886",
+      "activityId": "20473935375",
+      "name": "Namiddagrit",
+      "date": "October 6, 2026",
+      "distanceKm": 9.4,
+      "stats": [
+        "9.4 km",
+        "24:09",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Jürgen Föll",
       "athleteId": "41355823",
@@ -42,19 +55,6 @@
         "0 km",
         "34:54",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Ralf Rogall",
-      "athleteId": "105597565",
-      "activityId": "20472529419",
-      "name": "Lunch break Ride",
-      "date": "October 6, 2026",
-      "distanceKm": 32.8,
-      "stats": [
-        "32.8 km",
-        "1:17:52",
-        "286 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 61129.1,
-  "totalDistanceKm": 184137.2,
+  "observedWeeksKm": 61150,
+  "totalDistanceKm": 184158.1,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 199934.2
+    "totalWithEstimatesKm": 199955.1
   }
 }

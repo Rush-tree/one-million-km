@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-06T11:30:54.581Z",
+  "generatedAt": "2026-10-06T12:00:58.986Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-06T11:30:54.581Z",
+  "memberCountUpdatedAt": "2026-10-06T12:00:58.986Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 226,
-    "distanceKm": 2407.2,
-    "elevationM": 17528,
-    "movingSeconds": 719820,
+    "activities": 229,
+    "distanceKm": 2414.3,
+    "elevationM": 17539,
+    "movingSeconds": 726600,
     "raw": {
-      "activities": "226",
-      "distance": "2,407.2 km",
-      "time": "199 h 57 m",
-      "elevation": "17,528 m"
+      "activities": "229",
+      "distance": "2,414.3 km",
+      "time": "201 h 50 m",
+      "elevation": "17,539 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "20472767523",
+      "name": "Lunch Weight Training",
+      "date": "October 6, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "34:54",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Ralf Rogall",
       "athleteId": "105597565",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20471523090",
-      "name": "Lunch Weight Training Freeletics",
+      "athlete": "Nico Hoßfeld",
+      "athleteId": "177308499",
+      "activityId": "20472757531",
+      "name": "Afternoon Ride",
       "date": "October 6, 2026",
       "distanceKm": 0,
       "stats": [
         "0 km",
-        "51:43",
+        "30:06",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Manfred H",
-      "athleteId": "85517467",
-      "activityId": "20471596404",
-      "name": "Morning Run",
-      "date": "October 6, 2026",
-      "distanceKm": 10.3,
-      "stats": [
-        "10.3 km",
-        "1:05:55",
-        "117 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 61053,
-  "totalDistanceKm": 184061.1,
+  "observedWeeksKm": 61060.1,
+  "totalDistanceKm": 184068.2,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 199858.1
+    "totalWithEstimatesKm": 199865.2
   }
 }

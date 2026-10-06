@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T09:01:00.926Z",
+  "generatedAt": "2026-10-06T09:30:48.443Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 800328,
-    "percentComplete": 19.97,
+    "remainingKm": 800203,
+    "percentComplete": 19.98,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 2221.1,
-    "thisWeekActivities": 213,
-    "thisWeekHours": 187,
-    "thisWeekElevationM": 16298,
-    "timesAroundEarth": 4.98,
-    "percentToMoon": 51.9,
+    "thisWeekKm": 2346,
+    "thisWeekActivities": 218,
+    "thisWeekHours": 193,
+    "thisWeekElevationM": 17024,
+    "timesAroundEarth": 4.99,
+    "percentToMoon": 52,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 51.9,
-        "text": "51.9% of the way to the Moon",
+        "value": 52,
+        "text": "52% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16236,
+  "totalActivities": 16240,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 199672000,
-    "totalMovingTime": 56611727,
-    "totalElevation": 1451290.6
+    "totalDistance": 199796900,
+    "totalMovingTime": 56632367,
+    "totalElevation": 1452016.6
   },
   "monthStats": {
-    "totalDistance": 2221100,
-    "totalMovingTime": 673080,
+    "totalDistance": 2346000,
+    "totalMovingTime": 693720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2221100,
-    "totalMovingTime": 673080,
-    "count": 213
+    "totalDistance": 2346000,
+    "totalMovingTime": 693720,
+    "count": 218
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 183875,
+    "measuredDistanceKm": 183999.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,29 +124,42 @@
         ]
       },
       {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20470661582",
-        "name": "Pedalada matinal",
-        "date": "October 6, 2026",
-        "distanceKm": 1.2,
-        "stats": [
-          "1.2 km",
-          "5:23",
-          "13 m"
-        ]
-      },
-      {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20470807767",
-        "name": "HIIT matinal",
+        "athlete": "Nathalie Reichard",
+        "athleteId": "129991187",
+        "activityId": "20470971694",
+        "name": "Morning Weight Training",
         "date": "October 6, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "44:23",
+          "23:01",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20471089665",
+        "name": "DL",
+        "date": "October 6, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "47:07",
+          "87 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20471092346",
+        "name": "Right back at it again🫡",
+        "date": "October 6, 2026",
+        "distanceKm": 12,
+        "stats": [
+          "12.0 km",
+          "1:00:38",
+          "42 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "0 km",
           "1:07:59",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20470713551",
-        "name": "Spaziergang am Morgen",
-        "date": "October 6, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "2:29:37",
-          "141 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 199672
+      "totalWithEstimatesKm": 199796.9
     }
   }
 }

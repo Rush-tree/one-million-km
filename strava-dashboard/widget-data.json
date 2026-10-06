@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-10-06T10:01:00.642Z",
+  "generatedAt": "2026-10-06T10:30:49.532Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-06T10:01:00.642Z",
+  "memberCountUpdatedAt": "2026-10-06T10:30:49.531Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 221,
-    "distanceKm": 2352.8,
-    "elevationM": 17051,
-    "movingSeconds": 703560,
+    "activities": 223,
+    "distanceKm": 2363.1,
+    "elevationM": 17168,
+    "movingSeconds": 709260,
     "raw": {
-      "activities": "221",
-      "distance": "2,352.8 km",
-      "time": "195 h 26 m",
-      "elevation": "17,051 m"
+      "activities": "223",
+      "distance": "2,363.1 km",
+      "time": "197 h 1 m",
+      "elevation": "17,168 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20471793814",
+      "name": "Mittagstraining",
+      "date": "October 6, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "31:01",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20471513752",
-      "name": "Gravel",
+      "name": "Pendel Home",
       "date": "October 6, 2026",
       "distanceKm": 6.7,
       "stats": [
@@ -35,7 +48,7 @@
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
       "activityId": "20471523090",
-      "name": "Lunch Weight Training",
+      "name": "Lunch Weight Training Freeletics",
       "date": "October 6, 2026",
       "distanceKm": 0,
       "stats": [
@@ -45,29 +58,16 @@
       ]
     },
     {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20471089665",
-      "name": "DL",
+      "athlete": "Manfred H",
+      "athleteId": "85517467",
+      "activityId": "20471596404",
+      "name": "Morning Run",
       "date": "October 6, 2026",
-      "distanceKm": 10,
+      "distanceKm": 10.3,
       "stats": [
-        "10.0 km",
-        "47:07",
-        "87 m"
-      ]
-    },
-    {
-      "athlete": "Luka M",
-      "athleteId": "33218706",
-      "activityId": "20471092346",
-      "name": "Right back at it again🫡",
-      "date": "October 6, 2026",
-      "distanceKm": 12,
-      "stats": [
-        "12.0 km",
-        "1:00:38",
-        "42 m"
+        "10.3 km",
+        "1:05:55",
+        "117 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 60998.6,
-  "totalDistanceKm": 184006.7,
+  "observedWeeksKm": 61008.9,
+  "totalDistanceKm": 184017,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 199803.7
+    "totalWithEstimatesKm": 199814
   }
 }

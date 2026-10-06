@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-06T20:30:47.201Z",
+  "generatedAt": "2026-10-06T21:00:58.733Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-06T20:30:47.201Z",
+  "memberCountUpdatedAt": "2026-10-06T21:00:58.733Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 339,
-    "distanceKm": 4240.6,
-    "elevationM": 31966,
-    "movingSeconds": 1164660,
+    "activities": 341,
+    "distanceKm": 4248.1,
+    "elevationM": 32089,
+    "movingSeconds": 1170720,
     "raw": {
-      "activities": "339",
-      "distance": "4,240.6 km",
-      "time": "323 h 31 m",
-      "elevation": "31,966 m"
+      "activities": "341",
+      "distance": "4,248.1 km",
+      "time": "325 h 12 m",
+      "elevation": "32,089 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20480289726",
+      "name": "Night Walk",
+      "date": "October 6, 2026",
+      "distanceKm": 0.7,
+      "stats": [
+        "0.7 km",
+        "23:12",
+        "9 m"
+      ]
+    },
     {
       "athlete": "Ricardo Ferre",
       "athleteId": "45223374",
@@ -29,6 +42,19 @@
         "0 km",
         "18:25",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Henrique Juhas",
+      "athleteId": "118657757",
+      "activityId": "20480069147",
+      "name": "Afternoon Run",
+      "date": "October 6, 2026",
+      "distanceKm": 6.7,
+      "stats": [
+        "6.7 km",
+        "1:21:07",
+        "114 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:11:37",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20479230516",
-      "name": "Lunch Walk",
-      "date": "October 6, 2026",
-      "distanceKm": 4.2,
-      "stats": [
-        "4.2 km",
-        "4:07:10",
-        "22 m"
-      ]
-    },
-    {
-      "athlete": "Heiko Kraushaar",
-      "athleteId": "78179687",
-      "activityId": "20479235784",
-      "name": "Afternoon Ride",
-      "date": "October 6, 2026",
-      "distanceKm": 120.7,
-      "stats": [
-        "120.7 km",
-        "5:02:44",
-        "1,281 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 62886.4,
-  "totalDistanceKm": 185894.5,
+  "observedWeeksKm": 62893.9,
+  "totalDistanceKm": 185902,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 201691.5
+    "totalWithEstimatesKm": 201699
   }
 }

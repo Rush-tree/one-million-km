@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T02:30:48.942Z",
+  "generatedAt": "2026-10-06T03:00:58.889Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 800776,
-    "percentComplete": 19.92,
+    "remainingKm": 800724,
+    "percentComplete": 19.93,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 1772.9,
-    "thisWeekActivities": 157,
-    "thisWeekHours": 148,
-    "thisWeekElevationM": 13342,
+    "thisWeekKm": 1825.6,
+    "thisWeekActivities": 160,
+    "thisWeekHours": 151,
+    "thisWeekElevationM": 13534,
     "timesAroundEarth": 4.97,
     "percentToMoon": 51.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16174,
+  "totalActivities": 16177,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 199223800,
-    "totalMovingTime": 56470787,
-    "totalElevation": 1448334.6
+    "totalDistance": 199276500,
+    "totalMovingTime": 56482247,
+    "totalElevation": 1448526.6
   },
   "monthStats": {
-    "totalDistance": 1772900,
-    "totalMovingTime": 532140,
+    "totalDistance": 1825600,
+    "totalMovingTime": 543600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1772900,
-    "totalMovingTime": 532140,
-    "count": 157
+    "totalDistance": 1825600,
+    "totalMovingTime": 543600,
+    "count": 160
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 183426.8,
+    "measuredDistanceKm": 183479.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Meenu Nagori",
+        "athleteId": "69685863",
+        "activityId": "20468646571",
+        "name": "Morning Run",
+        "date": "October 6, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:24:07",
+          "74 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20468581034",
+        "name": "☀️ Tuesday Morning Ride",
+        "date": "October 6, 2026",
+        "distanceKm": 40.4,
+        "stats": [
+          "40.4 km",
+          "1:55:45",
+          "117 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20468578121",
+        "name": "☀️ Tuesday Morning Ride",
+        "date": "October 6, 2026",
+        "distanceKm": 2.3,
+        "stats": [
+          "2.3 km",
+          "7:36",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
@@ -135,45 +174,6 @@
           "33:18",
           "56 m"
         ]
-      },
-      {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20464973935",
-        "name": "Treino vespertino",
-        "date": "October 5, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "5:12",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Henrique Juhas",
-        "athleteId": "118657757",
-        "activityId": "20464874825",
-        "name": "Musculação vespertina",
-        "date": "October 5, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:00:38",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "René Sauer",
-        "athleteId": "190842154",
-        "activityId": "20465027652",
-        "name": "Padel am Abend",
-        "date": "October 5, 2026",
-        "distanceKm": 0.3,
-        "stats": [
-          "0.3 km",
-          "1:28:02",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 199223.8
+      "totalWithEstimatesKm": 199276.5
     }
   }
 }

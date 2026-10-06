@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T05:01:09.056Z",
+  "generatedAt": "2026-10-06T05:30:50.816Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 800473,
-    "percentComplete": 19.95,
+    "remainingKm": 800431,
+    "percentComplete": 19.96,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 2076.6,
-    "thisWeekActivities": 179,
-    "thisWeekHours": 167,
-    "thisWeekElevationM": 14914,
+    "thisWeekKm": 2118,
+    "thisWeekActivities": 187,
+    "thisWeekHours": 172,
+    "thisWeekElevationM": 15506,
     "timesAroundEarth": 4.98,
     "percentToMoon": 51.9,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 31.2,
-        "text": "31.2 return trips Berlin to New York",
+        "value": 31.3,
+        "text": "31.3 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16196,
+  "totalActivities": 16206,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 199527500,
-    "totalMovingTime": 56540627,
-    "totalElevation": 1449906.6
+    "totalDistance": 199568900,
+    "totalMovingTime": 56559167,
+    "totalElevation": 1450498.6
   },
   "monthStats": {
-    "totalDistance": 2076600,
-    "totalMovingTime": 601980,
+    "totalDistance": 2118000,
+    "totalMovingTime": 620520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2076600,
-    "totalMovingTime": 601980,
-    "count": 179
+    "totalDistance": 2118000,
+    "totalMovingTime": 620520,
+    "count": 187
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 183730.5,
+    "measuredDistanceKm": 183771.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20469196513",
-        "name": "Bekan weer vo handschoenen",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20469356703",
+        "name": "🌄 Cycl⚙️ Boul⚙️ 🚴‍♀️",
         "date": "October 6, 2026",
-        "distanceKm": 9.1,
+        "distanceKm": 6.7,
         "stats": [
-          "9.1 km",
-          "23:00",
-          "28 m"
+          "6.7 km",
+          "20:48",
+          "6 m"
+        ]
+      },
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20469269950",
+        "name": "Allenamento mattutino",
+        "date": "October 6, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "20:25",
+          "0 m"
         ]
       },
       {
         "athlete": "Louis Mwanja",
         "athleteId": "14992965",
-        "activityId": "20469211478",
-        "name": "Morning Walk",
+        "activityId": "20469248580",
+        "name": "Morning Run",
         "date": "October 6, 2026",
-        "distanceKm": 0.5,
+        "distanceKm": 4.5,
         "stats": [
-          "0.5 km",
-          "6:39",
-          "20 m"
+          "4.5 km",
+          "43:49",
+          "84 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20469001007",
-        "name": "Yoga am Morgen",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20469309789",
+        "name": "Morning Walk _Hill reps",
         "date": "October 6, 2026",
-        "distanceKm": 0,
+        "distanceKm": 6.2,
         "stats": [
-          "0 km",
-          "17:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20469109516",
-        "name": "Recupero in zona 2",
-        "date": "October 6, 2026",
-        "distanceKm": 12.2,
-        "stats": [
-          "12.2 km",
-          "1:11:48",
-          "19 m"
+          "6.2 km",
+          "1:17:53",
+          "254 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 199527.5
+      "totalWithEstimatesKm": 199568.9
     }
   }
 }

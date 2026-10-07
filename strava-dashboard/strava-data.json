@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T08:30:49.109Z",
+  "generatedAt": "2026-10-07T08:59:52.358Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 798048,
+    "remainingKm": 798033,
     "percentComplete": 20.2,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 4501.1,
+    "thisWeekKm": 4516.1,
     "thisWeekActivities": 384,
-    "thisWeekHours": 355,
-    "thisWeekElevationM": 34335,
+    "thisWeekHours": 356,
+    "thisWeekElevationM": 34392,
     "timesAroundEarth": 5.04,
     "percentToMoon": 52.5,
     "comparisons": [
@@ -70,18 +70,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 201952000,
-    "totalMovingTime": 57217067,
-    "totalElevation": 1469327.6
+    "totalDistance": 201967000,
+    "totalMovingTime": 57221567,
+    "totalElevation": 1469384.6
   },
   "monthStats": {
-    "totalDistance": 4501100,
-    "totalMovingTime": 1278420,
+    "totalDistance": 4516100,
+    "totalMovingTime": 1282920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4501100,
-    "totalMovingTime": 1278420,
+    "totalDistance": 4516100,
+    "totalMovingTime": 1282920,
     "count": 384
   },
   "lastWeekStats": {
@@ -105,23 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 186155,
+    "measuredDistanceKm": 186170,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20485462383",
-        "name": "Morning Workout",
-        "date": "October 7, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "0 m"
-        ]
-      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -133,6 +121,19 @@
           "4.1 km",
           "24:46",
           "26 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20485610833",
+        "name": "Herbstläufe beste Läufe🍂",
+        "date": "October 7, 2026",
+        "distanceKm": 15,
+        "stats": [
+          "15.0 km",
+          "1:16:44",
+          "57 m"
         ]
       },
       {
@@ -193,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 201952
+      "totalWithEstimatesKm": 201967
     }
   }
 }

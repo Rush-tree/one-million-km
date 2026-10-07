@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T10:01:00.691Z",
+  "generatedAt": "2026-10-07T10:30:48.331Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 797962,
-    "percentComplete": 20.2,
+    "remainingKm": 797825,
+    "percentComplete": 20.22,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 4587,
-    "thisWeekActivities": 391,
-    "thisWeekHours": 362,
-    "thisWeekElevationM": 35087,
+    "thisWeekKm": 4724.3,
+    "thisWeekActivities": 393,
+    "thisWeekHours": 366,
+    "thisWeekElevationM": 36610,
     "timesAroundEarth": 5.04,
     "percentToMoon": 52.6,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 31.6,
-        "text": "31.6 return trips Berlin to New York",
+        "value": 31.7,
+        "text": "31.7 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 202037900,
-    "totalMovingTime": 57242747,
-    "totalElevation": 1470079.6
+    "totalDistance": 202175200,
+    "totalMovingTime": 57257747,
+    "totalElevation": 1471602.6
   },
   "monthStats": {
-    "totalDistance": 4587000,
-    "totalMovingTime": 1304100,
+    "totalDistance": 4724300,
+    "totalMovingTime": 1319100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4587000,
-    "totalMovingTime": 1304100,
-    "count": 391
+    "totalDistance": 4724300,
+    "totalMovingTime": 1319100,
+    "count": 393
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 186240.9,
+    "measuredDistanceKm": 186378.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20486263035",
+        "name": "Kinomap - ☀️🛶🏙️Seoul Kayak 2/3",
+        "date": "October 7, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "8:00",
+          "39 m"
+        ]
+      },
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20485729885",
-        "name": "Morning Walk",
-        "date": "October 7, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "37:02",
-          "14 m"
-        ]
-      },
-      {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
         "activityId": "20485870657",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 202037.9
+      "totalWithEstimatesKm": 202175.2
     }
   }
 }

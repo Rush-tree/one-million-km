@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-07T10:30:48.331Z",
+  "generatedAt": "2026-10-07T11:00:58.866Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-07T10:30:48.331Z",
+  "memberCountUpdatedAt": "2026-10-07T11:00:58.866Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 393,
-    "distanceKm": 4724.3,
-    "elevationM": 36610,
-    "movingSeconds": 1319100,
+    "activities": 396,
+    "distanceKm": 4738.1,
+    "elevationM": 36810,
+    "movingSeconds": 1331640,
     "raw": {
-      "activities": "393",
-      "distance": "4,724.3 km",
-      "time": "366 h 25 m",
-      "elevation": "36,610 m"
+      "activities": "396",
+      "distance": "4,738.1 km",
+      "time": "369 h 54 m",
+      "elevation": "36,810 m"
     }
   },
   "latestActivities": [
@@ -45,6 +45,19 @@
       ]
     },
     {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20486597014",
+      "name": "Mittagschwimmen",
+      "date": "October 7, 2026",
+      "distanceKm": 0.3,
+      "stats": [
+        "0.3 km",
+        "1:02:05",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Nico Deckarm",
       "athleteId": "74766538",
       "activityId": "20486186104",
@@ -69,19 +82,6 @@
         "53:40",
         "6 m"
       ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20485870657",
-      "name": "Da viel inderdaad ferm tegen",
-      "date": "October 7, 2026",
-      "distanceKm": 7.3,
-      "stats": [
-        "7.3 km",
-        "1:28:59",
-        "4 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 63370.1,
-  "totalDistanceKm": 186378.2,
+  "observedWeeksKm": 63383.9,
+  "totalDistanceKm": 186392,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 202175.2
+    "totalWithEstimatesKm": 202189
   }
 }

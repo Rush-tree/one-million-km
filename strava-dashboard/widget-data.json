@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-07T23:00:55.636Z",
+  "generatedAt": "2026-10-07T23:30:46.864Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-07T23:00:55.636Z",
+  "memberCountUpdatedAt": "2026-10-07T23:30:46.864Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 516,
-    "distanceKm": 6453.3,
-    "elevationM": 50450,
-    "movingSeconds": 1790400,
+    "activities": 519,
+    "distanceKm": 6569.9,
+    "elevationM": 51112,
+    "movingSeconds": 1809060,
     "raw": {
-      "activities": "516",
-      "distance": "6,453.3 km",
-      "time": "497 h 20 m",
-      "elevation": "50,450 m"
+      "activities": "519",
+      "distance": "6,569.9 km",
+      "time": "502 h 31 m",
+      "elevation": "51,112 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20495819462",
+      "name": "Pedalada ao entardecer",
+      "date": "October 7, 2026",
+      "distanceKm": 15,
+      "stats": [
+        "15.0 km",
+        "43:05",
+        "160 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -45,16 +58,16 @@
       ]
     },
     {
-      "athlete": "Shubham Kumar",
-      "athleteId": "161648421",
-      "activityId": "20495008322",
-      "name": "Evening Run",
+      "athlete": "Fabio Martins Queiroga",
+      "athleteId": "108341050",
+      "activityId": "20495537377",
+      "name": "Pedalada vespertina",
       "date": "October 7, 2026",
-      "distanceKm": 9.9,
+      "distanceKm": 100.8,
       "stats": [
-        "9.9 km",
-        "2:06:10",
-        "40 m"
+        "100.8 km",
+        "4:52:13",
+        "501 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "3:14:24",
         "168 m"
       ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20493679057",
-      "name": "Morning Walk",
-      "date": "October 7, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "5:57:31",
-        "58 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 65099.1,
-  "totalDistanceKm": 188107.2,
+  "observedWeeksKm": 65215.7,
+  "totalDistanceKm": 188223.8,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 203904.2
+    "totalWithEstimatesKm": 204020.8
   }
 }

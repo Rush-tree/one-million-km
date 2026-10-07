@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T23:00:55.636Z",
+  "generatedAt": "2026-10-07T23:30:46.864Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 796096,
-    "percentComplete": 20.39,
+    "remainingKm": 795979,
+    "percentComplete": 20.4,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 6453.3,
-    "thisWeekActivities": 516,
-    "thisWeekHours": 497,
-    "thisWeekElevationM": 50450,
+    "thisWeekKm": 6569.9,
+    "thisWeekActivities": 519,
+    "thisWeekHours": 503,
+    "thisWeekElevationM": 51112,
     "timesAroundEarth": 5.09,
-    "percentToMoon": 53,
+    "percentToMoon": 53.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 53,
-        "text": "53% of the way to the Moon",
+        "value": 53.1,
+        "text": "53.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,21 +46,21 @@
       },
       {
         "key": "transatlantic",
-        "value": 31.9,
-        "text": "31.9 return trips Berlin to New York",
+        "value": 32,
+        "text": "32 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
         "key": "autobahn",
-        "value": 15.4,
-        "text": "15.4× the German autobahn network",
+        "value": 15.5,
+        "text": "15.5× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16538,
+  "totalActivities": 16539,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 203904200,
-    "totalMovingTime": 57729047,
-    "totalElevation": 1485442.6
+    "totalDistance": 204020800,
+    "totalMovingTime": 57747707,
+    "totalElevation": 1486104.6
   },
   "monthStats": {
-    "totalDistance": 6453300,
-    "totalMovingTime": 1790400,
+    "totalDistance": 6569900,
+    "totalMovingTime": 1809060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6453300,
-    "totalMovingTime": 1790400,
-    "count": 516
+    "totalDistance": 6569900,
+    "totalMovingTime": 1809060,
+    "count": 519
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 188107.2,
+    "measuredDistanceKm": 188223.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20495819462",
+        "name": "Pedalada ao entardecer",
+        "date": "October 7, 2026",
+        "distanceKm": 15,
+        "stats": [
+          "15.0 km",
+          "43:05",
+          "160 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -137,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Shubham Kumar",
-        "athleteId": "161648421",
-        "activityId": "20495008322",
-        "name": "Evening Run",
+        "athlete": "Fabio Martins Queiroga",
+        "athleteId": "108341050",
+        "activityId": "20495537377",
+        "name": "Pedalada vespertina",
         "date": "October 7, 2026",
-        "distanceKm": 9.9,
+        "distanceKm": 100.8,
         "stats": [
-          "9.9 km",
-          "2:06:10",
-          "40 m"
+          "100.8 km",
+          "4:52:13",
+          "501 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "63.4 km",
           "3:14:24",
           "168 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20493679057",
-        "name": "Morning Walk",
-        "date": "October 7, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "5:57:31",
-          "58 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 203904.2
+      "totalWithEstimatesKm": 204020.8
     }
   }
 }

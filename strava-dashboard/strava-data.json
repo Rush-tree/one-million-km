@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T19:30:47.757Z",
+  "generatedAt": "2026-10-07T20:00:55.628Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 796225,
-    "percentComplete": 20.38,
+    "remainingKm": 796145,
+    "percentComplete": 20.39,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 6324.3,
-    "thisWeekActivities": 506,
-    "thisWeekHours": 488,
-    "thisWeekElevationM": 49959,
-    "timesAroundEarth": 5.08,
+    "thisWeekKm": 6404,
+    "thisWeekActivities": 511,
+    "thisWeekHours": 494,
+    "thisWeekElevationM": 50257,
+    "timesAroundEarth": 5.09,
     "percentToMoon": 53,
     "comparisons": [
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 30.6,
-        "text": "30.6× the length of the Nile",
+        "value": 30.7,
+        "text": "30.7× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16527,
+  "totalActivities": 16532,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 203775200,
-    "totalMovingTime": 57696167,
-    "totalElevation": 1484951.6
+    "totalDistance": 203854900,
+    "totalMovingTime": 57715547,
+    "totalElevation": 1485249.6
   },
   "monthStats": {
-    "totalDistance": 6324300,
-    "totalMovingTime": 1757520,
+    "totalDistance": 6404000,
+    "totalMovingTime": 1776900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6324300,
-    "totalMovingTime": 1757520,
-    "count": 506
+    "totalDistance": 6404000,
+    "totalMovingTime": 1776900,
+    "count": 511
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 187978.2,
+    "measuredDistanceKm": 188057.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20493051130",
-        "name": "Grail",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20493768640",
+        "name": "Commute 🏫➡️🏡",
         "date": "October 7, 2026",
-        "distanceKm": 0.8,
+        "distanceKm": 4.8,
         "stats": [
-          "0.8 km",
-          "2:59",
-          "0 m"
+          "4.8 km",
+          "13:01",
+          "65 m"
         ]
       },
       {
@@ -137,16 +137,29 @@
         ]
       },
       {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20493052595",
-        "name": "Noch mehr lockere Spazierkilometer",
+        "athlete": "Elmar Höckensfeld 🇩🇪",
+        "athleteId": "18975420",
+        "activityId": "20493811551",
+        "name": "Poco Ronde",
         "date": "October 7, 2026",
-        "distanceKm": 7.2,
+        "distanceKm": 63.4,
         "stats": [
-          "7.2 km",
-          "1:54:33",
-          "63 m"
+          "63.4 km",
+          "3:14:24",
+          "168 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20493679057",
+        "name": "Morning Walk",
+        "date": "October 7, 2026",
+        "distanceKm": 6.6,
+        "stats": [
+          "6.6 km",
+          "5:57:31",
+          "58 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "85.7 km",
           "3:16:22",
           "219 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20492991902",
-        "name": "Abendschwimmen",
-        "date": "October 7, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "1:18:22",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 203775.2
+      "totalWithEstimatesKm": 203854.9
     }
   }
 }

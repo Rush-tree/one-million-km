@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T13:01:00.191Z",
+  "generatedAt": "2026-10-07T13:30:55.517Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 797706,
-    "percentComplete": 20.23,
+    "remainingKm": 797602,
+    "percentComplete": 20.24,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,23 +13,23 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 4843.4,
-    "thisWeekActivities": 413,
-    "thisWeekHours": 386,
-    "thisWeekElevationM": 39481,
+    "thisWeekKm": 4947.1,
+    "thisWeekActivities": 420,
+    "thisWeekHours": 392,
+    "thisWeekElevationM": 40066,
     "timesAroundEarth": 5.05,
-    "percentToMoon": 52.6,
+    "percentToMoon": 52.7,
     "comparisons": [
       {
         "key": "equator",
-        "value": 5,
-        "text": "5× around the equator",
+        "value": 5.1,
+        "text": "5.1× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
         "key": "moon",
-        "value": 52.6,
-        "text": "52.6% of the way to the Moon",
+        "value": 52.7,
+        "text": "52.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16438,
+  "totalActivities": 16445,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 202294300,
-    "totalMovingTime": 57329447,
-    "totalElevation": 1474473.6
+    "totalDistance": 202398000,
+    "totalMovingTime": 57350207,
+    "totalElevation": 1475058.6
   },
   "monthStats": {
-    "totalDistance": 4843400,
-    "totalMovingTime": 1390800,
+    "totalDistance": 4947100,
+    "totalMovingTime": 1411560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4843400,
-    "totalMovingTime": 1390800,
-    "count": 413
+    "totalDistance": 4947100,
+    "totalMovingTime": 1411560,
+    "count": 420
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 186497.3,
+    "measuredDistanceKm": 186601,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20488721383",
+        "name": "Afternoon Swim",
+        "date": "October 7, 2026",
+        "distanceKm": 0.1,
+        "stats": [
+          "0.1 km",
+          "30:43",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20488308473",
-        "name": "Afternoon Walk",
-        "date": "October 7, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "18:32",
-          "11 m"
-        ]
-      },
-      {
         "athlete": "René Rosenberger",
         "athleteId": "757098365",
-        "activityId": "20488085166",
-        "name": "Fahrt am Nachmittag",
+        "activityId": "20488502454",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "October 7, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "3:02",
+          "33:32",
           "0 m"
         ]
       },
       {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20488224829",
-        "name": "Mountainbike-Fahrt zur Mittagszeit",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20488742232",
+        "name": "Zwift - Group Ride: Long - Stage 1 - Tour of Watopia 2026",
         "date": "October 7, 2026",
-        "distanceKm": 25,
+        "distanceKm": 53.3,
         "stats": [
-          "25.0 km",
-          "2:47:14",
-          "617 m"
+          "53.3 km",
+          "1:21:19",
+          "375 m"
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20487928262",
-        "name": "Spaziergang am Morgen",
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20488665738",
+        "name": "Evening Run",
         "date": "October 7, 2026",
-        "distanceKm": 5.1,
+        "distanceKm": 17.9,
         "stats": [
-          "5.1 km",
-          "4:17:33",
-          "109 m"
+          "17.9 km",
+          "2:18:42",
+          "166 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 202294.3
+      "totalWithEstimatesKm": 202398
     }
   }
 }

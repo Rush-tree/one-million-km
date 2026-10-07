@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-07T14:30:48.634Z",
+  "generatedAt": "2026-10-07T15:01:03.096Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-07T14:30:48.634Z",
+  "memberCountUpdatedAt": "2026-10-07T15:01:03.096Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 432,
-    "distanceKm": 5064.5,
-    "elevationM": 40701,
-    "movingSeconds": 1442220,
+    "activities": 436,
+    "distanceKm": 5129.3,
+    "elevationM": 41182,
+    "movingSeconds": 1454520,
     "raw": {
-      "activities": "432",
-      "distance": "5,064.5 km",
-      "time": "400 h 37 m",
-      "elevation": "40,701 m"
+      "activities": "436",
+      "distance": "5,129.3 km",
+      "time": "404 h 2 m",
+      "elevation": "41,182 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20489854466",
+      "name": "Spaziergang am Nachmittag",
+      "date": "October 7, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "30:17",
+        "8 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -45,23 +58,10 @@
       ]
     },
     {
-      "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-      "athleteId": "4351490",
-      "activityId": "20489111277",
-      "name": "Treppenstepper am Nachmittag",
-      "date": "October 7, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "15:01",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "André Brune",
       "athleteId": "4536289",
       "activityId": "20489524083",
-      "name": "Grail",
+      "name": "Grail ☁",
       "date": "October 7, 2026",
       "distanceKm": 26.2,
       "stats": [
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 63710.3,
-  "totalDistanceKm": 186718.4,
+  "observedWeeksKm": 63775.1,
+  "totalDistanceKm": 186783.2,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 202515.4
+    "totalWithEstimatesKm": 202580.2
   }
 }

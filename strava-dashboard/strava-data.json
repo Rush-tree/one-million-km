@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T08:00:59.490Z",
+  "generatedAt": "2026-10-07T08:30:49.109Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 798064,
-    "percentComplete": 20.19,
+    "remainingKm": 798048,
+    "percentComplete": 20.2,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 4485.3,
-    "thisWeekActivities": 379,
-    "thisWeekHours": 352,
-    "thisWeekElevationM": 34149,
+    "thisWeekKm": 4501.1,
+    "thisWeekActivities": 384,
+    "thisWeekHours": 355,
+    "thisWeekElevationM": 34335,
     "timesAroundEarth": 5.04,
     "percentToMoon": 52.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16402,
+  "totalActivities": 16408,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 201936200,
-    "totalMovingTime": 57206147,
-    "totalElevation": 1469141.6
+    "totalDistance": 201952000,
+    "totalMovingTime": 57217067,
+    "totalElevation": 1469327.6
   },
   "monthStats": {
-    "totalDistance": 4485300,
-    "totalMovingTime": 1267500,
+    "totalDistance": 4501100,
+    "totalMovingTime": 1278420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4485300,
-    "totalMovingTime": 1267500,
-    "count": 379
+    "totalDistance": 4501100,
+    "totalMovingTime": 1278420,
+    "count": 384
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,60 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 186139.2,
+    "measuredDistanceKm": 186155,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20485139536",
-        "name": "Morning E-Bike Ride",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20485462383",
+        "name": "Morning Workout",
         "date": "October 7, 2026",
-        "distanceKm": 3.7,
+        "distanceKm": 0,
         "stats": [
-          "3.7 km",
-          "18:27",
-          "18 m"
+          "0 km",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20485324159",
+        "name": "Sabah Sürüş",
+        "date": "October 7, 2026",
+        "distanceKm": 4.1,
+        "stats": [
+          "4.1 km",
+          "24:46",
+          "26 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20485454049",
+        "name": "Morning Workout",
+        "date": "October 7, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:01:33",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20485474829",
+        "name": "Spaziergang am Morgen",
+        "date": "October 7, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "1:07:45",
+          "148 m"
         ]
       },
       {
@@ -134,45 +172,6 @@
           "12.8 km",
           "59:21",
           "7 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20484500388",
-        "name": "Morning Ride",
-        "date": "October 7, 2026",
-        "distanceKm": 4.5,
-        "stats": [
-          "4.5 km",
-          "19:16",
-          "54 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20484574166",
-        "name": "Morning run 🌘",
-        "date": "October 7, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "7:39",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20484335660",
-        "name": "Commute #114/2026 🏥🩺",
-        "date": "October 7, 2026",
-        "distanceKm": 9,
-        "stats": [
-          "9.0 km",
-          "23:23",
-          "40 m"
         ]
       }
     ],
@@ -194,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 201936.2
+      "totalWithEstimatesKm": 201952
     }
   }
 }

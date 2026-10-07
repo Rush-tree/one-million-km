@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-07T14:00:58.662Z",
+  "generatedAt": "2026-10-07T14:30:48.634Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 797586,
-    "percentComplete": 20.24,
+    "remainingKm": 797485,
+    "percentComplete": 20.25,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 4962.7,
-    "thisWeekActivities": 426,
-    "thisWeekHours": 395,
-    "thisWeekElevationM": 40461,
+    "thisWeekKm": 5064.5,
+    "thisWeekActivities": 432,
+    "thisWeekHours": 401,
+    "thisWeekElevationM": 40701,
     "timesAroundEarth": 5.05,
     "percentToMoon": 52.7,
     "comparisons": [
@@ -34,14 +34,14 @@
       },
       {
         "key": "greatwall",
-        "value": 9.5,
-        "text": "9.5× the Great Wall of China",
+        "value": 9.6,
+        "text": "9.6× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
         "key": "nile",
-        "value": 30.4,
-        "text": "30.4× the length of the Nile",
+        "value": 30.5,
+        "text": "30.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16452,
+  "totalActivities": 16458,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 202413600,
-    "totalMovingTime": 57358847,
-    "totalElevation": 1475453.6
+    "totalDistance": 202515400,
+    "totalMovingTime": 57380867,
+    "totalElevation": 1475693.6
   },
   "monthStats": {
-    "totalDistance": 4962700,
-    "totalMovingTime": 1420200,
+    "totalDistance": 5064500,
+    "totalMovingTime": 1442220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4962700,
-    "totalMovingTime": 1420200,
-    "count": 426
+    "totalDistance": 5064500,
+    "totalMovingTime": 1442220,
+    "count": 432
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 186616.6,
+    "measuredDistanceKm": 186718.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20489379435",
+        "name": "Afternoon Walk",
+        "date": "October 7, 2026",
+        "distanceKm": 1.1,
+        "stats": [
+          "1.1 km",
+          "20:19",
+          "0 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20489111113",
-        "name": "Nachmittagstraining",
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20489524083",
+        "name": "Grail",
+        "date": "October 7, 2026",
+        "distanceKm": 26.2,
+        "stats": [
+          "26.2 km",
+          "1:04:40",
+          "23 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20489206277",
+        "name": "Evening Activity",
         "date": "October 7, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "5:02",
+          "1:03:43",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20489035840",
-        "name": "Sauna",
-        "date": "October 7, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0.0 km",
-          "15:11",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "20489094725",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 7, 2026",
-        "distanceKm": 10.9,
-        "stats": [
-          "10.9 km",
-          "1:49:30",
-          "341 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 202413.6
+      "totalWithEstimatesKm": 202515.4
     }
   }
 }

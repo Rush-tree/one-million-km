@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T09:01:02.367Z",
+  "generatedAt": "2026-10-08T09:15:06.274Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 795539,
+    "remainingKm": 795509,
     "percentComplete": 20.45,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 7010.1,
-    "thisWeekActivities": 565,
-    "thisWeekHours": 537,
-    "thisWeekElevationM": 53546,
+    "thisWeekKm": 7040.3,
+    "thisWeekActivities": 566,
+    "thisWeekHours": 538,
+    "thisWeekElevationM": 53778,
     "timesAroundEarth": 5.1,
     "percentToMoon": 53.2,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 30.7,
-        "text": "30.7× the length of the Nile",
+        "value": 30.8,
+        "text": "30.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 204461000,
-    "totalMovingTime": 57870287,
-    "totalElevation": 1488538.6
+    "totalDistance": 204491200,
+    "totalMovingTime": 57874247,
+    "totalElevation": 1488770.6
   },
   "monthStats": {
-    "totalDistance": 7010100,
-    "totalMovingTime": 1931640,
+    "totalDistance": 7040300,
+    "totalMovingTime": 1935600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7010100,
-    "totalMovingTime": 1931640,
-    "count": 565
+    "totalDistance": 7040300,
+    "totalMovingTime": 1935600,
+    "count": 566
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 188664,
+    "measuredDistanceKm": 188694.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "12.0 km",
           "35:10",
           "126 m"
+        ]
+      },
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20499539756",
+        "name": "Zwift - Loop de Loop in Watopia",
+        "date": "October 8, 2026",
+        "distanceKm": 30.1,
+        "stats": [
+          "30.1 km",
+          "1:06:30",
+          "232 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "1:39:49",
           "7 m"
         ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20498849032",
-        "name": "Zwift - Group Ride: Long - Stage 1 - Tour of Watopia 2026",
-        "date": "October 8, 2026",
-        "distanceKm": 43.1,
-        "stats": [
-          "43.1 km",
-          "1:22:24",
-          "321 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 204461
+      "totalWithEstimatesKm": 204491.2
     }
   }
 }

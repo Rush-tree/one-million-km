@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-08T09:15:06.274Z",
+  "generatedAt": "2026-10-08T09:30:47.070Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-08T09:15:06.273Z",
+  "memberCountUpdatedAt": "2026-10-08T09:30:47.070Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 566,
-    "distanceKm": 7040.3,
-    "elevationM": 53778,
-    "movingSeconds": 1935600,
+    "activities": 568,
+    "distanceKm": 7057.1,
+    "elevationM": 53798,
+    "movingSeconds": 1942260,
     "raw": {
-      "activities": "566",
-      "distance": "7,040.3 km",
-      "time": "537 h 40 m",
-      "elevation": "53,778 m"
+      "activities": "568",
+      "distance": "7,057.1 km",
+      "time": "539 h 31 m",
+      "elevation": "53,798 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20499703478",
+      "name": "Mittagstraining",
+      "date": "October 8, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "27:53",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -42,19 +55,6 @@
         "30.1 km",
         "1:06:30",
         "232 m"
-      ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20499348042",
-      "name": "Morning Walk",
-      "date": "October 8, 2026",
-      "distanceKm": 1.6,
-      "stats": [
-        "1.6 km",
-        "33:52",
-        "52 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 65686.1,
-  "totalDistanceKm": 188694.2,
+  "observedWeeksKm": 65702.9,
+  "totalDistanceKm": 188711,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 204491.2
+    "totalWithEstimatesKm": 204508
   }
 }

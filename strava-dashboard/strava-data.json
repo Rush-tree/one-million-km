@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T09:30:47.070Z",
+  "generatedAt": "2026-10-08T10:01:04.135Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 795492,
-    "percentComplete": 20.45,
+    "remainingKm": 795425,
+    "percentComplete": 20.46,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 7057.1,
-    "thisWeekActivities": 568,
-    "thisWeekHours": 540,
-    "thisWeekElevationM": 53798,
+    "thisWeekKm": 7123.9,
+    "thisWeekActivities": 573,
+    "thisWeekHours": 543,
+    "thisWeekElevationM": 53976,
     "timesAroundEarth": 5.1,
     "percentToMoon": 53.2,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 9.6,
-        "text": "9.6× the Great Wall of China",
+        "value": 9.7,
+        "text": "9.7× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16591,
+  "totalActivities": 16596,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 204508000,
-    "totalMovingTime": 57880907,
-    "totalElevation": 1488790.6
+    "totalDistance": 204574800,
+    "totalMovingTime": 57894047,
+    "totalElevation": 1488968.6
   },
   "monthStats": {
-    "totalDistance": 7057100,
-    "totalMovingTime": 1942260,
+    "totalDistance": 7123900,
+    "totalMovingTime": 1955400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7057100,
-    "totalMovingTime": 1942260,
-    "count": 568
+    "totalDistance": 7123900,
+    "totalMovingTime": 1955400,
+    "count": 573
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 188711,
+    "measuredDistanceKm": 188777.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20499916357",
+        "name": "Lunch Ride",
+        "date": "October 8, 2026",
+        "distanceKm": 19.3,
+        "stats": [
+          "19.3 km",
+          "41:14",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20499888305",
+        "name": "Zwift - Southern Coast Cruise in Watopia",
+        "date": "October 8, 2026",
+        "distanceKm": 24,
+        "stats": [
+          "24.0 km",
+          "41:22",
+          "137 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20499900941",
+        "name": "Lunch Ride",
+        "date": "October 8, 2026",
+        "distanceKm": 19.4,
+        "stats": [
+          "19.4 km",
+          "43:38",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -124,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20499464590",
-        "name": "Pedalada matinal",
-        "date": "October 8, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "35:10",
-          "126 m"
-        ]
-      },
-      {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
         "activityId": "20499539756",
@@ -147,32 +173,6 @@
           "30.1 km",
           "1:06:30",
           "232 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20499407687",
-        "name": "Morning Walk",
-        "date": "October 8, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "1:12:22",
-          "28 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20499456570",
-        "name": "Ciclismo mattutino",
-        "date": "October 8, 2026",
-        "distanceKm": 17,
-        "stats": [
-          "17.0 km",
-          "1:39:49",
-          "7 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 204508
+      "totalWithEstimatesKm": 204574.8
     }
   }
 }

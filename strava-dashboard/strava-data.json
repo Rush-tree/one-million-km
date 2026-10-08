@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T11:30:48.522Z",
+  "generatedAt": "2026-10-08T12:01:03.031Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 795304,
+    "remainingKm": 795278,
     "percentComplete": 20.47,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 7245.5,
-    "thisWeekActivities": 583,
-    "thisWeekHours": 553,
-    "thisWeekElevationM": 55310,
+    "thisWeekKm": 7271.5,
+    "thisWeekActivities": 588,
+    "thisWeekHours": 558,
+    "thisWeekElevationM": 55345,
     "timesAroundEarth": 5.11,
     "percentToMoon": 53.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16607,
+  "totalActivities": 16612,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 204696400,
-    "totalMovingTime": 57929627,
-    "totalElevation": 1490302.6
+    "totalDistance": 204722400,
+    "totalMovingTime": 57946487,
+    "totalElevation": 1490337.6
   },
   "monthStats": {
-    "totalDistance": 7245500,
-    "totalMovingTime": 1990980,
+    "totalDistance": 7271500,
+    "totalMovingTime": 2007840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7245500,
-    "totalMovingTime": 1990980,
-    "count": 583
+    "totalDistance": 7271500,
+    "totalMovingTime": 2007840,
+    "count": 588
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 188899.4,
+    "measuredDistanceKm": 188925.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20500661059",
-        "name": "Lunch Ride",
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20501221427",
+        "name": "Mittagslauf",
         "date": "October 8, 2026",
-        "distanceKm": 3.1,
+        "distanceKm": 7.5,
         "stats": [
-          "3.1 km",
-          "8:33",
-          "10 m"
+          "7.5 km",
+          "46:02",
+          "0 m"
         ]
       },
       {
@@ -137,29 +137,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20500341519",
-        "name": "Morning Walk",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20501435594",
+        "name": "Benen veel zwaarder dan gehoopt",
         "date": "October 8, 2026",
-        "distanceKm": 1.5,
+        "distanceKm": 8.2,
         "stats": [
-          "1.5 km",
-          "34:48",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20500508324",
-        "name": "Morning Run",
-        "date": "October 8, 2026",
-        "distanceKm": 16.3,
-        "stats": [
-          "16.3 km",
-          "1:38:32",
-          "197 m"
+          "8.2 km",
+          "1:36:50",
+          "10 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "41.5 km",
           "2:03:00",
           "435 m"
+        ]
+      },
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20501199448",
+        "name": "Morning Walk",
+        "date": "October 8, 2026",
+        "distanceKm": 2.7,
+        "stats": [
+          "2.7 km",
+          "2:17:52",
+          "15 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 204696.4
+      "totalWithEstimatesKm": 204722.4
     }
   }
 }

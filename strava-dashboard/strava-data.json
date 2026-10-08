@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-08T18:00:56.513Z",
+  "generatedAt": "2026-10-08T18:30:46.654Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 794560,
-    "percentComplete": 20.54,
+    "remainingKm": 794528,
+    "percentComplete": 20.55,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 7988.9,
-    "thisWeekActivities": 659,
-    "thisWeekHours": 620,
-    "thisWeekElevationM": 59301,
+    "thisWeekKm": 8021.3,
+    "thisWeekActivities": 662,
+    "thisWeekHours": 623,
+    "thisWeekElevationM": 59389,
     "timesAroundEarth": 5.13,
-    "percentToMoon": 53.4,
+    "percentToMoon": 53.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 53.4,
-        "text": "53.4% of the way to the Moon",
+        "value": 53.5,
+        "text": "53.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16688,
+  "totalActivities": 16691,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 205439800,
-    "totalMovingTime": 58169327,
-    "totalElevation": 1494293.6
+    "totalDistance": 205472200,
+    "totalMovingTime": 58181687,
+    "totalElevation": 1494381.6
   },
   "monthStats": {
-    "totalDistance": 7988900,
-    "totalMovingTime": 2230680,
+    "totalDistance": 8021300,
+    "totalMovingTime": 2243040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7988900,
-    "totalMovingTime": 2230680,
-    "count": 659
+    "totalDistance": 8021300,
+    "totalMovingTime": 2243040,
+    "count": 662
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 189642.8,
+    "measuredDistanceKm": 189675.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20505293195",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20506243796",
+        "name": "Evening Run",
+        "date": "October 8, 2026",
+        "distanceKm": 6.4,
+        "stats": [
+          "6.4 km",
+          "52:55",
+          "9 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20506212385",
         "name": "Abendlauf",
         "date": "October 8, 2026",
-        "distanceKm": 8,
+        "distanceKm": 5.8,
         "stats": [
-          "8.0 km",
-          "34:32",
-          "0 m"
+          "5.8 km",
+          "1:23:21",
+          "4 m"
         ]
       },
       {
@@ -137,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20505802219",
-        "name": "Torspieler Training SGM Jugend",
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20505942414",
+        "name": "Das D in Donnerstag steht für 20km",
         "date": "October 8, 2026",
-        "distanceKm": 1.1,
+        "distanceKm": 20,
         "stats": [
-          "1.1 km",
-          "1:21:35",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20505338990",
-        "name": "Nachdenken und Schafe zählen",
-        "date": "October 8, 2026",
-        "distanceKm": 8.8,
-        "stats": [
-          "8.8 km",
-          "2:07:54",
-          "76 m"
+          "20.0 km",
+          "2:20:09",
+          "75 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 205439.8
+      "totalWithEstimatesKm": 205472.2
     }
   }
 }

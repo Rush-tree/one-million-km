@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T12:30:49.712Z",
+  "generatedAt": "2026-10-08T13:01:03.921Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 795244,
+    "remainingKm": 795223,
     "percentComplete": 20.48,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 7305.6,
-    "thisWeekActivities": 592,
-    "thisWeekHours": 560,
-    "thisWeekElevationM": 55615,
+    "thisWeekKm": 7325.9,
+    "thisWeekActivities": 597,
+    "thisWeekHours": 563,
+    "thisWeekElevationM": 55725,
     "timesAroundEarth": 5.11,
     "percentToMoon": 53.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16617,
+  "totalActivities": 16623,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 204756500,
-    "totalMovingTime": 57956387,
-    "totalElevation": 1490607.6
+    "totalDistance": 204776800,
+    "totalMovingTime": 57965387,
+    "totalElevation": 1490717.6
   },
   "monthStats": {
-    "totalDistance": 7305600,
-    "totalMovingTime": 2017740,
+    "totalDistance": 7325900,
+    "totalMovingTime": 2026740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7305600,
-    "totalMovingTime": 2017740,
-    "count": 592
+    "totalDistance": 7325900,
+    "totalMovingTime": 2026740,
+    "count": 597
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 188959.5,
+    "measuredDistanceKm": 188979.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20501934863",
+        "name": "Camminata pomeridiana",
+        "date": "October 8, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "47:57",
+          "15 m"
+        ]
+      },
+      {
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20501926369",
+        "name": "Morning Walk",
+        "date": "October 8, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "51:10",
+          "77 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -121,32 +147,6 @@
           "31.2 km",
           "1:10:15",
           "225 m"
-        ]
-      },
-      {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20501221427",
-        "name": "Mittagslauf",
-        "date": "October 8, 2026",
-        "distanceKm": 7.5,
-        "stats": [
-          "7.5 km",
-          "46:02",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20501435594",
-        "name": "Benen veel zwaarder dan gehoopt",
-        "date": "October 8, 2026",
-        "distanceKm": 8.2,
-        "stats": [
-          "8.2 km",
-          "1:36:50",
-          "10 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20501199448",
-        "name": "Morning Walk",
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20502050333",
+        "name": "Evening Walk",
         "date": "October 8, 2026",
-        "distanceKm": 2.7,
+        "distanceKm": 0.1,
         "stats": [
-          "2.7 km",
-          "2:17:52",
-          "15 m"
+          "0.1 km",
+          "3:59",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 204756.5
+      "totalWithEstimatesKm": 204776.8
     }
   }
 }

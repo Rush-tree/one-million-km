@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T03:30:48.306Z",
+  "generatedAt": "2026-10-08T04:00:57.836Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 795829,
+    "remainingKm": 795813,
     "percentComplete": 20.42,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 6720,
-    "thisWeekActivities": 529,
-    "thisWeekHours": 513,
-    "thisWeekElevationM": 51473,
-    "timesAroundEarth": 5.09,
+    "thisWeekKm": 6736,
+    "thisWeekActivities": 532,
+    "thisWeekHours": 514,
+    "thisWeekElevationM": 51515,
+    "timesAroundEarth": 5.1,
     "percentToMoon": 53.1,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16549,
+  "totalActivities": 16552,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 204170900,
-    "totalMovingTime": 57785867,
-    "totalElevation": 1486465.6
+    "totalDistance": 204186900,
+    "totalMovingTime": 57790787,
+    "totalElevation": 1486507.6
   },
   "monthStats": {
-    "totalDistance": 6720000,
-    "totalMovingTime": 1847220,
+    "totalDistance": 6736000,
+    "totalMovingTime": 1852140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6720000,
-    "totalMovingTime": 1847220,
-    "count": 529
+    "totalDistance": 6736000,
+    "totalMovingTime": 1852140,
+    "count": 532
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 188373.9,
+    "measuredDistanceKm": 188389.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20497542156",
+        "name": "final Round Work",
+        "date": "October 8, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "14:57",
+          "14 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20497618593",
+        "name": "Thursday Morning Activity",
+        "date": "October 8, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "9:08",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20497605144",
+        "name": "Morning Run",
+        "date": "October 8, 2026",
+        "distanceKm": 9.8,
+        "stats": [
+          "9.8 km",
+          "1:04:25",
+          "28 m"
+        ]
+      },
       {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
@@ -124,32 +163,6 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20497330124",
-        "name": "Morning Activity",
-        "date": "October 8, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "9:13",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "20497232957",
-        "name": "Bronco Test Running 🏃",
-        "date": "October 7, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "8:28",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Goro Shigeno",
         "athleteId": "37029557",
         "activityId": "20497523102",
@@ -160,19 +173,6 @@
           "5.1 km",
           "3:17:51",
           "48 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20497281385",
-        "name": "☀️ Thursday Morning Ride",
-        "date": "October 8, 2026",
-        "distanceKm": 62,
-        "stats": [
-          "62.0 km",
-          "2:53:14",
-          "154 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 204170.9
+      "totalWithEstimatesKm": 204186.9
     }
   }
 }

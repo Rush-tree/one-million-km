@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T12:00:58.734Z",
+  "generatedAt": "2026-10-09T12:30:49.256Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 793796,
-    "percentComplete": 20.62,
+    "remainingKm": 793672,
+    "percentComplete": 20.63,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 8753.1,
-    "thisWeekActivities": 754,
-    "thisWeekHours": 699,
-    "thisWeekElevationM": 64099,
+    "thisWeekKm": 8877.4,
+    "thisWeekActivities": 756,
+    "thisWeekHours": 703,
+    "thisWeekElevationM": 65581,
     "timesAroundEarth": 5.15,
-    "percentToMoon": 53.6,
+    "percentToMoon": 53.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 53.6,
-        "text": "53.6% of the way to the Moon",
+        "value": 53.7,
+        "text": "53.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 206204000,
-    "totalMovingTime": 58455287,
-    "totalElevation": 1499091.6
+    "totalDistance": 206328300,
+    "totalMovingTime": 58470827,
+    "totalElevation": 1500573.6
   },
   "monthStats": {
-    "totalDistance": 8753100,
-    "totalMovingTime": 2516640,
+    "totalDistance": 8877400,
+    "totalMovingTime": 2532180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8753100,
-    "totalMovingTime": 2516640,
-    "count": 754
+    "totalDistance": 8877400,
+    "totalMovingTime": 2532180,
+    "count": 756
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 190407,
+    "measuredDistanceKm": 190531.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20514658109",
+        "name": "Spaziergang am Nachmittag",
+        "date": "October 9, 2026",
+        "distanceKm": 1.9,
+        "stats": [
+          "1.9 km",
+          "28:02",
+          "6 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -161,19 +174,6 @@
           "36:37",
           "6 m"
         ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20513286146",
-        "name": "Crossrope AMP Workout",
-        "date": "October 9, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "28:00",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 206204
+      "totalWithEstimatesKm": 206328.3
     }
   }
 }

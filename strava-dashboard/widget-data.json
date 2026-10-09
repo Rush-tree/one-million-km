@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-09T12:00:58.734Z",
+  "generatedAt": "2026-10-09T12:30:49.256Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-09T12:00:58.733Z",
+  "memberCountUpdatedAt": "2026-10-09T12:30:49.256Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 754,
-    "distanceKm": 8753.1,
-    "elevationM": 64099,
-    "movingSeconds": 2516640,
+    "activities": 756,
+    "distanceKm": 8877.4,
+    "elevationM": 65581,
+    "movingSeconds": 2532180,
     "raw": {
-      "activities": "754",
-      "distance": "8,753.1 km",
-      "time": "699 h 4 m",
-      "elevation": "64,099 m"
+      "activities": "756",
+      "distance": "8,877.4 km",
+      "time": "703 h 23 m",
+      "elevation": "65,581 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20514658109",
+      "name": "Spaziergang am Nachmittag",
+      "date": "October 9, 2026",
+      "distanceKm": 1.9,
+      "stats": [
+        "1.9 km",
+        "28:02",
+        "6 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -69,19 +82,6 @@
         "36:37",
         "6 m"
       ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20513286146",
-      "name": "Crossrope AMP Workout",
-      "date": "October 9, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "28:00",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 67398.9,
-  "totalDistanceKm": 190407,
+  "observedWeeksKm": 67523.2,
+  "totalDistanceKm": 190531.3,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 206204
+    "totalWithEstimatesKm": 206328.3
   }
 }

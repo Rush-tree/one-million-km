@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T02:30:45.975Z",
+  "generatedAt": "2026-10-09T03:00:58.368Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 794381,
-    "percentComplete": 20.56,
+    "remainingKm": 794246,
+    "percentComplete": 20.58,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 8168,
-    "thisWeekActivities": 684,
-    "thisWeekHours": 646,
-    "thisWeekElevationM": 60166,
+    "thisWeekKm": 8303,
+    "thisWeekActivities": 689,
+    "thisWeekHours": 653,
+    "thisWeekElevationM": 60897,
     "timesAroundEarth": 5.13,
     "percentToMoon": 53.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16716,
+  "totalActivities": 16719,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 205618900,
-    "totalMovingTime": 58264427,
-    "totalElevation": 1495158.6
+    "totalDistance": 205753900,
+    "totalMovingTime": 58290527,
+    "totalElevation": 1495889.6
   },
   "monthStats": {
-    "totalDistance": 8168000,
-    "totalMovingTime": 2325780,
+    "totalDistance": 8303000,
+    "totalMovingTime": 2351880,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8168000,
-    "totalMovingTime": 2325780,
-    "count": 684
+    "totalDistance": 8303000,
+    "totalMovingTime": 2351880,
+    "count": 689
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 189821.9,
+    "measuredDistanceKm": 189956.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20510522848",
+        "name": "Friday Morning Activity",
+        "date": "October 9, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "9:45",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20510478869",
+        "name": "☀️ Friday Morning Ride",
+        "date": "October 9, 2026",
+        "distanceKm": 62.1,
+        "stats": [
+          "62.1 km",
+          "3:05:34",
+          "187 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20510476930",
+        "name": "☀️ Morning Ride",
+        "date": "October 9, 2026",
+        "distanceKm": 62,
+        "stats": [
+          "62.0 km",
+          "3:08:38",
+          "167 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -135,45 +174,6 @@
           "33:04",
           "107 m"
         ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20506896650",
-        "name": "Evening Walk",
-        "date": "October 8, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "1:04:19",
-          "19 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20507689735",
-        "name": "Dauerlauf 90 Min. 🏃🏃🏃 …",
-        "date": "October 8, 2026",
-        "distanceKm": 17,
-        "stats": [
-          "17.0 km",
-          "1:34:40",
-          "173 m"
-        ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20507365387",
-        "name": "Gewichtstraining in der Nacht",
-        "date": "October 8, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:15:22",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 205618.9
+      "totalWithEstimatesKm": 205753.9
     }
   }
 }

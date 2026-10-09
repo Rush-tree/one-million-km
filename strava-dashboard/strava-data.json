@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T12:30:49.256Z",
+  "generatedAt": "2026-10-09T13:01:02.052Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 793672,
-    "percentComplete": 20.63,
+    "remainingKm": 793582,
+    "percentComplete": 20.64,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,17 +13,17 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 8877.4,
-    "thisWeekActivities": 756,
-    "thisWeekHours": 703,
-    "thisWeekElevationM": 65581,
+    "thisWeekKm": 8967.6,
+    "thisWeekActivities": 764,
+    "thisWeekHours": 713,
+    "thisWeekElevationM": 66475,
     "timesAroundEarth": 5.15,
     "percentToMoon": 53.7,
     "comparisons": [
       {
         "key": "equator",
-        "value": 5.1,
-        "text": "5.1× around the equator",
+        "value": 5.2,
+        "text": "5.2× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16792,
+  "totalActivities": 16800,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 206328300,
-    "totalMovingTime": 58470827,
-    "totalElevation": 1500573.6
+    "totalDistance": 206418500,
+    "totalMovingTime": 58503707,
+    "totalElevation": 1501467.6
   },
   "monthStats": {
-    "totalDistance": 8877400,
-    "totalMovingTime": 2532180,
+    "totalDistance": 8967600,
+    "totalMovingTime": 2565060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8877400,
-    "totalMovingTime": 2532180,
-    "count": 756
+    "totalDistance": 8967600,
+    "totalMovingTime": 2565060,
+    "count": 764
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 190531.3,
+    "measuredDistanceKm": 190621.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20514933830",
+        "name": "Aquajoggen",
+        "date": "October 9, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "32:00",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20514816723",
+        "name": "Zwift - Group Ride: Standard - Stage 1 - Tour of Watopia 2026",
+        "date": "October 9, 2026",
+        "distanceKm": 28.3,
+        "stats": [
+          "28.3 km",
+          "41:44",
+          "187 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20514228390",
-        "name": "Traillauf am Nachmittag",
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20514893094",
+        "name": "Gravel Ride...",
         "date": "October 9, 2026",
-        "distanceKm": 6.7,
+        "distanceKm": 23.2,
         "stats": [
-          "6.7 km",
-          "29:33",
-          "88 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20513993295",
-        "name": "Fahrt am Nachmittag",
-        "date": "October 9, 2026",
-        "distanceKm": 8.6,
-        "stats": [
-          "8.6 km",
-          "19:40",
-          "125 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20513957516",
-        "name": "Lunch Walk",
-        "date": "October 9, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "36:37",
-          "6 m"
+          "23.2 km",
+          "1:41:13",
+          "382 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 206328.3
+      "totalWithEstimatesKm": 206418.5
     }
   }
 }

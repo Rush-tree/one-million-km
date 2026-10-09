@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-09T19:30:49.261Z",
+  "generatedAt": "2026-10-09T20:01:00.157Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-09T19:30:49.261Z",
+  "memberCountUpdatedAt": "2026-10-09T20:01:00.157Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 830,
-    "distanceKm": 9869.1,
-    "elevationM": 74393,
-    "movingSeconds": 2795040,
+    "activities": 831,
+    "distanceKm": 9869.9,
+    "elevationM": 74429,
+    "movingSeconds": 2795820,
     "raw": {
-      "activities": "830",
-      "distance": "9,869.1 km",
-      "time": "776 h 24 m",
-      "elevation": "74,393 m"
+      "activities": "831",
+      "distance": "9,869.9 km",
+      "time": "776 h 37 m",
+      "elevation": "74,429 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Anja Habermeier",
+      "athleteId": "80382525",
+      "activityId": "20519302528",
+      "name": "Nachtspaziergang",
+      "date": "October 9, 2026",
+      "distanceKm": 0.8,
+      "stats": [
+        "0.8 km",
+        "15:40",
+        "36 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -69,19 +82,6 @@
         "57:44",
         "162 m"
       ]
-    },
-    {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20518457165",
-      "name": "Evening walk 🌬️🌬️",
-      "date": "October 9, 2026",
-      "distanceKm": 4.1,
-      "stats": [
-        "4.1 km",
-        "2:57:00",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 68514.9,
-  "totalDistanceKm": 191523,
+  "observedWeeksKm": 68515.7,
+  "totalDistanceKm": 191523.8,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 207320
+    "totalWithEstimatesKm": 207320.8
   }
 }

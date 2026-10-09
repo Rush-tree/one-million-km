@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T11:30:47.687Z",
+  "generatedAt": "2026-10-09T12:00:58.734Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 793818,
+    "remainingKm": 793796,
     "percentComplete": 20.62,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 8730.7,
-    "thisWeekActivities": 750,
-    "thisWeekHours": 696,
-    "thisWeekElevationM": 63820,
-    "timesAroundEarth": 5.14,
+    "thisWeekKm": 8753.1,
+    "thisWeekActivities": 754,
+    "thisWeekHours": 699,
+    "thisWeekElevationM": 64099,
+    "timesAroundEarth": 5.15,
     "percentToMoon": 53.6,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16787,
+  "totalActivities": 16792,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 206181600,
-    "totalMovingTime": 58444307,
-    "totalElevation": 1498812.6
+    "totalDistance": 206204000,
+    "totalMovingTime": 58455287,
+    "totalElevation": 1499091.6
   },
   "monthStats": {
-    "totalDistance": 8730700,
-    "totalMovingTime": 2505660,
+    "totalDistance": 8753100,
+    "totalMovingTime": 2516640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8730700,
-    "totalMovingTime": 2505660,
-    "count": 750
+    "totalDistance": 8753100,
+    "totalMovingTime": 2516640,
+    "count": 754
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 190384.6,
+    "measuredDistanceKm": 190407,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20514341506",
+        "name": "Zwift - Climb Portal: Mûr De Bretagne at 100% Elevation in France",
+        "date": "October 9, 2026",
+        "distanceKm": 8.5,
+        "stats": [
+          "8.5 km",
+          "16:01",
+          "146 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20514228390",
+        "name": "Traillauf am Nachmittag",
+        "date": "October 9, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "29:33",
+          "88 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -148,32 +174,6 @@
           "28:00",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20513305343",
-        "name": "Lauf am Morgen",
-        "date": "October 9, 2026",
-        "distanceKm": 13.8,
-        "stats": [
-          "13.8 km",
-          "1:20:47",
-          "78 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20513360760",
-        "name": "Morning Walk",
-        "date": "October 9, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "1:34:27",
-          "20 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 206181.6
+      "totalWithEstimatesKm": 206204
     }
   }
 }

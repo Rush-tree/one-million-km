@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-09T03:30:44.358Z",
+  "generatedAt": "2026-10-09T04:00:53.318Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 794246,
+    "remainingKm": 794204,
     "percentComplete": 20.58,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 8303,
-    "thisWeekActivities": 689,
-    "thisWeekHours": 653,
-    "thisWeekElevationM": 60897,
-    "timesAroundEarth": 5.13,
+    "thisWeekKm": 8344.9,
+    "thisWeekActivities": 693,
+    "thisWeekHours": 657,
+    "thisWeekElevationM": 61042,
+    "timesAroundEarth": 5.14,
     "percentToMoon": 53.5,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16719,
+  "totalActivities": 16724,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 205753900,
-    "totalMovingTime": 58290527,
-    "totalElevation": 1495889.6
+    "totalDistance": 205795800,
+    "totalMovingTime": 58302107,
+    "totalElevation": 1496034.6
   },
   "monthStats": {
-    "totalDistance": 8303000,
-    "totalMovingTime": 2351880,
+    "totalDistance": 8344900,
+    "totalMovingTime": 2363460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8303000,
-    "totalMovingTime": 2351880,
-    "count": 689
+    "totalDistance": 8344900,
+    "totalMovingTime": 2363460,
+    "count": 693
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 189956.9,
+    "measuredDistanceKm": 189998.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20510770554",
+        "name": "Friday Morning Activity",
+        "date": "October 9, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "7:21",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -121,6 +134,19 @@
           "0 km",
           "9:45",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Meenu Nagori",
+        "athleteId": "69685863",
+        "activityId": "20510704234",
+        "name": "Morning Walk",
+        "date": "October 9, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "1:21:35",
+          "12 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "3:08:38",
           "167 m"
         ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20509445729",
-        "name": "Musculação ao entardecer",
-        "date": "October 8, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:09:36",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20508520680",
-        "name": "Pedalada ao entardecer",
-        "date": "October 8, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "33:04",
-          "107 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 205753.9
+      "totalWithEstimatesKm": 205795.8
     }
   }
 }

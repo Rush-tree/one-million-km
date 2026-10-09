@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T18:00:58.507Z",
+  "generatedAt": "2026-10-09T18:30:48.064Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 792760,
-    "percentComplete": 20.72,
+    "remainingKm": 792705,
+    "percentComplete": 20.73,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 9788.7,
-    "thisWeekActivities": 819,
-    "thisWeekHours": 768,
-    "thisWeekElevationM": 73663,
+    "thisWeekKm": 9844,
+    "thisWeekActivities": 823,
+    "thisWeekHours": 772,
+    "thisWeekElevationM": 74054,
     "timesAroundEarth": 5.17,
     "percentToMoon": 53.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16854,
+  "totalActivities": 16858,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 207239600,
-    "totalMovingTime": 58701767,
-    "totalElevation": 1508655.6
+    "totalDistance": 207294900,
+    "totalMovingTime": 58717067,
+    "totalElevation": 1509046.6
   },
   "monthStats": {
-    "totalDistance": 9788700,
-    "totalMovingTime": 2763120,
+    "totalDistance": 9844000,
+    "totalMovingTime": 2778420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9788700,
-    "totalMovingTime": 2763120,
-    "count": 819
+    "totalDistance": 9844000,
+    "totalMovingTime": 2778420,
+    "count": 823
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 191442.6,
+    "measuredDistanceKm": 191497.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20518562424",
+        "name": "Evening Swim",
+        "date": "October 9, 2026",
+        "distanceKm": 1.6,
+        "stats": [
+          "1.6 km",
+          "55:27",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Laura Oerter",
         "athleteId": "166620468",
@@ -124,42 +137,16 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20517905906",
-        "name": "Evening Run",
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20518457165",
+        "name": "Evening walk 🌬️🌬️",
         "date": "October 9, 2026",
-        "distanceKm": 0.8,
+        "distanceKm": 4.1,
         "stats": [
-          "0.8 km",
-          "2:52",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Rainer Gatzmaga",
-        "athleteId": "119550686",
-        "activityId": "20517859691",
-        "name": "Anbrutzeln für Muswiesenlauf 🎡",
-        "date": "October 9, 2026",
-        "distanceKm": 4,
-        "stats": [
-          "4.0 km",
-          "28:29",
-          "39 m"
-        ]
-      },
-      {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20517840182",
-        "name": "Flanieren am Nachmittag",
-        "date": "October 9, 2026",
-        "distanceKm": 9.4,
-        "stats": [
-          "9.4 km",
-          "2:07:36",
-          "87 m"
+          "4.1 km",
+          "2:57:00",
+          "0 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "11.3 km",
           "3:17:53",
           "316 m"
+        ]
+      },
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20518400635",
+        "name": "Afternoon Walk",
+        "date": "October 9, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "6:41:50",
+          "79 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 207239.6
+      "totalWithEstimatesKm": 207294.9
     }
   }
 }

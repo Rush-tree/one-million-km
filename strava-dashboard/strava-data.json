@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-09T10:01:00.112Z",
+  "generatedAt": "2026-10-09T10:30:51.646Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 793896,
-    "percentComplete": 20.61,
+    "remainingKm": 793836,
+    "percentComplete": 20.62,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 8652.8,
-    "thisWeekActivities": 744,
-    "thisWeekHours": 691,
-    "thisWeekElevationM": 63134,
+    "thisWeekKm": 8713.2,
+    "thisWeekActivities": 747,
+    "thisWeekHours": 694,
+    "thisWeekElevationM": 63669,
     "timesAroundEarth": 5.14,
     "percentToMoon": 53.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16781,
+  "totalActivities": 16784,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 206103700,
-    "totalMovingTime": 58424507,
-    "totalElevation": 1498126.6
+    "totalDistance": 206164100,
+    "totalMovingTime": 58436867,
+    "totalElevation": 1498661.6
   },
   "monthStats": {
-    "totalDistance": 8652800,
-    "totalMovingTime": 2485860,
+    "totalDistance": 8713200,
+    "totalMovingTime": 2498220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8652800,
-    "totalMovingTime": 2485860,
-    "count": 744
+    "totalDistance": 8713200,
+    "totalMovingTime": 2498220,
+    "count": 747
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 190306.7,
+    "measuredDistanceKm": 190367.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20512640785",
-        "name": "Lunch Workout",
-        "date": "October 9, 2026",
-        "distanceKm": 0.5,
-        "stats": [
-          "0.5 km",
-          "30:18",
-          "6 m"
-        ]
-      },
-      {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
-        "activityId": "20512687854",
-        "name": "Lunch Walk",
+        "activityId": "20513286146",
+        "name": "Crossrope AMP Workout",
         "date": "October 9, 2026",
-        "distanceKm": 1.8,
+        "distanceKm": 0,
         "stats": [
-          "1.8 km",
-          "49:56",
-          "23 m"
+          "0 km",
+          "28:00",
+          "0 m"
         ]
       },
       {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20512490878",
-        "name": "Pedalada matinal",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20513305343",
+        "name": "Lauf am Morgen",
         "date": "October 9, 2026",
-        "distanceKm": 10,
+        "distanceKm": 13.8,
         "stats": [
-          "10.0 km",
-          "32:22",
-          "118 m"
+          "13.8 km",
+          "1:20:47",
+          "78 m"
         ]
       },
       {
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20512751881",
-        "name": "Morning Walk",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20513166429",
+        "name": "Ciclismo mattutino",
         "date": "October 9, 2026",
-        "distanceKm": 10.5,
+        "distanceKm": 25.5,
         "stats": [
-          "10.5 km",
-          "4:11:51",
-          "222 m"
+          "25.5 km",
+          "2:36:58",
+          "49 m"
+        ]
+      },
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20513101075",
+        "name": "Spaziergang am Morgen",
+        "date": "October 9, 2026",
+        "distanceKm": 1.9,
+        "stats": [
+          "1.9 km",
+          "2:34:22",
+          "39 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 206103.7
+      "totalWithEstimatesKm": 206164.1
     }
   }
 }

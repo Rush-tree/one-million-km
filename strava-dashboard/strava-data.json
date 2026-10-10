@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T10:30:46.377Z",
+  "generatedAt": "2026-10-10T11:00:58.009Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 792013,
-    "percentComplete": 20.8,
+    "remainingKm": 791918,
+    "percentComplete": 20.81,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 10536,
-    "thisWeekActivities": 891,
-    "thisWeekHours": 832,
-    "thisWeekElevationM": 78904,
+    "thisWeekKm": 10631.4,
+    "thisWeekActivities": 899,
+    "thisWeekHours": 838,
+    "thisWeekElevationM": 79572,
     "timesAroundEarth": 5.19,
     "percentToMoon": 54.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16930,
+  "totalActivities": 16938,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 207986900,
-    "totalMovingTime": 58933487,
-    "totalElevation": 1513896.6
+    "totalDistance": 208082300,
+    "totalMovingTime": 58955927,
+    "totalElevation": 1514564.6
   },
   "monthStats": {
-    "totalDistance": 10536000,
-    "totalMovingTime": 2994840,
+    "totalDistance": 10631400,
+    "totalMovingTime": 3017280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10536000,
-    "totalMovingTime": 2994840,
-    "count": 891
+    "totalDistance": 10631400,
+    "totalMovingTime": 3017280,
+    "count": 899
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 192189.9,
+    "measuredDistanceKm": 192285.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20526159990",
+        "name": "Zwift - Orange Unicorn Lite",
+        "date": "October 10, 2026",
+        "distanceKm": 16.5,
+        "stats": [
+          "16.5 km",
+          "36:00",
+          "65 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20526011070",
+        "name": "Nachmittagstraining",
+        "date": "October 10, 2026",
+        "distanceKm": 0.6,
+        "stats": [
+          "0.6 km",
+          "30:15",
+          "8 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20525397881",
-        "name": "Testing my leg - Still hurts 🤕",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20525959509",
+        "name": "Zwift - The Long Ride - Spiked Base Progressive VO2",
         "date": "October 10, 2026",
-        "distanceKm": 5,
+        "distanceKm": 35.6,
         "stats": [
-          "5.0 km",
-          "30:36",
-          "52 m"
+          "35.6 km",
+          "1:04:27",
+          "288 m"
         ]
       },
       {
-        "athlete": "Birgit Marco",
-        "athleteId": "63425596",
-        "activityId": "20525239510",
-        "name": "Yoga zur Mittagszeit",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20525887312",
+        "name": "Lauf am Morgen",
         "date": "October 10, 2026",
-        "distanceKm": 0,
+        "distanceKm": 12.6,
         "stats": [
-          "0 km",
-          "47:12",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20525462815",
-        "name": "Wanderung am Morgen",
-        "date": "October 10, 2026",
-        "distanceKm": 6.3,
-        "stats": [
-          "6.3 km",
-          "1:48:05",
-          "156 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20525221556",
-        "name": "Zwift - Group Ride: SZR Endurance Ride (E)",
-        "date": "October 10, 2026",
-        "distanceKm": 102.2,
-        "stats": [
-          "102.2 km",
-          "3:46:58",
-          "728 m"
+          "12.6 km",
+          "1:18:08",
+          "70 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 207986.9
+      "totalWithEstimatesKm": 208082.3
     }
   }
 }

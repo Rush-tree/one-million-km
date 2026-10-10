@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10T15:00:58.256Z",
+  "generatedAt": "2026-10-10T15:30:47.976Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 791079,
-    "percentComplete": 20.89,
+    "remainingKm": 790962,
+    "percentComplete": 20.9,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 11469.8,
-    "thisWeekActivities": 951,
-    "thisWeekHours": 907,
-    "thisWeekElevationM": 89048,
-    "timesAroundEarth": 5.21,
-    "percentToMoon": 54.3,
+    "thisWeekKm": 11587.1,
+    "thisWeekActivities": 957,
+    "thisWeekHours": 914,
+    "thisWeekElevationM": 90114,
+    "timesAroundEarth": 5.22,
+    "percentToMoon": 54.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 54.3,
-        "text": "54.3% of the way to the Moon",
+        "value": 54.4,
+        "text": "54.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 16988,
+  "totalActivities": 16993,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 208920700,
-    "totalMovingTime": 59203547,
-    "totalElevation": 1524040.6
+    "totalDistance": 209038000,
+    "totalMovingTime": 59229167,
+    "totalElevation": 1525106.6
   },
   "monthStats": {
-    "totalDistance": 11469800,
-    "totalMovingTime": 3264900,
+    "totalDistance": 11587100,
+    "totalMovingTime": 3290520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11469800,
-    "totalMovingTime": 3264900,
-    "count": 951
+    "totalDistance": 11587100,
+    "totalMovingTime": 3290520,
+    "count": 957
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 193123.7,
+    "measuredDistanceKm": 193241,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,32 @@
         ]
       },
       {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20529673619",
+        "name": "Afternoon Weight Training",
+        "date": "October 10, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "53:09",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20529783385",
+        "name": "Zwift - WhatYumeziWe'reLost? in Makuri Islands",
+        "date": "October 10, 2026",
+        "distanceKm": 22.1,
+        "stats": [
+          "22.1 km",
+          "1:05:35",
+          "295 m"
+        ]
+      },
+      {
         "athlete": "Gisbert Drumm",
         "athleteId": "10905376",
         "activityId": "20529510849",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20529375216",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20529633584",
+        "name": "Schwimmen am Nachmittag",
         "date": "October 10, 2026",
-        "distanceKm": 11.1,
+        "distanceKm": 1,
         "stats": [
-          "11.1 km",
-          "1:22:13",
-          "59 m"
-        ]
-      },
-      {
-        "athlete": "Dirk Mang",
-        "athleteId": "60711719",
-        "activityId": "20529054833",
-        "name": "Afternoon Run",
-        "date": "October 10, 2026",
-        "distanceKm": 11,
-        "stats": [
-          "11.0 km",
-          "1:16:06",
-          "175 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20529001879",
-        "name": "Kurzer Nachmittags Gravel Ride....",
-        "date": "October 10, 2026",
-        "distanceKm": 39,
-        "stats": [
-          "39.0 km",
-          "2:06:29",
-          "466 m"
+          "1.0 km",
+          "28:47",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 208920.7
+      "totalWithEstimatesKm": 209038
     }
   }
 }

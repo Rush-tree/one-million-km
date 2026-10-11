@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T08:00:55.370Z",
+  "generatedAt": "2026-10-11T08:30:50.457Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 790199,
+    "remainingKm": 790156,
     "percentComplete": 20.98,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 12350,
-    "thisWeekActivities": 1019,
-    "thisWeekHours": 983,
-    "thisWeekElevationM": 97696,
+    "thisWeekKm": 12393.1,
+    "thisWeekActivities": 1023,
+    "thisWeekHours": 986,
+    "thisWeekElevationM": 97847,
     "timesAroundEarth": 5.24,
     "percentToMoon": 54.6,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 31.5,
-        "text": "31.5× the length of the Nile",
+        "value": 31.6,
+        "text": "31.6× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17056,
+  "totalActivities": 17061,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 209800900,
-    "totalMovingTime": 59476727,
-    "totalElevation": 1532688.6
+    "totalDistance": 209844000,
+    "totalMovingTime": 59488007,
+    "totalElevation": 1532839.6
   },
   "monthStats": {
-    "totalDistance": 12350000,
-    "totalMovingTime": 3538080,
+    "totalDistance": 12393100,
+    "totalMovingTime": 3549360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12350000,
-    "totalMovingTime": 3538080,
-    "count": 1019
+    "totalDistance": 12393100,
+    "totalMovingTime": 3549360,
+    "count": 1023
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 194003.9,
+    "measuredDistanceKm": 194047,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "20537152655",
+        "name": "Zwift - Pacer Group Ride with Maria",
+        "date": "October 11, 2026",
+        "distanceKm": 17,
+        "stats": [
+          "17.0 km",
+          "30:17",
+          "123 m"
+        ]
+      },
       {
         "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
         "athleteId": "24992941",
@@ -121,6 +134,19 @@
           "0.7 km",
           "5:39",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20537073005",
+        "name": "Intervalle 6x400m @ 3:40 mit 200m Pause",
+        "date": "October 11, 2026",
+        "distanceKm": 8.3,
+        "stats": [
+          "8.3 km",
+          "41:21",
+          "5 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20536872057",
-        "name": "Sunday Runday",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20537229577",
+        "name": "Corsa mattutina",
         "date": "October 11, 2026",
-        "distanceKm": 10.2,
+        "distanceKm": 16.2,
         "stats": [
-          "10.2 km",
-          "55:49",
-          "41 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20536699165",
-        "name": "Hangover Run 🏃🏽‍♂️",
-        "date": "October 11, 2026",
-        "distanceKm": 12.6,
-        "stats": [
-          "12.6 km",
-          "1:05:48",
-          "87 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20536979660",
-        "name": "Sabah Koşu",
-        "date": "October 11, 2026",
-        "distanceKm": 21.2,
-        "stats": [
-          "21.2 km",
-          "1:36:14",
-          "224 m"
+          "16.2 km",
+          "1:25:15",
+          "23 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 209800.9
+      "totalWithEstimatesKm": 209844
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-11T18:00:56.584Z",
+  "generatedAt": "2026-10-11T18:30:50.381Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787744,
+    "remainingKm": 787726,
     "percentComplete": 21.23,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 14805.6,
-    "thisWeekActivities": 1150,
-    "thisWeekHours": 1152,
-    "thisWeekElevationM": 115754,
+    "thisWeekKm": 14822.8,
+    "thisWeekActivities": 1155,
+    "thisWeekHours": 1157,
+    "thisWeekElevationM": 115974,
     "timesAroundEarth": 5.3,
     "percentToMoon": 55.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17176,
+  "totalActivities": 17182,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212256500,
-    "totalMovingTime": 60086987,
-    "totalElevation": 1550746.6
+    "totalDistance": 212273700,
+    "totalMovingTime": 60103067,
+    "totalElevation": 1550966.6
   },
   "monthStats": {
-    "totalDistance": 14805600,
-    "totalMovingTime": 4148340,
+    "totalDistance": 14822800,
+    "totalMovingTime": 4164420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14805600,
-    "totalMovingTime": 4148340,
-    "count": 1150
+    "totalDistance": 14822800,
+    "totalMovingTime": 4164420,
+    "count": 1155
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 196459.5,
+    "measuredDistanceKm": 196476.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20545957328",
+        "name": "Evening Row",
+        "date": "October 11, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "10:41",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kupfer Hardy",
+        "athleteId": "19034101",
+        "activityId": "20546026188",
+        "name": "Abendlauf",
+        "date": "October 11, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "22:47",
+          "12 m"
+        ]
+      },
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20545957329",
+        "name": "Evening Weight Training",
+        "date": "October 11, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "11:42",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -135,45 +174,6 @@
           "1:38:29",
           "150 m"
         ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20544805893",
-        "name": "Schwellenlauf",
-        "date": "October 11, 2026",
-        "distanceKm": 15.5,
-        "stats": [
-          "15.5 km",
-          "1:27:08",
-          "37 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20544978107",
-        "name": "Pedalata pomeridiana",
-        "date": "October 11, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "2:36:14",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Hans-Georg Acker ♣",
-        "athleteId": "34456629",
-        "activityId": "20545032566",
-        "name": "RR Zum Marathon von Jule ...",
-        "date": "October 11, 2026",
-        "distanceKm": 126,
-        "stats": [
-          "126.0 km",
-          "9:26:49",
-          "658 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212256.5
+      "totalWithEstimatesKm": 212273.7
     }
   }
 }

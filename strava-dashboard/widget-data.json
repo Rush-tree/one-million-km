@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-11T05:00:54.404Z",
+  "generatedAt": "2026-10-11T05:30:47.493Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-11T05:00:54.404Z",
+  "memberCountUpdatedAt": "2026-10-11T05:30:47.493Z",
   "currentWeek": {
     "week": "Oct 5, 2026 - Oct 11, 2026",
-    "activities": 1002,
-    "distanceKm": 12256,
-    "elevationM": 97068,
-    "movingSeconds": 3499200,
+    "activities": 1004,
+    "distanceKm": 12260.4,
+    "elevationM": 97078,
+    "movingSeconds": 3506340,
     "raw": {
-      "activities": "1002",
-      "distance": "12,256.0 km",
-      "time": "972 h 0 m",
-      "elevation": "97,068 m"
+      "activities": "1004",
+      "distance": "12,260.4 km",
+      "time": "973 h 59 m",
+      "elevation": "97,078 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "René Rosenberger",
+      "athleteId": "757098365",
+      "activityId": "20536129531",
+      "name": "Gewichtstraining am Morgen",
+      "date": "October 11, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "55:29",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Meenu Nagori",
       "athleteId": "69685863",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20532928040",
-      "name": "Night Walk",
-      "date": "October 10, 2026",
-      "distanceKm": 0.6,
-      "stats": [
-        "0.6 km",
-        "20:46",
-        "9 m"
-      ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20533020429",
+      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+      "athleteId": "72351185",
+      "activityId": "20536044077",
       "name": "Morning Walk",
-      "date": "October 10, 2026",
-      "distanceKm": 3.6,
+      "date": "October 11, 2026",
+      "distanceKm": 4.3,
       "stats": [
-        "3.6 km",
-        "5:44:07",
-        "0 m"
+        "4.3 km",
+        "1:08:58",
+        "10 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 70901.8,
-  "totalDistanceKm": 193909.9,
+  "observedWeeksKm": 70906.2,
+  "totalDistanceKm": 193914.3,
   "weeksTracked": 5,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 209706.9
+    "totalWithEstimatesKm": 209711.3
   }
 }

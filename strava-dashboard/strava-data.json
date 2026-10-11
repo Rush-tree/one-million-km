@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-11T17:30:47.148Z",
+  "generatedAt": "2026-10-11T18:00:56.584Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787870,
-    "percentComplete": 21.21,
+    "remainingKm": 787744,
+    "percentComplete": 21.23,
     "paceBasisWeeks": 3,
     "avgWeekKm": 17523.4,
     "avgDayKm": 2503.3,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 72.4,
     "activitiesPerWeek": 1221,
     "avgActivityKm": 14.4,
-    "thisWeekKm": 14679.5,
-    "thisWeekActivities": 1148,
-    "thisWeekHours": 1144,
-    "thisWeekElevationM": 115096,
-    "timesAroundEarth": 5.29,
+    "thisWeekKm": 14805.6,
+    "thisWeekActivities": 1150,
+    "thisWeekHours": 1152,
+    "thisWeekElevationM": 115754,
+    "timesAroundEarth": 5.3,
     "percentToMoon": 55.2,
     "comparisons": [
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212130400,
-    "totalMovingTime": 60057707,
-    "totalElevation": 1550088.6
+    "totalDistance": 212256500,
+    "totalMovingTime": 60086987,
+    "totalElevation": 1550746.6
   },
   "monthStats": {
-    "totalDistance": 14679500,
-    "totalMovingTime": 4119060,
+    "totalDistance": 14805600,
+    "totalMovingTime": 4148340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14679500,
-    "totalMovingTime": 4119060,
-    "count": 1148
+    "totalDistance": 14805600,
+    "totalMovingTime": 4148340,
+    "count": 1150
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 196333.4,
+    "measuredDistanceKm": 196459.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Thorsten Schamper",
-        "athleteId": "136616262",
-        "activityId": "20544762628",
-        "name": "Padel am Nachmittag",
-        "date": "October 11, 2026",
-        "distanceKm": 2.3,
-        "stats": [
-          "2.3 km",
-          "1:27:50",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20544978107",
@@ -173,6 +160,19 @@
           "14.0 km",
           "2:36:14",
           "22 m"
+        ]
+      },
+      {
+        "athlete": "Hans-Georg Acker ♣",
+        "athleteId": "34456629",
+        "activityId": "20545032566",
+        "name": "RR Zum Marathon von Jule ...",
+        "date": "October 11, 2026",
+        "distanceKm": 126,
+        "stats": [
+          "126.0 km",
+          "9:26:49",
+          "658 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212130.4
+      "totalWithEstimatesKm": 212256.5
     }
   }
 }

@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-10-12T07:00:57.807Z",
+  "generatedAt": "2026-10-12T07:31:20.915Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-12T07:00:57.807Z",
+  "memberCountUpdatedAt": "2026-10-12T07:31:20.915Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 28,
-    "distanceKm": 225.1,
-    "elevationM": 1139,
-    "movingSeconds": 68940,
+    "activities": 32,
+    "distanceKm": 238.9,
+    "elevationM": 1287,
+    "movingSeconds": 75240,
     "raw": {
-      "activities": "28",
-      "distance": "225.1 km",
-      "time": "19 h 9 m",
-      "elevation": "1,139 m"
+      "activities": "32",
+      "distance": "238.9 km",
+      "time": "20 h 54 m",
+      "elevation": "1,287 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20550281016",
+      "name": "Sykkeltur om morgenen",
+      "date": "October 12, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "15:59",
+        "51 m"
+      ]
+    },
+    {
+      "athlete": "David Frerichs",
+      "athleteId": "41924749",
+      "activityId": "20550273355",
+      "name": "Lauf am Morgen",
+      "date": "October 12, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "33:44",
+        "45 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -56,32 +82,6 @@
         "34:37",
         "0 m"
       ]
-    },
-    {
-      "athlete": "heike moschel",
-      "athleteId": "79094374",
-      "activityId": "20549629071",
-      "name": "Morning Run",
-      "date": "October 12, 2026",
-      "distanceKm": 4.9,
-      "stats": [
-        "4.9 km",
-        "36:00",
-        "63 m"
-      ]
-    },
-    {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20549556653",
-      "name": "Morning 🌇 Clycl⚙️Taf Ride 🚴‍♂️",
-      "date": "October 12, 2026",
-      "distanceKm": 6.8,
-      "stats": [
-        "6.8 km",
-        "36:15",
-        "17 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 73807.7,
-  "totalDistanceKm": 196815.8,
+  "observedWeeksKm": 73821.5,
+  "totalDistanceKm": 196829.6,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 212612.8
+    "totalWithEstimatesKm": 212626.6
   }
 }

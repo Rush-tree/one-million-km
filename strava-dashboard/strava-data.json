@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T09:01:01.574Z",
+  "generatedAt": "2026-10-12T09:30:52.891Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787330,
+    "remainingKm": 787322,
     "percentComplete": 21.27,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 282.7,
-    "thisWeekActivities": 38,
-    "thisWeekHours": 25,
-    "thisWeekElevationM": 1497,
+    "thisWeekKm": 290.1,
+    "thisWeekActivities": 43,
+    "thisWeekHours": 27,
+    "thisWeekElevationM": 1573,
     "timesAroundEarth": 5.31,
     "percentToMoon": 55.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17233,
+  "totalActivities": 17239,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212670400,
-    "totalMovingTime": 60236987,
-    "totalElevation": 1552798.6
+    "totalDistance": 212677800,
+    "totalMovingTime": 60242747,
+    "totalElevation": 1552874.6
   },
   "monthStats": {
-    "totalDistance": 15219500,
-    "totalMovingTime": 4298340,
+    "totalDistance": 15226900,
+    "totalMovingTime": 4304100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 282700,
-    "totalMovingTime": 91320,
-    "count": 38
+    "totalDistance": 290100,
+    "totalMovingTime": 97080,
+    "count": 43
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 196873.4,
+    "measuredDistanceKm": 196880.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20551168781",
+        "name": "Pedalada matinal",
+        "date": "October 12, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "27:38",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20551030822",
+        "name": "Morning Walk",
+        "date": "October 12, 2026",
+        "distanceKm": 0.7,
+        "stats": [
+          "0.7 km",
+          "13:20",
+          "11 m"
+        ]
+      },
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20551029012",
+        "name": "Spaziergang am Morgen",
+        "date": "October 12, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "43:26",
+          "25 m"
+        ]
+      },
       {
         "athlete": "René Rosenberger",
         "athleteId": "757098365",
@@ -124,55 +163,16 @@
         ]
       },
       {
-        "athlete": "Roland Baumann",
-        "athleteId": "87457914",
-        "activityId": "20550630166",
-        "name": "Lauf am Morgen",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20551147786",
+        "name": "Spaziergang am Morgen",
         "date": "October 12, 2026",
-        "distanceKm": 2.6,
+        "distanceKm": 1.1,
         "stats": [
-          "2.6 km",
-          "19:48",
-          "15 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20550733327",
-        "name": "Morning Ride",
-        "date": "October 12, 2026",
-        "distanceKm": 8.8,
-        "stats": [
-          "8.8 km",
-          "38:30",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20550734831",
-        "name": "Nüchternlauf - Zone 2",
-        "date": "October 12, 2026",
-        "distanceKm": 10.3,
-        "stats": [
-          "10.3 km",
-          "55:36",
-          "6 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20550695465",
-        "name": "Lauf am Morgen",
-        "date": "October 12, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "52:32",
-          "88 m"
+          "1.1 km",
+          "1:52:35",
+          "7 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212670.4
+      "totalWithEstimatesKm": 212677.8
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T05:30:47.950Z",
+  "generatedAt": "2026-10-12T06:00:58.012Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787410,
+    "remainingKm": 787396,
     "percentComplete": 21.26,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 202.5,
-    "thisWeekActivities": 20,
-    "thisWeekHours": 16,
-    "thisWeekElevationM": 956,
-    "timesAroundEarth": 5.3,
+    "thisWeekKm": 216.6,
+    "thisWeekActivities": 24,
+    "thisWeekHours": 17,
+    "thisWeekElevationM": 1031,
+    "timesAroundEarth": 5.31,
     "percentToMoon": 55.3,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17212,
+  "totalActivities": 17217,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212590200,
-    "totalMovingTime": 60201827,
-    "totalElevation": 1552257.6
+    "totalDistance": 212604300,
+    "totalMovingTime": 60207707,
+    "totalElevation": 1552332.6
   },
   "monthStats": {
-    "totalDistance": 15139300,
-    "totalMovingTime": 4263180,
+    "totalDistance": 15153400,
+    "totalMovingTime": 4269060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 202500,
-    "totalMovingTime": 56160,
-    "count": 20
+    "totalDistance": 216600,
+    "totalMovingTime": 62040,
+    "count": 24
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 196793.2,
+    "measuredDistanceKm": 196807.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20549807322",
+        "name": "Gåtur på morgenen",
+        "date": "October 12, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "33:59",
+          "28 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20549703756",
+        "name": "Commute #116/2026 🏥🩺",
+        "date": "October 12, 2026",
+        "distanceKm": 9,
+        "stats": [
+          "9.0 km",
+          "21:35",
+          "43 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20549728661",
+        "name": "Morning Yoga 🌑🌒",
+        "date": "October 12, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "34:37",
+          "0 m"
+        ]
+      },
       {
         "athlete": "heike moschel",
         "athleteId": "79094374",
@@ -135,45 +174,6 @@
           "36:15",
           "17 m"
         ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20549504822",
-        "name": "Grail ☁",
-        "date": "October 12, 2026",
-        "distanceKm": 22.4,
-        "stats": [
-          "22.4 km",
-          "51:46",
-          "6 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20549389376",
-        "name": "Morning Weight Training_ HIIT session",
-        "date": "October 12, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "56:47",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20549582824",
-        "name": "Morning Run",
-        "date": "October 12, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "1:56:33",
-          "207 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212590.2
+      "totalWithEstimatesKm": 212604.3
     }
   }
 }

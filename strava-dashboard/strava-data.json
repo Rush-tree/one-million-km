@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T21:01:01.023Z",
+  "generatedAt": "2026-10-12T21:30:49.528Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 785999,
+    "remainingKm": 785969,
     "percentComplete": 21.4,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 1613.1,
-    "thisWeekActivities": 156,
-    "thisWeekHours": 138,
-    "thisWeekElevationM": 11190,
+    "thisWeekKm": 1643.2,
+    "thisWeekActivities": 157,
+    "thisWeekHours": 139,
+    "thisWeekElevationM": 11330,
     "timesAroundEarth": 5.34,
     "percentToMoon": 55.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17355,
+  "totalActivities": 17356,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 214000800,
-    "totalMovingTime": 60641147,
-    "totalElevation": 1562491.6
+    "totalDistance": 214030900,
+    "totalMovingTime": 60644807,
+    "totalElevation": 1562631.6
   },
   "monthStats": {
-    "totalDistance": 16549900,
-    "totalMovingTime": 4702500,
+    "totalDistance": 16580000,
+    "totalMovingTime": 4706160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1613100,
-    "totalMovingTime": 495480,
-    "count": 156
+    "totalDistance": 1643200,
+    "totalMovingTime": 499140,
+    "count": 157
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 198203.8,
+    "measuredDistanceKm": 198233.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20559812343",
+        "name": "Zwift - Lactate Shuttle #1",
+        "date": "October 12, 2026",
+        "distanceKm": 30.1,
+        "stats": [
+          "30.1 km",
+          "1:01:08",
+          "140 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20559208563",
-        "name": "Night 💫 Ride 🚴‍♂️to Renfo",
-        "date": "October 12, 2026",
-        "distanceKm": 2.6,
-        "stats": [
-          "2.6 km",
-          "6:56",
-          "11 m"
-        ]
-      },
-      {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
         "activityId": "20558965832",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 214000.8
+      "totalWithEstimatesKm": 214030.9
     }
   }
 }

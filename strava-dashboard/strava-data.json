@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T03:30:47.114Z",
+  "generatedAt": "2026-10-12T04:00:57.185Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787540,
-    "percentComplete": 21.25,
+    "remainingKm": 787440,
+    "percentComplete": 21.26,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 72.8,
-    "thisWeekActivities": 5,
-    "thisWeekHours": 4,
-    "thisWeekElevationM": 223,
+    "thisWeekKm": 172.2,
+    "thisWeekActivities": 12,
+    "thisWeekHours": 10,
+    "thisWeekElevationM": 527,
     "timesAroundEarth": 5.3,
     "percentToMoon": 55.3,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 31.9,
-        "text": "31.9× the length of the Nile",
+        "value": 32,
+        "text": "32× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17196,
+  "totalActivities": 17203,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212460500,
-    "totalMovingTime": 60158507,
-    "totalElevation": 1551524.6
+    "totalDistance": 212559900,
+    "totalMovingTime": 60182027,
+    "totalElevation": 1551828.6
   },
   "monthStats": {
-    "totalDistance": 15009600,
-    "totalMovingTime": 4219860,
+    "totalDistance": 15109000,
+    "totalMovingTime": 4243380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 72800,
-    "totalMovingTime": 12840,
-    "count": 5
+    "totalDistance": 172200,
+    "totalMovingTime": 36360,
+    "count": 12
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,55 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 196663.5,
+    "measuredDistanceKm": 196762.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20549250733",
+        "name": "Morning Weight Training",
+        "date": "October 12, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "8:19",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20549184589",
+        "name": "Morning Run",
+        "date": "October 12, 2026",
+        "distanceKm": 0.7,
+        "stats": [
+          "0.7 km",
+          "10:14",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20549250713",
+        "name": "Morning Yoga",
+        "date": "October 12, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:32",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "20549143477",
-        "name": "Gravel",
+        "name": "Work",
         "date": "October 12, 2026",
         "distanceKm": 6.2,
         "stats": [
@@ -133,45 +172,6 @@
         "stats": [
           "0 km",
           "8:02",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20549026607",
-        "name": "Monday Morning Activity",
-        "date": "October 12, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "7:49",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20548987982",
-        "name": "☀️ Monday Morning Ride",
-        "date": "October 12, 2026",
-        "distanceKm": 65.8,
-        "stats": [
-          "65.8 km",
-          "2:59:15",
-          "206 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20549000005",
-        "name": "Morning Walk",
-        "date": "October 12, 2026",
-        "distanceKm": 0.7,
-        "stats": [
-          "0.7 km",
-          "11:39",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212460.5
+      "totalWithEstimatesKm": 212559.9
     }
   }
 }

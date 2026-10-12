@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T02:30:48.873Z",
+  "generatedAt": "2026-10-12T03:00:59.795Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787612,
-    "percentComplete": 21.24,
+    "remainingKm": 787546,
+    "percentComplete": 21.25,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 0,
-    "thisWeekActivities": 0,
-    "thisWeekHours": null,
-    "thisWeekElevationM": 0,
+    "thisWeekKm": 66.5,
+    "thisWeekActivities": 4,
+    "thisWeekHours": 3,
+    "thisWeekElevationM": 206,
     "timesAroundEarth": 5.3,
     "percentToMoon": 55.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17191,
+  "totalActivities": 17195,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212387700,
-    "totalMovingTime": 60145667,
-    "totalElevation": 1551301.6
+    "totalDistance": 212454200,
+    "totalMovingTime": 60157667,
+    "totalElevation": 1551507.6
   },
   "monthStats": {
-    "totalDistance": 14936800,
-    "totalMovingTime": 4207020,
+    "totalDistance": 15003300,
+    "totalMovingTime": 4219020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 0,
-    "totalMovingTime": 0,
-    "count": 0
+    "totalDistance": 66500,
+    "totalMovingTime": 12000,
+    "count": 4
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 196590.7,
+    "measuredDistanceKm": 196657.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20549055899",
+        "name": "Morning Activity",
+        "date": "October 12, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "8:02",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20549026607",
+        "name": "Monday Morning Activity",
+        "date": "October 12, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "7:49",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20547223930",
-        "name": "Night Walk",
-        "date": "October 11, 2026",
-        "distanceKm": 0.8,
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20548987982",
+        "name": "☀️ Monday Morning Ride",
+        "date": "October 12, 2026",
+        "distanceKm": 65.8,
         "stats": [
-          "0.8 km",
-          "27:30",
-          "2 m"
+          "65.8 km",
+          "2:59:15",
+          "206 m"
         ]
       },
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20547275506",
-        "name": "Afternoon Walk",
-        "date": "October 11, 2026",
-        "distanceKm": 3,
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20549000005",
+        "name": "Morning Walk",
+        "date": "October 12, 2026",
+        "distanceKm": 0.7,
         "stats": [
-          "3.0 km",
-          "1:19:23",
+          "0.7 km",
+          "11:39",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20546927823",
-        "name": "Evening Walk",
-        "date": "October 11, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "1:23:26",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20546260638",
-        "name": "Bicicleta al anochecer",
-        "date": "October 11, 2026",
-        "distanceKm": 4.9,
-        "stats": [
-          "4.9 km",
-          "1:20:55",
-          "55 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212387.7
+      "totalWithEstimatesKm": 212454.2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T14:31:51.547Z",
+  "generatedAt": "2026-10-12T15:01:01.627Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 786925,
+    "remainingKm": 786865,
     "percentComplete": 21.31,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 687.1,
-    "thisWeekActivities": 72,
-    "thisWeekHours": 59,
-    "thisWeekElevationM": 4424,
+    "thisWeekKm": 747.5,
+    "thisWeekActivities": 78,
+    "thisWeekHours": 63,
+    "thisWeekElevationM": 4699,
     "timesAroundEarth": 5.32,
     "percentToMoon": 55.4,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 32,
-        "text": "32× the length of the Nile",
+        "value": 32.1,
+        "text": "32.1× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17268,
+  "totalActivities": 17274,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 213074800,
-    "totalMovingTime": 60358847,
-    "totalElevation": 1555725.6
+    "totalDistance": 213135200,
+    "totalMovingTime": 60373367,
+    "totalElevation": 1556000.6
   },
   "monthStats": {
-    "totalDistance": 15623900,
-    "totalMovingTime": 4420200,
+    "totalDistance": 15684300,
+    "totalMovingTime": 4434720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 687100,
-    "totalMovingTime": 213180,
-    "count": 72
+    "totalDistance": 747500,
+    "totalMovingTime": 227700,
+    "count": 78
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,42 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 197277.8,
+    "measuredDistanceKm": 197338.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20554953515",
+        "name": "Afternoon Ride",
+        "date": "October 12, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "16:11",
+          "56 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20554904210",
+        "name": "Zwift - Everest 2",
+        "date": "October 12, 2026",
+        "distanceKm": 23.1,
+        "stats": [
+          "23.1 km",
+          "41:37",
+          "181 m"
+        ]
+      },
+      {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
         "activityId": "20554681726",
-        "name": "Yoga am Nachmittag",
+        "name": "Stretching 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
         "date": "October 12, 2026",
         "distanceKm": 0,
         "stats": [
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20553826397",
-        "name": "Pendel",
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20554778853",
+        "name": "Grail ☀",
         "date": "October 12, 2026",
-        "distanceKm": 10.7,
+        "distanceKm": 21.6,
         "stats": [
-          "10.7 km",
-          "32:54",
-          "61 m"
+          "21.6 km",
+          "52:46",
+          "3 m"
         ]
       },
       {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "20554547525",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20554730309",
+        "name": "Afternoon Weight Training",
         "date": "October 12, 2026",
-        "distanceKm": 54.9,
+        "distanceKm": 0,
         "stats": [
-          "54.9 km",
-          "2:15:39",
-          "302 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20554606666",
-        "name": "Besichtigung der Festung von Kaiser Wilhelm",
-        "date": "October 12, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "1:37:26",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20554527250",
-        "name": "Lunch Ride",
-        "date": "October 12, 2026",
-        "distanceKm": 110,
-        "stats": [
-          "110.0 km",
-          "4:29:15",
-          "555 m"
+          "0 km",
+          "1:01:06",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 213074.8
+      "totalWithEstimatesKm": 213135.2
     }
   }
 }

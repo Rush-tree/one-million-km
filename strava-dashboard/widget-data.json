@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-12T12:31:03.574Z",
+  "generatedAt": "2026-10-12T13:01:07.362Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-12T12:31:03.574Z",
+  "memberCountUpdatedAt": "2026-10-12T13:01:07.362Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 56,
-    "distanceKm": 435.9,
-    "elevationM": 2829,
-    "movingSeconds": 152820,
+    "activities": 61,
+    "distanceKm": 446.8,
+    "elevationM": 2996,
+    "movingSeconds": 163440,
     "raw": {
-      "activities": "56",
-      "distance": "435.9 km",
-      "time": "42 h 27 m",
-      "elevation": "2,829 m"
+      "activities": "61",
+      "distance": "446.8 km",
+      "time": "45 h 24 m",
+      "elevation": "2,996 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20553284757",
+      "name": "HIIT matinal",
+      "date": "October 12, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "57:40",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Stefan Brueckmann",
       "athleteId": "172247920",
@@ -42,19 +55,6 @@
         "26.7 km",
         "1:10:52",
         "170 m"
-      ]
-    },
-    {
-      "athlete": "Manfred H",
-      "athleteId": "85517467",
-      "activityId": "20552334386",
-      "name": "Lunch Run",
-      "date": "October 12, 2026",
-      "distanceKm": 13.9,
-      "stats": [
-        "13.9 km",
-        "1:10:09",
-        "33 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 74018.5,
-  "totalDistanceKm": 197026.6,
+  "observedWeeksKm": 74029.4,
+  "totalDistanceKm": 197037.5,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 212823.6
+    "totalWithEstimatesKm": 212834.5
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-12T03:00:59.795Z",
+  "generatedAt": "2026-10-12T03:30:47.114Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-12T03:00:59.794Z",
+  "memberCountUpdatedAt": "2026-10-12T03:30:47.113Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 4,
-    "distanceKm": 66.5,
-    "elevationM": 206,
-    "movingSeconds": 12000,
+    "activities": 5,
+    "distanceKm": 72.8,
+    "elevationM": 223,
+    "movingSeconds": 12840,
     "raw": {
-      "activities": "4",
-      "distance": "66.5 km",
-      "time": "3 h 20 m",
-      "elevation": "206 m"
+      "activities": "5",
+      "distance": "72.8 km",
+      "time": "3 h 34 m",
+      "elevation": "223 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20549143477",
+      "name": "Gravel",
+      "date": "October 12, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "14:03",
+        "17 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -41,19 +54,6 @@
       "stats": [
         "0 km",
         "7:49",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20548645512",
-      "name": "Evening Walk",
-      "date": "October 11, 2026",
-      "distanceKm": 1.7,
-      "stats": [
-        "1.7 km",
-        "32:48",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 73649.1,
-  "totalDistanceKm": 196657.2,
+  "observedWeeksKm": 73655.4,
+  "totalDistanceKm": 196663.5,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 212454.2
+    "totalWithEstimatesKm": 212460.5
   }
 }

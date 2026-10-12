@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T14:02:07.738Z",
+  "generatedAt": "2026-10-12T14:31:51.547Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 787137,
-    "percentComplete": 21.29,
+    "remainingKm": 786925,
+    "percentComplete": 21.31,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 474.9,
-    "thisWeekActivities": 66,
-    "thisWeekHours": 49,
-    "thisWeekElevationM": 3109,
-    "timesAroundEarth": 5.31,
+    "thisWeekKm": 687.1,
+    "thisWeekActivities": 72,
+    "thisWeekHours": 59,
+    "thisWeekElevationM": 4424,
+    "timesAroundEarth": 5.32,
     "percentToMoon": 55.4,
     "comparisons": [
       {
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 10,
-        "text": "10× the Great Wall of China",
+        "value": 10.1,
+        "text": "10.1× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 33.3,
-        "text": "33.3 return trips Berlin to New York",
+        "value": 33.4,
+        "text": "33.4 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17264,
+  "totalActivities": 17268,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 212862600,
-    "totalMovingTime": 60321167,
-    "totalElevation": 1554410.6
+    "totalDistance": 213074800,
+    "totalMovingTime": 60358847,
+    "totalElevation": 1555725.6
   },
   "monthStats": {
-    "totalDistance": 15411700,
-    "totalMovingTime": 4382520,
+    "totalDistance": 15623900,
+    "totalMovingTime": 4420200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 474900,
-    "totalMovingTime": 175500,
-    "count": 66
+    "totalDistance": 687100,
+    "totalMovingTime": 213180,
+    "count": 72
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 197065.6,
+    "measuredDistanceKm": 197277.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20554681726",
+        "name": "Yoga am Nachmittag",
+        "date": "October 12, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "25:24",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20553284757",
-        "name": "HIIT matinal",
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20554547525",
+        "name": "Fahrt am Nachmittag",
         "date": "October 12, 2026",
-        "distanceKm": 0,
+        "distanceKm": 54.9,
         "stats": [
-          "0 km",
-          "57:40",
-          "0 m"
+          "54.9 km",
+          "2:15:39",
+          "302 m"
         ]
       },
       {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20553745241",
-        "name": "Morning Walk",
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20554606666",
+        "name": "Besichtigung der Festung von Kaiser Wilhelm",
         "date": "October 12, 2026",
-        "distanceKm": 13.2,
+        "distanceKm": 1.8,
         "stats": [
-          "13.2 km",
-          "1:50:53",
-          "33 m"
+          "1.8 km",
+          "1:37:26",
+          "22 m"
         ]
       },
       {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20553016757",
-        "name": "Afternoon Run",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20554527250",
+        "name": "Lunch Ride",
         "date": "October 12, 2026",
-        "distanceKm": 15.5,
+        "distanceKm": 110,
         "stats": [
-          "15.5 km",
-          "2:08:44",
-          "147 m"
-        ]
-      },
-      {
-        "athlete": "David Frerichs",
-        "athleteId": "41924749",
-        "activityId": "20553025508",
-        "name": "Mittagswanderung",
-        "date": "October 12, 2026",
-        "distanceKm": 6.1,
-        "stats": [
-          "6.1 km",
-          "2:16:18",
-          "271 m"
+          "110.0 km",
+          "4:29:15",
+          "555 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 212862.6
+      "totalWithEstimatesKm": 213074.8
     }
   }
 }

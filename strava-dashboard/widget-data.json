@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-13T05:30:49.115Z",
+  "generatedAt": "2026-10-13T06:00:58.240Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-13T05:30:49.115Z",
+  "memberCountUpdatedAt": "2026-10-13T06:00:58.239Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 188,
-    "distanceKm": 2158,
-    "elevationM": 13895,
-    "movingSeconds": 617040,
+    "activities": 193,
+    "distanceKm": 2191.3,
+    "elevationM": 14051,
+    "movingSeconds": 623820,
     "raw": {
-      "activities": "188",
-      "distance": "2,158.0 km",
-      "time": "171 h 24 m",
-      "elevation": "13,895 m"
+      "activities": "193",
+      "distance": "2,191.3 km",
+      "time": "173 h 17 m",
+      "elevation": "14,051 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20563190453",
+      "name": "Morning Ride",
+      "date": "October 13, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "16:46",
+        "62 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -41,19 +54,6 @@
         "0 km",
         "6:20",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Louis Mwanja",
-      "athleteId": "14992965",
-      "activityId": "20563072459",
-      "name": "Morning Run",
-      "date": "October 13, 2026",
-      "distanceKm": 3.3,
-      "stats": [
-        "3.3 km",
-        "34:52",
-        "62 m"
       ]
     },
     {
@@ -89,8 +89,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 75740.6,
-  "totalDistanceKm": 198748.7,
+  "observedWeeksKm": 75773.9,
+  "totalDistanceKm": 198782,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -110,6 +110,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 214545.7
+    "totalWithEstimatesKm": 214579
   }
 }

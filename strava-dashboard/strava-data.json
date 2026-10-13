@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T17:30:49.340Z",
+  "generatedAt": "2026-10-13T18:01:02.594Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 784587,
-    "percentComplete": 21.54,
+    "remainingKm": 784540,
+    "percentComplete": 21.55,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 3025.4,
-    "thisWeekActivities": 292,
-    "thisWeekHours": 251,
-    "thisWeekElevationM": 20322,
+    "thisWeekKm": 3072.1,
+    "thisWeekActivities": 300,
+    "thisWeekHours": 256,
+    "thisWeekElevationM": 20408,
     "timesAroundEarth": 5.38,
-    "percentToMoon": 56,
+    "percentToMoon": 56.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 56,
-        "text": "56% of the way to the Moon",
+        "value": 56.1,
+        "text": "56.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17498,
+  "totalActivities": 17507,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 215413100,
-    "totalMovingTime": 61048487,
-    "totalElevation": 1571623.6
+    "totalDistance": 215459800,
+    "totalMovingTime": 61066127,
+    "totalElevation": 1571709.6
   },
   "monthStats": {
-    "totalDistance": 17962200,
-    "totalMovingTime": 5109840,
+    "totalDistance": 18008900,
+    "totalMovingTime": 5127480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3025400,
-    "totalMovingTime": 902820,
-    "count": 292
+    "totalDistance": 3072100,
+    "totalMovingTime": 920460,
+    "count": 300
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 199616.1,
+    "measuredDistanceKm": 199662.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20570821501",
-        "name": "Evening Yoga",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20571205178",
+        "name": "Evening Ride",
+        "date": "October 13, 2026",
+        "distanceKm": 1.4,
+        "stats": [
+          "1.4 km",
+          "6:59",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20571421165",
+        "name": "Zwift - warm Up",
+        "date": "October 13, 2026",
+        "distanceKm": 22.5,
+        "stats": [
+          "22.5 km",
+          "44:55",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Vincent Glößner",
+        "athleteId": "60518823",
+        "activityId": "20571499767",
+        "name": "Pilates am Abend",
         "date": "October 13, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "20:30",
+          "58:09",
           "0 m"
         ]
       },
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20570839885",
-        "name": "Zwift - Downtown Eruption in Watopia",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20571205348",
+        "name": "Cardio Renfo 💪🍫 🦵 Workout 🔥",
         "date": "October 13, 2026",
-        "distanceKm": 12,
+        "distanceKm": 0,
         "stats": [
-          "12.0 km",
-          "34:13",
-          "200 m"
-        ]
-      },
-      {
-        "athlete": "Dirk Mang",
-        "athleteId": "60711719",
-        "activityId": "20570821209",
-        "name": "Evening E-Bike Ride",
-        "date": "October 13, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "17:28",
-          "108 m"
+          "0 km",
+          "58:45",
+          "0 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "36.5 km",
           "1:54:55",
           "311 m"
-        ]
-      },
-      {
-        "athlete": "Olivier Vander Elst",
-        "athleteId": "138410042",
-        "activityId": "20570681688",
-        "name": "A(RT), C(ulture), N(ature)… Almost my ADN… 🍁🍂⛅️🥾🎨",
-        "date": "October 13, 2026",
-        "distanceKm": 13.4,
-        "stats": [
-          "13.4 km",
-          "3:18:30",
-          "15 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 215413.1
+      "totalWithEstimatesKm": 215459.8
     }
   }
 }

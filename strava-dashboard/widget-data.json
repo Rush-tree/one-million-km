@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-13T09:30:50.248Z",
+  "generatedAt": "2026-10-13T10:00:59.178Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-13T09:30:50.248Z",
+  "memberCountUpdatedAt": "2026-10-13T10:00:59.177Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 211,
-    "distanceKm": 2288.5,
-    "elevationM": 14738,
-    "movingSeconds": 672180,
+    "activities": 216,
+    "distanceKm": 2320.9,
+    "elevationM": 15138,
+    "movingSeconds": 681660,
     "raw": {
-      "activities": "211",
-      "distance": "2,288.5 km",
-      "time": "186 h 43 m",
-      "elevation": "14,738 m"
+      "activities": "216",
+      "distance": "2,320.9 km",
+      "time": "189 h 21 m",
+      "elevation": "15,138 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "20564914668",
+      "name": "Entrenamiento con pesas matutino",
+      "date": "October 13, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "54:50",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Adriano Perri",
       "athleteId": "99629318",
@@ -35,7 +48,7 @@
       "athlete": "Luka M",
       "athleteId": "33218706",
       "activityId": "20564825833",
-      "name": "Morning Run",
+      "name": "Wetter heute eher ungemütlich 🍂",
       "date": "October 13, 2026",
       "distanceKm": 11.3,
       "stats": [
@@ -69,19 +82,6 @@
         "49:41",
         "0 m"
       ]
-    },
-    {
-      "athlete": "René Rosenberger",
-      "athleteId": "757098365",
-      "activityId": "20564344211",
-      "name": "Gewichtstraining am Morgen",
-      "date": "October 13, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "50:08",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 75871.1,
-  "totalDistanceKm": 198879.2,
+  "observedWeeksKm": 75903.5,
+  "totalDistanceKm": 198911.6,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 214676.2
+    "totalWithEstimatesKm": 214708.6
   }
 }

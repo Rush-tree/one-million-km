@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-13T07:00:58.294Z",
+  "generatedAt": "2026-10-13T07:30:46.568Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-13T07:00:58.294Z",
+  "memberCountUpdatedAt": "2026-10-13T07:30:46.568Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 198,
-    "distanceKm": 2220.9,
-    "elevationM": 14117,
-    "movingSeconds": 636660,
+    "activities": 200,
+    "distanceKm": 2230.3,
+    "elevationM": 14185,
+    "movingSeconds": 642780,
     "raw": {
-      "activities": "198",
-      "distance": "2,220.9 km",
-      "time": "176 h 51 m",
-      "elevation": "14,117 m"
+      "activities": "200",
+      "distance": "2,230.3 km",
+      "time": "178 h 33 m",
+      "elevation": "14,185 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Rareș Brânzoi",
+      "athleteId": "4792098",
+      "activityId": "20563809102",
+      "name": "Morning Easy Run",
+      "date": "October 13, 2026",
+      "distanceKm": 9.1,
+      "stats": [
+        "9.1 km",
+        "1:02:29",
+        "68 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -41,18 +54,6 @@
       "stats": [
         "0 km",
         "32:00",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20562953971",
-      "name": "Morgentraining",
-      "date": "October 13, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
         "0 m"
       ]
     },
@@ -89,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 75803.5,
-  "totalDistanceKm": 198811.6,
+  "observedWeeksKm": 75812.9,
+  "totalDistanceKm": 198821,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -110,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 214608.6
+    "totalWithEstimatesKm": 214618
   }
 }

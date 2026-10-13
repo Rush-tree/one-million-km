@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:01:00.653Z",
+  "generatedAt": "2026-10-13T13:30:54.249Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,9 +13,9 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 2544.9,
-    "thisWeekActivities": 233,
-    "thisWeekHours": 205,
+    "thisWeekKm": 2545,
+    "thisWeekActivities": 235,
+    "thisWeekHours": 206,
     "thisWeekElevationM": 16985,
     "timesAroundEarth": 5.36,
     "percentToMoon": 55.9,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17434,
+  "totalActivities": 17436,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 214932600,
-    "totalMovingTime": 60884627,
+    "totalDistance": 214932700,
+    "totalMovingTime": 60886007,
     "totalElevation": 1568286.6
   },
   "monthStats": {
-    "totalDistance": 17481700,
-    "totalMovingTime": 4945980,
+    "totalDistance": 17481800,
+    "totalMovingTime": 4947360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2544900,
-    "totalMovingTime": 738960,
-    "count": 233
+    "totalDistance": 2545000,
+    "totalMovingTime": 740340,
+    "count": 235
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 199135.6,
+    "measuredDistanceKm": 199135.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20567477447",
+        "name": "Hoch auf die Plattform des Straßburger Münster",
+        "date": "October 13, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "23:04",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20566964331",
-        "name": "Lunch Run",
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20567610224",
+        "name": "Evening Run",
         "date": "October 13, 2026",
-        "distanceKm": 6.5,
+        "distanceKm": 15,
         "stats": [
-          "6.5 km",
-          "54:31",
-          "63 m"
-        ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20566369238",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "October 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "56:48",
-          "0 m"
+          "15.0 km",
+          "2:19:09",
+          "100 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 214932.6
+      "totalWithEstimatesKm": 214932.7
     }
   }
 }

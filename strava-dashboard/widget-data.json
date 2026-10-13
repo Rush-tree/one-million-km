@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-13T11:00:59.711Z",
+  "generatedAt": "2026-10-13T11:30:48.540Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-13T11:00:59.711Z",
+  "memberCountUpdatedAt": "2026-10-13T11:30:48.540Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 222,
-    "distanceKm": 2483.7,
-    "elevationM": 16634,
-    "movingSeconds": 709920,
+    "activities": 226,
+    "distanceKm": 2497.3,
+    "elevationM": 16706,
+    "movingSeconds": 722220,
     "raw": {
-      "activities": "222",
-      "distance": "2,483.7 km",
-      "time": "197 h 12 m",
-      "elevation": "16,634 m"
+      "activities": "226",
+      "distance": "2,497.3 km",
+      "time": "200 h 37 m",
+      "elevation": "16,706 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cristian Stănciulescu",
+      "athleteId": "67352997",
+      "activityId": "20566025050",
+      "name": "Lunch Walk",
+      "date": "October 13, 2026",
+      "distanceKm": 1.8,
+      "stats": [
+        "1.8 km",
+        "28:26",
+        "5 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -42,19 +55,6 @@
         "1.7 km",
         "27:12",
         "10 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20565307032",
-      "name": "Lunch Walk",
-      "date": "October 13, 2026",
-      "distanceKm": 2.3,
-      "stats": [
-        "2.3 km",
-        "52:09",
-        "25 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 76066.3,
-  "totalDistanceKm": 199074.4,
+  "observedWeeksKm": 76079.9,
+  "totalDistanceKm": 199088,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 214871.4
+    "totalWithEstimatesKm": 214885
   }
 }

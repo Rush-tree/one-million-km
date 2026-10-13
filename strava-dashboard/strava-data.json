@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T05:00:59.360Z",
+  "generatedAt": "2026-10-13T05:30:49.115Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 785737,
-    "percentComplete": 21.43,
+    "remainingKm": 785454,
+    "percentComplete": 21.45,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,23 +13,23 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 1875.6,
-    "thisWeekActivities": 180,
-    "thisWeekHours": 159,
-    "thisWeekElevationM": 12371,
+    "thisWeekKm": 2158,
+    "thisWeekActivities": 188,
+    "thisWeekHours": 171,
+    "thisWeekElevationM": 13895,
     "timesAroundEarth": 5.35,
-    "percentToMoon": 55.7,
+    "percentToMoon": 55.8,
     "comparisons": [
       {
         "key": "equator",
-        "value": 5.3,
-        "text": "5.3× around the equator",
+        "value": 5.4,
+        "text": "5.4× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
         "key": "moon",
-        "value": 55.7,
-        "text": "55.7% of the way to the Moon",
+        "value": 55.8,
+        "text": "55.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 32.2,
-        "text": "32.2× the length of the Nile",
+        "value": 32.3,
+        "text": "32.3× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 16.2,
-        "text": "16.2× the German autobahn network",
+        "value": 16.3,
+        "text": "16.3× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17380,
+  "totalActivities": 17385,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 214263300,
-    "totalMovingTime": 60716927,
-    "totalElevation": 1563672.6
+    "totalDistance": 214545700,
+    "totalMovingTime": 60762707,
+    "totalElevation": 1565196.6
   },
   "monthStats": {
-    "totalDistance": 16812400,
-    "totalMovingTime": 4778280,
+    "totalDistance": 17094800,
+    "totalMovingTime": 4824060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1875600,
-    "totalMovingTime": 571260,
-    "count": 180
+    "totalDistance": 2158000,
+    "totalMovingTime": 617040,
+    "count": 188
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 198466.3,
+    "measuredDistanceKm": 198748.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -123,29 +123,42 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20562680660",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20562983788",
+        "name": "Morning Pilates",
         "date": "October 13, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "13:00",
+          "6:20",
           "0 m"
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20562685293",
-        "name": "Morning Yoga",
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20563072459",
+        "name": "Morning Run",
         "date": "October 13, 2026",
-        "distanceKm": 0,
+        "distanceKm": 3.3,
         "stats": [
-          "0 km",
-          "16:35",
-          "0 m"
+          "3.3 km",
+          "34:52",
+          "62 m"
+        ]
+      },
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20562979213",
+        "name": "Morning Run",
+        "date": "October 13, 2026",
+        "distanceKm": 5.5,
+        "stats": [
+          "5.5 km",
+          "37:31",
+          "63 m"
         ]
       },
       {
@@ -159,19 +172,6 @@
           "14.3 km",
           "1:16:31",
           "12 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20562720303",
-        "name": "Morning Run",
-        "date": "October 13, 2026",
-        "distanceKm": 20,
-        "stats": [
-          "20.0 km",
-          "1:52:04",
-          "29 m"
         ]
       }
     ],
@@ -193,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 214263.3
+      "totalWithEstimatesKm": 214545.7
     }
   }
 }

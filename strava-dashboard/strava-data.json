@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T21:30:49.480Z",
+  "generatedAt": "2026-10-13T22:01:01.553Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 784210,
+    "remainingKm": 784195,
     "percentComplete": 21.58,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 3402.5,
-    "thisWeekActivities": 332,
-    "thisWeekHours": 282,
-    "thisWeekElevationM": 22755,
-    "timesAroundEarth": 5.38,
+    "thisWeekKm": 3417.6,
+    "thisWeekActivities": 333,
+    "thisWeekHours": 284,
+    "thisWeekElevationM": 23046,
+    "timesAroundEarth": 5.39,
     "percentToMoon": 56.1,
     "comparisons": [
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 32.4,
-        "text": "32.4× the length of the Nile",
+        "value": 32.5,
+        "text": "32.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17540,
+  "totalActivities": 17541,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 215790200,
-    "totalMovingTime": 61161767,
-    "totalElevation": 1574056.6
+    "totalDistance": 215805300,
+    "totalMovingTime": 61166987,
+    "totalElevation": 1574347.6
   },
   "monthStats": {
-    "totalDistance": 18339300,
-    "totalMovingTime": 5223120,
+    "totalDistance": 18354400,
+    "totalMovingTime": 5228340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3402500,
-    "totalMovingTime": 1016100,
-    "count": 332
+    "totalDistance": 3417600,
+    "totalMovingTime": 1021320,
+    "count": 333
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 199993.2,
+    "measuredDistanceKm": 200008.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "3.3 km",
           "19:24",
           "56 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20573728183",
+        "name": "Gece Koşu",
+        "date": "October 13, 2026",
+        "distanceKm": 15.1,
+        "stats": [
+          "15.1 km",
+          "1:27:29",
+          "291 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "45:21",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20572566274",
-        "name": "Evening Weight Training",
-        "date": "October 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "30:41",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 215790.2
+      "totalWithEstimatesKm": 215805.3
     }
   }
 }

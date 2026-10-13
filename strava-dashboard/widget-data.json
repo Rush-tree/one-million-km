@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-13T21:00:58.749Z",
+  "generatedAt": "2026-10-13T21:30:49.480Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-13T21:00:58.749Z",
+  "memberCountUpdatedAt": "2026-10-13T21:30:49.479Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 330,
-    "distanceKm": 3381,
-    "elevationM": 22494,
-    "movingSeconds": 1008720,
+    "activities": 332,
+    "distanceKm": 3402.5,
+    "elevationM": 22755,
+    "movingSeconds": 1016100,
     "raw": {
-      "activities": "330",
-      "distance": "3,381.0 km",
-      "time": "280 h 12 m",
-      "elevation": "22,494 m"
+      "activities": "332",
+      "distance": "3,402.5 km",
+      "time": "282 h 15 m",
+      "elevation": "22,755 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20573457164",
+      "name": "Pedalada da tarde",
+      "date": "October 13, 2026",
+      "distanceKm": 3.3,
+      "stats": [
+        "3.3 km",
+        "19:24",
+        "56 m"
+      ]
+    },
     {
       "athlete": "Adriano Perri",
       "athleteId": "99629318",
@@ -29,6 +42,19 @@
         "0 km",
         "15:00",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20573507696",
+      "name": "Night Run",
+      "date": "October 13, 2026",
+      "distanceKm": 18,
+      "stats": [
+        "18.0 km",
+        "1:44:58",
+        "205 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "30:41",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Adriano Perri",
-      "athleteId": "99629318",
-      "activityId": "20572546947",
-      "name": "Leg Day",
-      "date": "October 13, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "44:28",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-      "athleteId": "4351490",
-      "activityId": "20572338166",
-      "name": "Zwift - TTT: Zwift Racing League 26/27: Fast & Fresh : Open Aqua League Division 4 - Race 3 (C)",
-      "date": "October 13, 2026",
-      "distanceKm": 35.1,
-      "stats": [
-        "35.1 km",
-        "55:37",
-        "272 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 76963.6,
-  "totalDistanceKm": 199971.7,
+  "observedWeeksKm": 76985.1,
+  "totalDistanceKm": 199993.2,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 215768.7
+    "totalWithEstimatesKm": 215790.2
   }
 }

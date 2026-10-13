@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T12:01:02.578Z",
+  "generatedAt": "2026-10-13T12:30:49.745Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 785097,
+    "remainingKm": 785083,
     "percentComplete": 21.49,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 2515.7,
-    "thisWeekActivities": 228,
-    "thisWeekHours": 202,
-    "thisWeekElevationM": 16786,
+    "thisWeekKm": 2529.2,
+    "thisWeekActivities": 230,
+    "thisWeekHours": 204,
+    "thisWeekElevationM": 16902,
     "timesAroundEarth": 5.36,
     "percentToMoon": 55.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17428,
+  "totalActivities": 17430,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 214903400,
-    "totalMovingTime": 60873827,
-    "totalElevation": 1568087.6
+    "totalDistance": 214916900,
+    "totalMovingTime": 60880307,
+    "totalElevation": 1568203.6
   },
   "monthStats": {
-    "totalDistance": 17452500,
-    "totalMovingTime": 4935180,
+    "totalDistance": 17466000,
+    "totalMovingTime": 4941660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2515700,
-    "totalMovingTime": 728160,
-    "count": 228
+    "totalDistance": 2529200,
+    "totalMovingTime": 734640,
+    "count": 230
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 199106.4,
+    "measuredDistanceKm": 199119.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,16 +124,29 @@
         ]
       },
       {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20566025050",
-        "name": "Lunch Walk",
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20566968499",
+        "name": "Corrida matinal",
         "date": "October 13, 2026",
-        "distanceKm": 1.8,
+        "distanceKm": 6.3,
         "stats": [
-          "1.8 km",
-          "28:26",
-          "5 m"
+          "6.3 km",
+          "47:00",
+          "58 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20566964331",
+        "name": "Lunch Run",
+        "date": "October 13, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "54:31",
+          "63 m"
         ]
       },
       {
@@ -152,27 +165,14 @@
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
-        "activityId": "20565666281",
-        "name": "Kinomap - Girasile Gran bosco dei Fontanassi video 1/2",
+        "activityId": "20566882282",
+        "name": "Afternoon Run",
         "date": "October 13, 2026",
-        "distanceKm": 5,
+        "distanceKm": 5.6,
         "stats": [
-          "5.0 km",
-          "13:29",
-          "6 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20565677461",
-        "name": "Grupo La Zenia",
-        "date": "October 13, 2026",
-        "distanceKm": 86.6,
-        "stats": [
-          "86.6 km",
-          "3:55:57",
-          "748 m"
+          "5.6 km",
+          "42:32",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 214903.4
+      "totalWithEstimatesKm": 214916.9
     }
   }
 }

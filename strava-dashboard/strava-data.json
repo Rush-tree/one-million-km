@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T02:30:48.519Z",
+  "generatedAt": "2026-10-13T03:01:00.584Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 785909,
-    "percentComplete": 21.41,
+    "remainingKm": 785841,
+    "percentComplete": 21.42,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 1703.4,
-    "thisWeekActivities": 162,
-    "thisWeekHours": 144,
-    "thisWeekElevationM": 11823,
+    "thisWeekKm": 1770.9,
+    "thisWeekActivities": 165,
+    "thisWeekHours": 149,
+    "thisWeekElevationM": 11996,
     "timesAroundEarth": 5.34,
     "percentToMoon": 55.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17361,
+  "totalActivities": 17364,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 214091100,
-    "totalMovingTime": 60665207,
-    "totalElevation": 1563124.6
+    "totalDistance": 214158600,
+    "totalMovingTime": 60683087,
+    "totalElevation": 1563297.6
   },
   "monthStats": {
-    "totalDistance": 16640200,
-    "totalMovingTime": 4726560,
+    "totalDistance": 16707700,
+    "totalMovingTime": 4744440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1703400,
-    "totalMovingTime": 519540,
-    "count": 162
+    "totalDistance": 1770900,
+    "totalMovingTime": 537420,
+    "count": 165
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 198294.1,
+    "measuredDistanceKm": 198361.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20562408893",
+        "name": "Tuesday Morning Activity",
+        "date": "October 13, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "9:53",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Jara Baumann",
         "athleteId": "32588016",
@@ -124,6 +137,32 @@
         ]
       },
       {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20562350923",
+        "name": "☀️ Tuesday Morning Ride",
+        "date": "October 13, 2026",
+        "distanceKm": 67.4,
+        "stats": [
+          "67.4 km",
+          "3:00:52",
+          "173 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20562354526",
+        "name": "☀️ Morning Ride",
+        "date": "October 13, 2026",
+        "distanceKm": 63.1,
+        "stats": [
+          "63.1 km",
+          "3:01:13",
+          "168 m"
+        ]
+      },
+      {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
         "activityId": "20560278124",
@@ -134,45 +173,6 @@
           "15.1 km",
           "53:59",
           "170 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20559812343",
-        "name": "Zwift - Lactate Shuttle #1",
-        "date": "October 12, 2026",
-        "distanceKm": 30.1,
-        "stats": [
-          "30.1 km",
-          "1:01:08",
-          "140 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20559208544",
-        "name": "🌛 Night Ride 🚴‍♂️ from Renfo",
-        "date": "October 12, 2026",
-        "distanceKm": 5.2,
-        "stats": [
-          "5.2 km",
-          "13:34",
-          "9 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20559665159",
-        "name": "Night Walk",
-        "date": "October 12, 2026",
-        "distanceKm": 0.7,
-        "stats": [
-          "0.7 km",
-          "21:56",
-          "2 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 214091.1
+      "totalWithEstimatesKm": 214158.6
     }
   }
 }

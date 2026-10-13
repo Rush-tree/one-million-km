@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T16:01:01.767Z",
+  "generatedAt": "2026-10-13T16:30:51.171Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 784992,
-    "percentComplete": 21.5,
+    "remainingKm": 784848,
+    "percentComplete": 21.52,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 2620.1,
-    "thisWeekActivities": 250,
-    "thisWeekHours": 217,
-    "thisWeekElevationM": 17397,
+    "thisWeekKm": 2764.7,
+    "thisWeekActivities": 261,
+    "thisWeekHours": 227,
+    "thisWeekElevationM": 18076,
     "timesAroundEarth": 5.37,
-    "percentToMoon": 55.9,
+    "percentToMoon": 56,
     "comparisons": [
       {
         "key": "equator",
@@ -28,20 +28,20 @@
       },
       {
         "key": "moon",
-        "value": 55.9,
-        "text": "55.9% of the way to the Moon",
+        "value": 56,
+        "text": "56% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
         "key": "greatwall",
-        "value": 10.1,
-        "text": "10.1× the Great Wall of China",
+        "value": 10.2,
+        "text": "10.2× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
         "key": "nile",
-        "value": 32.3,
-        "text": "32.3× the length of the Nile",
+        "value": 32.4,
+        "text": "32.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17453,
+  "totalActivities": 17464,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 215007800,
-    "totalMovingTime": 60927527,
-    "totalElevation": 1568698.6
+    "totalDistance": 215152400,
+    "totalMovingTime": 60962687,
+    "totalElevation": 1569377.6
   },
   "monthStats": {
-    "totalDistance": 17556900,
-    "totalMovingTime": 4988880,
+    "totalDistance": 17701500,
+    "totalMovingTime": 5024040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2620100,
-    "totalMovingTime": 781860,
-    "count": 250
+    "totalDistance": 2764700,
+    "totalMovingTime": 817020,
+    "count": 261
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,73 +105,73 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 199210.8,
+    "measuredDistanceKm": 199355.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20569485598",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20569794059",
+        "name": "Lauf am Nachmittag",
         "date": "October 13, 2026",
-        "distanceKm": 0.2,
+        "distanceKm": 8.3,
         "stats": [
-          "0.2 km",
-          "2:20",
-          "0 m"
+          "8.3 km",
+          "37:29",
+          "2 m"
         ]
       },
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20569351565",
-        "name": "Afternoon Weight Training",
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20569871036",
+        "name": "Afternoon Run",
+        "date": "October 13, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "49:04",
+          "66 m"
+        ]
+      },
+      {
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20569589427",
+        "name": "Zwift - Tick Tock in Watopia",
+        "date": "October 13, 2026",
+        "distanceKm": 19.7,
+        "stats": [
+          "19.7 km",
+          "36:32",
+          "59 m"
+        ]
+      },
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20569990574",
+        "name": "Afternoon Ride",
+        "date": "October 13, 2026",
+        "distanceKm": 37.3,
+        "stats": [
+          "37.3 km",
+          "1:31:42",
+          "39 m"
+        ]
+      },
+      {
+        "athlete": "Alois Petrausch",
+        "athleteId": "40799429",
+        "activityId": "20569966845",
+        "name": "Aqua Fitness im Klutenseebad",
         "date": "October 13, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "28:14",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Biken Ginayatova",
-        "athleteId": "92872558",
-        "activityId": "20569548751",
-        "name": "Tuesday Evening Run",
-        "date": "October 13, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "1:07:18",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20569275441",
-        "name": "Course à pied dans l'après-midi",
-        "date": "October 13, 2026",
-        "distanceKm": 11,
-        "stats": [
-          "11.0 km",
-          "58:01",
-          "101 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20569246126",
-        "name": "Afternoon Workout",
-        "date": "October 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:03:39",
+          "1:46:28",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 215007.8
+      "totalWithEstimatesKm": 215152.4
     }
   }
 }

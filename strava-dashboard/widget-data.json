@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-14T07:51:36.427Z",
+  "generatedAt": "2026-10-14T08:30:48.784Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-14T07:51:36.427Z",
+  "memberCountUpdatedAt": "2026-10-14T08:30:48.784Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 369,
-    "distanceKm": 3779.2,
-    "elevationM": 25659,
-    "movingSeconds": 1123260,
+    "activities": 371,
+    "distanceKm": 3838.3,
+    "elevationM": 25811,
+    "movingSeconds": 1130220,
     "raw": {
-      "activities": "369",
-      "distance": "3,779.2 km",
-      "time": "312 h 1 m",
-      "elevation": "25,659 m"
+      "activities": "371",
+      "distance": "3,838.3 km",
+      "time": "313 h 57 m",
+      "elevation": "25,811 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20578331304",
+      "name": "Morning Walk",
+      "date": "October 14, 2026",
+      "distanceKm": 0.6,
+      "stats": [
+        "0.6 km",
+        "18:29",
+        "2 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20578449788",
+      "name": "Zwift - Tick Tock in Watopia",
+      "date": "October 14, 2026",
+      "distanceKm": 57.2,
+      "stats": [
+        "57.2 km",
+        "1:50:59",
+        "144 m"
+      ]
+    },
+    {
       "athlete": "Tim Siber",
       "athleteId": "91630363",
       "activityId": "20577910278",
@@ -56,32 +82,6 @@
         "46:23",
         "70 m"
       ]
-    },
-    {
-      "athlete": "Domenic Winges",
-      "athleteId": "179823094",
-      "activityId": "20577894629",
-      "name": "Zone 2",
-      "date": "October 14, 2026",
-      "distanceKm": 11.4,
-      "stats": [
-        "11.4 km",
-        "1:22:15",
-        "29 m"
-      ]
-    },
-    {
-      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-      "athleteId": "72351185",
-      "activityId": "20577846857",
-      "name": "Lunch Walk",
-      "date": "October 14, 2026",
-      "distanceKm": 0.2,
-      "stats": [
-        "0.2 km",
-        "6:32",
-        "21 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 77361.8,
-  "totalDistanceKm": 200369.9,
+  "observedWeeksKm": 77420.9,
+  "totalDistanceKm": 200429,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 216166.9
+    "totalWithEstimatesKm": 216226
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T07:51:36.427Z",
+  "generatedAt": "2026-10-14T08:30:48.784Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 783833,
+    "remainingKm": 783774,
     "percentComplete": 21.62,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 3779.2,
-    "thisWeekActivities": 369,
-    "thisWeekHours": 312,
-    "thisWeekElevationM": 25659,
-    "timesAroundEarth": 5.39,
-    "percentToMoon": 56.2,
+    "thisWeekKm": 3838.3,
+    "thisWeekActivities": 371,
+    "thisWeekHours": 314,
+    "thisWeekElevationM": 25811,
+    "timesAroundEarth": 5.4,
+    "percentToMoon": 56.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 56.2,
-        "text": "56.2% of the way to the Moon",
+        "value": 56.3,
+        "text": "56.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17579,
+  "totalActivities": 17580,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 216166900,
-    "totalMovingTime": 61268927,
-    "totalElevation": 1576960.6
+    "totalDistance": 216226000,
+    "totalMovingTime": 61275887,
+    "totalElevation": 1577112.6
   },
   "monthStats": {
-    "totalDistance": 18716000,
-    "totalMovingTime": 5330280,
+    "totalDistance": 18775100,
+    "totalMovingTime": 5337240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3779200,
-    "totalMovingTime": 1123260,
-    "count": 369
+    "totalDistance": 3838300,
+    "totalMovingTime": 1130220,
+    "count": 371
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 200369.9,
+    "measuredDistanceKm": 200429,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20578331304",
+        "name": "Morning Walk",
+        "date": "October 14, 2026",
+        "distanceKm": 0.6,
+        "stats": [
+          "0.6 km",
+          "18:29",
+          "2 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -137,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20578449788",
+        "name": "Zwift - Tick Tock in Watopia",
+        "date": "October 14, 2026",
+        "distanceKm": 57.2,
+        "stats": [
+          "57.2 km",
+          "1:50:59",
+          "144 m"
+        ]
+      },
+      {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
         "activityId": "20577910278",
@@ -147,32 +173,6 @@
           "11.6 km",
           "46:23",
           "70 m"
-        ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20577894629",
-        "name": "Zone 2",
-        "date": "October 14, 2026",
-        "distanceKm": 11.4,
-        "stats": [
-          "11.4 km",
-          "1:22:15",
-          "29 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20577846857",
-        "name": "Lunch Walk",
-        "date": "October 14, 2026",
-        "distanceKm": 0.2,
-        "stats": [
-          "0.2 km",
-          "6:32",
-          "21 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 216166.9
+      "totalWithEstimatesKm": 216226
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T07:01:02.050Z",
+  "generatedAt": "2026-10-14T07:30:48.522Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 783856,
-    "percentComplete": 21.61,
+    "remainingKm": 783833,
+    "percentComplete": 21.62,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 3756.1,
-    "thisWeekActivities": 363,
-    "thisWeekHours": 307,
-    "thisWeekElevationM": 25560,
+    "thisWeekKm": 3779.2,
+    "thisWeekActivities": 369,
+    "thisWeekHours": 312,
+    "thisWeekElevationM": 25659,
     "timesAroundEarth": 5.39,
     "percentToMoon": 56.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17572,
+  "totalActivities": 17579,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 216143800,
-    "totalMovingTime": 61251647,
-    "totalElevation": 1576861.6
+    "totalDistance": 216166900,
+    "totalMovingTime": 61268927,
+    "totalElevation": 1576960.6
   },
   "monthStats": {
-    "totalDistance": 18692900,
-    "totalMovingTime": 5313000,
+    "totalDistance": 18716000,
+    "totalMovingTime": 5330280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3756100,
-    "totalMovingTime": 1105980,
-    "count": 363
+    "totalDistance": 3779200,
+    "totalMovingTime": 1123260,
+    "count": 369
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,61 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 200346.8,
+    "measuredDistanceKm": 200369.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20577451099",
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20578038105",
+        "name": "Atividade matinal",
+        "date": "October 14, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "13:00",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20578044704",
+        "name": "Yoga am Morgen",
+        "date": "October 14, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "42:57",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20577910278",
         "name": "Morning Ride",
         "date": "October 14, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 11.6,
         "stats": [
-          "4.4 km",
-          "17:39",
-          "56 m"
+          "11.6 km",
+          "46:23",
+          "70 m"
         ]
       },
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20577355350",
-        "name": "Commute #117/2026 🏥🩺",
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20577894629",
+        "name": "Zone 2",
         "date": "October 14, 2026",
-        "distanceKm": 8.9,
+        "distanceKm": 11.4,
         "stats": [
-          "8.9 km",
-          "20:25",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20577334202",
-        "name": "666 😈 Morning V-Taf Ride 🚴‍♀️",
-        "date": "October 14, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "18:28",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Rainer Gatzmaga",
-        "athleteId": "119550686",
-        "activityId": "20577667325",
-        "name": "HIT in DüDo, 7 x 1k@ 4:45 - 5:00",
-        "date": "October 14, 2026",
-        "distanceKm": 9.6,
-        "stats": [
-          "9.6 km",
-          "1:27:55",
-          "51 m"
+          "11.4 km",
+          "1:22:15",
+          "29 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 216143.8
+      "totalWithEstimatesKm": 216166.9
     }
   }
 }

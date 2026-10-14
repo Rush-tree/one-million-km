@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T11:01:01.879Z",
+  "generatedAt": "2026-10-14T11:30:50.490Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 783568,
+    "remainingKm": 783557,
     "percentComplete": 21.64,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 4044.5,
-    "thisWeekActivities": 383,
-    "thisWeekHours": 327,
-    "thisWeekElevationM": 27361,
+    "thisWeekKm": 4055.5,
+    "thisWeekActivities": 385,
+    "thisWeekHours": 328,
+    "thisWeekElevationM": 27443,
     "timesAroundEarth": 5.4,
     "percentToMoon": 56.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17592,
+  "totalActivities": 17594,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 216432200,
-    "totalMovingTime": 61321967,
-    "totalElevation": 1578662.6
+    "totalDistance": 216443200,
+    "totalMovingTime": 61324907,
+    "totalElevation": 1578744.6
   },
   "monthStats": {
-    "totalDistance": 18981300,
-    "totalMovingTime": 5383320,
+    "totalDistance": 18992300,
+    "totalMovingTime": 5386260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4044500,
-    "totalMovingTime": 1176300,
-    "count": 383
+    "totalDistance": 4055500,
+    "totalMovingTime": 1179240,
+    "count": 385
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 200635.2,
+    "measuredDistanceKm": 200646.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20580365352",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 14, 2026",
+        "distanceKm": 8.7,
+        "stats": [
+          "8.7 km",
+          "18:23",
+          "76 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20580186508",
+        "name": "Lunch Walk",
+        "date": "October 14, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "36:42",
+          "6 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -121,19 +147,6 @@
           "8.3 km",
           "23:22",
           "158 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20578841950",
-        "name": "Brötchen holen🫡",
-        "date": "October 14, 2026",
-        "distanceKm": 0.9,
-        "stats": [
-          "0.9 km",
-          "13:50",
-          "8 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "1:21:39",
           "344 m"
         ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20578720839",
-        "name": "Mittwochslanglauf",
-        "date": "October 14, 2026",
-        "distanceKm": 16,
-        "stats": [
-          "16.0 km",
-          "1:22:10",
-          "84 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 216432.2
+      "totalWithEstimatesKm": 216443.2
     }
   }
 }

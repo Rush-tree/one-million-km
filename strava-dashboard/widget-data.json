@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-14T14:00:59.334Z",
+  "generatedAt": "2026-10-14T14:30:51.600Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-14T14:00:59.334Z",
+  "memberCountUpdatedAt": "2026-10-14T14:30:51.599Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 425,
-    "distanceKm": 4565.3,
-    "elevationM": 32200,
-    "movingSeconds": 1327740,
+    "activities": 431,
+    "distanceKm": 4594.4,
+    "elevationM": 32321,
+    "movingSeconds": 1338180,
     "raw": {
-      "activities": "425",
-      "distance": "4,565.3 km",
-      "time": "368 h 49 m",
-      "elevation": "32,200 m"
+      "activities": "431",
+      "distance": "4,594.4 km",
+      "time": "371 h 43 m",
+      "elevation": "32,321 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Sascha Gebel",
+      "athleteId": "19964716",
+      "activityId": "20582280584",
+      "name": "Afternoon Swim",
+      "date": "October 14, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "45:30",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Mangala Pai",
       "athleteId": "118301293",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Brad Miyasato",
-      "athleteId": "53406668",
-      "activityId": "20581733091",
-      "name": "Morning Walk",
-      "date": "October 14, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "58:57",
-        "4 m"
-      ]
-    },
-    {
       "athlete": "Gisbert Drumm",
       "athleteId": "10905376",
       "activityId": "20581981779",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 78147.9,
-  "totalDistanceKm": 201156,
+  "observedWeeksKm": 78177,
+  "totalDistanceKm": 201185.1,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 216953
+    "totalWithEstimatesKm": 216982.1
   }
 }

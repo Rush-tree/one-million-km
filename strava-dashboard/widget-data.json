@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-14T15:01:35.769Z",
+  "generatedAt": "2026-10-14T15:30:49.147Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-14T15:01:35.769Z",
+  "memberCountUpdatedAt": "2026-10-14T15:30:49.147Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 439,
-    "distanceKm": 4674.3,
-    "elevationM": 32895,
-    "movingSeconds": 1358280,
+    "activities": 445,
+    "distanceKm": 4701.2,
+    "elevationM": 33088,
+    "movingSeconds": 1373640,
     "raw": {
-      "activities": "439",
-      "distance": "4,674.3 km",
-      "time": "377 h 18 m",
-      "elevation": "32,895 m"
+      "activities": "445",
+      "distance": "4,701.2 km",
+      "time": "381 h 34 m",
+      "elevation": "33,088 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20583200997",
+      "name": "Afternoon Walk",
+      "date": "October 14, 2026",
+      "distanceKm": 1.3,
+      "stats": [
+        "1.3 km",
+        "25:23",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Adriano Perri",
       "athleteId": "99629318",
@@ -32,42 +45,29 @@
       ]
     },
     {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20582687332",
-      "name": "Afternoon Ride",
-      "date": "October 14, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "16:36",
-        "58 m"
-      ]
-    },
-    {
       "athlete": "Nico Deckarm",
       "athleteId": "74766538",
       "activityId": "20582942230",
-      "name": "Traillauf am Nachmittag",
+      "name": "easy weil morgen kinda hard",
       "date": "October 14, 2026",
       "distanceKm": 8,
       "stats": [
         "8.0 km",
-        "40:07",
+        "40:06",
         "97 m"
       ]
     },
     {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20582769702",
-      "name": "Afternoon Walk",
+      "athlete": "Laura Oerter",
+      "athleteId": "166620468",
+      "activityId": "20583068113",
+      "name": "Afternoon Run",
       "date": "October 14, 2026",
-      "distanceKm": 1.7,
+      "distanceKm": 10,
       "stats": [
-        "1.7 km",
-        "39:45",
-        "13 m"
+        "10.0 km",
+        "56:00",
+        "11 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 78256.9,
-  "totalDistanceKm": 201265,
+  "observedWeeksKm": 78283.8,
+  "totalDistanceKm": 201291.9,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 217062
+    "totalWithEstimatesKm": 217088.9
   }
 }

@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-14T19:30:51.824Z",
+  "generatedAt": "2026-10-14T20:01:04.603Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 782360,
-    "percentComplete": 21.76,
+    "remainingKm": 782347,
+    "percentComplete": 21.77,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
     "weeksToGoal": 46,
-    "projectedDate": "2027-09-04",
+    "projectedDate": "2027-09-03",
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 5252.6,
-    "thisWeekActivities": 508,
-    "thisWeekHours": 443,
-    "thisWeekElevationM": 36662,
+    "thisWeekKm": 5265.7,
+    "thisWeekActivities": 511,
+    "thisWeekHours": 445,
+    "thisWeekElevationM": 36778,
     "timesAroundEarth": 5.43,
     "percentToMoon": 56.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17724,
+  "totalActivities": 17727,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 217640300,
-    "totalMovingTime": 61741427,
-    "totalElevation": 1587963.6
+    "totalDistance": 217653400,
+    "totalMovingTime": 61748147,
+    "totalElevation": 1588079.6
   },
   "monthStats": {
-    "totalDistance": 20189400,
-    "totalMovingTime": 5802780,
+    "totalDistance": 20202500,
+    "totalMovingTime": 5809500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5252600,
-    "totalMovingTime": 1595760,
-    "count": 508
+    "totalDistance": 5265700,
+    "totalMovingTime": 1602480,
+    "count": 511
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 201843.3,
+    "measuredDistanceKm": 201856.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20586912335",
+        "name": "Abendspaziergang",
+        "date": "October 14, 2026",
+        "distanceKm": 0.9,
+        "stats": [
+          "0.9 km",
+          "15:19",
+          "2 m"
+        ]
+      },
+      {
         "athlete": "Norick Maurer",
         "athleteId": "107445415",
         "activityId": "20586639832",
@@ -134,19 +147,6 @@
           "1.5 km",
           "57:45",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20585799375",
-        "name": "Lunch Walk",
-        "date": "October 14, 2026",
-        "distanceKm": 1.2,
-        "stats": [
-          "1.2 km",
-          "16:28",
-          "7 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "20585846988",
-        "name": "Aquajoggen",
+        "athlete": "Shubham Kumar",
+        "athleteId": "161648421",
+        "activityId": "20587026330",
+        "name": "Evening Run",
         "date": "October 14, 2026",
-        "distanceKm": 0.2,
+        "distanceKm": 9.8,
         "stats": [
-          "0.2 km",
-          "55:09",
-          "0 m"
+          "9.8 km",
+          "1:55:45",
+          "65 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 217640.3
+      "totalWithEstimatesKm": 217653.4
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T02:30:46.617Z",
+  "generatedAt": "2026-10-14T03:00:59.661Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 784183,
-    "percentComplete": 21.58,
+    "remainingKm": 784063,
+    "percentComplete": 21.59,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 3428.9,
-    "thisWeekActivities": 337,
-    "thisWeekHours": 286,
-    "thisWeekElevationM": 23171,
+    "thisWeekKm": 3548.9,
+    "thisWeekActivities": 342,
+    "thisWeekHours": 292,
+    "thisWeekElevationM": 24196,
     "timesAroundEarth": 5.39,
-    "percentToMoon": 56.1,
+    "percentToMoon": 56.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 56.1,
-        "text": "56.1% of the way to the Moon",
+        "value": 56.2,
+        "text": "56.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 16.3,
-        "text": "16.3× the German autobahn network",
+        "value": 16.4,
+        "text": "16.4× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17546,
+  "totalActivities": 17550,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 215816600,
-    "totalMovingTime": 61173827,
-    "totalElevation": 1574472.6
+    "totalDistance": 215936600,
+    "totalMovingTime": 61196687,
+    "totalElevation": 1575497.6
   },
   "monthStats": {
-    "totalDistance": 18365700,
-    "totalMovingTime": 5235180,
+    "totalDistance": 18485700,
+    "totalMovingTime": 5258040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3428900,
-    "totalMovingTime": 1028160,
-    "count": 337
+    "totalDistance": 3548900,
+    "totalMovingTime": 1051020,
+    "count": 342
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 200019.6,
+    "measuredDistanceKm": 200139.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20576532670",
+        "name": "Wednesday Morning Activity",
+        "date": "October 14, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "8:31",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20576487390",
+        "name": "☀️ Wednesday Morning Ride",
+        "date": "October 14, 2026",
+        "distanceKm": 65,
+        "stats": [
+          "65.0 km",
+          "3:07:30",
+          "65 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -137,18 +163,6 @@
         ]
       },
       {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20574596855",
-        "name": "Pedalada ao entardecer",
-        "date": "October 13, 2026",
-        "distanceKm": 0.1,
-        "stats": [
-          "0.1 km",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
         "activityId": "20574075054",
@@ -159,19 +173,6 @@
           "0 km",
           "1:14:35",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20573728183",
-        "name": "Gece Koşu",
-        "date": "October 13, 2026",
-        "distanceKm": 15.1,
-        "stats": [
-          "15.1 km",
-          "1:27:29",
-          "291 m"
         ]
       }
     ],
@@ -193,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 215816.6
+      "totalWithEstimatesKm": 215936.6
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T08:30:48.784Z",
+  "generatedAt": "2026-10-14T09:00:59.606Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 783774,
-    "percentComplete": 21.62,
+    "remainingKm": 783743,
+    "percentComplete": 21.63,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 3838.3,
-    "thisWeekActivities": 371,
-    "thisWeekHours": 314,
-    "thisWeekElevationM": 25811,
+    "thisWeekKm": 3869.2,
+    "thisWeekActivities": 374,
+    "thisWeekHours": 318,
+    "thisWeekElevationM": 25991,
     "timesAroundEarth": 5.4,
     "percentToMoon": 56.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17580,
+  "totalActivities": 17584,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 216226000,
-    "totalMovingTime": 61275887,
-    "totalElevation": 1577112.6
+    "totalDistance": 216256900,
+    "totalMovingTime": 61289327,
+    "totalElevation": 1577292.6
   },
   "monthStats": {
-    "totalDistance": 18775100,
-    "totalMovingTime": 5337240,
+    "totalDistance": 18806000,
+    "totalMovingTime": 5350680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3838300,
-    "totalMovingTime": 1130220,
-    "count": 371
+    "totalDistance": 3869200,
+    "totalMovingTime": 1143660,
+    "count": 374
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 200429,
+    "measuredDistanceKm": 200459.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20578555034",
+        "name": "HIIT matinal",
+        "date": "October 14, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "43:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20578532607",
+        "name": "Gewichtstraining am Morgen",
+        "date": "October 14, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "53:17",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -121,32 +147,6 @@
           "0.6 km",
           "18:29",
           "2 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20578038105",
-        "name": "Atividade matinal",
-        "date": "October 14, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "13:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20578044704",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 14, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "42:57",
-          "0 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20577910278",
-        "name": "Morning Ride",
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20578531815",
+        "name": "Afternoon Ride",
         "date": "October 14, 2026",
-        "distanceKm": 11.6,
+        "distanceKm": 30.9,
         "stats": [
-          "11.6 km",
-          "46:23",
-          "70 m"
+          "30.9 km",
+          "2:51:15",
+          "180 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 216226
+      "totalWithEstimatesKm": 216256.9
     }
   }
 }

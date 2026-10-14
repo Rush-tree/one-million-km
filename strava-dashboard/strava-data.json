@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-14T12:01:00.272Z",
+  "generatedAt": "2026-10-14T12:30:51.009Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 783498,
-    "percentComplete": 21.65,
+    "remainingKm": 783290,
+    "percentComplete": 21.67,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 4113.9,
-    "thisWeekActivities": 386,
-    "thisWeekHours": 329,
-    "thisWeekElevationM": 27915,
-    "timesAroundEarth": 5.4,
-    "percentToMoon": 56.3,
+    "thisWeekKm": 4322,
+    "thisWeekActivities": 403,
+    "thisWeekHours": 344,
+    "thisWeekElevationM": 29484,
+    "timesAroundEarth": 5.41,
+    "percentToMoon": 56.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 56.3,
-        "text": "56.3% of the way to the Moon",
+        "value": 56.4,
+        "text": "56.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17594,
+  "totalActivities": 17612,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 216501600,
-    "totalMovingTime": 61331567,
-    "totalElevation": 1579216.6
+    "totalDistance": 216709700,
+    "totalMovingTime": 61385627,
+    "totalElevation": 1580785.6
   },
   "monthStats": {
-    "totalDistance": 19050700,
-    "totalMovingTime": 5392920,
+    "totalDistance": 19258800,
+    "totalMovingTime": 5446980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4113900,
-    "totalMovingTime": 1185900,
-    "count": 386
+    "totalDistance": 4322000,
+    "totalMovingTime": 1239960,
+    "count": 403
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,49 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 200704.6,
+    "measuredDistanceKm": 200912.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20580851991",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 14, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20580851647",
+        "name": "Gravel",
+        "date": "October 14, 2026",
+        "distanceKm": 5.6,
+        "stats": [
+          "5.6 km",
+          "16:14",
+          "21 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20581062320",
+        "name": "Zwift - TT#3 Dynamic TT Course Work",
+        "date": "October 14, 2026",
+        "distanceKm": 25.2,
+        "stats": [
+          "25.2 km",
+          "1:01:58",
+          "224 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -124,55 +162,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20580186508",
-        "name": "Lunch Walk",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20581134798",
+        "name": "Gravel-Fahrt am Morgen",
         "date": "October 14, 2026",
-        "distanceKm": 2.2,
+        "distanceKm": 91,
         "stats": [
-          "2.2 km",
-          "36:42",
-          "6 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20579161528",
-        "name": "Zwift - Climb Portal: Côte des Forche at 100% Elevation in France",
-        "date": "October 14, 2026",
-        "distanceKm": 8.3,
-        "stats": [
-          "8.3 km",
-          "23:22",
-          "158 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20578917576",
-        "name": "Zwift - Novanta Lite",
-        "date": "October 14, 2026",
-        "distanceKm": 25.2,
-        "stats": [
-          "25.2 km",
-          "59:54",
-          "66 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20578895132",
-        "name": "Zwift - Group Ride: Long - Stage 2 - Tour of Watopia 2026",
-        "date": "October 14, 2026",
-        "distanceKm": 50.2,
-        "stats": [
-          "50.2 km",
-          "1:21:39",
-          "344 m"
+          "91.0 km",
+          "4:23:22",
+          "354 m"
         ]
       }
     ],
@@ -194,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 216501.6
+      "totalWithEstimatesKm": 216709.7
     }
   }
 }

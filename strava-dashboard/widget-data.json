@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T13:30:50.555Z",
+  "generatedAt": "2026-10-15T14:01:02.026Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T13:30:50.555Z",
+  "memberCountUpdatedAt": "2026-10-15T14:01:02.025Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 594,
-    "distanceKm": 6105.8,
-    "elevationM": 43986,
-    "movingSeconds": 1861200,
+    "activities": 597,
+    "distanceKm": 6121.5,
+    "elevationM": 44046,
+    "movingSeconds": 1872120,
     "raw": {
-      "activities": "594",
-      "distance": "6,105.8 km",
-      "time": "517 h 0 m",
-      "elevation": "43,986 m"
+      "activities": "597",
+      "distance": "6,121.5 km",
+      "time": "520 h 2 m",
+      "elevation": "44,046 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Brad Miyasato",
+      "athleteId": "53406668",
+      "activityId": "20595811225",
+      "name": "Morning Walk",
+      "date": "October 15, 2026",
+      "distanceKm": 13.2,
+      "stats": [
+        "13.2 km",
+        "1:50:42",
+        "38 m"
+      ]
+    },
     {
       "athlete": "Walter Donè",
       "athleteId": "31420262",
@@ -69,19 +82,6 @@
         "44:46",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-      "athleteId": "129712916",
-      "activityId": "20593694681",
-      "name": "Mittagsradfahrt mit der aerodynamischen Schrankwand 😉",
-      "date": "October 15, 2026",
-      "distanceKm": 42.6,
-      "stats": [
-        "42.6 km",
-        "1:30:04",
-        "630 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 79688.4,
-  "totalDistanceKm": 202696.5,
+  "observedWeeksKm": 79704.1,
+  "totalDistanceKm": 202712.2,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 218493.5
+    "totalWithEstimatesKm": 218509.2
   }
 }

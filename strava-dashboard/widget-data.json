@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T22:00:59.913Z",
+  "generatedAt": "2026-10-15T22:30:50.554Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T22:00:59.913Z",
+  "memberCountUpdatedAt": "2026-10-15T22:30:50.554Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 709,
-    "distanceKm": 7247,
-    "elevationM": 52643,
-    "movingSeconds": 2226300,
+    "activities": 711,
+    "distanceKm": 7273.4,
+    "elevationM": 52847,
+    "movingSeconds": 2233560,
     "raw": {
-      "activities": "709",
-      "distance": "7,247.0 km",
-      "time": "618 h 25 m",
-      "elevation": "52,643 m"
+      "activities": "711",
+      "distance": "7,273.4 km",
+      "time": "620 h 26 m",
+      "elevation": "52,847 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20601711715",
+      "name": "Pedalada ao entardecer",
+      "date": "October 15, 2026",
+      "distanceKm": 10.2,
+      "stats": [
+        "10.2 km",
+        "33:33",
+        "127 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -29,6 +42,19 @@
         "5.0 km",
         "24:24",
         "35 m"
+      ]
+    },
+    {
+      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+      "athleteId": "47897742",
+      "activityId": "20601723868",
+      "name": "Gece Koşu",
+      "date": "October 15, 2026",
+      "distanceKm": 16.1,
+      "stats": [
+        "16.1 km",
+        "1:27:30",
+        "77 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:27:54",
         "201 m"
       ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20600040019",
-      "name": "Gece Yürüyüş",
-      "date": "October 15, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "1:06:02",
-        "64 m"
-      ]
-    },
-    {
-      "athlete": "Alex 3R",
-      "athleteId": "89054684",
-      "activityId": "20600001903",
-      "name": "Gewichtstraining am Abend",
-      "date": "October 15, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "58:50",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 80829.6,
-  "totalDistanceKm": 203837.7,
+  "observedWeeksKm": 80856,
+  "totalDistanceKm": 203864.1,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 219634.7
+    "totalWithEstimatesKm": 219661.1
   }
 }

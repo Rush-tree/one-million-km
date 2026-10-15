@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T15:01:05.645Z",
+  "generatedAt": "2026-10-15T15:31:00.098Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 781222,
-    "percentComplete": 21.88,
+    "remainingKm": 781097,
+    "percentComplete": 21.89,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 6390.5,
-    "thisWeekActivities": 616,
-    "thisWeekHours": 542,
-    "thisWeekElevationM": 46373,
+    "thisWeekKm": 6515.6,
+    "thisWeekActivities": 629,
+    "thisWeekHours": 556,
+    "thisWeekElevationM": 47274,
     "timesAroundEarth": 5.46,
     "percentToMoon": 56.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17836,
+  "totalActivities": 17850,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 218778200,
-    "totalMovingTime": 62097707,
-    "totalElevation": 1597674.6
+    "totalDistance": 218903300,
+    "totalMovingTime": 62147207,
+    "totalElevation": 1598575.6
   },
   "monthStats": {
-    "totalDistance": 21327300,
-    "totalMovingTime": 6159060,
+    "totalDistance": 21452400,
+    "totalMovingTime": 6208560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6390500,
-    "totalMovingTime": 1952040,
-    "count": 616
+    "totalDistance": 6515600,
+    "totalMovingTime": 2001540,
+    "count": 629
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 202981.2,
+    "measuredDistanceKm": 203106.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20596868120",
+        "name": "V-TAF Ride back >>> 🏡",
+        "date": "October 15, 2026",
+        "distanceKm": 7.6,
+        "stats": [
+          "7.6 km",
+          "20:30",
+          "50 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20596466662",
-        "name": "Fahrt am Nachmittag 🌥",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20596827180",
+        "name": "Spaziergang am Nachmittag",
         "date": "October 15, 2026",
-        "distanceKm": 22.6,
+        "distanceKm": 1.8,
         "stats": [
-          "22.6 km",
-          "1:02:17",
-          "36 m"
+          "1.8 km",
+          "29:02",
+          "10 m"
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20596485788",
-        "name": "NW mit Herrn Sumsemann",
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20596928913",
+        "name": "Abendausfahrt",
         "date": "October 15, 2026",
-        "distanceKm": 7.8,
+        "distanceKm": 28.9,
         "stats": [
-          "7.8 km",
-          "2:05:43",
-          "94 m"
+          "28.9 km",
+          "1:04:08",
+          "214 m"
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20596522659",
-        "name": "Die letzten Sonnigen Stunden noch genießen",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20596752410",
+        "name": "Afternoon Run",
         "date": "October 15, 2026",
-        "distanceKm": 6.6,
+        "distanceKm": 12.6,
         "stats": [
-          "6.6 km",
-          "2:04:43",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20596438389",
-        "name": "Sonnenfahrt...",
-        "date": "October 15, 2026",
-        "distanceKm": 48.5,
-        "stats": [
-          "48.5 km",
-          "2:45:57",
-          "414 m"
+          "12.6 km",
+          "1:05:39",
+          "28 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 218778.2
+      "totalWithEstimatesKm": 218903.3
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T11:01:02.136Z",
+  "generatedAt": "2026-10-15T11:30:49.966Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T11:01:02.136Z",
+  "memberCountUpdatedAt": "2026-10-15T11:30:49.966Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 582,
-    "distanceKm": 5911.4,
+    "activities": 584,
+    "distanceKm": 5917.1,
     "elevationM": 42434,
-    "movingSeconds": 1808820,
+    "movingSeconds": 1813140,
     "raw": {
-      "activities": "582",
-      "distance": "5,911.4 km",
-      "time": "502 h 27 m",
+      "activities": "584",
+      "distance": "5,917.1 km",
+      "time": "503 h 39 m",
       "elevation": "42,434 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "20593800981",
+      "name": "Natación a la hora del almuerzo",
+      "date": "October 15, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "44:46",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Manfred H",
       "athleteId": "85517467",
@@ -48,7 +61,7 @@
       "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
       "athleteId": "129712916",
       "activityId": "20593694681",
-      "name": "Mittagsradfahrt",
+      "name": "Mittagsradfahrt mit der aerodynamischen Schrankwand 😉",
       "date": "October 15, 2026",
       "distanceKm": 42.6,
       "stats": [
@@ -69,19 +82,6 @@
         "1:25:55",
         "10 m"
       ]
-    },
-    {
-      "athlete": "Thomas Nanntt",
-      "athleteId": "15474485",
-      "activityId": "20592913619",
-      "name": "Spaziergang am Morgen",
-      "date": "October 15, 2026",
-      "distanceKm": 7,
-      "stats": [
-        "7.0 km",
-        "1:49:00",
-        "100 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 79494,
-  "totalDistanceKm": 202502.1,
+  "observedWeeksKm": 79499.7,
+  "totalDistanceKm": 202507.8,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 218299.1
+    "totalWithEstimatesKm": 218304.8
   }
 }

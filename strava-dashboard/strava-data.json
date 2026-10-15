@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T16:30:52.746Z",
+  "generatedAt": "2026-10-15T17:01:03.997Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 780883,
-    "percentComplete": 21.91,
+    "remainingKm": 780808,
+    "percentComplete": 21.92,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 6729,
-    "thisWeekActivities": 652,
-    "thisWeekHours": 572,
-    "thisWeekElevationM": 48635,
+    "thisWeekKm": 6803.9,
+    "thisWeekActivities": 663,
+    "thisWeekHours": 580,
+    "thisWeekElevationM": 49154,
     "timesAroundEarth": 5.47,
     "percentToMoon": 57,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 32.9,
-        "text": "32.9× the length of the Nile",
+        "value": 33,
+        "text": "33× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17874,
+  "totalActivities": 17886,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 219116700,
-    "totalMovingTime": 62204507,
-    "totalElevation": 1599936.6
+    "totalDistance": 219191600,
+    "totalMovingTime": 62235227,
+    "totalElevation": 1600455.6
   },
   "monthStats": {
-    "totalDistance": 21665800,
-    "totalMovingTime": 6265860,
+    "totalDistance": 21740700,
+    "totalMovingTime": 6296580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6729000,
-    "totalMovingTime": 2058840,
-    "count": 652
+    "totalDistance": 6803900,
+    "totalMovingTime": 2089560,
+    "count": 663
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 203319.7,
+    "measuredDistanceKm": 203394.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Nujaim Noorahdheen",
-        "athleteId": "191343444",
-        "activityId": "20597373773",
-        "name": "Evening Run",
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20597896024",
+        "name": "Afternoon Run",
         "date": "October 15, 2026",
-        "distanceKm": 3,
+        "distanceKm": 6.2,
         "stats": [
-          "3.0 km",
-          "24:25",
-          "22 m"
+          "6.2 km",
+          "43:30",
+          "21 m"
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20597492877",
-        "name": "Camminata pomeridiana",
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20597944484",
+        "name": "Afternoon Run",
         "date": "October 15, 2026",
-        "distanceKm": 3,
+        "distanceKm": 10.2,
         "stats": [
-          "3.0 km",
-          "1:06:57",
-          "14 m"
+          "10.2 km",
+          "1:00:45",
+          "36 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20597884738",
+        "name": "Marche dans l'après-midi",
+        "date": "October 15, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "1:14:46",
+          "22 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Laura Oerter",
-        "athleteId": "166620468",
-        "activityId": "20597536296",
-        "name": "Hyrox Workout",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20597845664",
+        "name": "Spaziergang am Nachmittag",
         "date": "October 15, 2026",
-        "distanceKm": 0,
+        "distanceKm": 3.5,
         "stats": [
-          "0 km",
-          "1:25:34",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20597231534",
-        "name": "Afternoon Run",
-        "date": "October 15, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "1:11:19",
-          "26 m"
+          "3.5 km",
+          "5:06:56",
+          "71 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 219116.7
+      "totalWithEstimatesKm": 219191.6
     }
   }
 }

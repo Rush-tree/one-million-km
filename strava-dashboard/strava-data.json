@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T16:01:06.537Z",
+  "generatedAt": "2026-10-15T16:30:52.746Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 781026,
-    "percentComplete": 21.9,
+    "remainingKm": 780883,
+    "percentComplete": 21.91,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 6585.9,
-    "thisWeekActivities": 643,
-    "thisWeekHours": 563,
-    "thisWeekElevationM": 47678,
-    "timesAroundEarth": 5.46,
+    "thisWeekKm": 6729,
+    "thisWeekActivities": 652,
+    "thisWeekHours": 572,
+    "thisWeekElevationM": 48635,
+    "timesAroundEarth": 5.47,
     "percentToMoon": 57,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17866,
+  "totalActivities": 17874,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 218973600,
-    "totalMovingTime": 62173967,
-    "totalElevation": 1598979.6
+    "totalDistance": 219116700,
+    "totalMovingTime": 62204507,
+    "totalElevation": 1599936.6
   },
   "monthStats": {
-    "totalDistance": 21522700,
-    "totalMovingTime": 6235320,
+    "totalDistance": 21665800,
+    "totalMovingTime": 6265860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6585900,
-    "totalMovingTime": 2028300,
-    "count": 643
+    "totalDistance": 6729000,
+    "totalMovingTime": 2058840,
+    "count": 652
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 203176.6,
+    "measuredDistanceKm": 203319.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,29 +124,42 @@
         ]
       },
       {
-        "athlete": "Dirk Mang",
-        "athleteId": "60711719",
-        "activityId": "20597210903",
-        "name": "E-Bike-Fahrt am Nachmittag",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20597492877",
+        "name": "Camminata pomeridiana",
         "date": "October 15, 2026",
-        "distanceKm": 12.4,
+        "distanceKm": 3,
         "stats": [
-          "12.4 km",
-          "34:03",
-          "122 m"
+          "3.0 km",
+          "1:06:57",
+          "14 m"
         ]
       },
       {
-        "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
-        "athleteId": "24992941",
-        "activityId": "20597062139",
-        "name": "Afternoon Run",
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20597716777",
+        "name": "Zwift - Group Ride: Long - Stage 2 - Tour of Watopia 2026",
         "date": "October 15, 2026",
-        "distanceKm": 10.1,
+        "distanceKm": 43,
         "stats": [
-          "10.1 km",
-          "57:52",
-          "14 m"
+          "43.0 km",
+          "1:23:11",
+          "334 m"
+        ]
+      },
+      {
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20597536296",
+        "name": "Hyrox Workout",
+        "date": "October 15, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:25:34",
+          "0 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "13.0 km",
           "1:11:19",
           "26 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20597115596",
-        "name": "Lunch Walk",
-        "date": "October 15, 2026",
-        "distanceKm": 1.9,
-        "stats": [
-          "1.9 km",
-          "5:31:23",
-          "6 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 218973.6
+      "totalWithEstimatesKm": 219116.7
     }
   }
 }

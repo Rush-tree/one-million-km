@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T21:01:04.079Z",
+  "generatedAt": "2026-10-15T21:30:51.455Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T21:01:04.079Z",
+  "memberCountUpdatedAt": "2026-10-15T21:30:51.455Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 708,
-    "distanceKm": 7242,
-    "elevationM": 52608,
-    "movingSeconds": 2224800,
+    "activities": 709,
+    "distanceKm": 7247,
+    "elevationM": 52643,
+    "movingSeconds": 2226300,
     "raw": {
-      "activities": "708",
-      "distance": "7,242.0 km",
-      "time": "618 h 0 m",
-      "elevation": "52,608 m"
+      "activities": "709",
+      "distance": "7,247.0 km",
+      "time": "618 h 25 m",
+      "elevation": "52,643 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20601045720",
+      "name": "Afternoon Run",
+      "date": "October 15, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "24:24",
+        "35 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -69,19 +82,6 @@
         "58:50",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20599813835",
-      "name": "Bedoeling was kort en hoge hartslag, ma t'is er ene van lange adem geworden 😅",
-      "date": "October 15, 2026",
-      "distanceKm": 2,
-      "stats": [
-        "2.0 km",
-        "1:29:11",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 80824.6,
-  "totalDistanceKm": 203832.7,
+  "observedWeeksKm": 80829.6,
+  "totalDistanceKm": 203837.7,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 219629.7
+    "totalWithEstimatesKm": 219634.7
   }
 }

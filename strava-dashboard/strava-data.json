@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T08:00:58.440Z",
+  "generatedAt": "2026-10-15T08:30:53.525Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 782029,
+    "remainingKm": 781990,
     "percentComplete": 21.8,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 5583.3,
-    "thisWeekActivities": 555,
-    "thisWeekHours": 478,
-    "thisWeekElevationM": 39217,
+    "thisWeekKm": 5621.9,
+    "thisWeekActivities": 560,
+    "thisWeekHours": 482,
+    "thisWeekElevationM": 39540,
     "timesAroundEarth": 5.44,
     "percentToMoon": 56.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17775,
+  "totalActivities": 17780,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 217971000,
-    "totalMovingTime": 61865387,
-    "totalElevation": 1590518.6
+    "totalDistance": 218009600,
+    "totalMovingTime": 61881767,
+    "totalElevation": 1590841.6
   },
   "monthStats": {
-    "totalDistance": 20520100,
-    "totalMovingTime": 5926740,
+    "totalDistance": 20558700,
+    "totalMovingTime": 5943120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5583300,
-    "totalMovingTime": 1719720,
-    "count": 555
+    "totalDistance": 5621900,
+    "totalMovingTime": 1736100,
+    "count": 560
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 202174,
+    "measuredDistanceKm": 202212.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20592172758",
+        "name": "Zwift - Everest 2",
+        "date": "October 15, 2026",
+        "distanceKm": 20,
+        "stats": [
+          "20.0 km",
+          "37:04",
+          "59 m"
+        ]
+      },
+      {
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20592292936",
+        "name": "Gewichtstraining am Morgen",
+        "date": "October 15, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "59:01",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -124,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20592166683",
+        "name": "Lauf am Morgen",
+        "date": "October 15, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "1:01:14",
+          "99 m"
+        ]
+      },
+      {
         "athlete": "David Rondon",
         "athleteId": "1002628",
         "activityId": "20591696990",
@@ -134,45 +173,6 @@
           "4.4 km",
           "14:22",
           "56 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20591471766",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 15, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "22:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20591196161",
-        "name": "Commute #118/2026 🏥🩺",
-        "date": "October 15, 2026",
-        "distanceKm": 9,
-        "stats": [
-          "9.0 km",
-          "20:19",
-          "39 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20591417054",
-        "name": "Spaziergang am Morgen",
-        "date": "October 15, 2026",
-        "distanceKm": 4.8,
-        "stats": [
-          "4.8 km",
-          "1:02:19",
-          "74 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 217971
+      "totalWithEstimatesKm": 218009.6
     }
   }
 }

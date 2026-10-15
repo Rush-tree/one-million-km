@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T04:00:56.129Z",
+  "generatedAt": "2026-10-15T04:30:45.378Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T04:00:56.128Z",
+  "memberCountUpdatedAt": "2026-10-15T04:30:45.378Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 525,
-    "distanceKm": 5395.3,
-    "elevationM": 37657,
-    "movingSeconds": 1654440,
+    "activities": 527,
+    "distanceKm": 5410.3,
+    "elevationM": 37676,
+    "movingSeconds": 1658760,
     "raw": {
-      "activities": "525",
-      "distance": "5,395.3 km",
-      "time": "459 h 34 m",
-      "elevation": "37,657 m"
+      "activities": "527",
+      "distance": "5,410.3 km",
+      "time": "460 h 46 m",
+      "elevation": "37,676 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20590810723",
+      "name": "Corsa mattutina",
+      "date": "October 15, 2026",
+      "distanceKm": 12.7,
+      "stats": [
+        "12.7 km",
+        "1:03:59",
+        "13 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -35,7 +48,7 @@
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20590550365",
-      "name": "Gravel",
+      "name": "Work",
       "date": "October 15, 2026",
       "distanceKm": 6.4,
       "stats": [
@@ -69,19 +82,6 @@
         "7:00",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20590317778",
-      "name": "OCTOBER MNG RIDE NO 15 🚵‍♂️",
-      "date": "October 15, 2026",
-      "distanceKm": 66.4,
-      "stats": [
-        "66.4 km",
-        "2:59:51",
-        "199 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 78977.9,
-  "totalDistanceKm": 201986,
+  "observedWeeksKm": 78992.9,
+  "totalDistanceKm": 202001,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 217783
+    "totalWithEstimatesKm": 217798
   }
 }

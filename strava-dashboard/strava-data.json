@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T04:00:56.129Z",
+  "generatedAt": "2026-10-15T04:30:45.378Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 782217,
+    "remainingKm": 782202,
     "percentComplete": 21.78,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 5395.3,
-    "thisWeekActivities": 525,
-    "thisWeekHours": 460,
-    "thisWeekElevationM": 37657,
+    "thisWeekKm": 5410.3,
+    "thisWeekActivities": 527,
+    "thisWeekHours": 461,
+    "thisWeekElevationM": 37676,
     "timesAroundEarth": 5.43,
     "percentToMoon": 56.7,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 32.7,
-        "text": "32.7× the length of the Nile",
+        "value": 32.8,
+        "text": "32.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17742,
+  "totalActivities": 17744,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 217783000,
-    "totalMovingTime": 61800107,
-    "totalElevation": 1588958.6
+    "totalDistance": 217798000,
+    "totalMovingTime": 61804427,
+    "totalElevation": 1588977.6
   },
   "monthStats": {
-    "totalDistance": 20332100,
-    "totalMovingTime": 5861460,
+    "totalDistance": 20347100,
+    "totalMovingTime": 5865780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5395300,
-    "totalMovingTime": 1654440,
-    "count": 525
+    "totalDistance": 5410300,
+    "totalMovingTime": 1658760,
+    "count": 527
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 201986,
+    "measuredDistanceKm": 202001,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20590810723",
+        "name": "Corsa mattutina",
+        "date": "October 15, 2026",
+        "distanceKm": 12.7,
+        "stats": [
+          "12.7 km",
+          "1:03:59",
+          "13 m"
+        ]
+      },
       {
         "athlete": "Susi Wong",
         "athleteId": "44756315",
@@ -127,7 +140,7 @@
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "20590550365",
-        "name": "Gravel",
+        "name": "Work",
         "date": "October 15, 2026",
         "distanceKm": 6.4,
         "stats": [
@@ -161,19 +174,6 @@
           "7:00",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20590317778",
-        "name": "OCTOBER MNG RIDE NO 15 🚵‍♂️",
-        "date": "October 15, 2026",
-        "distanceKm": 66.4,
-        "stats": [
-          "66.4 km",
-          "2:59:51",
-          "199 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 217783
+      "totalWithEstimatesKm": 217798
     }
   }
 }

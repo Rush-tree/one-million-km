@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T05:00:54.555Z",
+  "generatedAt": "2026-10-15T05:30:47.886Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T05:00:54.555Z",
+  "memberCountUpdatedAt": "2026-10-15T05:30:47.886Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 535,
-    "distanceKm": 5436.6,
-    "elevationM": 37761,
-    "movingSeconds": 1668780,
+    "activities": 537,
+    "distanceKm": 5459.2,
+    "elevationM": 37999,
+    "movingSeconds": 1674180,
     "raw": {
-      "activities": "535",
-      "distance": "5,436.6 km",
-      "time": "463 h 33 m",
-      "elevation": "37,761 m"
+      "activities": "537",
+      "distance": "5,459.2 km",
+      "time": "465 h 3 m",
+      "elevation": "37,999 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20590970604",
+      "name": "Allenamento mattutino",
+      "date": "October 15, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "20:21",
+        "0 m"
+      ]
+    },
     {
       "athlete": "André Brune",
       "athleteId": "4536289",
@@ -69,19 +82,6 @@
         "1:03:59",
         "13 m"
       ]
-    },
-    {
-      "athlete": "Louis Mwanja",
-      "athleteId": "14992965",
-      "activityId": "20590895871",
-      "name": "Gym Day 27",
-      "date": "October 15, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "45:55",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 79019.2,
-  "totalDistanceKm": 202027.3,
+  "observedWeeksKm": 79041.8,
+  "totalDistanceKm": 202049.9,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 217824.3
+    "totalWithEstimatesKm": 217846.9
   }
 }

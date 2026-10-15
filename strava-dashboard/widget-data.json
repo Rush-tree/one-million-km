@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T03:00:58.111Z",
+  "generatedAt": "2026-10-15T03:30:45.422Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T03:00:58.111Z",
+  "memberCountUpdatedAt": "2026-10-15T03:30:45.422Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 522,
-    "distanceKm": 5388.9,
-    "elevationM": 37636,
-    "movingSeconds": 1652160,
+    "activities": 523,
+    "distanceKm": 5395.3,
+    "elevationM": 37657,
+    "movingSeconds": 1653060,
     "raw": {
-      "activities": "522",
-      "distance": "5,388.9 km",
-      "time": "458 h 56 m",
-      "elevation": "37,636 m"
+      "activities": "523",
+      "distance": "5,395.3 km",
+      "time": "459 h 11 m",
+      "elevation": "37,657 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20590550365",
+      "name": "Gravel",
+      "date": "October 15, 2026",
+      "distanceKm": 6.4,
+      "stats": [
+        "6.4 km",
+        "16:13",
+        "21 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "20588274083",
-      "name": "Pedalada ao entardecer",
-      "date": "October 14, 2026",
-      "distanceKm": 5.6,
-      "stats": [
-        "5.6 km",
-        "21:29",
-        "65 m"
-      ]
-    },
-    {
       "athlete": "Muhammed Edip KARABACAK 🇹🇷",
       "athleteId": "47897742",
       "activityId": "20588501102",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 78971.5,
-  "totalDistanceKm": 201979.6,
+  "observedWeeksKm": 78977.9,
+  "totalDistanceKm": 201986,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 217776.6
+    "totalWithEstimatesKm": 217783
   }
 }

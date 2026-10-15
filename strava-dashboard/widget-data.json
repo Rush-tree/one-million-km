@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T17:13:22.636Z",
+  "generatedAt": "2026-10-15T17:30:49.314Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T17:13:22.636Z",
+  "memberCountUpdatedAt": "2026-10-15T17:30:49.314Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 666,
-    "distanceKm": 6868.7,
-    "elevationM": 50097,
-    "movingSeconds": 2104260,
+    "activities": 670,
+    "distanceKm": 6907.7,
+    "elevationM": 50546,
+    "movingSeconds": 2116380,
     "raw": {
-      "activities": "666",
-      "distance": "6,868.7 km",
-      "time": "584 h 31 m",
-      "elevation": "50,097 m"
+      "activities": "670",
+      "distance": "6,907.7 km",
+      "time": "587 h 53 m",
+      "elevation": "50,546 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Birgit Marco",
+      "athleteId": "63425596",
+      "activityId": "20598698351",
+      "name": "Yoga am Abend",
+      "date": "October 15, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "27:58",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Norick Maurer",
       "athleteId": "107445415",
@@ -45,32 +58,6 @@
       ]
     },
     {
-      "athlete": "Luka M",
-      "athleteId": "33218706",
-      "activityId": "20597944484",
-      "name": "Afternoon Run",
-      "date": "October 15, 2026",
-      "distanceKm": 10.2,
-      "stats": [
-        "10.2 km",
-        "1:00:45",
-        "36 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice Clausse",
-      "athleteId": "162101062",
-      "activityId": "20597884738",
-      "name": "Marche dans l'après-midi",
-      "date": "October 15, 2026",
-      "distanceKm": 6,
-      "stats": [
-        "6.0 km",
-        "1:14:46",
-        "22 m"
-      ]
-    },
-    {
       "athlete": "Hans-Georg Acker ♣",
       "athleteId": "34456629",
       "activityId": "20598078442",
@@ -82,6 +69,19 @@
         "2:45:52",
         "421 m"
       ]
+    },
+    {
+      "athlete": "Nico Hoßfeld",
+      "athleteId": "177308499",
+      "activityId": "20598570800",
+      "name": "Abendschwimmen",
+      "date": "October 15, 2026",
+      "distanceKm": 1.5,
+      "stats": [
+        "1.5 km",
+        "50:05",
+        "0 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 80451.3,
-  "totalDistanceKm": 203459.4,
+  "observedWeeksKm": 80490.3,
+  "totalDistanceKm": 203498.4,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 219256.4
+    "totalWithEstimatesKm": 219295.4
   }
 }

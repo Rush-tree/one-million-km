@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T13:01:02.893Z",
+  "generatedAt": "2026-10-15T13:30:50.555Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 781628,
-    "percentComplete": 21.84,
+    "remainingKm": 781507,
+    "percentComplete": 21.85,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,17 +13,17 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 5984.7,
-    "thisWeekActivities": 589,
-    "thisWeekHours": 510,
-    "thisWeekElevationM": 43132,
+    "thisWeekKm": 6105.8,
+    "thisWeekActivities": 594,
+    "thisWeekHours": 517,
+    "thisWeekElevationM": 43986,
     "timesAroundEarth": 5.45,
     "percentToMoon": 56.8,
     "comparisons": [
       {
         "key": "equator",
-        "value": 5.4,
-        "text": "5.4× around the equator",
+        "value": 5.5,
+        "text": "5.5× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 32.8,
-        "text": "32.8× the length of the Nile",
+        "value": 32.9,
+        "text": "32.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 16.5,
-        "text": "16.5× the German autobahn network",
+        "value": 16.6,
+        "text": "16.6× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17810,
+  "totalActivities": 17814,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 218372400,
-    "totalMovingTime": 61980707,
-    "totalElevation": 1594433.6
+    "totalDistance": 218493500,
+    "totalMovingTime": 62006867,
+    "totalElevation": 1595287.6
   },
   "monthStats": {
-    "totalDistance": 20921500,
-    "totalMovingTime": 6042060,
+    "totalDistance": 21042600,
+    "totalMovingTime": 6068220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5984700,
-    "totalMovingTime": 1835040,
-    "count": 589
+    "totalDistance": 6105800,
+    "totalMovingTime": 1861200,
+    "count": 594
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 202575.4,
+    "measuredDistanceKm": 202696.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "2.0 km",
           "45:26",
           "9 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20595497439",
+        "name": "Puma am Nachmittag",
+        "date": "October 15, 2026",
+        "distanceKm": 22,
+        "stats": [
+          "22.0 km",
+          "1:53:09",
+          "178 m"
         ]
       },
       {
@@ -147,19 +160,6 @@
           "2.0 km",
           "44:46",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20593425073",
-        "name": "Lunch Ride",
-        "date": "October 15, 2026",
-        "distanceKm": 5.2,
-        "stats": [
-          "5.2 km",
-          "24:49",
-          "45 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 218372.4
+      "totalWithEstimatesKm": 218493.5
     }
   }
 }

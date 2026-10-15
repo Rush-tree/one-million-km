@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-15T10:30:52.485Z",
+  "generatedAt": "2026-10-15T11:01:02.136Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T10:30:52.485Z",
+  "memberCountUpdatedAt": "2026-10-15T11:01:02.136Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 580,
-    "distanceKm": 5863.5,
-    "elevationM": 41759,
-    "movingSeconds": 1802220,
+    "activities": 582,
+    "distanceKm": 5911.4,
+    "elevationM": 42434,
+    "movingSeconds": 1808820,
     "raw": {
-      "activities": "580",
-      "distance": "5,863.5 km",
-      "time": "500 h 37 m",
-      "elevation": "41,759 m"
+      "activities": "582",
+      "distance": "5,911.4 km",
+      "time": "502 h 27 m",
+      "elevation": "42,434 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Manfred H",
+      "athleteId": "85517467",
+      "activityId": "20593425073",
+      "name": "Lunch Ride",
+      "date": "October 15, 2026",
+      "distanceKm": 5.2,
+      "stats": [
+        "5.2 km",
+        "24:49",
+        "45 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -32,29 +45,16 @@
       ]
     },
     {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20592811082",
-      "name": "Intersites ✈️<<<🚴‍♀️>>>👔 Ride",
+      "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+      "athleteId": "129712916",
+      "activityId": "20593694681",
+      "name": "Mittagsradfahrt",
       "date": "October 15, 2026",
-      "distanceKm": 3.4,
+      "distanceKm": 42.6,
       "stats": [
-        "3.4 km",
-        "15:52",
-        "10 m"
-      ]
-    },
-    {
-      "athlete": "Reynaldo Guerra",
-      "athleteId": "59804669",
-      "activityId": "20592777242",
-      "name": "Pedalada matinal",
-      "date": "October 15, 2026",
-      "distanceKm": 3.2,
-      "stats": [
-        "3.2 km",
-        "42:13",
-        "4 m"
+        "42.6 km",
+        "1:30:04",
+        "630 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 79446.1,
-  "totalDistanceKm": 202454.2,
+  "observedWeeksKm": 79494,
+  "totalDistanceKm": 202502.1,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 218251.2
+    "totalWithEstimatesKm": 218299.1
   }
 }

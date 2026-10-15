@@ -1,23 +1,75 @@
 {
-  "generatedAt": "2026-10-15T14:01:02.026Z",
+  "generatedAt": "2026-10-15T14:31:06.513Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-15T14:01:02.025Z",
+  "memberCountUpdatedAt": "2026-10-15T14:31:06.513Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 597,
-    "distanceKm": 6121.5,
-    "elevationM": 44046,
-    "movingSeconds": 1872120,
+    "activities": 606,
+    "distanceKm": 6167.5,
+    "elevationM": 44373,
+    "movingSeconds": 1894440,
     "raw": {
-      "activities": "597",
-      "distance": "6,121.5 km",
-      "time": "520 h 2 m",
-      "elevation": "44,046 m"
+      "activities": "606",
+      "distance": "6,167.5 km",
+      "time": "526 h 14 m",
+      "elevation": "44,373 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20596285277",
+      "name": "Afternoon Walk",
+      "date": "October 15, 2026",
+      "distanceKm": 1.6,
+      "stats": [
+        "1.6 km",
+        "30:15",
+        "8 m"
+      ]
+    },
+    {
+      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+      "athleteId": "47897742",
+      "activityId": "20596275163",
+      "name": "Öğleden Sonra Yürüyüş",
+      "date": "October 15, 2026",
+      "distanceKm": 4,
+      "stats": [
+        "4.0 km",
+        "1:06:00",
+        "52 m"
+      ]
+    },
+    {
+      "athlete": "Marcel Gehrer",
+      "athleteId": "135991683",
+      "activityId": "20596188726",
+      "name": "4 x 2km Schwelle",
+      "date": "October 15, 2026",
+      "distanceKm": 11.9,
+      "stats": [
+        "11.9 km",
+        "1:12:52",
+        "18 m"
+      ]
+    },
+    {
+      "athlete": "Birgit Marco",
+      "athleteId": "63425596",
+      "activityId": "20595984077",
+      "name": "Spaziergang am Nachmittag",
+      "date": "October 15, 2026",
+      "distanceKm": 7.4,
+      "stats": [
+        "7.4 km",
+        "1:49:21",
+        "229 m"
+      ]
+    },
     {
       "athlete": "Brad Miyasato",
       "athleteId": "53406668",
@@ -30,58 +82,6 @@
         "1:50:42",
         "38 m"
       ]
-    },
-    {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "20594454347",
-      "name": "Camminata pomeridiana",
-      "date": "October 15, 2026",
-      "distanceKm": 2,
-      "stats": [
-        "2.0 km",
-        "45:26",
-        "9 m"
-      ]
-    },
-    {
-      "athlete": "Alex 3R",
-      "athleteId": "89054684",
-      "activityId": "20595497439",
-      "name": "Puma am Nachmittag",
-      "date": "October 15, 2026",
-      "distanceKm": 22,
-      "stats": [
-        "22.0 km",
-        "1:53:09",
-        "178 m"
-      ]
-    },
-    {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20594946892",
-      "name": "Mittagspaziergang",
-      "date": "October 15, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "1:33:45",
-        "180 m"
-      ]
-    },
-    {
-      "athlete": "Alfonso Contreras Calderón",
-      "athleteId": "123434994",
-      "activityId": "20593800981",
-      "name": "Natación a la hora del almuerzo",
-      "date": "October 15, 2026",
-      "distanceKm": 2,
-      "stats": [
-        "2.0 km",
-        "44:46",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 79704.1,
-  "totalDistanceKm": 202712.2,
+  "observedWeeksKm": 79750.1,
+  "totalDistanceKm": 202758.2,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 218509.2
+    "totalWithEstimatesKm": 218555.2
   }
 }

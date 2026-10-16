@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T07:30:51.064Z",
+  "generatedAt": "2026-10-16T08:00:58.697Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 780041,
+    "remainingKm": 780025,
     "percentComplete": 22,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 7571.6,
-    "thisWeekActivities": 745,
-    "thisWeekHours": 646,
-    "thisWeekElevationM": 54297,
+    "thisWeekKm": 7587.3,
+    "thisWeekActivities": 748,
+    "thisWeekHours": 648,
+    "thisWeekElevationM": 54388,
     "timesAroundEarth": 5.49,
     "percentToMoon": 57.2,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 34.4,
-        "text": "34.4 return trips Berlin to New York",
+        "value": 34.5,
+        "text": "34.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17973,
+  "totalActivities": 17976,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 219959300,
-    "totalMovingTime": 62470007,
-    "totalElevation": 1605598.6
+    "totalDistance": 219975000,
+    "totalMovingTime": 62477207,
+    "totalElevation": 1605689.6
   },
   "monthStats": {
-    "totalDistance": 22508400,
-    "totalMovingTime": 6531360,
+    "totalDistance": 22524100,
+    "totalMovingTime": 6538560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7571600,
-    "totalMovingTime": 2324340,
-    "count": 745
+    "totalDistance": 7587300,
+    "totalMovingTime": 2331540,
+    "count": 748
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 204162.3,
+    "measuredDistanceKm": 204178,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20605323805",
+        "name": "Fahrt am Morgen",
+        "date": "October 16, 2026",
+        "distanceKm": 3.1,
+        "stats": [
+          "3.1 km",
+          "16:50",
+          "40 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20605339001",
+        "name": "Entrenamiento con pesas matutino",
+        "date": "October 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "35:48",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Agata Borovska",
-        "athleteId": "129470144",
-        "activityId": "20604820506",
-        "name": "Eaay morning run",
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20605255548",
+        "name": "Herbstlauf (mystisch)",
         "date": "October 16, 2026",
-        "distanceKm": 5.6,
+        "distanceKm": 12.5,
         "stats": [
-          "5.6 km",
-          "45:24",
-          "9 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20604779553",
-        "name": "Morgenausfahrt",
-        "date": "October 16, 2026",
-        "distanceKm": 21.8,
-        "stats": [
-          "21.8 km",
-          "52:42",
-          "24 m"
+          "12.5 km",
+          "1:09:41",
+          "50 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "0.6 km",
           "2:20",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20604823034",
-        "name": "Lunch Ride",
-        "date": "October 16, 2026",
-        "distanceKm": 0.6,
-        "stats": [
-          "0.6 km",
-          "9:34",
-          "25 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 219959.3
+      "totalWithEstimatesKm": 219975
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-16T09:30:48.886Z",
+  "generatedAt": "2026-10-16T10:01:02.391Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-16T09:30:48.886Z",
+  "memberCountUpdatedAt": "2026-10-16T10:01:02.391Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 755,
-    "distanceKm": 7698.4,
-    "elevationM": 55126,
-    "movingSeconds": 2352180,
+    "activities": 756,
+    "distanceKm": 7702.8,
+    "elevationM": 55135,
+    "movingSeconds": 2353140,
     "raw": {
-      "activities": "755",
-      "distance": "7,698.4 km",
-      "time": "653 h 23 m",
-      "elevation": "55,126 m"
+      "activities": "756",
+      "distance": "7,702.8 km",
+      "time": "653 h 39 m",
+      "elevation": "55,135 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "20606045054",
+      "name": "Fahrt am Morgen",
+      "date": "October 16, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "39:25",
+        "9 m"
+      ]
+    },
     {
       "athlete": "Reynaldo Guerra",
       "athleteId": "59804669",
@@ -29,19 +42,6 @@
         "0 km",
         "43:34",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Herbert Tüns",
-      "athleteId": "42803858",
-      "activityId": "20605323805",
-      "name": "Fahrt am Morgen",
-      "date": "October 16, 2026",
-      "distanceKm": 3.1,
-      "stats": [
-        "3.1 km",
-        "16:50",
-        "40 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 81281,
-  "totalDistanceKm": 204289.1,
+  "observedWeeksKm": 81285.4,
+  "totalDistanceKm": 204293.5,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 220086.1
+    "totalWithEstimatesKm": 220090.5
   }
 }

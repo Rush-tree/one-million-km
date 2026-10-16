@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-16T05:01:01.260Z",
+  "generatedAt": "2026-10-16T05:30:48.495Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-16T05:01:01.260Z",
+  "memberCountUpdatedAt": "2026-10-16T05:30:48.495Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 726,
-    "distanceKm": 7451.5,
-    "elevationM": 53463,
-    "movingSeconds": 2280840,
+    "activities": 729,
+    "distanceKm": 7484,
+    "elevationM": 53823,
+    "movingSeconds": 2290380,
     "raw": {
-      "activities": "726",
-      "distance": "7,451.5 km",
-      "time": "633 h 34 m",
-      "elevation": "53,463 m"
+      "activities": "729",
+      "distance": "7,484.0 km",
+      "time": "636 h 13 m",
+      "elevation": "53,823 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20604316143",
+      "name": "Gravel",
+      "date": "October 16, 2026",
+      "distanceKm": 3.5,
+      "stats": [
+        "3.5 km",
+        "11:59",
+        "19 m"
+      ]
+    },
     {
       "athlete": "André Brune",
       "athleteId": "4536289",
@@ -32,6 +45,19 @@
       ]
     },
     {
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20604342495",
+      "name": "Morning Walk",
+      "date": "October 16, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "1:18:01",
+        "103 m"
+      ]
+    },
+    {
       "athlete": "siavash Akbari",
       "athleteId": "56213794",
       "activityId": "20604042858",
@@ -42,32 +68,6 @@
         "5.1 km",
         "35:06",
         "70 m"
-      ]
-    },
-    {
-      "athlete": "siavash Akbari",
-      "athleteId": "56213794",
-      "activityId": "20603888234",
-      "name": "Walking - October 2026 - Enghelab complex 🌞🚶🕊",
-      "date": "October 16, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "11:21",
-        "23 m"
-      ]
-    },
-    {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20603970076",
-      "name": "Yoga am Morgen",
-      "date": "October 16, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "17:22",
-        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 81034.1,
-  "totalDistanceKm": 204042.2,
+  "observedWeeksKm": 81066.6,
+  "totalDistanceKm": 204074.7,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 219839.2
+    "totalWithEstimatesKm": 219871.7
   }
 }

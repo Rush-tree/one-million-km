@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T11:01:01.409Z",
+  "generatedAt": "2026-10-16T11:30:48.375Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 779823,
-    "percentComplete": 22.02,
+    "remainingKm": 779658,
+    "percentComplete": 22.03,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 7789.3,
-    "thisWeekActivities": 765,
-    "thisWeekHours": 662,
-    "thisWeekElevationM": 55702,
-    "timesAroundEarth": 5.49,
+    "thisWeekKm": 7954.5,
+    "thisWeekActivities": 770,
+    "thisWeekHours": 671,
+    "thisWeekElevationM": 57849,
+    "timesAroundEarth": 5.5,
     "percentToMoon": 57.3,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17994,
+  "totalActivities": 17997,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 220177000,
-    "totalMovingTime": 62529347,
-    "totalElevation": 1607003.6
+    "totalDistance": 220342200,
+    "totalMovingTime": 62559707,
+    "totalElevation": 1609150.6
   },
   "monthStats": {
-    "totalDistance": 22726100,
-    "totalMovingTime": 6590700,
+    "totalDistance": 22891300,
+    "totalMovingTime": 6621060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7789300,
-    "totalMovingTime": 2383680,
-    "count": 765
+    "totalDistance": 7954500,
+    "totalMovingTime": 2414040,
+    "count": 770
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 204380,
+    "measuredDistanceKm": 204545.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20607062103",
+        "name": "Gewichtstraining zur Mittagszeit",
+        "date": "October 16, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "40:21",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20606989027",
+        "name": "🏃‍♀️🌀",
+        "date": "October 16, 2026",
+        "distanceKm": 7.2,
+        "stats": [
+          "7.2 km",
+          "40:03",
+          "99 m"
+        ]
+      },
       {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20606383410",
-        "name": "Mittagslauf",
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20607078321",
+        "name": "Groupo La Zenia 3 - Fast Friday",
         "date": "October 16, 2026",
-        "distanceKm": 10,
+        "distanceKm": 102.9,
         "stats": [
-          "10.0 km",
-          "1:01:21",
-          "88 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20606045054",
-        "name": "Fahrt am Morgen",
-        "date": "October 16, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "39:25",
-          "9 m"
-        ]
-      },
-      {
-        "athlete": "Jenny Heitschötter",
-        "athleteId": "769523801",
-        "activityId": "20606361261",
-        "name": "Lauf am Morgen",
-        "date": "October 16, 2026",
-        "distanceKm": 21.1,
-        "stats": [
-          "21.1 km",
-          "2:08:11",
-          "105 m"
+          "102.9 km",
+          "3:50:50",
+          "458 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 220177
+      "totalWithEstimatesKm": 220342.2
     }
   }
 }

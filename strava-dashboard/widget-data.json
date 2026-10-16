@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-16T16:01:03.724Z",
+  "generatedAt": "2026-10-16T16:30:52.459Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-16T16:01:03.724Z",
+  "memberCountUpdatedAt": "2026-10-16T16:30:52.458Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 826,
-    "distanceKm": 8734.8,
-    "elevationM": 64164,
-    "movingSeconds": 2629920,
+    "activities": 832,
+    "distanceKm": 8766.7,
+    "elevationM": 64361,
+    "movingSeconds": 2642040,
     "raw": {
-      "activities": "826",
-      "distance": "8,734.8 km",
-      "time": "730 h 32 m",
-      "elevation": "64,164 m"
+      "activities": "832",
+      "distance": "8,766.7 km",
+      "time": "733 h 54 m",
+      "elevation": "64,361 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Thorsten Schamper",
+      "athleteId": "136616262",
+      "activityId": "20610463439",
+      "name": "Lauf am Nachmittag",
+      "date": "October 16, 2026",
+      "distanceKm": 4.1,
+      "stats": [
+        "4.1 km",
+        "26:15",
+        "44 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -29,6 +42,19 @@
         "1.5 km",
         "22:22",
         "60 m"
+      ]
+    },
+    {
+      "athlete": "Furansuwa B.",
+      "athleteId": "94754434",
+      "activityId": "20610617425",
+      "name": "Course à pied dans l'après-midi",
+      "date": "October 16, 2026",
+      "distanceKm": 10.1,
+      "stats": [
+        "10.1 km",
+        "1:03:07",
+        "68 m"
       ]
     },
     {
@@ -45,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "20610056511",
-      "name": "Pedalata pomeridiana",
-      "date": "October 16, 2026",
-      "distanceKm": 17.1,
-      "stats": [
-        "17.1 km",
-        "3:20:02",
-        "40 m"
-      ]
-    },
-    {
       "athlete": "# MarshmallowBen",
       "athleteId": "114783849",
       "activityId": "20610132965",
@@ -69,19 +82,6 @@
         "39:24",
         "15 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20610058034",
-      "name": "Fahrt am Nachmittag",
-      "date": "October 16, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "30:01",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 82317.4,
-  "totalDistanceKm": 205325.5,
+  "observedWeeksKm": 82349.3,
+  "totalDistanceKm": 205357.4,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 221122.5
+    "totalWithEstimatesKm": 221154.4
   }
 }

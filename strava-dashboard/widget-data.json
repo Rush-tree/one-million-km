@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-10-16T13:01:03.564Z",
+  "generatedAt": "2026-10-16T13:30:50.998Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-16T13:01:03.564Z",
+  "memberCountUpdatedAt": "2026-10-16T13:30:50.997Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 778,
-    "distanceKm": 8047.6,
-    "elevationM": 59167,
-    "movingSeconds": 2438760,
+    "activities": 783,
+    "distanceKm": 8166.3,
+    "elevationM": 60135,
+    "movingSeconds": 2459580,
     "raw": {
-      "activities": "778",
-      "distance": "8,047.6 km",
-      "time": "677 h 26 m",
-      "elevation": "59,167 m"
+      "activities": "783",
+      "distance": "8,166.3 km",
+      "time": "683 h 13 m",
+      "elevation": "60,135 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20608403173",
+      "name": "Afternoon Walk",
+      "date": "October 16, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "41:30",
+        "8 m"
+      ]
+    },
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "20608568117",
+      "name": "Zwift - Group Ride: Long - Stage 2 - Tour of Watopia 2026",
+      "date": "October 16, 2026",
+      "distanceKm": 52,
+      "stats": [
+        "52.0 km",
+        "1:20:22",
+        "360 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -56,32 +82,6 @@
         "17:00",
         "120 m"
       ]
-    },
-    {
-      "athlete": "Sascha Gebel",
-      "athleteId": "19964716",
-      "activityId": "20607062103",
-      "name": "Gewichtstraining zur Mittagszeit",
-      "date": "October 16, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "40:21",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20606923006",
-      "name": "Lunch Run",
-      "date": "October 16, 2026",
-      "distanceKm": 12,
-      "stats": [
-        "12.0 km",
-        "1:06:19",
-        "58 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 81630.2,
-  "totalDistanceKm": 204638.3,
+  "observedWeeksKm": 81748.9,
+  "totalDistanceKm": 204757,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 220435.3
+    "totalWithEstimatesKm": 220554
   }
 }

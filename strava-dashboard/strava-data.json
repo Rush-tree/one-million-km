@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T13:01:03.564Z",
+  "generatedAt": "2026-10-16T13:30:50.998Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 779565,
-    "percentComplete": 22.04,
+    "remainingKm": 779446,
+    "percentComplete": 22.06,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 8047.6,
-    "thisWeekActivities": 778,
-    "thisWeekHours": 677,
-    "thisWeekElevationM": 59167,
+    "thisWeekKm": 8166.3,
+    "thisWeekActivities": 783,
+    "thisWeekHours": 683,
+    "thisWeekElevationM": 60135,
     "timesAroundEarth": 5.5,
-    "percentToMoon": 57.3,
+    "percentToMoon": 57.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 57.3,
-        "text": "57.3% of the way to the Moon",
+        "value": 57.4,
+        "text": "57.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 33.1,
-        "text": "33.1× the length of the Nile",
+        "value": 33.2,
+        "text": "33.2× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18005,
+  "totalActivities": 18009,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 220435300,
-    "totalMovingTime": 62584427,
-    "totalElevation": 1610468.6
+    "totalDistance": 220554000,
+    "totalMovingTime": 62605247,
+    "totalElevation": 1611436.6
   },
   "monthStats": {
-    "totalDistance": 22984400,
-    "totalMovingTime": 6645780,
+    "totalDistance": 23103100,
+    "totalMovingTime": 6666600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8047600,
-    "totalMovingTime": 2438760,
-    "count": 778
+    "totalDistance": 8166300,
+    "totalMovingTime": 2459580,
+    "count": 783
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 204638.3,
+    "measuredDistanceKm": 204757,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20608403173",
+        "name": "Afternoon Walk",
+        "date": "October 16, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "41:30",
+          "8 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20608568117",
+        "name": "Zwift - Group Ride: Long - Stage 2 - Tour of Watopia 2026",
+        "date": "October 16, 2026",
+        "distanceKm": 52,
+        "stats": [
+          "52.0 km",
+          "1:20:22",
+          "360 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -148,32 +174,6 @@
           "17:00",
           "120 m"
         ]
-      },
-      {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20607062103",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "October 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "40:21",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20606923006",
-        "name": "Lunch Run",
-        "date": "October 16, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "1:06:19",
-          "58 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 220435.3
+      "totalWithEstimatesKm": 220554
     }
   }
 }

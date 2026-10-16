@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T07:23:40.533Z",
+  "generatedAt": "2026-10-16T07:30:51.064Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,7 +13,7 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 7571.5,
+    "thisWeekKm": 7571.6,
     "thisWeekActivities": 745,
     "thisWeekHours": 646,
     "thisWeekElevationM": 54297,
@@ -70,17 +70,17 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 219959200,
+    "totalDistance": 219959300,
     "totalMovingTime": 62470007,
     "totalElevation": 1605598.6
   },
   "monthStats": {
-    "totalDistance": 22508300,
+    "totalDistance": 22508400,
     "totalMovingTime": 6531360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7571500,
+    "totalDistance": 7571600,
     "totalMovingTime": 2324340,
     "count": 745
   },
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 204162.2,
+    "measuredDistanceKm": 204162.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 219959.2
+      "totalWithEstimatesKm": 219959.3
     }
   }
 }

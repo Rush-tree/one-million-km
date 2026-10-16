@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-16T10:01:02.391Z",
+  "generatedAt": "2026-10-16T10:30:50.318Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-16T10:01:02.391Z",
+  "memberCountUpdatedAt": "2026-10-16T10:30:50.317Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 756,
-    "distanceKm": 7702.8,
-    "elevationM": 55135,
-    "movingSeconds": 2353140,
+    "activities": 760,
+    "distanceKm": 7749.8,
+    "elevationM": 55479,
+    "movingSeconds": 2370420,
     "raw": {
-      "activities": "756",
-      "distance": "7,702.8 km",
-      "time": "653 h 39 m",
-      "elevation": "55,135 m"
+      "activities": "760",
+      "distance": "7,749.8 km",
+      "time": "658 h 27 m",
+      "elevation": "55,479 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Marisa Funk",
+      "athleteId": "157343980",
+      "activityId": "20606383410",
+      "name": "Mittagslauf",
+      "date": "October 16, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:01:21",
+        "88 m"
+      ]
+    },
     {
       "athlete": "Herbert Tüns",
       "athleteId": "42803858",
@@ -45,16 +58,16 @@
       ]
     },
     {
-      "athlete": "Mangala Pai",
-      "athleteId": "118301293",
-      "activityId": "20605768735",
-      "name": "Lunch Walk",
+      "athlete": "Jenny Heitschötter",
+      "athleteId": "769523801",
+      "activityId": "20606361261",
+      "name": "Lauf am Morgen",
       "date": "October 16, 2026",
-      "distanceKm": 1,
+      "distanceKm": 21.1,
       "stats": [
-        "1.0 km",
-        "1:15:52",
-        "7 m"
+        "21.1 km",
+        "2:08:11",
+        "105 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "1:31:39",
         "163 m"
       ]
-    },
-    {
-      "athlete": "Alfonso Contreras Calderón",
-      "athleteId": "123434994",
-      "activityId": "20605339001",
-      "name": "Entrenamiento con pesas matutino",
-      "date": "October 16, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "35:48",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 81285.4,
-  "totalDistanceKm": 204293.5,
+  "observedWeeksKm": 81332.4,
+  "totalDistanceKm": 204340.5,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 220090.5
+    "totalWithEstimatesKm": 220137.5
   }
 }

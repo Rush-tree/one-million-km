@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T10:01:02.391Z",
+  "generatedAt": "2026-10-16T10:30:50.318Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 779910,
+    "remainingKm": 779863,
     "percentComplete": 22.01,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 7702.8,
-    "thisWeekActivities": 756,
-    "thisWeekHours": 654,
-    "thisWeekElevationM": 55135,
+    "thisWeekKm": 7749.8,
+    "thisWeekActivities": 760,
+    "thisWeekHours": 658,
+    "thisWeekElevationM": 55479,
     "timesAroundEarth": 5.49,
     "percentToMoon": 57.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 17984,
+  "totalActivities": 17988,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 220090500,
-    "totalMovingTime": 62498807,
-    "totalElevation": 1606436.6
+    "totalDistance": 220137500,
+    "totalMovingTime": 62516087,
+    "totalElevation": 1606780.6
   },
   "monthStats": {
-    "totalDistance": 22639600,
-    "totalMovingTime": 6560160,
+    "totalDistance": 22686600,
+    "totalMovingTime": 6577440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7702800,
-    "totalMovingTime": 2353140,
-    "count": 756
+    "totalDistance": 7749800,
+    "totalMovingTime": 2370420,
+    "count": 760
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 204293.5,
+    "measuredDistanceKm": 204340.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Marisa Funk",
+        "athleteId": "157343980",
+        "activityId": "20606383410",
+        "name": "Mittagslauf",
+        "date": "October 16, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:01:21",
+          "88 m"
+        ]
+      },
       {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
@@ -137,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20605768735",
-        "name": "Lunch Walk",
+        "athlete": "Jenny Heitschötter",
+        "athleteId": "769523801",
+        "activityId": "20606361261",
+        "name": "Lauf am Morgen",
         "date": "October 16, 2026",
-        "distanceKm": 1,
+        "distanceKm": 21.1,
         "stats": [
-          "1.0 km",
-          "1:15:52",
-          "7 m"
+          "21.1 km",
+          "2:08:11",
+          "105 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "43.1 km",
           "1:31:39",
           "163 m"
-        ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20605339001",
-        "name": "Entrenamiento con pesas matutino",
-        "date": "October 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "35:48",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 220090.5
+      "totalWithEstimatesKm": 220137.5
     }
   }
 }

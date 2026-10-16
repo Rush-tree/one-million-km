@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T17:01:00.498Z",
+  "generatedAt": "2026-10-16T17:30:47.038Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 778753,
-    "percentComplete": 22.12,
+    "remainingKm": 778664,
+    "percentComplete": 22.13,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 8859.7,
-    "thisWeekActivities": 837,
-    "thisWeekHours": 739,
-    "thisWeekElevationM": 64722,
+    "thisWeekKm": 8948.4,
+    "thisWeekActivities": 842,
+    "thisWeekHours": 745,
+    "thisWeekElevationM": 65602,
     "timesAroundEarth": 5.52,
     "percentToMoon": 57.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18064,
+  "totalActivities": 18068,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 221247400,
-    "totalMovingTime": 62807807,
-    "totalElevation": 1616023.6
+    "totalDistance": 221336100,
+    "totalMovingTime": 62827067,
+    "totalElevation": 1616903.6
   },
   "monthStats": {
-    "totalDistance": 23796500,
-    "totalMovingTime": 6869160,
+    "totalDistance": 23885200,
+    "totalMovingTime": 6888420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8859700,
-    "totalMovingTime": 2662140,
-    "count": 837
+    "totalDistance": 8948400,
+    "totalMovingTime": 2681400,
+    "count": 842
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 205450.4,
+    "measuredDistanceKm": 205539.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20611078082",
-        "name": "Schwimmen am Nachmittag",
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20611176754",
+        "name": "Traillauf am Abend",
         "date": "October 16, 2026",
-        "distanceKm": 2.1,
+        "distanceKm": 6.3,
         "stats": [
-          "2.1 km",
-          "50:36",
-          "0 m"
+          "6.3 km",
+          "33:13",
+          "53 m"
+        ]
+      },
+      {
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20611413281",
+        "name": "GA1",
+        "date": "October 16, 2026",
+        "distanceKm": 15.6,
+        "stats": [
+          "15.6 km",
+          "1:41:09",
+          "139 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20610617425",
-        "name": "Course à pied dans l'après-midi",
+        "athlete": "Hans-Georg Acker ♣",
+        "athleteId": "34456629",
+        "activityId": "20611171706",
+        "name": "RR Kurz und schön 🍁♣️🌞",
         "date": "October 16, 2026",
-        "distanceKm": 10.1,
+        "distanceKm": 59.6,
         "stats": [
-          "10.1 km",
-          "1:03:07",
-          "68 m"
+          "59.6 km",
+          "3:05:55",
+          "565 m"
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20610996496",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20611382016",
+        "name": "Afternoon Ride",
         "date": "October 16, 2026",
-        "distanceKm": 45.4,
+        "distanceKm": 7,
         "stats": [
-          "45.4 km",
-          "1:45:27",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20610908319",
-        "name": "Popołudniowy trening siłowy",
-        "date": "October 16, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:45:20",
-          "0 m"
+          "7.0 km",
+          "5:47:50",
+          "117 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 221247.4
+      "totalWithEstimatesKm": 221336.1
     }
   }
 }

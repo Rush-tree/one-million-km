@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-17T12:00:56.901Z",
+  "generatedAt": "2026-10-17T12:30:47.912Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-17T12:00:56.901Z",
+  "memberCountUpdatedAt": "2026-10-17T12:30:47.912Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 949,
-    "distanceKm": 10081.9,
-    "elevationM": 74099,
-    "movingSeconds": 3015000,
+    "activities": 952,
+    "distanceKm": 10091.3,
+    "elevationM": 74144,
+    "movingSeconds": 3022500,
     "raw": {
-      "activities": "949",
-      "distance": "10,081.9 km",
-      "time": "837 h 30 m",
-      "elevation": "74,099 m"
+      "activities": "952",
+      "distance": "10,091.3 km",
+      "time": "839 h 35 m",
+      "elevation": "74,144 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20620704666",
+      "name": "Lunch Workout",
+      "date": "October 17, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "50:02",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -45,29 +58,16 @@
       ]
     },
     {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20620070635",
-      "name": "Lunch Ride",
+      "athlete": "Luka M",
+      "athleteId": "33218706",
+      "activityId": "20620463976",
+      "name": "Schöne Samsdaach 🫡",
       "date": "October 17, 2026",
-      "distanceKm": 6.8,
+      "distanceKm": 14,
       "stats": [
-        "6.8 km",
-        "31:31",
-        "69 m"
-      ]
-    },
-    {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20619847759",
-      "name": "Mittagslauf",
-      "date": "October 17, 2026",
-      "distanceKm": 11.1,
-      "stats": [
-        "11.1 km",
-        "1:21:51",
-        "30 m"
+        "14.0 km",
+        "1:10:30",
+        "66 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 83664.5,
-  "totalDistanceKm": 206672.6,
+  "observedWeeksKm": 83673.9,
+  "totalDistanceKm": 206682,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 222469.6
+    "totalWithEstimatesKm": 222479
   }
 }

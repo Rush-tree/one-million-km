@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T06:30:46.180Z",
+  "generatedAt": "2026-10-17T07:00:56.653Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 778331,
+    "remainingKm": 778278,
     "percentComplete": 22.17,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 9281.7,
-    "thisWeekActivities": 884,
-    "thisWeekHours": 778,
-    "thisWeekElevationM": 67714,
+    "thisWeekKm": 9334.8,
+    "thisWeekActivities": 888,
+    "thisWeekHours": 781,
+    "thisWeekElevationM": 68107,
     "timesAroundEarth": 5.53,
     "percentToMoon": 57.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18114,
+  "totalActivities": 18118,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 221669400,
-    "totalMovingTime": 62946407,
-    "totalElevation": 1619015.6
+    "totalDistance": 221722500,
+    "totalMovingTime": 62955587,
+    "totalElevation": 1619408.6
   },
   "monthStats": {
-    "totalDistance": 24218500,
-    "totalMovingTime": 7007760,
+    "totalDistance": 24271600,
+    "totalMovingTime": 7016940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9281700,
-    "totalMovingTime": 2800740,
-    "count": 884
+    "totalDistance": 9334800,
+    "totalMovingTime": 2809920,
+    "count": 888
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 205872.4,
+    "measuredDistanceKm": 205925.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20616506379",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20616747395",
+        "name": "Zwift - Beach Island Loop in Watopia",
         "date": "October 17, 2026",
-        "distanceKm": 0,
+        "distanceKm": 13,
         "stats": [
-          "0 km",
-          "8:27",
+          "13.0 km",
+          "21:34",
+          "48 m"
+        ]
+      },
+      {
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20616702799",
+        "name": "Morning Run",
+        "date": "October 17, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "35:18",
           "0 m"
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20616233586",
-        "name": "Frühstücks-Service",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20616609792",
+        "name": "Zwift - Group Ride: Short - Stage 2 - Tour of Watopia 2026",
         "date": "October 17, 2026",
-        "distanceKm": 3.5,
+        "distanceKm": 24.4,
         "stats": [
-          "3.5 km",
-          "11:45",
-          "20 m"
+          "24.4 km",
+          "36:43",
+          "65 m"
         ]
       },
       {
@@ -146,19 +159,6 @@
         "stats": [
           "0 km",
           "42:37",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20616079009",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "16:21",
           "0 m"
         ]
       },
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 221669.4
+      "totalWithEstimatesKm": 221722.5
     }
   }
 }

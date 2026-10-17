@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T14:30:47.248Z",
+  "generatedAt": "2026-10-17T15:00:58.685Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 777224,
+    "remainingKm": 777155,
     "percentComplete": 22.28,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10388.3,
-    "thisWeekActivities": 974,
-    "thisWeekHours": 866,
-    "thisWeekElevationM": 78117,
+    "thisWeekKm": 10457.3,
+    "thisWeekActivities": 978,
+    "thisWeekHours": 870,
+    "thisWeekElevationM": 78598,
     "timesAroundEarth": 5.56,
     "percentToMoon": 58,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18205,
+  "totalActivities": 18209,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 222776000,
-    "totalMovingTime": 63264167,
-    "totalElevation": 1629418.6
+    "totalDistance": 222845000,
+    "totalMovingTime": 63276947,
+    "totalElevation": 1629899.6
   },
   "monthStats": {
-    "totalDistance": 25325100,
-    "totalMovingTime": 7325520,
+    "totalDistance": 25394100,
+    "totalMovingTime": 7338300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10388300,
-    "totalMovingTime": 3118500,
-    "count": 974
+    "totalDistance": 10457300,
+    "totalMovingTime": 3131280,
+    "count": 978
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 206979,
+    "measuredDistanceKm": 207048,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20622950577",
+        "name": "Zwift - Climb Portal: Côte des Forche at 100% Elevation in France",
+        "date": "October 17, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "30:47",
+          "163 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20622848880",
+        "name": "Zwift - Garmin UNBOUND Gravel Training Plan | Chase the Chaise",
+        "date": "October 17, 2026",
+        "distanceKm": 18,
+        "stats": [
+          "18.0 km",
+          "43:43",
+          "154 m"
+        ]
+      },
       {
         "athlete": "Nujaim Noorahdheen",
         "athleteId": "191343444",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20622193636",
-        "name": "Course à pied dans l'après-midi",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20622947950",
+        "name": "Gravel-Fahrt am Nachmittag",
         "date": "October 17, 2026",
-        "distanceKm": 8.2,
+        "distanceKm": 39.8,
         "stats": [
-          "8.2 km",
-          "48:15",
-          "72 m"
-        ]
-      },
-      {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20622274778",
-        "name": "Gewichtstraining am Nachmittag",
-        "date": "October 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "59:22",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20621993428",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 17, 2026",
-        "distanceKm": 6.5,
-        "stats": [
-          "6.5 km",
-          "2:24:32",
-          "44 m"
+          "39.8 km",
+          "1:53:24",
+          "164 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 222776
+      "totalWithEstimatesKm": 222845
     }
   }
 }

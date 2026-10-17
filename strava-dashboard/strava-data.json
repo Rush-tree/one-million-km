@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T09:32:50.884Z",
+  "generatedAt": "2026-10-17T10:00:54.306Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 778081,
-    "percentComplete": 22.19,
+    "remainingKm": 777935,
+    "percentComplete": 22.21,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 9531.4,
-    "thisWeekActivities": 911,
-    "thisWeekHours": 799,
-    "thisWeekElevationM": 69540,
+    "thisWeekKm": 9677.6,
+    "thisWeekActivities": 916,
+    "thisWeekHours": 806,
+    "thisWeekElevationM": 70376,
     "timesAroundEarth": 5.54,
-    "percentToMoon": 57.7,
+    "percentToMoon": 57.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 57.7,
-        "text": "57.7% of the way to the Moon",
+        "value": 57.8,
+        "text": "57.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18142,
+  "totalActivities": 18146,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 221919100,
-    "totalMovingTime": 63021047,
-    "totalElevation": 1620841.6
+    "totalDistance": 222065300,
+    "totalMovingTime": 63047747,
+    "totalElevation": 1621677.6
   },
   "monthStats": {
-    "totalDistance": 24468200,
-    "totalMovingTime": 7082400,
+    "totalDistance": 24614400,
+    "totalMovingTime": 7109100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9531400,
-    "totalMovingTime": 2875380,
-    "count": 911
+    "totalDistance": 9677600,
+    "totalMovingTime": 2902080,
+    "count": 916
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 206122.1,
+    "measuredDistanceKm": 206268.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20618427914",
+        "name": "Zwift - Tick Tock in Watopia",
+        "date": "October 17, 2026",
+        "distanceKm": 19.4,
+        "stats": [
+          "19.4 km",
+          "32:43",
+          "59 m"
+        ]
+      },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20618217003",
-        "name": "Morning Ride",
-        "date": "October 17, 2026",
-        "distanceKm": 24.5,
-        "stats": [
-          "24.5 km",
-          "41:15",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20618040038",
-        "name": "NGD Dirttrack - 12x200m @ 3:25 mit 200m Pause",
-        "date": "October 17, 2026",
-        "distanceKm": 6.4,
-        "stats": [
-          "6.4 km",
-          "30:39",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20618133637",
-        "name": "Stand-up-Paddeln am Morgen",
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20618435151",
+        "name": "Pedalada matinal",
         "date": "October 17, 2026",
         "distanceKm": 9.1,
         "stats": [
           "9.1 km",
-          "58:56",
-          "2 m"
+          "56:59",
+          "87 m"
         ]
       },
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20617568028",
-        "name": "Lauf am Morgen",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20618657387",
+        "name": "21 Ride Street 🚴‍♂️",
         "date": "October 17, 2026",
-        "distanceKm": 8.4,
+        "distanceKm": 21.2,
         "stats": [
-          "8.4 km",
-          "1:36:12",
-          "47 m"
+          "21.2 km",
+          "1:23:00",
+          "56 m"
+        ]
+      },
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20618583727",
+        "name": "Im Regen nach Essen",
+        "date": "October 17, 2026",
+        "distanceKm": 74.9,
+        "stats": [
+          "74.9 km",
+          "3:30:18",
+          "246 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 221919.1
+      "totalWithEstimatesKm": 222065.3
     }
   }
 }

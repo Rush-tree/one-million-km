@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T17:30:46.991Z",
+  "generatedAt": "2026-10-17T19:30:46.337Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 776771,
-    "percentComplete": 22.32,
+    "remainingKm": 776719,
+    "percentComplete": 22.33,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10841.5,
-    "thisWeekActivities": 1002,
-    "thisWeekHours": 895,
-    "thisWeekElevationM": 81286,
+    "thisWeekKm": 10893,
+    "thisWeekActivities": 1007,
+    "thisWeekHours": 911,
+    "thisWeekElevationM": 82621,
     "timesAroundEarth": 5.57,
     "percentToMoon": 58.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18232,
+  "totalActivities": 18237,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 223229200,
-    "totalMovingTime": 63366107,
-    "totalElevation": 1632587.6
+    "totalDistance": 223280700,
+    "totalMovingTime": 63425147,
+    "totalElevation": 1633922.6
   },
   "monthStats": {
-    "totalDistance": 25778300,
-    "totalMovingTime": 7427460,
+    "totalDistance": 25829800,
+    "totalMovingTime": 7486500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10841500,
-    "totalMovingTime": 3220440,
-    "count": 1002
+    "totalDistance": 10893000,
+    "totalMovingTime": 3279480,
+    "count": 1007
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 207432.2,
+    "measuredDistanceKm": 207483.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20624731513",
-        "name": "Zwift - Group Ride: ¡HISPerame! (Enable Rubberbanding) (D)",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20625395689",
+        "name": "Abendspaziergang",
         "date": "October 17, 2026",
-        "distanceKm": 33.5,
+        "distanceKm": 1.8,
         "stats": [
-          "33.5 km",
-          "1:09:00",
-          "170 m"
+          "1.8 km",
+          "25:29",
+          "13 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20625198960",
+        "name": "Pinkathon Event. Run for Breast Cancer. Kinomap - York Community Woodland Parkrun",
+        "date": "October 17, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "32:04",
+          "8 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20624757759",
-        "name": "Musculação na hora do almoço",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20625971414",
+        "name": "Morning Run",
         "date": "October 17, 2026",
-        "distanceKm": 0,
+        "distanceKm": 43.3,
         "stats": [
-          "0 km",
-          "1:23:18",
-          "0 m"
+          "43.3 km",
+          "4:28:23",
+          "92 m"
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20624764646",
-        "name": "Pedalata pomeridiana",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20625901107",
+        "name": "Mammutmarsch Wiesbaden mit Max",
         "date": "October 17, 2026",
-        "distanceKm": 7.7,
+        "distanceKm": 56.4,
         "stats": [
-          "7.7 km",
-          "2:01:23",
-          "21 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20624599180",
-        "name": "Fahrt am Nachmittag",
-        "date": "October 17, 2026",
-        "distanceKm": 75.5,
-        "stats": [
-          "75.5 km",
-          "3:00:45",
-          "0 m"
+          "56.4 km",
+          "12:51:32",
+          "1,079 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 223229.2
+      "totalWithEstimatesKm": 223280.7
     }
   }
 }

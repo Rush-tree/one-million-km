@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T16:30:43.926Z",
+  "generatedAt": "2026-10-17T17:00:54.654Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 777058,
-    "percentComplete": 22.29,
+    "remainingKm": 776831,
+    "percentComplete": 22.32,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10554.7,
-    "thisWeekActivities": 989,
-    "thisWeekHours": 880,
-    "thisWeekElevationM": 79811,
-    "timesAroundEarth": 5.56,
-    "percentToMoon": 58,
+    "thisWeekKm": 10781.3,
+    "thisWeekActivities": 994,
+    "thisWeekHours": 887,
+    "thisWeekElevationM": 80434,
+    "timesAroundEarth": 5.57,
+    "percentToMoon": 58.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 58,
-        "text": "58% of the way to the Moon",
+        "value": 58.1,
+        "text": "58.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 33.5,
-        "text": "33.5× the length of the Nile",
+        "value": 33.6,
+        "text": "33.6× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 34.9,
-        "text": "34.9 return trips Berlin to New York",
+        "value": 35,
+        "text": "35 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18220,
+  "totalActivities": 18223,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 222942400,
-    "totalMovingTime": 63312647,
-    "totalElevation": 1631112.6
+    "totalDistance": 223169000,
+    "totalMovingTime": 63340487,
+    "totalElevation": 1631735.6
   },
   "monthStats": {
-    "totalDistance": 25491500,
-    "totalMovingTime": 7374000,
+    "totalDistance": 25718100,
+    "totalMovingTime": 7401840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10554700,
-    "totalMovingTime": 3166980,
-    "count": 989
+    "totalDistance": 10781300,
+    "totalMovingTime": 3194820,
+    "count": 994
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 207145.4,
+    "measuredDistanceKm": 207372,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,29 +150,29 @@
         ]
       },
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20623413311",
-        "name": "Corrida na hora do almoço",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20624548976",
+        "name": "Zwift - Pacer Group Ride with Maria",
         "date": "October 17, 2026",
-        "distanceKm": 7,
+        "distanceKm": 108,
         "stats": [
-          "7.0 km",
-          "36:55",
-          "48 m"
+          "108.0 km",
+          "2:58:28",
+          "533 m"
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20623485283",
-        "name": "kinda easy weil morgen wieder kinda hard",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20624599180",
+        "name": "Fahrt am Nachmittag",
         "date": "October 17, 2026",
-        "distanceKm": 10,
+        "distanceKm": 75.5,
         "stats": [
-          "10.0 km",
-          "1:07:40",
-          "97 m"
+          "75.5 km",
+          "3:00:45",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 222942.4
+      "totalWithEstimatesKm": 223169
     }
   }
 }

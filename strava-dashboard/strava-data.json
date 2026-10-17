@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T13:00:57.220Z",
+  "generatedAt": "2026-10-17T13:30:45.195Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 777492,
-    "percentComplete": 22.25,
+    "remainingKm": 777417,
+    "percentComplete": 22.26,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10120.8,
-    "thisWeekActivities": 955,
-    "thisWeekHours": 843,
-    "thisWeekElevationM": 74671,
+    "thisWeekKm": 10195.2,
+    "thisWeekActivities": 959,
+    "thisWeekHours": 849,
+    "thisWeekElevationM": 75582,
     "timesAroundEarth": 5.55,
     "percentToMoon": 57.9,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 34.8,
-        "text": "34.8 return trips Berlin to New York",
+        "value": 34.9,
+        "text": "34.9 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18186,
+  "totalActivities": 18190,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 222508500,
-    "totalMovingTime": 63180887,
-    "totalElevation": 1625972.6
+    "totalDistance": 222582900,
+    "totalMovingTime": 63201407,
+    "totalElevation": 1626883.6
   },
   "monthStats": {
-    "totalDistance": 25057600,
-    "totalMovingTime": 7242240,
+    "totalDistance": 25132000,
+    "totalMovingTime": 7262760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10120800,
-    "totalMovingTime": 3035220,
-    "count": 955
+    "totalDistance": 10195200,
+    "totalMovingTime": 3055740,
+    "count": 959
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 206711.5,
+    "measuredDistanceKm": 206785.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20621411957",
+        "name": "Lauf am Nachmittag",
+        "date": "October 17, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "55:47",
+          "15 m"
+        ]
+      },
+      {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
         "activityId": "20621131150",
@@ -137,32 +150,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20620704666",
-        "name": "Lunch Workout",
-        "date": "October 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "50:02",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20620463976",
-        "name": "Schöne Samsdaach 🫡",
-        "date": "October 17, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "1:10:30",
-          "66 m"
-        ]
-      },
-      {
         "athlete": "Johanna H",
         "athleteId": "195161116",
         "activityId": "20620971833",
@@ -173,6 +160,19 @@
           "22.7 km",
           "2:44:46",
           "513 m"
+        ]
+      },
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20621312198",
+        "name": "Kloster Lluc",
+        "date": "October 17, 2026",
+        "distanceKm": 64.3,
+        "stats": [
+          "64.3 km",
+          "3:09:36",
+          "896 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 222508.5
+      "totalWithEstimatesKm": 222582.9
     }
   }
 }

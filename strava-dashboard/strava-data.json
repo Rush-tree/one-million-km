@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T08:00:59.117Z",
+  "generatedAt": "2026-10-17T08:30:50.901Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 778233,
+    "remainingKm": 778221,
     "percentComplete": 22.18,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 9379.8,
-    "thisWeekActivities": 895,
-    "thisWeekHours": 785,
-    "thisWeekElevationM": 68432,
+    "thisWeekKm": 9391.5,
+    "thisWeekActivities": 899,
+    "thisWeekHours": 787,
+    "thisWeekElevationM": 68686,
     "timesAroundEarth": 5.53,
     "percentToMoon": 57.7,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 33.3,
-        "text": "33.3× the length of the Nile",
+        "value": 33.4,
+        "text": "33.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18125,
+  "totalActivities": 18130,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 221767500,
-    "totalMovingTime": 62972207,
-    "totalElevation": 1619733.6
+    "totalDistance": 221779200,
+    "totalMovingTime": 62977427,
+    "totalElevation": 1619987.6
   },
   "monthStats": {
-    "totalDistance": 24316600,
-    "totalMovingTime": 7033560,
+    "totalDistance": 24328300,
+    "totalMovingTime": 7038780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9379800,
-    "totalMovingTime": 2826540,
-    "count": 895
+    "totalDistance": 9391500,
+    "totalMovingTime": 2831760,
+    "count": 899
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 205970.5,
+    "measuredDistanceKm": 205982.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20617499695",
+        "name": "Morning Ride",
+        "date": "October 17, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "22:41",
+          "50 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20617445231",
+        "name": "🔥 Renfo 💪🍫🦵",
+        "date": "October 17, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:35",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20617444808",
+        "name": "🚴‍♂️ Ride to Renfoooo",
+        "date": "October 17, 2026",
+        "distanceKm": 2.7,
+        "stats": [
+          "2.7 km",
+          "7:54",
+          "7 m"
+        ]
+      },
       {
         "athlete": "Silvio Lazzarin",
         "athleteId": "139275594",
@@ -135,45 +174,6 @@
           "23:46",
           "43 m"
         ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20616885392",
-        "name": "Styrketrening på morgenen",
-        "date": "October 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "40:41",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20616747395",
-        "name": "Zwift - Beach Island Loop in Watopia",
-        "date": "October 17, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "21:34",
-          "48 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20616876299",
-        "name": "Corsa mattutina",
-        "date": "October 17, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "1:14:49",
-          "27 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 221767.5
+      "totalWithEstimatesKm": 221779.2
     }
   }
 }

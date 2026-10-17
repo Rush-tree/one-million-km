@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-17T15:00:58.685Z",
+  "generatedAt": "2026-10-17T15:30:48.474Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 777155,
-    "percentComplete": 22.28,
+    "remainingKm": 777148,
+    "percentComplete": 22.29,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10457.3,
-    "thisWeekActivities": 978,
-    "thisWeekHours": 870,
-    "thisWeekElevationM": 78598,
+    "thisWeekKm": 10464,
+    "thisWeekActivities": 981,
+    "thisWeekHours": 874,
+    "thisWeekElevationM": 79218,
     "timesAroundEarth": 5.56,
     "percentToMoon": 58,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18209,
+  "totalActivities": 18212,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 222845000,
-    "totalMovingTime": 63276947,
-    "totalElevation": 1629899.6
+    "totalDistance": 222851700,
+    "totalMovingTime": 63290747,
+    "totalElevation": 1630519.6
   },
   "monthStats": {
-    "totalDistance": 25394100,
-    "totalMovingTime": 7338300,
+    "totalDistance": 25400800,
+    "totalMovingTime": 7352100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10457300,
-    "totalMovingTime": 3131280,
-    "count": 978
+    "totalDistance": 10464000,
+    "totalMovingTime": 3145080,
+    "count": 981
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 207048,
+    "measuredDistanceKm": 207054.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20623413311",
+        "name": "Corrida na hora do almoço",
+        "date": "October 17, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "36:55",
+          "48 m"
+        ]
+      },
       {
         "athlete": "Susanne Liepert",
         "athleteId": "28515644",
@@ -124,42 +137,29 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20622848880",
-        "name": "Zwift - Garmin UNBOUND Gravel Training Plan | Chase the Chaise",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20623201399",
+        "name": "Fahrt am Nachmittag",
         "date": "October 17, 2026",
-        "distanceKm": 18,
+        "distanceKm": 5.3,
         "stats": [
-          "18.0 km",
-          "43:43",
-          "154 m"
+          "5.3 km",
+          "26:41",
+          "63 m"
         ]
       },
       {
-        "athlete": "Nujaim Noorahdheen",
-        "athleteId": "191343444",
-        "activityId": "20622313706",
-        "name": "Evening Run",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20623312458",
+        "name": "Tennis pomeridiano",
         "date": "October 17, 2026",
-        "distanceKm": 2.7,
+        "distanceKm": 3.2,
         "stats": [
-          "2.7 km",
-          "21:35",
-          "19 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20622482934",
-        "name": "Zwift - Tick Tock in Watopia",
-        "date": "October 17, 2026",
-        "distanceKm": 25.1,
-        "stats": [
-          "25.1 km",
-          "47:05",
-          "66 m"
+          "3.2 km",
+          "1:05:56",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 222845
+      "totalWithEstimatesKm": 222851.7
     }
   }
 }

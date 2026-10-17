@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T12:30:47.912Z",
+  "generatedAt": "2026-10-17T13:00:57.220Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 777521,
+    "remainingKm": 777492,
     "percentComplete": 22.25,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10091.3,
-    "thisWeekActivities": 952,
-    "thisWeekHours": 840,
-    "thisWeekElevationM": 74144,
+    "thisWeekKm": 10120.8,
+    "thisWeekActivities": 955,
+    "thisWeekHours": 843,
+    "thisWeekElevationM": 74671,
     "timesAroundEarth": 5.55,
     "percentToMoon": 57.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18183,
+  "totalActivities": 18186,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 222479000,
-    "totalMovingTime": 63168167,
-    "totalElevation": 1625445.6
+    "totalDistance": 222508500,
+    "totalMovingTime": 63180887,
+    "totalElevation": 1625972.6
   },
   "monthStats": {
-    "totalDistance": 25028100,
-    "totalMovingTime": 7229520,
+    "totalDistance": 25057600,
+    "totalMovingTime": 7242240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10091300,
-    "totalMovingTime": 3022500,
-    "count": 952
+    "totalDistance": 10120800,
+    "totalMovingTime": 3035220,
+    "count": 955
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 206682,
+    "measuredDistanceKm": 206711.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20621149363",
+        "name": "Afternoon Walk",
+        "date": "October 17, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "32:40",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20621131150",
+        "name": "Recuperatieloopje",
+        "date": "October 17, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "37:46",
+          "14 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -121,32 +147,6 @@
           "0 km",
           "50:02",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20620338213",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 17, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "30:46",
-          "15 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20620052032",
-        "name": "Lunch Walk",
-        "date": "October 17, 2026",
-        "distanceKm": 0.9,
-        "stats": [
-          "0.9 km",
-          "20:43",
-          "11 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20619945969",
-        "name": "Ciclismo mattutino",
+        "athlete": "Johanna H",
+        "athleteId": "195161116",
+        "activityId": "20620971833",
+        "name": "Lauf am Mittag",
         "date": "October 17, 2026",
-        "distanceKm": 8.4,
+        "distanceKm": 22.7,
         "stats": [
-          "8.4 km",
-          "2:41:03",
-          "17 m"
+          "22.7 km",
+          "2:44:46",
+          "513 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 222479
+      "totalWithEstimatesKm": 222508.5
     }
   }
 }

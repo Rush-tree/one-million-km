@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-17T11:30:47.813Z",
+  "generatedAt": "2026-10-17T12:00:56.901Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 777547,
+    "remainingKm": 777530,
     "percentComplete": 22.25,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
     "weeksToGoal": 46,
-    "projectedDate": "2027-09-05",
+    "projectedDate": "2027-09-04",
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10065.4,
-    "thisWeekActivities": 945,
-    "thisWeekHours": 836,
-    "thisWeekElevationM": 73829,
+    "thisWeekKm": 10081.9,
+    "thisWeekActivities": 949,
+    "thisWeekHours": 838,
+    "thisWeekElevationM": 74099,
     "timesAroundEarth": 5.55,
     "percentToMoon": 57.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18175,
+  "totalActivities": 18179,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 222453100,
-    "totalMovingTime": 63153527,
-    "totalElevation": 1625130.6
+    "totalDistance": 222469600,
+    "totalMovingTime": 63160667,
+    "totalElevation": 1625400.6
   },
   "monthStats": {
-    "totalDistance": 25002200,
-    "totalMovingTime": 7214880,
+    "totalDistance": 25018700,
+    "totalMovingTime": 7222020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10065400,
-    "totalMovingTime": 3007860,
-    "count": 945
+    "totalDistance": 10081900,
+    "totalMovingTime": 3015000,
+    "count": 949
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 206656.1,
+    "measuredDistanceKm": 206672.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20619391289",
-        "name": "Mittagsradfahrt 🌧",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20620338213",
+        "name": "Spaziergang am Nachmittag",
         "date": "October 17, 2026",
-        "distanceKm": 1.3,
+        "distanceKm": 1.8,
         "stats": [
-          "1.3 km",
-          "4:29",
-          "5 m"
+          "1.8 km",
+          "30:46",
+          "15 m"
         ]
       },
       {
-        "athlete": "Luca Oerter",
-        "athleteId": "168353611",
-        "activityId": "20619119714",
-        "name": "Lunch Weight Training",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20620052032",
+        "name": "Lunch Walk",
         "date": "October 17, 2026",
-        "distanceKm": 0,
+        "distanceKm": 0.9,
         "stats": [
-          "0 km",
-          "26:30",
-          "0 m"
+          "0.9 km",
+          "20:43",
+          "11 m"
+        ]
+      },
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20620070635",
+        "name": "Lunch Ride",
+        "date": "October 17, 2026",
+        "distanceKm": 6.8,
+        "stats": [
+          "6.8 km",
+          "31:31",
+          "69 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "2:41:03",
           "17 m"
         ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20619592509",
-        "name": "Rampen Randale am Morgen",
-        "date": "October 17, 2026",
-        "distanceKm": 22,
-        "stats": [
-          "22.0 km",
-          "3:05:21",
-          "1,101 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 222453.1
+      "totalWithEstimatesKm": 222469.6
     }
   }
 }

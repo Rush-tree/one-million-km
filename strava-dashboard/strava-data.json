@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T04:00:56.405Z",
+  "generatedAt": "2026-10-18T04:30:42.681Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 776449,
-    "percentComplete": 22.36,
+    "remainingKm": 776289,
+    "percentComplete": 22.37,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 11163.7,
-    "thisWeekActivities": 1021,
-    "thisWeekHours": 926,
-    "thisWeekElevationM": 83813,
+    "thisWeekKm": 11323.1,
+    "thisWeekActivities": 1023,
+    "thisWeekHours": 934,
+    "thisWeekElevationM": 84170,
     "timesAroundEarth": 5.58,
     "percentToMoon": 58.2,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 10.5,
-        "text": "10.5× the Great Wall of China",
+        "value": 10.6,
+        "text": "10.6× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 223551400,
-    "totalMovingTime": 63480647,
-    "totalElevation": 1635114.6
+    "totalDistance": 223710800,
+    "totalMovingTime": 63508967,
+    "totalElevation": 1635471.6
   },
   "monthStats": {
-    "totalDistance": 26100500,
-    "totalMovingTime": 7542000,
+    "totalDistance": 26259900,
+    "totalMovingTime": 7570320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11163700,
-    "totalMovingTime": 3334980,
-    "count": 1021
+    "totalDistance": 11323100,
+    "totalMovingTime": 3363300,
+    "count": 1023
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 207754.4,
+    "measuredDistanceKm": 207913.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -149,29 +149,29 @@
         ]
       },
       {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20628790914",
-        "name": "Morning Run",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20629345567",
+        "name": "🌥️ Morning Ride",
         "date": "October 18, 2026",
-        "distanceKm": 20.6,
+        "distanceKm": 75.6,
         "stats": [
-          "20.6 km",
-          "3:59:50",
-          "167 m"
+          "75.6 km",
+          "4:30:37",
+          "140 m"
         ]
       },
       {
-        "athlete": "Fabio Martins Queiroga",
-        "athleteId": "108341050",
-        "activityId": "20628036449",
-        "name": "Upanema BV",
-        "date": "October 17, 2026",
-        "distanceKm": 101.5,
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20629371248",
+        "name": "🌥️ Sunday Morning Ride",
+        "date": "October 18, 2026",
+        "distanceKm": 83.7,
         "stats": [
-          "101.5 km",
-          "4:41:53",
-          "360 m"
+          "83.7 km",
+          "4:30:33",
+          "217 m"
         ]
       }
     ],
@@ -193,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 223551.4
+      "totalWithEstimatesKm": 223710.8
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T17:00:55.738Z",
+  "generatedAt": "2026-10-18T17:27:10.761Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 774062,
-    "percentComplete": 22.59,
+    "remainingKm": 774024,
+    "percentComplete": 22.6,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 13550.8,
-    "thisWeekActivities": 1153,
-    "thisWeekHours": 1094,
-    "thisWeekElevationM": 104894,
+    "thisWeekKm": 13588.8,
+    "thisWeekActivities": 1158,
+    "thisWeekHours": 1096,
+    "thisWeekElevationM": 105123,
     "timesAroundEarth": 5.64,
     "percentToMoon": 58.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18373,
+  "totalActivities": 18378,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 225938500,
-    "totalMovingTime": 64082267,
-    "totalElevation": 1656195.6
+    "totalDistance": 225976500,
+    "totalMovingTime": 64092827,
+    "totalElevation": 1656424.6
   },
   "monthStats": {
-    "totalDistance": 28487600,
-    "totalMovingTime": 8143620,
+    "totalDistance": 28525600,
+    "totalMovingTime": 8154180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13550800,
-    "totalMovingTime": 3936600,
-    "count": 1153
+    "totalDistance": 13588800,
+    "totalMovingTime": 3947160,
+    "count": 1158
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 210141.5,
+    "measuredDistanceKm": 210179.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Aparna Rajeev Thekke Kurungott",
-        "athleteId": "1791686294",
-        "activityId": "20638142392",
-        "name": "Afternoon Walk",
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20638533659",
+        "name": "Dehnen",
         "date": "October 18, 2026",
-        "distanceKm": 1.6,
+        "distanceKm": 0,
         "stats": [
-          "1.6 km",
-          "33:09",
-          "42 m"
+          "0 km",
+          "22:28",
+          "0 m"
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20638024262",
-        "name": "Zwift - Group Ride: Wobble Weekend Warm Down (E)",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20638710443",
+        "name": "Gewichtstraining am Abend",
         "date": "October 18, 2026",
-        "distanceKm": 22.1,
+        "distanceKm": 0,
         "stats": [
-          "22.1 km",
-          "45:03",
-          "60 m"
+          "0 km",
+          "1:05:08",
+          "0 m"
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20638201125",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20638615239",
+        "name": "Zwift - Group Ride: German Cycling Social Ride (Rubberband) (D)",
         "date": "October 18, 2026",
-        "distanceKm": 10,
+        "distanceKm": 32.1,
         "stats": [
-          "10.0 km",
-          "55:07",
-          "60 m"
+          "32.1 km",
+          "1:02:11",
+          "133 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20638630460",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 18, 2026",
+        "distanceKm": 33.2,
+        "stats": [
+          "33.2 km",
+          "1:29:45",
+          "0 m"
         ]
       },
       {
@@ -159,19 +172,6 @@
         "stats": [
           "4.0 km",
           "1:07:40",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20638081579",
-        "name": "Fahrt am Nachmittag",
-        "date": "October 18, 2026",
-        "distanceKm": 49.2,
-        "stats": [
-          "49.2 km",
-          "2:12:31",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 225938.5
+      "totalWithEstimatesKm": 225976.5
     }
   }
 }

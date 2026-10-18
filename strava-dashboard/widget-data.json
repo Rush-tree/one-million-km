@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-18T09:45:21.227Z",
+  "generatedAt": "2026-10-18T10:00:57.274Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-18T09:45:21.227Z",
+  "memberCountUpdatedAt": "2026-10-18T10:00:57.274Z",
   "currentWeek": {
     "week": "Oct 12, 2026 - Oct 18, 2026",
-    "activities": 1063,
-    "distanceKm": 11809.7,
-    "elevationM": 87731,
-    "movingSeconds": 3503700,
+    "activities": 1065,
+    "distanceKm": 11834.7,
+    "elevationM": 87960,
+    "movingSeconds": 3510660,
     "raw": {
-      "activities": "1063",
-      "distance": "11,809.7 km",
-      "time": "973 h 15 m",
-      "elevation": "87,731 m"
+      "activities": "1065",
+      "distance": "11,834.7 km",
+      "time": "975 h 11 m",
+      "elevation": "87,960 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Norick Maurer",
+      "athleteId": "107445415",
+      "activityId": "20632069818",
+      "name": "Lauf am Morgen",
+      "date": "October 18, 2026",
+      "distanceKm": 14.2,
+      "stats": [
+        "14.2 km",
+        "1:25:51",
+        "229 m"
+      ]
+    },
     {
       "athlete": "Silvio Lazzarin",
       "athleteId": "139275594",
@@ -42,19 +55,6 @@
         "3.6 km",
         "50:05",
         "8 m"
-      ]
-    },
-    {
-      "athlete": "Phil Duffy",
-      "athleteId": "17634808",
-      "activityId": "20631399119",
-      "name": "Morning Ride",
-      "date": "October 18, 2026",
-      "distanceKm": 17.7,
-      "stats": [
-        "17.7 km",
-        "45:04",
-        "422 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 85392.3,
-  "totalDistanceKm": 208400.4,
+  "observedWeeksKm": 85417.3,
+  "totalDistanceKm": 208425.4,
   "weeksTracked": 6,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 224197.4
+    "totalWithEstimatesKm": 224222.4
   }
 }

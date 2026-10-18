@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T14:30:45.959Z",
+  "generatedAt": "2026-10-18T15:00:57.166Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 774546,
+    "remainingKm": 774473,
     "percentComplete": 22.55,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 13066.8,
-    "thisWeekActivities": 1126,
-    "thisWeekHours": 1066,
-    "thisWeekElevationM": 102661,
+    "thisWeekKm": 13139.8,
+    "thisWeekActivities": 1132,
+    "thisWeekHours": 1070,
+    "thisWeekElevationM": 103042,
     "timesAroundEarth": 5.63,
     "percentToMoon": 58.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18347,
+  "totalActivities": 18353,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 225454500,
-    "totalMovingTime": 63981827,
-    "totalElevation": 1653962.6
+    "totalDistance": 225527500,
+    "totalMovingTime": 63999227,
+    "totalElevation": 1654343.6
   },
   "monthStats": {
-    "totalDistance": 28003600,
-    "totalMovingTime": 8043180,
+    "totalDistance": 28076600,
+    "totalMovingTime": 8060580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13066800,
-    "totalMovingTime": 3836160,
-    "count": 1126
+    "totalDistance": 13139800,
+    "totalMovingTime": 3853560,
+    "count": 1132
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 209657.5,
+    "measuredDistanceKm": 209730.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20636182563",
-        "name": "Zwift - Everest 1",
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20636446694",
+        "name": "Pedalada na hora do almoço",
         "date": "October 18, 2026",
-        "distanceKm": 3,
+        "distanceKm": 3.9,
         "stats": [
-          "3.0 km",
-          "5:53",
-          "6 m"
+          "3.9 km",
+          "16:34",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Nujaim Noorahdheen",
+        "athleteId": "191343444",
+        "activityId": "20636429009",
+        "name": "Evening Run",
+        "date": "October 18, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "36:43",
+          "3 m"
+        ]
+      },
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20636410556",
+        "name": "Footing",
+        "date": "October 18, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "46:58",
+          "33 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "56:05",
           "196 m"
         ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20635709325",
-        "name": "Lauf am Nachmittag",
-        "date": "October 18, 2026",
-        "distanceKm": 9.4,
-        "stats": [
-          "9.4 km",
-          "1:06:49",
-          "156 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20635833902",
-        "name": "Søndagstur på den gule :)",
-        "date": "October 18, 2026",
-        "distanceKm": 115,
-        "stats": [
-          "115.0 km",
-          "6:00:41",
-          "1,540 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 225454.5
+      "totalWithEstimatesKm": 225527.5
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T16:00:56.635Z",
+  "generatedAt": "2026-10-18T16:30:45.688Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 774195,
-    "percentComplete": 22.58,
+    "remainingKm": 774129,
+    "percentComplete": 22.59,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 13417.2,
-    "thisWeekActivities": 1142,
-    "thisWeekHours": 1084,
-    "thisWeekElevationM": 104591,
-    "timesAroundEarth": 5.63,
-    "percentToMoon": 58.7,
+    "thisWeekKm": 13483.2,
+    "thisWeekActivities": 1147,
+    "thisWeekHours": 1088,
+    "thisWeekElevationM": 104778,
+    "timesAroundEarth": 5.64,
+    "percentToMoon": 58.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 58.7,
-        "text": "58.7% of the way to the Moon",
+        "value": 58.8,
+        "text": "58.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18361,
+  "totalActivities": 18366,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 225804900,
-    "totalMovingTime": 64046747,
-    "totalElevation": 1655892.6
+    "totalDistance": 225870900,
+    "totalMovingTime": 64062107,
+    "totalElevation": 1656079.6
   },
   "monthStats": {
-    "totalDistance": 28354000,
-    "totalMovingTime": 8108100,
+    "totalDistance": 28420000,
+    "totalMovingTime": 8123460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13417200,
-    "totalMovingTime": 3901080,
-    "count": 1142
+    "totalDistance": 13483200,
+    "totalMovingTime": 3916440,
+    "count": 1147
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 210007.9,
+    "measuredDistanceKm": 210073.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20637364074",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20637749112",
+        "name": "Zwift - Beach Island Loop in Watopia",
         "date": "October 18, 2026",
-        "distanceKm": 2,
+        "distanceKm": 12.9,
         "stats": [
-          "2.0 km",
-          "30:50",
-          "32 m"
+          "12.9 km",
+          "22:50",
+          "48 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20638024262",
+        "name": "Zwift - Group Ride: Wobble Weekend Warm Down (E)",
+        "date": "October 18, 2026",
+        "distanceKm": 22.1,
+        "stats": [
+          "22.1 km",
+          "45:03",
+          "60 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20637996433",
+        "name": "Zwift - Group Ride: Wobble Weekend Warm Down (E)",
+        "date": "October 18, 2026",
+        "distanceKm": 21,
+        "stats": [
+          "21.0 km",
+          "42:58",
+          "59 m"
         ]
       },
       {
@@ -134,32 +160,6 @@
           "3.4 km",
           "1:01:43",
           "4 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20637334660",
-        "name": "Zwift - Sneaky Lite",
-        "date": "October 18, 2026",
-        "distanceKm": 24.1,
-        "stats": [
-          "24.1 km",
-          "1:06:27",
-          "299 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20637350962",
-        "name": "Zwift - Everest 2",
-        "date": "October 18, 2026",
-        "distanceKm": 40.6,
-        "stats": [
-          "40.6 km",
-          "1:13:15",
-          "118 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 225804.9
+      "totalWithEstimatesKm": 225870.9
     }
   }
 }

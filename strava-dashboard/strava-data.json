@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T00:11:34.509Z",
+  "generatedAt": "2026-10-18T00:30:44.485Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 776650,
-    "percentComplete": 22.34,
+    "remainingKm": 776548,
+    "percentComplete": 22.35,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 10962.8,
-    "thisWeekActivities": 1014,
-    "thisWeekHours": 916,
-    "thisWeekElevationM": 82647,
-    "timesAroundEarth": 5.57,
+    "thisWeekKm": 11064.4,
+    "thisWeekActivities": 1015,
+    "thisWeekHours": 920,
+    "thisWeekElevationM": 83007,
+    "timesAroundEarth": 5.58,
     "percentToMoon": 58.1,
     "comparisons": [
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 223350500,
-    "totalMovingTime": 63444467,
-    "totalElevation": 1633948.6
+    "totalDistance": 223452100,
+    "totalMovingTime": 63457607,
+    "totalElevation": 1634308.6
   },
   "monthStats": {
-    "totalDistance": 25899600,
-    "totalMovingTime": 7505820,
+    "totalDistance": 26001200,
+    "totalMovingTime": 7518960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10962800,
-    "totalMovingTime": 3298800,
-    "count": 1014
+    "totalDistance": 11064400,
+    "totalMovingTime": 3311940,
+    "count": 1015
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 207553.5,
+    "measuredDistanceKm": 207655.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Fabio Martins Queiroga",
+        "athleteId": "108341050",
+        "activityId": "20628036449",
+        "name": "Upanema BV",
+        "date": "October 17, 2026",
+        "distanceKm": 101.5,
+        "stats": [
+          "101.5 km",
+          "4:41:53",
+          "360 m"
+        ]
+      },
+      {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
         "activityId": "20625395689",
@@ -147,19 +160,6 @@
           "1.8 km",
           "25:29",
           "13 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20625198960",
-        "name": "Pinkathon Event. Run for Breast Cancer. Kinomap - York Community Woodland Parkrun",
-        "date": "October 17, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "32:04",
-          "8 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 223350.5
+      "totalWithEstimatesKm": 223452.1
     }
   }
 }

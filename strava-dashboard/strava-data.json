@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T13:30:51.514Z",
+  "generatedAt": "2026-10-18T14:00:56.369Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 774818,
-    "percentComplete": 22.52,
+    "remainingKm": 774686,
+    "percentComplete": 22.53,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 12794,
-    "thisWeekActivities": 1114,
-    "thisWeekHours": 1050,
-    "thisWeekElevationM": 99445,
+    "thisWeekKm": 12926,
+    "thisWeekActivities": 1117,
+    "thisWeekHours": 1057,
+    "thisWeekElevationM": 101244,
     "timesAroundEarth": 5.62,
     "percentToMoon": 58.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18337,
+  "totalActivities": 18339,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 225181700,
-    "totalMovingTime": 63925247,
-    "totalElevation": 1650746.6
+    "totalDistance": 225313700,
+    "totalMovingTime": 63951527,
+    "totalElevation": 1652545.6
   },
   "monthStats": {
-    "totalDistance": 27730800,
-    "totalMovingTime": 7986600,
+    "totalDistance": 27862800,
+    "totalMovingTime": 8012880,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12794000,
-    "totalMovingTime": 3779580,
-    "count": 1114
+    "totalDistance": 12926000,
+    "totalMovingTime": 3805860,
+    "count": 1117
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 209384.7,
+    "measuredDistanceKm": 209516.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,42 +124,29 @@
         ]
       },
       {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "20634832372",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "René Sauer",
+        "athleteId": "190842154",
+        "activityId": "20635638129",
+        "name": "Lauf am Nachmittag",
         "date": "October 18, 2026",
-        "distanceKm": 6.6,
+        "distanceKm": 7.3,
         "stats": [
-          "6.6 km",
-          "1:18:16",
-          "130 m"
+          "7.3 km",
+          "48:56",
+          "103 m"
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20634797177",
-        "name": "Fahrt am Nachmittag ☁",
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20635709325",
+        "name": "Lauf am Nachmittag",
         "date": "October 18, 2026",
-        "distanceKm": 35,
+        "distanceKm": 9.4,
         "stats": [
-          "35.0 km",
-          "1:31:09",
-          "342 m"
-        ]
-      },
-      {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20634798530",
-        "name": "Mittagsradfahrt",
-        "date": "October 18, 2026",
-        "distanceKm": 12.7,
-        "stats": [
-          "12.7 km",
-          "1:56:33",
-          "47 m"
+          "9.4 km",
+          "1:06:49",
+          "156 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "11.9 km",
           "3:37:00",
           "197 m"
+        ]
+      },
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20635833902",
+        "name": "Sykkeltur om morgenen",
+        "date": "October 18, 2026",
+        "distanceKm": 115,
+        "stats": [
+          "115.0 km",
+          "6:00:41",
+          "1,540 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 225181.7
+      "totalWithEstimatesKm": 225313.7
     }
   }
 }

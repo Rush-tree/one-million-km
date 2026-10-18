@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T15:00:57.166Z",
+  "generatedAt": "2026-10-18T15:30:46.703Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 774473,
-    "percentComplete": 22.55,
+    "remainingKm": 774342,
+    "percentComplete": 22.57,
     "paceBasisWeeks": 4,
     "avgWeekKm": 16876.8,
     "avgDayKm": 2411,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 69.7,
     "activitiesPerWeek": 1207,
     "avgActivityKm": 14,
-    "thisWeekKm": 13139.8,
-    "thisWeekActivities": 1132,
-    "thisWeekHours": 1070,
-    "thisWeekElevationM": 103042,
+    "thisWeekKm": 13270.6,
+    "thisWeekActivities": 1136,
+    "thisWeekHours": 1077,
+    "thisWeekElevationM": 103691,
     "timesAroundEarth": 5.63,
     "percentToMoon": 58.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18353,
+  "totalActivities": 18356,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 225527500,
-    "totalMovingTime": 63999227,
-    "totalElevation": 1654343.6
+    "totalDistance": 225658300,
+    "totalMovingTime": 64022687,
+    "totalElevation": 1654992.6
   },
   "monthStats": {
-    "totalDistance": 28076600,
-    "totalMovingTime": 8060580,
+    "totalDistance": 28207400,
+    "totalMovingTime": 8084040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13139800,
-    "totalMovingTime": 3853560,
-    "count": 1132
+    "totalDistance": 13270600,
+    "totalMovingTime": 3877020,
+    "count": 1136
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,24 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 209730.5,
+    "measuredDistanceKm": 209861.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20636446694",
-        "name": "Pedalada na hora do almoço",
-        "date": "October 18, 2026",
-        "distanceKm": 3.9,
-        "stats": [
-          "3.9 km",
-          "16:34",
-          "33 m"
-        ]
-      },
       {
         "athlete": "Nujaim Noorahdheen",
         "athleteId": "191343444",
@@ -134,6 +121,19 @@
           "5.0 km",
           "36:43",
           "3 m"
+        ]
+      },
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20637004300",
+        "name": "Spaziergang am Nachmittag",
+        "date": "October 18, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "1:16:14",
+          "8 m"
         ]
       },
       {
@@ -150,29 +150,29 @@
         ]
       },
       {
-        "athlete": "Jenny Heitschötter",
-        "athleteId": "769523801",
-        "activityId": "20636207416",
-        "name": "Treppenstepper am Nachmittag",
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20636804359",
+        "name": "Petra",
         "date": "October 18, 2026",
-        "distanceKm": 0,
+        "distanceKm": 84.7,
         "stats": [
-          "0 km",
-          "35:33",
-          "0 m"
+          "84.7 km",
+          "4:54:48",
+          "500 m"
         ]
       },
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20636252379",
-        "name": "Zwift - Urumaze in Makuri Islands",
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "20636999047",
+        "name": "Easy Pacy Sunday",
         "date": "October 18, 2026",
-        "distanceKm": 25,
+        "distanceKm": 38.7,
         "stats": [
-          "25.0 km",
-          "56:05",
-          "196 m"
+          "38.7 km",
+          "2:22:44",
+          "115 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 225527.5
+      "totalWithEstimatesKm": 225658.3
     }
   }
 }

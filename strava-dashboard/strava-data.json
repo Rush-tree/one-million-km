@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T12:30:52.586Z",
+  "generatedAt": "2026-10-19T13:01:01.555Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 773161,
-    "percentComplete": 22.68,
+    "remainingKm": 773134,
+    "percentComplete": 22.69,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 659.6,
-    "thisWeekActivities": 62,
-    "thisWeekHours": 48,
-    "thisWeekElevationM": 4133,
+    "thisWeekKm": 686,
+    "thisWeekActivities": 66,
+    "thisWeekHours": 52,
+    "thisWeekElevationM": 4413,
     "timesAroundEarth": 5.66,
     "percentToMoon": 59,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18457,
+  "totalActivities": 18461,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 226839200,
-    "totalMovingTime": 64330787,
-    "totalElevation": 1662062.6
+    "totalDistance": 226865600,
+    "totalMovingTime": 64342727,
+    "totalElevation": 1662342.6
   },
   "monthStats": {
-    "totalDistance": 29388300,
-    "totalMovingTime": 8392140,
+    "totalDistance": 29414700,
+    "totalMovingTime": 8404080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 659600,
-    "totalMovingTime": 173820,
-    "count": 62
+    "totalDistance": 686000,
+    "totalMovingTime": 185760,
+    "count": 66
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,42 +105,55 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 211042.2,
+    "measuredDistanceKm": 211068.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20646350899",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20646561256",
+        "name": "Zone 30 me de vlo dalend valt nog meer tegen",
         "date": "October 19, 2026",
-        "distanceKm": 6.1,
+        "distanceKm": 9.1,
         "stats": [
-          "6.1 km",
-          "38:44",
-          "79 m"
+          "9.1 km",
+          "18:20",
+          "34 m"
         ]
       },
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20645967087",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20646591449",
+        "name": "Gravel",
         "date": "October 19, 2026",
-        "distanceKm": 7.9,
+        "distanceKm": 7.7,
         "stats": [
-          "7.9 km",
-          "18:43",
-          "44 m"
+          "7.7 km",
+          "24:16",
+          "49 m"
+        ]
+      },
+      {
+        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
+        "athleteId": "78581066",
+        "activityId": "20646634197",
+        "name": "Mittagspaziergang",
+        "date": "October 19, 2026",
+        "distanceKm": 9.4,
+        "stats": [
+          "9.4 km",
+          "2:02:37",
+          "197 m"
         ]
       },
       {
         "athlete": "Anja Habermeier",
         "athleteId": "80382525",
         "activityId": "20646498425",
-        "name": "Mittagsradfahrt",
+        "name": "Cala Sant Vicenç",
         "date": "October 19, 2026",
         "distanceKm": 22.5,
         "stats": [
@@ -150,23 +163,10 @@
         ]
       },
       {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20645650892",
-        "name": "Mittagspausefahrt....",
-        "date": "October 19, 2026",
-        "distanceKm": 28,
-        "stats": [
-          "28.0 km",
-          "1:17:30",
-          "368 m"
-        ]
-      },
-      {
         "athlete": "Adriano Perri",
         "athleteId": "99629318",
         "activityId": "20646335732",
-        "name": "Lunch Walk",
+        "name": "Autumn Walk ☀️🍁",
         "date": "October 19, 2026",
         "distanceKm": 10.5,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 226839.2
+      "totalWithEstimatesKm": 226865.6
     }
   }
 }

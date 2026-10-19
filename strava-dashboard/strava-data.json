@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T09:30:51.673Z",
+  "generatedAt": "2026-10-19T10:01:03.363Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 773410,
+    "remainingKm": 773357,
     "percentComplete": 22.66,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 410.8,
-    "thisWeekActivities": 47,
-    "thisWeekHours": 34,
-    "thisWeekElevationM": 2072,
-    "timesAroundEarth": 5.65,
-    "percentToMoon": 58.9,
+    "thisWeekKm": 463.5,
+    "thisWeekActivities": 51,
+    "thisWeekHours": 37,
+    "thisWeekElevationM": 2227,
+    "timesAroundEarth": 5.66,
+    "percentToMoon": 59,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 58.9,
-        "text": "58.9% of the way to the Moon",
+        "value": 59,
+        "text": "59% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18443,
+  "totalActivities": 18447,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 226590400,
-    "totalMovingTime": 64279007,
-    "totalElevation": 1660001.6
+    "totalDistance": 226643100,
+    "totalMovingTime": 64289927,
+    "totalElevation": 1660156.6
   },
   "monthStats": {
-    "totalDistance": 29139500,
-    "totalMovingTime": 8340360,
+    "totalDistance": 29192200,
+    "totalMovingTime": 8351280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 410800,
-    "totalMovingTime": 122040,
-    "count": 47
+    "totalDistance": 463500,
+    "totalMovingTime": 132960,
+    "count": 51
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 210793.4,
+    "measuredDistanceKm": 210846.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20644655147",
+        "name": "Mittagspaziergang",
+        "date": "October 19, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "17:14",
+          "22 m"
+        ]
+      },
       {
         "athlete": "Gisbert Drumm",
         "athleteId": "10905376",
@@ -124,49 +137,36 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20644329731",
-        "name": "Morning Walk",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20644529780",
+        "name": "Ciclismo mattutino",
         "date": "October 19, 2026",
-        "distanceKm": 1.7,
+        "distanceKm": 18.1,
         "stats": [
-          "1.7 km",
-          "31:00",
-          "10 m"
+          "18.1 km",
+          "1:52:21",
+          "22 m"
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20644264507",
-        "name": "🌳",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20644697538",
+        "name": "Lauf",
         "date": "October 19, 2026",
-        "distanceKm": 8.1,
+        "distanceKm": 6.7,
         "stats": [
-          "8.1 km",
-          "40:46",
-          "86 m"
-        ]
-      },
-      {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20644201557",
-        "name": "Upper A (Strength)",
-        "date": "October 19, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:07:21",
-          "0 m"
+          "6.7 km",
+          "43:31",
+          "58 m"
         ]
       },
       {
         "athlete": "# MarshmallowBen",
         "athleteId": "114783849",
         "activityId": "20644475558",
-        "name": "Morgenausfahrt",
+        "name": "Minionrunde",
         "date": "October 19, 2026",
         "distanceKm": 31.7,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 226590.4
+      "totalWithEstimatesKm": 226643.1
     }
   }
 }

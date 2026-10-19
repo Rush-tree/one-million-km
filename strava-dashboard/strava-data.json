@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T16:00:59.920Z",
+  "generatedAt": "2026-10-19T16:30:48.852Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 772758,
-    "percentComplete": 22.72,
+    "remainingKm": 772692,
+    "percentComplete": 22.73,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1062.1,
-    "thisWeekActivities": 96,
-    "thisWeekHours": 85,
-    "thisWeekElevationM": 8704,
+    "thisWeekKm": 1128.3,
+    "thisWeekActivities": 104,
+    "thisWeekHours": 92,
+    "thisWeekElevationM": 9105,
     "timesAroundEarth": 5.67,
     "percentToMoon": 59.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18492,
+  "totalActivities": 18500,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 227241700,
-    "totalMovingTime": 64464707,
-    "totalElevation": 1666633.6
+    "totalDistance": 227307900,
+    "totalMovingTime": 64487327,
+    "totalElevation": 1667034.6
   },
   "monthStats": {
-    "totalDistance": 29790800,
-    "totalMovingTime": 8526060,
+    "totalDistance": 29857000,
+    "totalMovingTime": 8548680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1062100,
-    "totalMovingTime": 307740,
-    "count": 96
+    "totalDistance": 1128300,
+    "totalMovingTime": 330360,
+    "count": 104
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 211444.7,
+    "measuredDistanceKm": 211510.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20649234820",
+        "name": "Abendradfahrt",
+        "date": "October 19, 2026",
+        "distanceKm": 8.7,
+        "stats": [
+          "8.7 km",
+          "19:55",
+          "79 m"
+        ]
+      },
+      {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
-        "activityId": "20648609676",
-        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+        "activityId": "20648915475",
+        "name": "Zwift - Tick Tock in Watopia",
         "date": "October 19, 2026",
-        "distanceKm": 13.1,
+        "distanceKm": 10.1,
         "stats": [
-          "13.1 km",
-          "23:45",
-          "97 m"
+          "10.1 km",
+          "18:59",
+          "20 m"
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20648788151",
-        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20649009788",
+        "name": "Zwift - Pacer Group Ride with Dani",
         "date": "October 19, 2026",
-        "distanceKm": 17.2,
+        "distanceKm": 20.4,
         "stats": [
-          "17.2 km",
-          "39:31",
-          "106 m"
+          "20.4 km",
+          "35:48",
+          "102 m"
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20648620878",
-        "name": "Öğleden Sonra Koşu",
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20648966998",
+        "name": "Afternoon Walk",
         "date": "October 19, 2026",
-        "distanceKm": 10,
+        "distanceKm": 6.3,
         "stats": [
-          "10.0 km",
-          "1:00:22",
-          "337 m"
+          "6.3 km",
+          "1:01:08",
+          "100 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "6.6 km",
           "2:18:37",
           "151 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20648716178",
-        "name": "Camminata pomeridiana",
-        "date": "October 19, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "4:43:16",
-          "26 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 227241.7
+      "totalWithEstimatesKm": 227307.9
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T19:00:59.337Z",
+  "generatedAt": "2026-10-19T19:30:49.818Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 772255,
-    "percentComplete": 22.77,
+    "remainingKm": 772164,
+    "percentComplete": 22.78,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1565.1,
-    "thisWeekActivities": 156,
-    "thisWeekHours": 137,
-    "thisWeekElevationM": 12584,
-    "timesAroundEarth": 5.68,
-    "percentToMoon": 59.2,
+    "thisWeekKm": 1656.7,
+    "thisWeekActivities": 168,
+    "thisWeekHours": 145,
+    "thisWeekElevationM": 12883,
+    "timesAroundEarth": 5.69,
+    "percentToMoon": 59.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 59.2,
-        "text": "59.2% of the way to the Moon",
+        "value": 59.3,
+        "text": "59.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 34.2,
-        "text": "34.2× the length of the Nile",
+        "value": 34.3,
+        "text": "34.3× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18556,
+  "totalActivities": 18569,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 227744700,
-    "totalMovingTime": 64650047,
-    "totalElevation": 1670513.6
+    "totalDistance": 227836300,
+    "totalMovingTime": 64680647,
+    "totalElevation": 1670812.6
   },
   "monthStats": {
-    "totalDistance": 30293800,
-    "totalMovingTime": 8711400,
+    "totalDistance": 30385400,
+    "totalMovingTime": 8742000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1565100,
-    "totalMovingTime": 493080,
-    "count": 156
+    "totalDistance": 1656700,
+    "totalMovingTime": 523680,
+    "count": 168
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 211947.7,
+    "measuredDistanceKm": 212039.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20651618312",
+        "name": "Sortie vélo 🚴‍♂️ de nuit🌛 to Renfo",
+        "date": "October 19, 2026",
+        "distanceKm": 2.6,
+        "stats": [
+          "2.6 km",
+          "7:15",
+          "4 m"
+        ]
+      },
       {
         "athlete": "Georg Weinig",
         "athleteId": "166650923",
@@ -124,15 +137,15 @@
         ]
       },
       {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20651074458",
-        "name": "Evening Weight Training",
+        "athlete": "Shubham Kumar",
+        "athleteId": "161648421",
+        "activityId": "20651504994",
+        "name": "[Indoor] Evening Run",
         "date": "October 19, 2026",
-        "distanceKm": 0,
+        "distanceKm": 10,
         "stats": [
-          "0 km",
-          "46:57",
+          "10.0 km",
+          "1:01:26",
           "0 m"
         ]
       },
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20650862581",
-        "name": "Yoga am Abend",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20651633596",
+        "name": "Abendschwimmen",
         "date": "October 19, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1.8,
         "stats": [
-          "0 km",
-          "1:05:27",
+          "1.8 km",
+          "48:43",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20650482687",
-        "name": "Abendradfahrt ☁",
-        "date": "October 19, 2026",
-        "distanceKm": 22.2,
-        "stats": [
-          "22.2 km",
-          "57:12",
-          "35 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 227744.7
+      "totalWithEstimatesKm": 227836.3
     }
   }
 }

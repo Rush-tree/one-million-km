@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-10-19T03:30:47.767Z",
+  "generatedAt": "2026-10-19T04:00:59.629Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-19T03:30:47.767Z",
+  "memberCountUpdatedAt": "2026-10-19T04:00:59.629Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 9,
-    "distanceKm": 97.5,
-    "elevationM": 280,
-    "movingSeconds": 31500,
+    "activities": 11,
+    "distanceKm": 112.5,
+    "elevationM": 304,
+    "movingSeconds": 38340,
     "raw": {
-      "activities": "9",
-      "distance": "97.5 km",
-      "time": "8 h 45 m",
-      "elevation": "280 m"
+      "activities": "11",
+      "distance": "112.5 km",
+      "time": "10 h 39 m",
+      "elevation": "304 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20642620598",
+      "name": "Gewichtstraining am Morgen",
+      "date": "October 19, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "27:53",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20642522996",
-      "name": "Gravel",
+      "name": "Work",
       "date": "October 19, 2026",
       "distanceKm": 6.1,
       "stats": [
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Jara Baumann",
-      "athleteId": "32588016",
-      "activityId": "20642282499",
-      "name": "Abs workout",
+      "athlete": "Amit Zadka",
+      "athleteId": "25927820",
+      "activityId": "20642587439",
+      "name": "Morning Run",
       "date": "October 19, 2026",
-      "distanceKm": 0,
+      "distanceKm": 15,
       "stats": [
-        "0 km",
-        "1:05:00",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20642333777",
-      "name": "⛅ Monday Morning Ride",
-      "date": "October 19, 2026",
-      "distanceKm": 62.9,
-      "stats": [
-        "62.9 km",
-        "2:49:50",
-        "150 m"
+        "15.0 km",
+        "1:31:42",
+        "24 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 87472,
-  "totalDistanceKm": 210480.1,
+  "observedWeeksKm": 87487,
+  "totalDistanceKm": 210495.1,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 226277.1
+    "totalWithEstimatesKm": 226292.1
   }
 }

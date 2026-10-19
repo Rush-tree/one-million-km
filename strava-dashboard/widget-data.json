@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-19T13:01:01.555Z",
+  "generatedAt": "2026-10-19T13:30:49.291Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-19T13:01:01.555Z",
+  "memberCountUpdatedAt": "2026-10-19T13:30:49.291Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 66,
-    "distanceKm": 686,
-    "elevationM": 4413,
-    "movingSeconds": 185760,
+    "activities": 70,
+    "distanceKm": 725,
+    "elevationM": 4502,
+    "movingSeconds": 196260,
     "raw": {
-      "activities": "66",
-      "distance": "686.0 km",
-      "time": "51 h 36 m",
-      "elevation": "4,413 m"
+      "activities": "70",
+      "distance": "725.0 km",
+      "time": "54 h 31 m",
+      "elevation": "4,502 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20646952333",
+      "name": "Spaziergang am Nachmittag",
+      "date": "October 19, 2026",
+      "distanceKm": 3,
+      "stats": [
+        "3.0 km",
+        "31:57",
+        "6 m"
+      ]
+    },
     {
       "athlete": "Jasper Mermans",
       "athleteId": "25786886",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "René Rosenberger",
+      "athleteId": "757098365",
+      "activityId": "20646867649",
+      "name": "Fahrt am Nachmittag",
+      "date": "October 19, 2026",
+      "distanceKm": 29,
+      "stats": [
+        "29.0 km",
+        "1:08:19",
+        "72 m"
+      ]
+    },
+    {
       "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
       "athleteId": "78581066",
       "activityId": "20646634197",
@@ -56,32 +82,6 @@
         "2:02:37",
         "197 m"
       ]
-    },
-    {
-      "athlete": "Anja Habermeier",
-      "athleteId": "80382525",
-      "activityId": "20646498425",
-      "name": "Cala Sant Vicenç",
-      "date": "October 19, 2026",
-      "distanceKm": 22.5,
-      "stats": [
-        "22.5 km",
-        "1:59:46",
-        "134 m"
-      ]
-    },
-    {
-      "athlete": "Adriano Perri",
-      "athleteId": "99629318",
-      "activityId": "20646335732",
-      "name": "Autumn Walk ☀️🍁",
-      "date": "October 19, 2026",
-      "distanceKm": 10.5,
-      "stats": [
-        "10.5 km",
-        "3:07:30",
-        "169 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 88060.5,
-  "totalDistanceKm": 211068.6,
+  "observedWeeksKm": 88099.5,
+  "totalDistanceKm": 211107.6,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 226865.6
+    "totalWithEstimatesKm": 226904.6
   }
 }

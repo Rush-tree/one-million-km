@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-19T10:30:51.100Z",
+  "generatedAt": "2026-10-19T11:00:58.352Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-19T10:30:51.100Z",
+  "memberCountUpdatedAt": "2026-10-19T11:00:58.352Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 53,
-    "distanceKm": 470.4,
-    "elevationM": 2304,
-    "movingSeconds": 135660,
+    "activities": 55,
+    "distanceKm": 488.4,
+    "elevationM": 2562,
+    "movingSeconds": 139560,
     "raw": {
-      "activities": "53",
-      "distance": "470.4 km",
-      "time": "37 h 41 m",
-      "elevation": "2,304 m"
+      "activities": "55",
+      "distance": "488.4 km",
+      "time": "38 h 46 m",
+      "elevation": "2,562 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "René Sauer",
+      "athleteId": "190842154",
+      "activityId": "20645108013",
+      "name": "Zwift - FTP Test [Standard]",
+      "date": "October 19, 2026",
+      "distanceKm": 16.5,
+      "stats": [
+        "16.5 km",
+        "45:09",
+        "249 m"
+      ]
+    },
     {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
@@ -32,16 +45,16 @@
       ]
     },
     {
-      "athlete": "Gisbert Drumm",
-      "athleteId": "10905376",
-      "activityId": "20644498571",
-      "name": "Lauf am Morgen",
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20645138985",
+      "name": "Lunch Walk",
       "date": "October 19, 2026",
-      "distanceKm": 6,
+      "distanceKm": 1.4,
       "stats": [
-        "6.0 km",
-        "36:46",
-        "105 m"
+        "1.4 km",
+        "19:59",
+        "9 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "43:31",
         "58 m"
       ]
-    },
-    {
-      "athlete": "# MarshmallowBen",
-      "athleteId": "114783849",
-      "activityId": "20644475558",
-      "name": "Minionrunde",
-      "date": "October 19, 2026",
-      "distanceKm": 31.7,
-      "stats": [
-        "31.7 km",
-        "1:33:30",
-        "205 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 87844.9,
-  "totalDistanceKm": 210853,
+  "observedWeeksKm": 87862.9,
+  "totalDistanceKm": 210871,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 226650
+    "totalWithEstimatesKm": 226668
   }
 }

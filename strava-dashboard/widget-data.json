@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-19T03:01:00.810Z",
+  "generatedAt": "2026-10-19T03:30:47.767Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-19T03:01:00.810Z",
+  "memberCountUpdatedAt": "2026-10-19T03:30:47.767Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 7,
-    "distanceKm": 67.9,
-    "elevationM": 177,
-    "movingSeconds": 27360,
+    "activities": 9,
+    "distanceKm": 97.5,
+    "elevationM": 280,
+    "movingSeconds": 31500,
     "raw": {
-      "activities": "7",
-      "distance": "67.9 km",
-      "time": "7 h 36 m",
-      "elevation": "177 m"
+      "activities": "9",
+      "distance": "97.5 km",
+      "time": "8 h 45 m",
+      "elevation": "280 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20642522996",
+      "name": "Gravel",
+      "date": "October 19, 2026",
+      "distanceKm": 6.1,
+      "stats": [
+        "6.1 km",
+        "14:59",
+        "14 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -69,19 +82,6 @@
         "2:49:50",
         "150 m"
       ]
-    },
-    {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20641401928",
-      "name": "Evening Walk",
-      "date": "October 18, 2026",
-      "distanceKm": 2.9,
-      "stats": [
-        "2.9 km",
-        "6:26:19",
-        "8 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 87442.4,
-  "totalDistanceKm": 210450.5,
+  "observedWeeksKm": 87472,
+  "totalDistanceKm": 210480.1,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 226247.5
+    "totalWithEstimatesKm": 226277.1
   }
 }

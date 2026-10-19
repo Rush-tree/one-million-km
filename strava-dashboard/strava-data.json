@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-19T12:01:00.981Z",
+  "generatedAt": "2026-10-19T12:30:52.586Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 773200,
+    "remainingKm": 773161,
     "percentComplete": 22.68,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 620.4,
-    "thisWeekActivities": 59,
-    "thisWeekHours": 44,
-    "thisWeekElevationM": 3751,
+    "thisWeekKm": 659.6,
+    "thisWeekActivities": 62,
+    "thisWeekHours": 48,
+    "thisWeekElevationM": 4133,
     "timesAroundEarth": 5.66,
     "percentToMoon": 59,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18454,
+  "totalActivities": 18457,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 226800000,
-    "totalMovingTime": 64316267,
-    "totalElevation": 1661680.6
+    "totalDistance": 226839200,
+    "totalMovingTime": 64330787,
+    "totalElevation": 1662062.6
   },
   "monthStats": {
-    "totalDistance": 29349100,
-    "totalMovingTime": 8377620,
+    "totalDistance": 29388300,
+    "totalMovingTime": 8392140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 620400,
-    "totalMovingTime": 159300,
-    "count": 59
+    "totalDistance": 659600,
+    "totalMovingTime": 173820,
+    "count": 62
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 211003,
+    "measuredDistanceKm": 211042.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20646350899",
+        "name": "Lauf am Nachmittag",
+        "date": "October 19, 2026",
+        "distanceKm": 6.1,
+        "stats": [
+          "6.1 km",
+          "38:44",
+          "79 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -121,6 +134,19 @@
           "7.9 km",
           "18:43",
           "44 m"
+        ]
+      },
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20646498425",
+        "name": "Mittagsradfahrt",
+        "date": "October 19, 2026",
+        "distanceKm": 22.5,
+        "stats": [
+          "22.5 km",
+          "1:59:46",
+          "134 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "René Sauer",
-        "athleteId": "190842154",
-        "activityId": "20645108013",
-        "name": "Zwift - FTP Test [Standard]",
+        "athlete": "Adriano Perri",
+        "athleteId": "99629318",
+        "activityId": "20646335732",
+        "name": "Lunch Walk",
         "date": "October 19, 2026",
-        "distanceKm": 16.5,
+        "distanceKm": 10.5,
         "stats": [
-          "16.5 km",
-          "45:09",
-          "249 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20645576091",
-        "name": "Mittagsradfahrt",
-        "date": "October 19, 2026",
-        "distanceKm": 42.6,
-        "stats": [
-          "42.6 km",
-          "1:31:49",
-          "631 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20644697538",
-        "name": "Lauf",
-        "date": "October 19, 2026",
-        "distanceKm": 6.7,
-        "stats": [
-          "6.7 km",
-          "43:31",
-          "58 m"
+          "10.5 km",
+          "3:07:30",
+          "169 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 226800
+      "totalWithEstimatesKm": 226839.2
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-19T12:01:00.981Z",
+  "generatedAt": "2026-10-19T12:30:52.586Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-19T12:01:00.980Z",
+  "memberCountUpdatedAt": "2026-10-19T12:30:52.586Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 59,
-    "distanceKm": 620.4,
-    "elevationM": 3751,
-    "movingSeconds": 159300,
+    "activities": 62,
+    "distanceKm": 659.6,
+    "elevationM": 4133,
+    "movingSeconds": 173820,
     "raw": {
-      "activities": "59",
-      "distance": "620.4 km",
-      "time": "44 h 15 m",
-      "elevation": "3,751 m"
+      "activities": "62",
+      "distance": "659.6 km",
+      "time": "48 h 17 m",
+      "elevation": "4,133 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Manfred H",
+      "athleteId": "85517467",
+      "activityId": "20646350899",
+      "name": "Lauf am Nachmittag",
+      "date": "October 19, 2026",
+      "distanceKm": 6.1,
+      "stats": [
+        "6.1 km",
+        "38:44",
+        "79 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -29,6 +42,19 @@
         "7.9 km",
         "18:43",
         "44 m"
+      ]
+    },
+    {
+      "athlete": "Anja Habermeier",
+      "athleteId": "80382525",
+      "activityId": "20646498425",
+      "name": "Mittagsradfahrt",
+      "date": "October 19, 2026",
+      "distanceKm": 22.5,
+      "stats": [
+        "22.5 km",
+        "1:59:46",
+        "134 m"
       ]
     },
     {
@@ -45,42 +71,16 @@
       ]
     },
     {
-      "athlete": "René Sauer",
-      "athleteId": "190842154",
-      "activityId": "20645108013",
-      "name": "Zwift - FTP Test [Standard]",
+      "athlete": "Adriano Perri",
+      "athleteId": "99629318",
+      "activityId": "20646335732",
+      "name": "Lunch Walk",
       "date": "October 19, 2026",
-      "distanceKm": 16.5,
+      "distanceKm": 10.5,
       "stats": [
-        "16.5 km",
-        "45:09",
-        "249 m"
-      ]
-    },
-    {
-      "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-      "athleteId": "129712916",
-      "activityId": "20645576091",
-      "name": "Mittagsradfahrt",
-      "date": "October 19, 2026",
-      "distanceKm": 42.6,
-      "stats": [
-        "42.6 km",
-        "1:31:49",
-        "631 m"
-      ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20644697538",
-      "name": "Lauf",
-      "date": "October 19, 2026",
-      "distanceKm": 6.7,
-      "stats": [
-        "6.7 km",
-        "43:31",
-        "58 m"
+        "10.5 km",
+        "3:07:30",
+        "169 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 87994.9,
-  "totalDistanceKm": 211003,
+  "observedWeeksKm": 88034.1,
+  "totalDistanceKm": 211042.2,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 226800
+    "totalWithEstimatesKm": 226839.2
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-19T11:30:50.044Z",
+  "generatedAt": "2026-10-19T12:01:00.981Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-19T11:30:50.043Z",
+  "memberCountUpdatedAt": "2026-10-19T12:01:00.980Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 58,
-    "distanceKm": 612.5,
-    "elevationM": 3707,
-    "movingSeconds": 158220,
+    "activities": 59,
+    "distanceKm": 620.4,
+    "elevationM": 3751,
+    "movingSeconds": 159300,
     "raw": {
-      "activities": "58",
-      "distance": "612.5 km",
-      "time": "43 h 57 m",
-      "elevation": "3,707 m"
+      "activities": "59",
+      "distance": "620.4 km",
+      "time": "44 h 15 m",
+      "elevation": "3,751 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "20645967087",
+      "name": "Fahrt am Nachmittag",
+      "date": "October 19, 2026",
+      "distanceKm": 7.9,
+      "stats": [
+        "7.9 km",
+        "18:43",
+        "44 m"
+      ]
+    },
     {
       "athlete": "Ralf Rogall",
       "athleteId": "105597565",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20644655147",
-      "name": "Mittagspaziergang",
-      "date": "October 19, 2026",
-      "distanceKm": 1.5,
-      "stats": [
-        "1.5 km",
-        "17:14",
-        "22 m"
-      ]
-    },
-    {
       "athlete": "Nico Hoßfeld",
       "athleteId": "177308499",
       "activityId": "20644697538",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 87987,
-  "totalDistanceKm": 210995.1,
+  "observedWeeksKm": 87994.9,
+  "totalDistanceKm": 211003,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 226792.1
+    "totalWithEstimatesKm": 226800
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T23:00:56.393Z",
+  "generatedAt": "2026-10-19T23:30:43.652Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1738,
-    "thisWeekActivities": 178,
+    "thisWeekKm": 1738.8,
+    "thisWeekActivities": 179,
     "thisWeekHours": 153,
-    "thisWeekElevationM": 13461,
+    "thisWeekElevationM": 13495,
     "timesAroundEarth": 5.69,
     "percentToMoon": 59.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18579,
+  "totalActivities": 18580,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 227917600,
-    "totalMovingTime": 64705967,
-    "totalElevation": 1671390.6
+    "totalDistance": 227918400,
+    "totalMovingTime": 64706627,
+    "totalElevation": 1671424.6
   },
   "monthStats": {
-    "totalDistance": 30466700,
-    "totalMovingTime": 8767320,
+    "totalDistance": 30467500,
+    "totalMovingTime": 8767980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1738000,
-    "totalMovingTime": 549000,
-    "count": 178
+    "totalDistance": 1738800,
+    "totalMovingTime": 549660,
+    "count": 179
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212120.6,
+    "measuredDistanceKm": 212121.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20653714629",
+        "name": "Caminhada ao entardecer",
+        "date": "October 19, 2026",
+        "distanceKm": 0.7,
+        "stats": [
+          "0.7 km",
+          "11:48",
+          "34 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -161,19 +174,6 @@
           "41:30",
           "40 m"
         ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20652070761",
-        "name": "Sortie vélo ☔🚴‍♂️ de nuit 🌛 retour du Renfooo",
-        "date": "October 19, 2026",
-        "distanceKm": 3.3,
-        "stats": [
-          "3.3 km",
-          "10:11",
-          "6 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 227917.6
+      "totalWithEstimatesKm": 227918.4
     }
   }
 }

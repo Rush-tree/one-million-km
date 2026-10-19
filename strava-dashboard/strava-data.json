@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-19T07:00:57.902Z",
+  "generatedAt": "2026-10-19T08:00:59.245Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 773566,
-    "percentComplete": 22.64,
+    "remainingKm": 773444,
+    "percentComplete": 22.66,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 254.9,
-    "thisWeekActivities": 36,
-    "thisWeekHours": 24,
-    "thisWeekElevationM": 1273,
+    "thisWeekKm": 376.1,
+    "thisWeekActivities": 39,
+    "thisWeekHours": 29,
+    "thisWeekElevationM": 1400,
     "timesAroundEarth": 5.65,
     "percentToMoon": 58.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18432,
+  "totalActivities": 18434,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 226434500,
-    "totalMovingTime": 64243067,
-    "totalElevation": 1659202.6
+    "totalDistance": 226555700,
+    "totalMovingTime": 64259567,
+    "totalElevation": 1659329.6
   },
   "monthStats": {
-    "totalDistance": 28983600,
-    "totalMovingTime": 8304420,
+    "totalDistance": 29104800,
+    "totalMovingTime": 8320920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 254900,
-    "totalMovingTime": 86100,
-    "count": 36
+    "totalDistance": 376100,
+    "totalMovingTime": 102600,
+    "count": 39
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 210637.5,
+    "measuredDistanceKm": 210758.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -113,27 +113,40 @@
       {
         "athlete": "Jürgen Bootsmann",
         "athleteId": "30645305",
-        "activityId": "20643444935",
-        "name": "Zwift - Jürgen Bootsmann ( R2 )'s Meetup on Tick Tock in Watopia",
+        "activityId": "20643847328",
+        "name": "Zwift - Moritz Lerch's Meetup on Tick Tock in Watopia",
         "date": "October 19, 2026",
-        "distanceKm": 2.2,
+        "distanceKm": 31.8,
         "stats": [
-          "2.2 km",
-          "11:03",
-          "5 m"
+          "31.8 km",
+          "1:00:59",
+          "90 m"
         ]
       },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
-        "activityId": "20643438677",
-        "name": "Zwift - Jürgen Bootsmann ( R2 )'s Meetup on Tick Tock in Watopia",
+        "activityId": "20643870287",
+        "name": "Zwift - Moritz Lerch's Meetup on Tick Tock in Watopia",
         "date": "October 19, 2026",
-        "distanceKm": 3.1,
+        "distanceKm": 33,
         "stats": [
-          "3.1 km",
-          "14:04",
-          "7 m"
+          "33.0 km",
+          "1:04:18",
+          "102 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20643864679",
+        "name": "Fahrt am Morgen",
+        "date": "October 19, 2026",
+        "distanceKm": 31.7,
+        "stats": [
+          "31.7 km",
+          "1:34:21",
+          "0 m"
         ]
       },
       {
@@ -152,27 +165,14 @@
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
-        "activityId": "20643328406",
-        "name": "Zwift - Tick Tock in Watopia",
+        "activityId": "20643898405",
+        "name": "Fahrt am Morgen",
         "date": "October 19, 2026",
-        "distanceKm": 5.8,
+        "distanceKm": 36,
         "stats": [
-          "5.8 km",
-          "12:43",
-          "11 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20643521903",
-        "name": "Morning Ride",
-        "date": "October 19, 2026",
-        "distanceKm": 11.7,
-        "stats": [
-          "11.7 km",
-          "45:32",
-          "65 m"
+          "36.0 km",
+          "1:41:43",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 226434.5
+      "totalWithEstimatesKm": 226555.7
     }
   }
 }

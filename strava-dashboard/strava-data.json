@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T14:00:59.829Z",
+  "generatedAt": "2026-10-20T14:30:49.275Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771202,
-    "percentComplete": 22.88,
+    "remainingKm": 771142,
+    "percentComplete": 22.89,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2618.6,
-    "thisWeekActivities": 256,
-    "thisWeekHours": 225,
-    "thisWeekElevationM": 20814,
+    "thisWeekKm": 2678.2,
+    "thisWeekActivities": 268,
+    "thisWeekHours": 233,
+    "thisWeekElevationM": 21333,
     "timesAroundEarth": 5.71,
     "percentToMoon": 59.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18659,
+  "totalActivities": 18673,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228798200,
-    "totalMovingTime": 64967807,
-    "totalElevation": 1678743.6
+    "totalDistance": 228857800,
+    "totalMovingTime": 64996967,
+    "totalElevation": 1679262.6
   },
   "monthStats": {
-    "totalDistance": 31347300,
-    "totalMovingTime": 9029160,
+    "totalDistance": 31406900,
+    "totalMovingTime": 9058320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2618600,
-    "totalMovingTime": 810840,
-    "count": 256
+    "totalDistance": 2678200,
+    "totalMovingTime": 840000,
+    "count": 268
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 213001.2,
+    "measuredDistanceKm": 213060.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20661598081",
+        "name": "Ettermiddag med sykkeltur",
+        "date": "October 20, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "14:41",
+          "53 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20661450363",
+        "name": "Afternoon Walk",
+        "date": "October 20, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "44:16",
+          "18 m"
+        ]
+      },
+      {
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20661486994",
+        "name": "Afternoon Weight Training",
+        "date": "October 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:00:39",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -135,45 +174,6 @@
           "45:58",
           "0 m"
         ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20660493128",
-        "name": "Afternoon Walk",
-        "date": "October 20, 2026",
-        "distanceKm": 1.6,
-        "stats": [
-          "1.6 km",
-          "27:22",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20660981319",
-        "name": "Gestern Puma, heute Jaguar 🐱 🐈 - allcatsarebeautyful",
-        "date": "October 20, 2026",
-        "distanceKm": 25.2,
-        "stats": [
-          "25.2 km",
-          "2:29:05",
-          "342 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20660916870",
-        "name": "Mountainbike.....",
-        "date": "October 20, 2026",
-        "distanceKm": 43,
-        "stats": [
-          "43.0 km",
-          "2:32:56",
-          "848 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228798.2
+      "totalWithEstimatesKm": 228857.8
     }
   }
 }

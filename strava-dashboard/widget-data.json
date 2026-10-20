@@ -1,34 +1,60 @@
 {
-  "generatedAt": "2026-10-20T08:30:50.877Z",
+  "generatedAt": "2026-10-20T09:00:56.748Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-20T08:30:50.877Z",
+  "memberCountUpdatedAt": "2026-10-20T09:00:56.748Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 218,
-    "distanceKm": 2118.2,
-    "elevationM": 15934,
-    "movingSeconds": 663120,
+    "activities": 221,
+    "distanceKm": 2161.4,
+    "elevationM": 16286,
+    "movingSeconds": 674400,
     "raw": {
-      "activities": "218",
-      "distance": "2,118.2 km",
-      "time": "184 h 12 m",
-      "elevation": "15,934 m"
+      "activities": "221",
+      "distance": "2,161.4 km",
+      "time": "187 h 20 m",
+      "elevation": "16,286 m"
     }
   },
   "latestActivities": [
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
-      "activityId": "20657272386",
+      "activityId": "20657587454",
       "name": "Pedalada matinal",
+      "date": "October 20, 2026",
+      "distanceKm": 13,
+      "stats": [
+        "13.0 km",
+        "42:49",
+        "150 m"
+      ]
+    },
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20657542566",
+      "name": "HIIT matinal",
       "date": "October 20, 2026",
       "distanceKm": 0,
       "stats": [
-        "0.0 km",
-        "1:25",
+        "0 km",
+        "46:49",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20657508754",
+      "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+      "date": "October 20, 2026",
+      "distanceKm": 30.2,
+      "stats": [
+        "30.2 km",
+        "1:03:13",
+        "202 m"
       ]
     },
     {
@@ -45,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "20656545171",
-      "name": "Morning Walk",
-      "date": "October 20, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "56:47",
-        "84 m"
-      ]
-    },
-    {
       "athlete": "Mangala Pai",
       "athleteId": "118301293",
       "activityId": "20657269895",
@@ -69,19 +82,6 @@
         "6:22:55",
         "5 m"
       ]
-    },
-    {
-      "athlete": "# MarshmallowBen",
-      "athleteId": "114783849",
-      "activityId": "20656604209",
-      "name": "Morgenausfahrt",
-      "date": "October 20, 2026",
-      "distanceKm": 16.9,
-      "stats": [
-        "16.9 km",
-        "44:53",
-        "18 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 89492.7,
-  "totalDistanceKm": 212500.8,
+  "observedWeeksKm": 89535.9,
+  "totalDistanceKm": 212544,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 228297.8
+    "totalWithEstimatesKm": 228341
   }
 }

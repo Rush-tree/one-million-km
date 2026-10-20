@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T05:00:59.315Z",
+  "generatedAt": "2026-10-20T05:30:47.423Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771836,
+    "remainingKm": 771802,
     "percentComplete": 22.82,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1984.4,
-    "thisWeekActivities": 194,
-    "thisWeekHours": 169,
-    "thisWeekElevationM": 14172,
+    "thisWeekKm": 2018.1,
+    "thisWeekActivities": 202,
+    "thisWeekHours": 175,
+    "thisWeekElevationM": 14658,
     "timesAroundEarth": 5.69,
     "percentToMoon": 59.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18595,
+  "totalActivities": 18604,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228164000,
-    "totalMovingTime": 64766387,
-    "totalElevation": 1672101.6
+    "totalDistance": 228197700,
+    "totalMovingTime": 64786907,
+    "totalElevation": 1672587.6
   },
   "monthStats": {
-    "totalDistance": 30713100,
-    "totalMovingTime": 8827740,
+    "totalDistance": 30746800,
+    "totalMovingTime": 8848260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1984400,
-    "totalMovingTime": 609420,
-    "count": 194
+    "totalDistance": 2018100,
+    "totalMovingTime": 629940,
+    "count": 202
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212367,
+    "measuredDistanceKm": 212400.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,29 +124,42 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20655897733",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20656124726",
+        "name": "Morning Walk",
+        "date": "October 20, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "27:40",
+          "21 m"
+        ]
+      },
+      {
+        "athlete": "Rareș Brânzoi",
+        "athleteId": "4792098",
+        "activityId": "20656137758",
+        "name": "Morning Run",
+        "date": "October 20, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "46:33",
+          "84 m"
+        ]
+      },
+      {
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20656124720",
+        "name": "Morning Weight Training",
         "date": "October 20, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "27:23",
+          "1:01:37",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20655914652",
-        "name": "Corsa con Sprint",
-        "date": "October 20, 2026",
-        "distanceKm": 10.7,
-        "stats": [
-          "10.7 km",
-          "54:34",
-          "13 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "14.4 km",
           "1:20:46",
           "46 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20655796332",
-        "name": "🌥️ Tuesday Morning Ride",
-        "date": "October 20, 2026",
-        "distanceKm": 67.5,
-        "stats": [
-          "67.5 km",
-          "4:14:30",
-          "133 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228164
+      "totalWithEstimatesKm": 228197.7
     }
   }
 }

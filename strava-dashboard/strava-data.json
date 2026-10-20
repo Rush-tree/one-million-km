@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T01:00:55.790Z",
+  "generatedAt": "2026-10-20T01:30:44.085Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 772082,
+    "remainingKm": 772059,
     "percentComplete": 22.79,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1738.8,
-    "thisWeekActivities": 180,
+    "thisWeekKm": 1761.2,
+    "thisWeekActivities": 181,
     "thisWeekHours": 154,
-    "thisWeekElevationM": 13495,
+    "thisWeekElevationM": 13540,
     "timesAroundEarth": 5.69,
     "percentToMoon": 59.3,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 227918400,
-    "totalMovingTime": 64709567,
-    "totalElevation": 1671424.6
+    "totalDistance": 227940800,
+    "totalMovingTime": 64712747,
+    "totalElevation": 1671469.6
   },
   "monthStats": {
-    "totalDistance": 30467500,
-    "totalMovingTime": 8770920,
+    "totalDistance": 30489900,
+    "totalMovingTime": 8774100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1738800,
-    "totalMovingTime": 552600,
-    "count": 180
+    "totalDistance": 1761200,
+    "totalMovingTime": 555780,
+    "count": 181
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212121.4,
+    "measuredDistanceKm": 212143.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20654924492",
+        "name": "Nachtradfahrt 🌙",
+        "date": "October 20, 2026",
+        "distanceKm": 22.3,
+        "stats": [
+          "22.3 km",
+          "53:02",
+          "45 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -161,19 +174,6 @@
           "1:08:50",
           "82 m"
         ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20652540799",
-        "name": "Doeme eh, valt die batterij nog uit 🤦",
-        "date": "October 19, 2026",
-        "distanceKm": 14.4,
-        "stats": [
-          "14.4 km",
-          "41:30",
-          "40 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 227918.4
+      "totalWithEstimatesKm": 227940.8
     }
   }
 }

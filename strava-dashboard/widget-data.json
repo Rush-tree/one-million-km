@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-20T01:00:55.790Z",
+  "generatedAt": "2026-10-20T01:30:44.085Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-20T01:00:55.789Z",
+  "memberCountUpdatedAt": "2026-10-20T01:30:44.085Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 180,
-    "distanceKm": 1738.8,
-    "elevationM": 13495,
-    "movingSeconds": 552600,
+    "activities": 181,
+    "distanceKm": 1761.2,
+    "elevationM": 13540,
+    "movingSeconds": 555780,
     "raw": {
-      "activities": "180",
-      "distance": "1,738.8 km",
-      "time": "153 h 30 m",
-      "elevation": "13,495 m"
+      "activities": "181",
+      "distance": "1,761.2 km",
+      "time": "154 h 23 m",
+      "elevation": "13,540 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "André Brune",
+      "athleteId": "4536289",
+      "activityId": "20654924492",
+      "name": "Nachtradfahrt 🌙",
+      "date": "October 20, 2026",
+      "distanceKm": 22.3,
+      "stats": [
+        "22.3 km",
+        "53:02",
+        "45 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -69,19 +82,6 @@
         "1:08:50",
         "82 m"
       ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20652540799",
-      "name": "Doeme eh, valt die batterij nog uit 🤦",
-      "date": "October 19, 2026",
-      "distanceKm": 14.4,
-      "stats": [
-        "14.4 km",
-        "41:30",
-        "40 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 89113.3,
-  "totalDistanceKm": 212121.4,
+  "observedWeeksKm": 89135.7,
+  "totalDistanceKm": 212143.8,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 227918.4
+    "totalWithEstimatesKm": 227940.8
   }
 }

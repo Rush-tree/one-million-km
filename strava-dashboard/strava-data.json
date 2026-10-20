@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T17:00:58.784Z",
+  "generatedAt": "2026-10-20T17:30:46.727Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 770620,
+    "remainingKm": 770558,
     "percentComplete": 22.94,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3200.4,
-    "thisWeekActivities": 310,
-    "thisWeekHours": 269,
-    "thisWeekElevationM": 25122,
-    "timesAroundEarth": 5.72,
+    "thisWeekKm": 3262.7,
+    "thisWeekActivities": 317,
+    "thisWeekHours": 273,
+    "thisWeekElevationM": 25449,
+    "timesAroundEarth": 5.73,
     "percentToMoon": 59.7,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18715,
+  "totalActivities": 18722,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 229380000,
-    "totalMovingTime": 65125127,
-    "totalElevation": 1683051.6
+    "totalDistance": 229442300,
+    "totalMovingTime": 65137967,
+    "totalElevation": 1683378.6
   },
   "monthStats": {
-    "totalDistance": 31929100,
-    "totalMovingTime": 9186480,
+    "totalDistance": 31991400,
+    "totalMovingTime": 9199320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3200400,
-    "totalMovingTime": 968160,
-    "count": 310
+    "totalDistance": 3262700,
+    "totalMovingTime": 981000,
+    "count": 317
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 213583,
+    "measuredDistanceKm": 213645.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20663924599",
+        "name": "Afternoon Walk",
+        "date": "October 20, 2026",
+        "distanceKm": 1.9,
+        "stats": [
+          "1.9 km",
+          "32:35",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20663891535",
+        "name": "Wandelen om te gaan zwemmen... 🤦",
+        "date": "October 20, 2026",
+        "distanceKm": 3.3,
+        "stats": [
+          "3.3 km",
+          "36:37",
+          "5 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -121,32 +147,6 @@
           "12.3 km",
           "27:25",
           "31 m"
-        ]
-      },
-      {
-        "athlete": "Werner Hunold",
-        "athleteId": "372952540",
-        "activityId": "20663527383",
-        "name": "Wieder Laufband session",
-        "date": "October 20, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "36:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20663433343",
-        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
-        "date": "October 20, 2026",
-        "distanceKm": 19.1,
-        "stats": [
-          "19.1 km",
-          "38:48",
-          "136 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 229380
+      "totalWithEstimatesKm": 229442.3
     }
   }
 }

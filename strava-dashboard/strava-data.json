@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T18:00:57.203Z",
+  "generatedAt": "2026-10-20T18:30:54.588Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 770477,
-    "percentComplete": 22.95,
+    "remainingKm": 770236,
+    "percentComplete": 22.98,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3343,
-    "thisWeekActivities": 327,
-    "thisWeekHours": 278,
-    "thisWeekElevationM": 25893,
+    "thisWeekKm": 3584.9,
+    "thisWeekActivities": 348,
+    "thisWeekHours": 296,
+    "thisWeekElevationM": 26959,
     "timesAroundEarth": 5.73,
-    "percentToMoon": 59.7,
+    "percentToMoon": 59.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 59.7,
-        "text": "59.7% of the way to the Moon",
+        "value": 59.8,
+        "text": "59.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 34.5,
-        "text": "34.5× the length of the Nile",
+        "value": 34.6,
+        "text": "34.6× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 35.9,
-        "text": "35.9 return trips Berlin to New York",
+        "value": 36,
+        "text": "36 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18733,
+  "totalActivities": 18754,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 229522600,
-    "totalMovingTime": 65159267,
-    "totalElevation": 1683822.6
+    "totalDistance": 229764500,
+    "totalMovingTime": 65221307,
+    "totalElevation": 1684888.6
   },
   "monthStats": {
-    "totalDistance": 32071700,
-    "totalMovingTime": 9220620,
+    "totalDistance": 32313600,
+    "totalMovingTime": 9282660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3343000,
-    "totalMovingTime": 1002300,
-    "count": 327
+    "totalDistance": 3584900,
+    "totalMovingTime": 1064340,
+    "count": 348
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,74 +105,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 213725.6,
+    "measuredDistanceKm": 213967.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20664358874",
-        "name": "Evening Walk",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20664766116",
+        "name": "Zwift - Watopia",
         "date": "October 20, 2026",
-        "distanceKm": 0,
+        "distanceKm": 13.2,
         "stats": [
-          "0.0 km",
-          "1:28",
-          "0 m"
+          "13.2 km",
+          "26:40",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20664943048",
+        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 4 (C)",
+        "date": "October 20, 2026",
+        "distanceKm": 33.3,
+        "stats": [
+          "33.3 km",
+          "1:09:18",
+          "231 m"
+        ]
+      },
+      {
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "20664763307",
+        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 4 (C)",
+        "date": "October 20, 2026",
+        "distanceKm": 31,
+        "stats": [
+          "31.0 km",
+          "55:00",
+          "218 m"
+        ]
+      },
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20664770099",
+        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 4 (C)",
+        "date": "October 20, 2026",
+        "distanceKm": 32,
+        "stats": [
+          "32.0 km",
+          "55:38",
+          "226 m"
         ]
       },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
-        "activityId": "20664356864",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Open Dev Lime League Division 1 - Race 4 (B)",
+        "activityId": "20664826042",
+        "name": "Abendradfahrt",
         "date": "October 20, 2026",
-        "distanceKm": 28.8,
+        "distanceKm": 47.4,
         "stats": [
-          "28.8 km",
-          "44:44",
-          "213 m"
-        ]
-      },
-      {
-        "athlete": "Agata Borovska",
-        "athleteId": "129470144",
-        "activityId": "20664114024",
-        "name": "Evening run",
-        "date": "October 20, 2026",
-        "distanceKm": 7.3,
-        "stats": [
-          "7.3 km",
-          "49:33",
-          "11 m"
-        ]
-      },
-      {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20664328734",
-        "name": "mrc tuesday routine 🌀",
-        "date": "October 20, 2026",
-        "distanceKm": 11.6,
-        "stats": [
-          "11.6 km",
-          "1:33:09",
-          "74 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20664363888",
-        "name": "Abendlauf",
-        "date": "October 20, 2026",
-        "distanceKm": 6.7,
-        "stats": [
-          "6.7 km",
-          "44:23",
-          "53 m"
+          "47.4 km",
+          "2:07:32",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 229522.6
+      "totalWithEstimatesKm": 229764.5
     }
   }
 }

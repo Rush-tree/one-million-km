@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T14:30:49.275Z",
+  "generatedAt": "2026-10-20T15:00:58.532Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771142,
+    "remainingKm": 771050,
     "percentComplete": 22.89,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2678.2,
-    "thisWeekActivities": 268,
-    "thisWeekHours": 233,
-    "thisWeekElevationM": 21333,
+    "thisWeekKm": 2770,
+    "thisWeekActivities": 274,
+    "thisWeekHours": 239,
+    "thisWeekElevationM": 21721,
     "timesAroundEarth": 5.71,
-    "percentToMoon": 59.5,
+    "percentToMoon": 59.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 59.5,
-        "text": "59.5% of the way to the Moon",
+        "value": 59.6,
+        "text": "59.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 35.8,
-        "text": "35.8 return trips Berlin to New York",
+        "value": 35.9,
+        "text": "35.9 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18673,
+  "totalActivities": 18678,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228857800,
-    "totalMovingTime": 64996967,
-    "totalElevation": 1679262.6
+    "totalDistance": 228949600,
+    "totalMovingTime": 65017907,
+    "totalElevation": 1679650.6
   },
   "monthStats": {
-    "totalDistance": 31406900,
-    "totalMovingTime": 9058320,
+    "totalDistance": 31498700,
+    "totalMovingTime": 9079260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2678200,
-    "totalMovingTime": 840000,
-    "count": 268
+    "totalDistance": 2770000,
+    "totalMovingTime": 860940,
+    "count": 274
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 213060.8,
+    "measuredDistanceKm": 213152.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "4.4 km",
           "14:41",
           "53 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20661896102",
+        "name": "15Min Schwelle und ein bißchen Zone 3",
+        "date": "October 20, 2026",
+        "distanceKm": 10.1,
+        "stats": [
+          "10.1 km",
+          "47:53",
+          "8 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20661184093",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20661893465",
+        "name": "Gravel-Fahrt am Nachmittag",
         "date": "October 20, 2026",
-        "distanceKm": 13.9,
+        "distanceKm": 69.5,
         "stats": [
-          "13.9 km",
-          "48:08",
-          "129 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20660976525",
-        "name": "Gewichtstraining am Nachmittag",
-        "date": "October 20, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "45:58",
-          "0 m"
+          "69.5 km",
+          "3:50:27",
+          "219 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228857.8
+      "totalWithEstimatesKm": 228949.6
     }
   }
 }

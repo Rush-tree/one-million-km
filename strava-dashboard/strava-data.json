@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T06:00:55.957Z",
+  "generatedAt": "2026-10-20T06:30:46.329Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771777,
+    "remainingKm": 771755,
     "percentComplete": 22.82,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2043.6,
-    "thisWeekActivities": 209,
-    "thisWeekHours": 177,
-    "thisWeekElevationM": 14854,
-    "timesAroundEarth": 5.69,
+    "thisWeekKm": 2065.5,
+    "thisWeekActivities": 212,
+    "thisWeekHours": 179,
+    "thisWeekElevationM": 14956,
+    "timesAroundEarth": 5.7,
     "percentToMoon": 59.4,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18612,
+  "totalActivities": 18615,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228223200,
-    "totalMovingTime": 64794587,
-    "totalElevation": 1672783.6
+    "totalDistance": 228245100,
+    "totalMovingTime": 64802567,
+    "totalElevation": 1672885.6
   },
   "monthStats": {
-    "totalDistance": 30772300,
-    "totalMovingTime": 8855940,
+    "totalDistance": 30794200,
+    "totalMovingTime": 8863920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2043600,
-    "totalMovingTime": 637620,
-    "count": 209
+    "totalDistance": 2065500,
+    "totalMovingTime": 645600,
+    "count": 212
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212426.2,
+    "measuredDistanceKm": 212448.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Luca Oerter",
+        "athleteId": "168353611",
+        "activityId": "20656503556",
+        "name": "Morning Weight Training",
+        "date": "October 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "36:16",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Luca Oerter",
         "athleteId": "168353611",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20656255609",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20656545171",
+        "name": "Morning Walk",
         "date": "October 20, 2026",
-        "distanceKm": 0,
+        "distanceKm": 5,
         "stats": [
-          "0 km",
-          "9:47",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20656407055",
-        "name": "Spaziergang am Morgen",
-        "date": "October 20, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "29:22",
-          "51 m"
-        ]
-      },
-      {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20656137758",
-        "name": "Morning Run",
-        "date": "October 20, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "46:33",
+          "5.0 km",
+          "56:47",
           "84 m"
+        ]
+      },
+      {
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "20656604209",
+        "name": "Morgenausfahrt",
+        "date": "October 20, 2026",
+        "distanceKm": 16.9,
+        "stats": [
+          "16.9 km",
+          "44:53",
+          "18 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228223.2
+      "totalWithEstimatesKm": 228245.1
     }
   }
 }

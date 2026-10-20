@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-20T06:00:55.957Z",
+  "generatedAt": "2026-10-20T06:30:46.329Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-20T06:00:55.957Z",
+  "memberCountUpdatedAt": "2026-10-20T06:30:46.329Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 209,
-    "distanceKm": 2043.6,
-    "elevationM": 14854,
-    "movingSeconds": 637620,
+    "activities": 212,
+    "distanceKm": 2065.5,
+    "elevationM": 14956,
+    "movingSeconds": 645600,
     "raw": {
-      "activities": "209",
-      "distance": "2,043.6 km",
-      "time": "177 h 7 m",
-      "elevation": "14,854 m"
+      "activities": "212",
+      "distance": "2,065.5 km",
+      "time": "179 h 20 m",
+      "elevation": "14,956 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Luca Oerter",
+      "athleteId": "168353611",
+      "activityId": "20656503556",
+      "name": "Morning Weight Training",
+      "date": "October 20, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "36:16",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Luca Oerter",
       "athleteId": "168353611",
@@ -45,42 +58,29 @@
       ]
     },
     {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20656255609",
-      "name": "Gewichtstraining am Morgen",
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20656545171",
+      "name": "Morning Walk",
       "date": "October 20, 2026",
-      "distanceKm": 0,
+      "distanceKm": 5,
       "stats": [
-        "0 km",
-        "9:47",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20656407055",
-      "name": "Spaziergang am Morgen",
-      "date": "October 20, 2026",
-      "distanceKm": 2.9,
-      "stats": [
-        "2.9 km",
-        "29:22",
-        "51 m"
-      ]
-    },
-    {
-      "athlete": "Rareș Brânzoi",
-      "athleteId": "4792098",
-      "activityId": "20656137758",
-      "name": "Morning Run",
-      "date": "October 20, 2026",
-      "distanceKm": 7,
-      "stats": [
-        "7.0 km",
-        "46:33",
+        "5.0 km",
+        "56:47",
         "84 m"
+      ]
+    },
+    {
+      "athlete": "# MarshmallowBen",
+      "athleteId": "114783849",
+      "activityId": "20656604209",
+      "name": "Morgenausfahrt",
+      "date": "October 20, 2026",
+      "distanceKm": 16.9,
+      "stats": [
+        "16.9 km",
+        "44:53",
+        "18 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 89418.1,
-  "totalDistanceKm": 212426.2,
+  "observedWeeksKm": 89440,
+  "totalDistanceKm": 212448.1,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 228223.2
+    "totalWithEstimatesKm": 228245.1
   }
 }

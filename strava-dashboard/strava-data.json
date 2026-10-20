@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T12:30:49.695Z",
+  "generatedAt": "2026-10-20T13:00:55.509Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771377,
-    "percentComplete": 22.86,
+    "remainingKm": 771344,
+    "percentComplete": 22.87,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2443.1,
-    "thisWeekActivities": 242,
-    "thisWeekHours": 209,
-    "thisWeekElevationM": 18534,
-    "timesAroundEarth": 5.7,
+    "thisWeekKm": 2476.6,
+    "thisWeekActivities": 246,
+    "thisWeekHours": 212,
+    "thisWeekElevationM": 18616,
+    "timesAroundEarth": 5.71,
     "percentToMoon": 59.5,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18645,
+  "totalActivities": 18649,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228622700,
-    "totalMovingTime": 64909727,
-    "totalElevation": 1676463.6
+    "totalDistance": 228656200,
+    "totalMovingTime": 64919627,
+    "totalElevation": 1676545.6
   },
   "monthStats": {
-    "totalDistance": 31171800,
-    "totalMovingTime": 8971080,
+    "totalDistance": 31205300,
+    "totalMovingTime": 8980980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2443100,
-    "totalMovingTime": 752760,
-    "count": 242
+    "totalDistance": 2476600,
+    "totalMovingTime": 762660,
+    "count": 246
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212825.7,
+    "measuredDistanceKm": 212859.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20660435594",
+        "name": "Gravel",
+        "date": "October 20, 2026",
+        "distanceKm": 6.3,
+        "stats": [
+          "6.3 km",
+          "16:01",
+          "30 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20660493128",
+        "name": "Afternoon Walk",
+        "date": "October 20, 2026",
+        "distanceKm": 1.6,
+        "stats": [
+          "1.6 km",
+          "27:22",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "20660291765",
+        "name": "Afternoon Walk",
+        "date": "October 20, 2026",
+        "distanceKm": 1.8,
+        "stats": [
+          "1.8 km",
+          "36:54",
+          "5 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -124,55 +163,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20658860252",
-        "name": "Lunch Walk",
-        "date": "October 20, 2026",
-        "distanceKm": 1.3,
-        "stats": [
-          "1.3 km",
-          "26:08",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
         "activityId": "20659055676",
-        "name": "Lunch Run",
+        "name": "Lunch Run😍",
         "date": "October 20, 2026",
         "distanceKm": 10,
         "stats": [
           "10.0 km",
           "50:52",
           "64 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20658647634",
-        "name": "Mittagslauf",
-        "date": "October 20, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "1:05:16",
-          "154 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20658860014",
-        "name": "Morning Weight Training",
-        "date": "October 20, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:17:37",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228622.7
+      "totalWithEstimatesKm": 228656.2
     }
   }
 }

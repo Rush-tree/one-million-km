@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T03:00:57.643Z",
+  "generatedAt": "2026-10-20T03:30:44.206Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 772041,
+    "remainingKm": 771987,
     "percentComplete": 22.8,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1779.8,
-    "thisWeekActivities": 183,
-    "thisWeekHours": 157,
-    "thisWeekElevationM": 13657,
+    "thisWeekKm": 1833.8,
+    "thisWeekActivities": 184,
+    "thisWeekHours": 160,
+    "thisWeekElevationM": 13748,
     "timesAroundEarth": 5.69,
     "percentToMoon": 59.3,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 227959400,
-    "totalMovingTime": 64722887,
-    "totalElevation": 1671586.6
+    "totalDistance": 228013400,
+    "totalMovingTime": 64732307,
+    "totalElevation": 1671677.6
   },
   "monthStats": {
-    "totalDistance": 30508500,
-    "totalMovingTime": 8784240,
+    "totalDistance": 30562500,
+    "totalMovingTime": 8793660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1779800,
-    "totalMovingTime": 565920,
-    "count": 183
+    "totalDistance": 1833800,
+    "totalMovingTime": 575340,
+    "count": 184
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212162.4,
+    "measuredDistanceKm": 212216.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 227959.4
+      "totalWithEstimatesKm": 228013.4
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T19:00:58.827Z",
+  "generatedAt": "2026-10-20T19:30:50.439Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 770199,
-    "percentComplete": 22.98,
+    "remainingKm": 770133,
+    "percentComplete": 22.99,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3621.7,
-    "thisWeekActivities": 357,
-    "thisWeekHours": 304,
-    "thisWeekElevationM": 27592,
-    "timesAroundEarth": 5.73,
+    "thisWeekKm": 3687.6,
+    "thisWeekActivities": 364,
+    "thisWeekHours": 311,
+    "thisWeekElevationM": 28007,
+    "timesAroundEarth": 5.74,
     "percentToMoon": 59.8,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18764,
+  "totalActivities": 18772,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 229801300,
-    "totalMovingTime": 65249627,
-    "totalElevation": 1685521.6
+    "totalDistance": 229867200,
+    "totalMovingTime": 65275727,
+    "totalElevation": 1685936.6
   },
   "monthStats": {
-    "totalDistance": 32350400,
-    "totalMovingTime": 9310980,
+    "totalDistance": 32416300,
+    "totalMovingTime": 9337080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3621700,
-    "totalMovingTime": 1092660,
-    "count": 357
+    "totalDistance": 3687600,
+    "totalMovingTime": 1118760,
+    "count": 364
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,24 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 214004.3,
+    "measuredDistanceKm": 214070.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20664766116",
-        "name": "Zwift - Watopia",
-        "date": "October 20, 2026",
-        "distanceKm": 13.2,
-        "stats": [
-          "13.2 km",
-          "26:40",
-          "33 m"
-        ]
-      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -137,16 +124,29 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20664943048",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 4 (C)",
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20665633562",
+        "name": "Akşam Koşu",
         "date": "October 20, 2026",
-        "distanceKm": 33.3,
+        "distanceKm": 21.2,
         "stats": [
-          "33.3 km",
-          "1:09:18",
-          "231 m"
+          "21.2 km",
+          "2:09:31",
+          "230 m"
+        ]
+      },
+      {
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20665466753",
+        "name": "Finally a big boy watch",
+        "date": "October 20, 2026",
+        "distanceKm": 20,
+        "stats": [
+          "20.0 km",
+          "2:05:42",
+          "185 m"
         ]
       },
       {
@@ -166,7 +166,7 @@
         "athlete": "Ricardo Ferre",
         "athleteId": "45223374",
         "activityId": "20665134331",
-        "name": "Abendlauf",
+        "name": "Basketball",
         "date": "October 20, 2026",
         "distanceKm": 3,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 229801.3
+      "totalWithEstimatesKm": 229867.2
     }
   }
 }

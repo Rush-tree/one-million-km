@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T03:30:44.206Z",
+  "generatedAt": "2026-10-20T04:00:57.845Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771987,
-    "percentComplete": 22.8,
+    "remainingKm": 771861,
+    "percentComplete": 22.81,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 1833.8,
-    "thisWeekActivities": 184,
-    "thisWeekHours": 160,
-    "thisWeekElevationM": 13748,
+    "thisWeekKm": 1959.2,
+    "thisWeekActivities": 189,
+    "thisWeekHours": 167,
+    "thisWeekElevationM": 14113,
     "timesAroundEarth": 5.69,
     "percentToMoon": 59.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18585,
+  "totalActivities": 18589,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228013400,
-    "totalMovingTime": 64732307,
-    "totalElevation": 1671677.6
+    "totalDistance": 228138800,
+    "totalMovingTime": 64757327,
+    "totalElevation": 1672042.6
   },
   "monthStats": {
-    "totalDistance": 30562500,
-    "totalMovingTime": 8793660,
+    "totalDistance": 30687900,
+    "totalMovingTime": 8818680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1833800,
-    "totalMovingTime": 575340,
-    "count": 184
+    "totalDistance": 1959200,
+    "totalMovingTime": 600360,
+    "count": 189
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 212216.4,
+    "measuredDistanceKm": 212341.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20654924492",
-        "name": "Nachtradfahrt 🌙",
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20655747210",
+        "name": "Gewichtstraining am Morgen",
         "date": "October 20, 2026",
-        "distanceKm": 22.3,
+        "distanceKm": 0,
         "stats": [
-          "22.3 km",
-          "53:02",
-          "45 m"
+          "0 km",
+          "26:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20655691662",
+        "name": "Gravel",
+        "date": "October 20, 2026",
+        "distanceKm": 6.1,
+        "stats": [
+          "6.1 km",
+          "15:00",
+          "19 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20655796332",
+        "name": "🌥️ Tuesday Morning Ride",
+        "date": "October 20, 2026",
+        "distanceKm": 67.5,
+        "stats": [
+          "67.5 km",
+          "4:14:30",
+          "133 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20654494778",
-        "name": "Musculação ao entardecer",
-        "date": "October 19, 2026",
-        "distanceKm": 0,
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20655774271",
+        "name": "Açık alanda koşu",
+        "date": "October 20, 2026",
+        "distanceKm": 14,
         "stats": [
-          "0 km",
-          "49:24",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20653714629",
-        "name": "Caminhada ao entardecer",
-        "date": "October 19, 2026",
-        "distanceKm": 0.7,
-        "stats": [
-          "0.7 km",
-          "11:48",
-          "34 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20653534861",
-        "name": "Pedalada ao entardecer",
-        "date": "October 19, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "33:24",
-          "138 m"
+          "14.0 km",
+          "1:12:14",
+          "52 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228013.4
+      "totalWithEstimatesKm": 228138.8
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-20T15:00:58.532Z",
+  "generatedAt": "2026-10-20T15:30:50.364Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 771050,
-    "percentComplete": 22.89,
+    "remainingKm": 771021,
+    "percentComplete": 22.9,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 2770,
-    "thisWeekActivities": 274,
-    "thisWeekHours": 239,
-    "thisWeekElevationM": 21721,
+    "thisWeekKm": 2799.9,
+    "thisWeekActivities": 277,
+    "thisWeekHours": 241,
+    "thisWeekElevationM": 21831,
     "timesAroundEarth": 5.71,
     "percentToMoon": 59.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18678,
+  "totalActivities": 18681,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 228949600,
-    "totalMovingTime": 65017907,
-    "totalElevation": 1679650.6
+    "totalDistance": 228979500,
+    "totalMovingTime": 65024747,
+    "totalElevation": 1679760.6
   },
   "monthStats": {
-    "totalDistance": 31498700,
-    "totalMovingTime": 9079260,
+    "totalDistance": 31528600,
+    "totalMovingTime": 9086100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2770000,
-    "totalMovingTime": 860940,
-    "count": 274
+    "totalDistance": 2799900,
+    "totalMovingTime": 867780,
+    "count": 277
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 213152.6,
+    "measuredDistanceKm": 213182.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20661598081",
-        "name": "Ettermiddag med sykkeltur",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20662236345",
+        "name": "Tuesday Evening Activity",
         "date": "October 20, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 0,
         "stats": [
-          "4.4 km",
-          "14:41",
-          "53 m"
+          "0 km",
+          "17:44",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20662107933",
+        "name": "Morning Run",
+        "date": "October 20, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "33:06",
+          "39 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20661450363",
-        "name": "Afternoon Walk",
-        "date": "October 20, 2026",
-        "distanceKm": 2.2,
-        "stats": [
-          "2.2 km",
-          "44:16",
-          "18 m"
-        ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20661486994",
-        "name": "Afternoon Weight Training",
-        "date": "October 20, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:00:39",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
         "activityId": "20661893465",
-        "name": "Gravel-Fahrt am Nachmittag",
+        "name": "Gravel-Fahrt 🌞🌞💨💨💨💨💨💨💨",
         "date": "October 20, 2026",
         "distanceKm": 69.5,
         "stats": [
           "69.5 km",
           "3:50:27",
           "219 m"
+        ]
+      },
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20662118426",
+        "name": "Tagesausflug Tübingen",
+        "date": "October 20, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "7:34:48",
+          "98 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 228949.6
+      "totalWithEstimatesKm": 228979.5
     }
   }
 }

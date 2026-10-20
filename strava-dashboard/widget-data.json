@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-20T20:30:44.112Z",
+  "generatedAt": "2026-10-20T21:00:58.428Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-20T20:30:44.111Z",
+  "memberCountUpdatedAt": "2026-10-20T21:00:58.428Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 368,
-    "distanceKm": 3706.6,
-    "elevationM": 28059,
-    "movingSeconds": 1130040,
+    "activities": 372,
+    "distanceKm": 3724.8,
+    "elevationM": 28136,
+    "movingSeconds": 1146960,
     "raw": {
-      "activities": "368",
-      "distance": "3,706.6 km",
-      "time": "313 h 54 m",
-      "elevation": "28,059 m"
+      "activities": "372",
+      "distance": "3,724.8 km",
+      "time": "318 h 36 m",
+      "elevation": "28,136 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Johannes Tangel",
+      "athleteId": "127575472",
+      "activityId": "20666251249",
+      "name": "Nachtlauf",
+      "date": "October 20, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "25:46",
+        "46 m"
+      ]
+    },
     {
       "athlete": "Jasper Mermans",
       "athleteId": "25786886",
@@ -32,16 +45,29 @@
       ]
     },
     {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20665781034",
-      "name": "Nog naar huis fietsen en we zijn klaar",
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20666250667",
+      "name": "13K🍀 Sortie vélo 🚴‍♂️ de nuit 🌛",
       "date": "October 20, 2026",
-      "distanceKm": 3.3,
+      "distanceKm": 13.1,
       "stats": [
-        "3.3 km",
-        "39:42",
-        "22 m"
+        "13.1 km",
+        "33:45",
+        "30 m"
+      ]
+    },
+    {
+      "athlete": "Domenic Winges",
+      "athleteId": "179823094",
+      "activityId": "20666272499",
+      "name": "Eigengewichtstraining",
+      "date": "October 20, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "44:19",
+        "0 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "51:53",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20665633562",
-      "name": "Akşam Koşu",
-      "date": "October 20, 2026",
-      "distanceKm": 21.2,
-      "stats": [
-        "21.2 km",
-        "2:09:31",
-        "230 m"
-      ]
-    },
-    {
-      "athlete": "Georg Weinig",
-      "athleteId": "166650923",
-      "activityId": "20665466753",
-      "name": "Finally a big boy watch",
-      "date": "October 20, 2026",
-      "distanceKm": 20,
-      "stats": [
-        "20.0 km",
-        "2:05:42",
-        "185 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 91081.1,
-  "totalDistanceKm": 214089.2,
+  "observedWeeksKm": 91099.3,
+  "totalDistanceKm": 214107.4,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 229886.2
+    "totalWithEstimatesKm": 229904.4
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T20:30:44.112Z",
+  "generatedAt": "2026-10-20T21:00:58.428Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 770114,
+    "remainingKm": 770096,
     "percentComplete": 22.99,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3706.6,
-    "thisWeekActivities": 368,
-    "thisWeekHours": 314,
-    "thisWeekElevationM": 28059,
+    "thisWeekKm": 3724.8,
+    "thisWeekActivities": 372,
+    "thisWeekHours": 319,
+    "thisWeekElevationM": 28136,
     "timesAroundEarth": 5.74,
     "percentToMoon": 59.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18776,
+  "totalActivities": 18781,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 229886200,
-    "totalMovingTime": 65287007,
-    "totalElevation": 1685988.6
+    "totalDistance": 229904400,
+    "totalMovingTime": 65303927,
+    "totalElevation": 1686065.6
   },
   "monthStats": {
-    "totalDistance": 32435300,
-    "totalMovingTime": 9348360,
+    "totalDistance": 32453500,
+    "totalMovingTime": 9365280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3706600,
-    "totalMovingTime": 1130040,
-    "count": 368
+    "totalDistance": 3724800,
+    "totalMovingTime": 1146960,
+    "count": 372
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 214089.2,
+    "measuredDistanceKm": 214107.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Johannes Tangel",
+        "athleteId": "127575472",
+        "activityId": "20666251249",
+        "name": "Nachtlauf",
+        "date": "October 20, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "25:46",
+          "46 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -124,16 +137,29 @@
         ]
       },
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20665781034",
-        "name": "Nog naar huis fietsen en we zijn klaar",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20666250667",
+        "name": "13K🍀 Sortie vélo 🚴‍♂️ de nuit 🌛",
         "date": "October 20, 2026",
-        "distanceKm": 3.3,
+        "distanceKm": 13.1,
         "stats": [
-          "3.3 km",
-          "39:42",
-          "22 m"
+          "13.1 km",
+          "33:45",
+          "30 m"
+        ]
+      },
+      {
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20666272499",
+        "name": "Eigengewichtstraining",
+        "date": "October 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "44:19",
+          "0 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "1.9 km",
           "51:53",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20665633562",
-        "name": "Akşam Koşu",
-        "date": "October 20, 2026",
-        "distanceKm": 21.2,
-        "stats": [
-          "21.2 km",
-          "2:09:31",
-          "230 m"
-        ]
-      },
-      {
-        "athlete": "Georg Weinig",
-        "athleteId": "166650923",
-        "activityId": "20665466753",
-        "name": "Finally a big boy watch",
-        "date": "October 20, 2026",
-        "distanceKm": 20,
-        "stats": [
-          "20.0 km",
-          "2:05:42",
-          "185 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 229886.2
+      "totalWithEstimatesKm": 229904.4
     }
   }
 }

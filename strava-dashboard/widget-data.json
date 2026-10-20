@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-20T04:30:43.844Z",
+  "generatedAt": "2026-10-20T05:00:59.315Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-20T04:30:43.843Z",
+  "memberCountUpdatedAt": "2026-10-20T05:00:59.315Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 191,
-    "distanceKm": 1969.9,
-    "elevationM": 14126,
-    "movingSeconds": 605220,
+    "activities": 194,
+    "distanceKm": 1984.4,
+    "elevationM": 14172,
+    "movingSeconds": 609420,
     "raw": {
-      "activities": "191",
-      "distance": "1,969.9 km",
-      "time": "168 h 7 m",
-      "elevation": "14,126 m"
+      "activities": "194",
+      "distance": "1,984.4 km",
+      "time": "169 h 17 m",
+      "elevation": "14,172 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20656012612",
+      "name": "Pilates mattutino",
+      "date": "October 20, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "7:24",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -47,14 +60,14 @@
     {
       "athlete": "Stefan Brueckmann",
       "athleteId": "172247920",
-      "activityId": "20655747210",
-      "name": "Gewichtstraining am Morgen",
+      "activityId": "20655938925",
+      "name": "Fahrt am Morgen",
       "date": "October 20, 2026",
-      "distanceKm": 0,
+      "distanceKm": 14.4,
       "stats": [
-        "0 km",
-        "26:25",
-        "0 m"
+        "14.4 km",
+        "1:20:46",
+        "46 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "4:14:30",
         "133 m"
       ]
-    },
-    {
-      "athlete": "Bülent Sevil",
-      "athleteId": "156559910",
-      "activityId": "20655774271",
-      "name": "Açık alanda koşu",
-      "date": "October 20, 2026",
-      "distanceKm": 14,
-      "stats": [
-        "14.0 km",
-        "1:12:14",
-        "52 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 89344.4,
-  "totalDistanceKm": 212352.5,
+  "observedWeeksKm": 89358.9,
+  "totalDistanceKm": 212367,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 228149.5
+    "totalWithEstimatesKm": 228164
   }
 }

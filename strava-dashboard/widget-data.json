@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-20T06:30:46.329Z",
+  "generatedAt": "2026-10-20T07:00:55.499Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-20T06:30:46.329Z",
+  "memberCountUpdatedAt": "2026-10-20T07:00:55.499Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 212,
-    "distanceKm": 2065.5,
-    "elevationM": 14956,
-    "movingSeconds": 645600,
+    "activities": 213,
+    "distanceKm": 2070,
+    "elevationM": 15011,
+    "movingSeconds": 646560,
     "raw": {
-      "activities": "212",
-      "distance": "2,065.5 km",
-      "time": "179 h 20 m",
-      "elevation": "14,956 m"
+      "activities": "213",
+      "distance": "2,070.0 km",
+      "time": "179 h 36 m",
+      "elevation": "15,011 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20656810481",
+      "name": "Sykkeltur om morgenen",
+      "date": "October 20, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "15:35",
+        "55 m"
+      ]
+    },
     {
       "athlete": "Luca Oerter",
       "athleteId": "168353611",
@@ -28,19 +41,6 @@
       "stats": [
         "0 km",
         "36:16",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Luca Oerter",
-      "athleteId": "168353611",
-      "activityId": "20656260028",
-      "name": "Morning Workout",
-      "date": "October 20, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "11:18",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 89440,
-  "totalDistanceKm": 212448.1,
+  "observedWeeksKm": 89444.5,
+  "totalDistanceKm": 212452.6,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 228245.1
+    "totalWithEstimatesKm": 228249.6
   }
 }

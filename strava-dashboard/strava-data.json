@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T12:30:48.912Z",
+  "generatedAt": "2026-10-21T13:01:00.361Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 769521,
+    "remainingKm": 769495,
     "percentComplete": 23.05,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 4299.3,
-    "thisWeekActivities": 432,
-    "thisWeekHours": 366,
-    "thisWeekElevationM": 32441,
+    "thisWeekKm": 4325.9,
+    "thisWeekActivities": 435,
+    "thisWeekHours": 368,
+    "thisWeekElevationM": 32726,
     "timesAroundEarth": 5.75,
     "percentToMoon": 60,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18843,
+  "totalActivities": 18847,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 230478900,
-    "totalMovingTime": 65474747,
-    "totalElevation": 1690370.6
+    "totalDistance": 230505500,
+    "totalMovingTime": 65480807,
+    "totalElevation": 1690655.6
   },
   "monthStats": {
-    "totalDistance": 33028000,
-    "totalMovingTime": 9536100,
+    "totalDistance": 33054600,
+    "totalMovingTime": 9542160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4299300,
-    "totalMovingTime": 1317780,
-    "count": 432
+    "totalDistance": 4325900,
+    "totalMovingTime": 1323840,
+    "count": 435
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 214681.9,
+    "measuredDistanceKm": 214708.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20674418269",
+        "name": "Gravel",
+        "date": "October 21, 2026",
+        "distanceKm": 6.8,
+        "stats": [
+          "6.8 km",
+          "17:48",
+          "26 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20674436055",
+        "name": "Zwift - Renewal on Cobbled Climbs in Richmond",
+        "date": "October 21, 2026",
+        "distanceKm": 9.7,
+        "stats": [
+          "9.7 km",
+          "33:42",
+          "137 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20674326466",
+        "name": "Carrera de tarde",
+        "date": "October 21, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "51:40",
+          "122 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -135,45 +174,6 @@
           "1:04:14",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20672872964",
-        "name": "Ciclismo mattutino",
-        "date": "October 21, 2026",
-        "distanceKm": 28,
-        "stats": [
-          "28.0 km",
-          "3:15:04",
-          "43 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20673392657",
-        "name": "Lunch Walk",
-        "date": "October 21, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "5:34:22",
-          "8 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20672979583",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "October 21, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "49:43",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 230478.9
+      "totalWithEstimatesKm": 230505.5
     }
   }
 }

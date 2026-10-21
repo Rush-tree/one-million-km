@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T16:01:00.216Z",
+  "generatedAt": "2026-10-21T16:30:46.588Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 769065,
-    "percentComplete": 23.09,
+    "remainingKm": 769040,
+    "percentComplete": 23.1,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 4755.6,
-    "thisWeekActivities": 476,
-    "thisWeekHours": 402,
-    "thisWeekElevationM": 36907,
+    "thisWeekKm": 4780.4,
+    "thisWeekActivities": 483,
+    "thisWeekHours": 405,
+    "thisWeekElevationM": 37092,
     "timesAroundEarth": 5.76,
     "percentToMoon": 60.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18889,
+  "totalActivities": 18897,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 230935200,
-    "totalMovingTime": 65603387,
-    "totalElevation": 1694836.6
+    "totalDistance": 230960000,
+    "totalMovingTime": 65616467,
+    "totalElevation": 1695021.6
   },
   "monthStats": {
-    "totalDistance": 33484300,
-    "totalMovingTime": 9664740,
+    "totalDistance": 33509100,
+    "totalMovingTime": 9677820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4755600,
-    "totalMovingTime": 1446420,
-    "count": 476
+    "totalDistance": 4780400,
+    "totalMovingTime": 1459500,
+    "count": 483
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 215138.2,
+    "measuredDistanceKm": 215163,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20676892460",
+        "name": "Lunch Walk",
+        "date": "October 21, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "13:30",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20676814535",
+        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+        "date": "October 21, 2026",
+        "distanceKm": 11.5,
+        "stats": [
+          "11.5 km",
+          "20:41",
+          "79 m"
+        ]
+      },
       {
         "athlete": "conny tonder",
         "athleteId": "66434073",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Biken Ginayatova",
-        "athleteId": "92872558",
-        "activityId": "20676063295",
-        "name": "Wednesday Evening Run",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20676701455",
+        "name": "Morning Run",
         "date": "October 21, 2026",
-        "distanceKm": 1,
+        "distanceKm": 5,
         "stats": [
-          "1.0 km",
-          "5:17",
-          "0 m"
+          "5.0 km",
+          "25:16",
+          "54 m"
         ]
       },
       {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20675961208",
-        "name": "Blijkbaar is Menne band leger dan mijn benen",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20676842845",
+        "name": "Course à pied dans l'après-midi",
         "date": "October 21, 2026",
-        "distanceKm": 11.8,
+        "distanceKm": 7,
         "stats": [
-          "11.8 km",
-          "30:29",
-          "23 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20676077931",
-        "name": "Camminata pomeridiana",
-        "date": "October 21, 2026",
-        "distanceKm": 6.1,
-        "stats": [
-          "6.1 km",
-          "1:15:25",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20675915752",
-        "name": "Mittagswanderung",
-        "date": "October 21, 2026",
-        "distanceKm": 13.9,
-        "stats": [
-          "13.9 km",
-          "5:05:42",
-          "76 m"
+          "7.0 km",
+          "38:36",
+          "45 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 230935.2
+      "totalWithEstimatesKm": 230960
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T17:30:48.011Z",
+  "generatedAt": "2026-10-21T18:01:00.665Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 768860,
-    "percentComplete": 23.11,
+    "remainingKm": 768703,
+    "percentComplete": 23.13,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 4960.8,
-    "thisWeekActivities": 503,
-    "thisWeekHours": 422,
-    "thisWeekElevationM": 38178,
+    "thisWeekKm": 5117.4,
+    "thisWeekActivities": 511,
+    "thisWeekHours": 434,
+    "thisWeekElevationM": 38461,
     "timesAroundEarth": 5.77,
-    "percentToMoon": 60.1,
+    "percentToMoon": 60.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 60.1,
-        "text": "60.1% of the way to the Moon",
+        "value": 60.2,
+        "text": "60.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18918,
+  "totalActivities": 18925,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 231140400,
-    "totalMovingTime": 65675027,
-    "totalElevation": 1696107.6
+    "totalDistance": 231297000,
+    "totalMovingTime": 65719067,
+    "totalElevation": 1696390.6
   },
   "monthStats": {
-    "totalDistance": 33689500,
-    "totalMovingTime": 9736380,
+    "totalDistance": 33846100,
+    "totalMovingTime": 9780420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4960800,
-    "totalMovingTime": 1518060,
-    "count": 503
+    "totalDistance": 5117400,
+    "totalMovingTime": 1562100,
+    "count": 511
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 215343.4,
+    "measuredDistanceKm": 215500,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20678205255",
+        "name": "Abendradfahrt ☁",
+        "date": "October 21, 2026",
+        "distanceKm": 22.1,
+        "stats": [
+          "22.1 km",
+          "56:00",
+          "29 m"
+        ]
+      },
       {
         "athlete": "Werner Hunold",
         "athleteId": "372952540",
@@ -121,32 +134,6 @@
           "6.6 km",
           "39:01",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20677613738",
-        "name": "Zwift - Mend",
-        "date": "October 21, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "38:14",
-          "117 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20677776499",
-        "name": "Avondwandeling",
-        "date": "October 21, 2026",
-        "distanceKm": 6.1,
-        "stats": [
-          "6.1 km",
-          "1:11:24",
-          "29 m"
         ]
       },
       {
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20677533615",
-        "name": "10K 🏃 Course à pied en soirée 🌇 🌿",
+        "athlete": "siavash Akbari",
+        "athleteId": "56213794",
+        "activityId": "20678090486",
+        "name": "Ride north",
         "date": "October 21, 2026",
-        "distanceKm": 10.2,
+        "distanceKm": 87.1,
         "stats": [
-          "10.2 km",
-          "1:01:29",
-          "41 m"
+          "87.1 km",
+          "8:12:14",
+          "137 m"
+        ]
+      },
+      {
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20678086571",
+        "name": "Abendschwimmen",
+        "date": "October 21, 2026",
+        "distanceKm": 2.8,
+        "stats": [
+          "2.8 km",
+          "1:23:26",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 231140.4
+      "totalWithEstimatesKm": 231297
     }
   }
 }

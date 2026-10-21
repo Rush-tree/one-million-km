@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-21T06:30:48.445Z",
+  "generatedAt": "2026-10-21T07:00:58.031Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-21T06:30:48.445Z",
+  "memberCountUpdatedAt": "2026-10-21T07:00:58.031Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 405,
-    "distanceKm": 4046.2,
-    "elevationM": 29900,
-    "movingSeconds": 1231440,
+    "activities": 408,
+    "distanceKm": 4066.8,
+    "elevationM": 30049,
+    "movingSeconds": 1238880,
     "raw": {
-      "activities": "405",
-      "distance": "4,046.2 km",
-      "time": "342 h 4 m",
-      "elevation": "29,900 m"
+      "activities": "408",
+      "distance": "4,066.8 km",
+      "time": "344 h 8 m",
+      "elevation": "30,049 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Tim Siber",
+      "athleteId": "91630363",
+      "activityId": "20670904031",
+      "name": "Morning Ride",
+      "date": "October 21, 2026",
+      "distanceKm": 11.8,
+      "stats": [
+        "11.8 km",
+        "45:36",
+        "70 m"
+      ]
+    },
     {
       "athlete": "Manfred H",
       "athleteId": "85517467",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Luka M",
-      "athleteId": "33218706",
-      "activityId": "20670534322",
-      "name": "Kurz und knackig",
-      "date": "October 21, 2026",
-      "distanceKm": 8,
-      "stats": [
-        "8.0 km",
-        "39:49",
-        "30 m"
-      ]
-    },
-    {
       "athlete": "# MarshmallowBen",
       "athleteId": "114783849",
       "activityId": "20670666308",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 91420.7,
-  "totalDistanceKm": 214428.8,
+  "observedWeeksKm": 91441.3,
+  "totalDistanceKm": 214449.4,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 230225.8
+    "totalWithEstimatesKm": 230246.4
   }
 }

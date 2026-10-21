@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-21T03:00:59.934Z",
+  "generatedAt": "2026-10-21T03:30:45.544Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-21T03:00:59.934Z",
+  "memberCountUpdatedAt": "2026-10-21T03:30:45.544Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 380,
-    "distanceKm": 3926,
-    "elevationM": 29105,
-    "movingSeconds": 1184880,
+    "activities": 382,
+    "distanceKm": 3961.4,
+    "elevationM": 29208,
+    "movingSeconds": 1190040,
     "raw": {
-      "activities": "380",
-      "distance": "3,926.0 km",
-      "time": "329 h 8 m",
-      "elevation": "29,105 m"
+      "activities": "382",
+      "distance": "3,961.4 km",
+      "time": "330 h 34 m",
+      "elevation": "29,208 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20669795167",
+      "name": "Gravel",
+      "date": "October 21, 2026",
+      "distanceKm": 6.1,
+      "stats": [
+        "6.1 km",
+        "15:35",
+        "16 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "20667321238",
-      "name": "Pedalada ao entardecer",
-      "date": "October 20, 2026",
-      "distanceKm": 12.6,
-      "stats": [
-        "12.6 km",
-        "40:27",
-        "168 m"
-      ]
-    },
-    {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
       "activityId": "20667904329",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 91300.5,
-  "totalDistanceKm": 214308.6,
+  "observedWeeksKm": 91335.9,
+  "totalDistanceKm": 214344,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 230105.6
+    "totalWithEstimatesKm": 230141
   }
 }

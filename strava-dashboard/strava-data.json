@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-21T02:30:45.293Z",
+  "generatedAt": "2026-10-21T03:00:59.934Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 770071,
-    "percentComplete": 22.99,
+    "remainingKm": 769894,
+    "percentComplete": 23.01,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-18",
+    "projectedDate": "2027-09-17",
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 3749.5,
-    "thisWeekActivities": 376,
-    "thisWeekHours": 321,
-    "thisWeekElevationM": 28608,
+    "thisWeekKm": 3926,
+    "thisWeekActivities": 380,
+    "thisWeekHours": 329,
+    "thisWeekElevationM": 29105,
     "timesAroundEarth": 5.74,
-    "percentToMoon": 59.8,
+    "percentToMoon": 59.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,14 +28,14 @@
       },
       {
         "key": "moon",
-        "value": 59.8,
-        "text": "59.8% of the way to the Moon",
+        "value": 59.9,
+        "text": "59.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
         "key": "greatwall",
-        "value": 10.8,
-        "text": "10.8× the Great Wall of China",
+        "value": 10.9,
+        "text": "10.9× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18785,
+  "totalActivities": 18787,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 229929100,
-    "totalMovingTime": 65312687,
-    "totalElevation": 1686537.6
+    "totalDistance": 230105600,
+    "totalMovingTime": 65341847,
+    "totalElevation": 1687034.6
   },
   "monthStats": {
-    "totalDistance": 32478200,
-    "totalMovingTime": 9374040,
+    "totalDistance": 32654700,
+    "totalMovingTime": 9403200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3749500,
-    "totalMovingTime": 1155720,
-    "count": 376
+    "totalDistance": 3926000,
+    "totalMovingTime": 1184880,
+    "count": 380
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 214132.1,
+    "measuredDistanceKm": 214308.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20669562081",
+        "name": "🌤️ Morning Ride",
+        "date": "October 21, 2026",
+        "distanceKm": 61.5,
+        "stats": [
+          "61.5 km",
+          "2:44:04",
+          "199 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20669564671",
+        "name": "🌤️ Wednesday Morning Ride",
+        "date": "October 21, 2026",
+        "distanceKm": 61.5,
+        "stats": [
+          "61.5 km",
+          "2:43:56",
+          "193 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -134,32 +160,6 @@
           "12.6 km",
           "40:27",
           "168 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20666207191",
-        "name": "En Da zen er 10 op 2 dagen",
-        "date": "October 20, 2026",
-        "distanceKm": 13.8,
-        "stats": [
-          "13.8 km",
-          "35:38",
-          "30 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20666250667",
-        "name": "13K🍀 Sortie vélo 🚴‍♂️ de nuit 🌛",
-        "date": "October 20, 2026",
-        "distanceKm": 13.1,
-        "stats": [
-          "13.1 km",
-          "33:45",
-          "30 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 229929.1
+      "totalWithEstimatesKm": 230105.6
     }
   }
 }

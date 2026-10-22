@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-22T11:01:01.347Z",
+  "generatedAt": "2026-10-22T11:30:49.698Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 767702,
+    "remainingKm": 767681,
     "percentComplete": 23.23,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-18",
+    "projectedDate": "2027-09-17",
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 6118.7,
-    "thisWeekActivities": 591,
-    "thisWeekHours": 511,
-    "thisWeekElevationM": 44307,
+    "thisWeekKm": 6139.6,
+    "thisWeekActivities": 595,
+    "thisWeekHours": 514,
+    "thisWeekElevationM": 44398,
     "timesAroundEarth": 5.8,
     "percentToMoon": 60.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19006,
+  "totalActivities": 19010,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 232298300,
-    "totalMovingTime": 65996147,
-    "totalElevation": 1702236.6
+    "totalDistance": 232319200,
+    "totalMovingTime": 66006227,
+    "totalElevation": 1702327.6
   },
   "monthStats": {
-    "totalDistance": 34847400,
-    "totalMovingTime": 10057500,
+    "totalDistance": 34868300,
+    "totalMovingTime": 10067580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6118700,
-    "totalMovingTime": 1839180,
-    "count": 591
+    "totalDistance": 6139600,
+    "totalMovingTime": 1849260,
+    "count": 595
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216501.3,
+    "measuredDistanceKm": 216522.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20685933002",
-        "name": "Mittagslauf",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20686536115",
+        "name": "Mittagsradfahrt",
         "date": "October 22, 2026",
-        "distanceKm": 8,
+        "distanceKm": 9.3,
         "stats": [
-          "8.0 km",
-          "44:05",
-          "54 m"
+          "9.3 km",
+          "18:27",
+          "23 m"
+        ]
+      },
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20686553320",
+        "name": "Lunch Run",
+        "date": "October 22, 2026",
+        "distanceKm": 9.5,
+        "stats": [
+          "9.5 km",
+          "52:20",
+          "68 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20686279062",
+        "name": "Natación a la hora del almuerzo",
+        "date": "October 22, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "42:19",
+          "0 m"
         ]
       },
       {
@@ -137,19 +163,6 @@
         ]
       },
       {
-        "athlete": "René Sauer",
-        "athleteId": "190842154",
-        "activityId": "20685563618",
-        "name": "Zwift - Tempus Fugit in Watopia",
-        "date": "October 22, 2026",
-        "distanceKm": 20.1,
-        "stats": [
-          "20.1 km",
-          "36:23",
-          "32 m"
-        ]
-      },
-      {
         "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
         "athleteId": "129712916",
         "activityId": "20686196915",
@@ -160,19 +173,6 @@
           "37.5 km",
           "1:17:02",
           "470 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20685460737",
-        "name": "Ciclismo all’ora di pranzo",
-        "date": "October 22, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "27:25",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 232298.3
+      "totalWithEstimatesKm": 232319.2
     }
   }
 }

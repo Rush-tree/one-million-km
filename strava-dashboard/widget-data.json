@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-22T03:00:57.157Z",
+  "generatedAt": "2026-10-22T03:30:44.061Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-22T03:00:57.157Z",
+  "memberCountUpdatedAt": "2026-10-22T03:30:44.061Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 541,
-    "distanceKm": 5584.9,
-    "elevationM": 40755,
-    "movingSeconds": 1704120,
+    "activities": 542,
+    "distanceKm": 5591.1,
+    "elevationM": 40772,
+    "movingSeconds": 1705020,
     "raw": {
-      "activities": "541",
-      "distance": "5,584.9 km",
-      "time": "473 h 22 m",
-      "elevation": "40,755 m"
+      "activities": "542",
+      "distance": "5,591.1 km",
+      "time": "473 h 37 m",
+      "elevation": "40,772 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20683123202",
+      "name": "Work",
+      "date": "October 22, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "15:08",
+        "17 m"
+      ]
+    },
     {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
@@ -69,19 +82,6 @@
         "3:07:59",
         "142 m"
       ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "20681838852",
-      "name": "Gece Koşu",
-      "date": "October 21, 2026",
-      "distanceKm": 25.2,
-      "stats": [
-        "25.2 km",
-        "3:03:40",
-        "232 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 92959.4,
-  "totalDistanceKm": 215967.5,
+  "observedWeeksKm": 92965.6,
+  "totalDistanceKm": 215973.7,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 231764.5
+    "totalWithEstimatesKm": 231770.7
   }
 }

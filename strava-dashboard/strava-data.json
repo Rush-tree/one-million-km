@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T05:30:48.119Z",
+  "generatedAt": "2026-10-22T06:00:58.341Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 768187,
-    "percentComplete": 23.18,
+    "remainingKm": 767952,
+    "percentComplete": 23.2,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 5633.4,
-    "thisWeekActivities": 557,
-    "thisWeekHours": 481,
-    "thisWeekElevationM": 41344,
-    "timesAroundEarth": 5.78,
-    "percentToMoon": 60.3,
+    "thisWeekKm": 5868.6,
+    "thisWeekActivities": 567,
+    "thisWeekHours": 493,
+    "thisWeekElevationM": 42442,
+    "timesAroundEarth": 5.79,
+    "percentToMoon": 60.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 60.3,
-        "text": "60.3% of the way to the Moon",
+        "value": 60.4,
+        "text": "60.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18972,
+  "totalActivities": 18981,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 231813000,
-    "totalMovingTime": 65888267,
-    "totalElevation": 1699273.6
+    "totalDistance": 232048200,
+    "totalMovingTime": 65932487,
+    "totalElevation": 1700371.6
   },
   "monthStats": {
-    "totalDistance": 34362100,
-    "totalMovingTime": 9949620,
+    "totalDistance": 34597300,
+    "totalMovingTime": 9993840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5633400,
-    "totalMovingTime": 1731300,
-    "count": 557
+    "totalDistance": 5868600,
+    "totalMovingTime": 1775520,
+    "count": 567
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216016,
+    "measuredDistanceKm": 216251.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20683591812",
-        "name": "Allenamento con i pesi mattutino",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20683739237",
+        "name": "Commute #123/2026 🏥🩺",
+        "date": "October 22, 2026",
+        "distanceKm": 9.1,
+        "stats": [
+          "9.1 km",
+          "22:01",
+          "42 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20683736480",
+        "name": "Morning Yoga 🌔",
         "date": "October 22, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "28:43",
+          "26:52",
           "0 m"
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20683482372",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "20683691988",
+        "name": "Lauf am Morgen",
         "date": "October 22, 2026",
-        "distanceKm": 0,
+        "distanceKm": 5.1,
         "stats": [
-          "0 km",
-          "15:20",
-          "0 m"
+          "5.1 km",
+          "37:28",
+          "75 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20683625807",
-        "name": "Morning Walk",
-        "date": "October 22, 2026",
-        "distanceKm": 5,
+        "athlete": "Fabio Martins Queiroga",
+        "athleteId": "108341050",
+        "activityId": "20683689332",
+        "name": "Treino para Endursnce 600 km",
+        "date": "October 21, 2026",
+        "distanceKm": 207.6,
         "stats": [
-          "5.0 km",
-          "1:03:38",
-          "96 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20683411903",
-        "name": "Fahrt am Morgen",
-        "date": "October 22, 2026",
-        "distanceKm": 14.5,
-        "stats": [
-          "14.5 km",
-          "1:25:34",
-          "41 m"
+          "207.6 km",
+          "10:34:00",
+          "894 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 231813
+      "totalWithEstimatesKm": 232048.2
     }
   }
 }

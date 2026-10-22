@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T06:30:46.467Z",
+  "generatedAt": "2026-10-22T07:00:58.555Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 767921,
+    "remainingKm": 767897,
     "percentComplete": 23.21,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 5899.1,
-    "thisWeekActivities": 572,
-    "thisWeekHours": 496,
-    "thisWeekElevationM": 42741,
+    "thisWeekKm": 5923.1,
+    "thisWeekActivities": 576,
+    "thisWeekHours": 498,
+    "thisWeekElevationM": 43040,
     "timesAroundEarth": 5.79,
     "percentToMoon": 60.4,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 10.9,
-        "text": "10.9× the Great Wall of China",
+        "value": 11,
+        "text": "11× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 36.3,
-        "text": "36.3 return trips Berlin to New York",
+        "value": 36.4,
+        "text": "36.4 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18986,
+  "totalActivities": 18991,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 232078700,
-    "totalMovingTime": 65942027,
-    "totalElevation": 1700670.6
+    "totalDistance": 232102700,
+    "totalMovingTime": 65951387,
+    "totalElevation": 1700969.6
   },
   "monthStats": {
-    "totalDistance": 34627800,
-    "totalMovingTime": 10003380,
+    "totalDistance": 34651800,
+    "totalMovingTime": 10012740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5899100,
-    "totalMovingTime": 1785060,
-    "count": 572
+    "totalDistance": 5923100,
+    "totalMovingTime": 1794420,
+    "count": 576
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216281.7,
+    "measuredDistanceKm": 216305.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20683739237",
-        "name": "Commute #123/2026 🏥🩺",
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20684126947",
+        "name": "Sykkeltur om morgenen",
         "date": "October 22, 2026",
-        "distanceKm": 9.1,
+        "distanceKm": 4.4,
         "stats": [
-          "9.1 km",
-          "22:01",
-          "42 m"
+          "4.4 km",
+          "17:41",
+          "54 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20684163581",
+        "name": "Nüchternlauf😋",
+        "date": "October 22, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "39:13",
+          "100 m"
+        ]
+      },
+      {
+        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
+        "athleteId": "51333291",
+        "activityId": "20684168704",
+        "name": "Fahrt am Morgen",
+        "date": "October 22, 2026",
+        "distanceKm": 11.5,
+        "stats": [
+          "11.5 km",
+          "50:21",
+          "145 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "26:52",
           "0 m"
         ]
-      },
-      {
-        "athlete": "heike moschel",
-        "athleteId": "79094374",
-        "activityId": "20683691988",
-        "name": "Lauf am Morgen",
-        "date": "October 22, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "37:28",
-          "75 m"
-        ]
-      },
-      {
-        "athlete": "Fabio Martins Queiroga",
-        "athleteId": "108341050",
-        "activityId": "20683689332",
-        "name": "Treino para Endursnce 600 km",
-        "date": "October 21, 2026",
-        "distanceKm": 207.6,
-        "stats": [
-          "207.6 km",
-          "10:34:00",
-          "894 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 232078.7
+      "totalWithEstimatesKm": 232102.7
     }
   }
 }

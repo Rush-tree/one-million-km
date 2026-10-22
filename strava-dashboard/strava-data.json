@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T02:30:46.743Z",
+  "generatedAt": "2026-10-22T03:00:57.157Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 768425,
-    "percentComplete": 23.16,
+    "remainingKm": 768236,
+    "percentComplete": 23.18,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 5395.2,
-    "thisWeekActivities": 537,
-    "thisWeekHours": 465,
-    "thisWeekElevationM": 40219,
+    "thisWeekKm": 5584.9,
+    "thisWeekActivities": 541,
+    "thisWeekHours": 473,
+    "thisWeekElevationM": 40755,
     "timesAroundEarth": 5.78,
-    "percentToMoon": 60.2,
+    "percentToMoon": 60.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 60.2,
-        "text": "60.2% of the way to the Moon",
+        "value": 60.3,
+        "text": "60.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 34.8,
-        "text": "34.8× the length of the Nile",
+        "value": 34.9,
+        "text": "34.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 17.5,
-        "text": "17.5× the German autobahn network",
+        "value": 17.6,
+        "text": "17.6× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 18952,
+  "totalActivities": 18954,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 231574800,
-    "totalMovingTime": 65829347,
-    "totalElevation": 1698148.6
+    "totalDistance": 231764500,
+    "totalMovingTime": 65861087,
+    "totalElevation": 1698684.6
   },
   "monthStats": {
-    "totalDistance": 34123900,
-    "totalMovingTime": 9890700,
+    "totalDistance": 34313600,
+    "totalMovingTime": 9922440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5395200,
-    "totalMovingTime": 1672380,
-    "count": 537
+    "totalDistance": 5584900,
+    "totalMovingTime": 1704120,
+    "count": 541
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 215777.8,
+    "measuredDistanceKm": 215967.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20682982998",
+        "name": "Vuelta ciclística vespertina",
+        "date": "October 21, 2026",
+        "distanceKm": 19.6,
+        "stats": [
+          "19.6 km",
+          "55:56",
+          "141 m"
+        ]
+      },
       {
         "athlete": "André Brune",
         "athleteId": "4536289",
@@ -124,16 +137,29 @@
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20681663894",
-        "name": "Nachtradfahrt ☁",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20682964487",
+        "name": "Morning Ride",
         "date": "October 22, 2026",
-        "distanceKm": 2.2,
+        "distanceKm": 66.3,
         "stats": [
-          "2.2 km",
-          "7:16",
-          "3 m"
+          "66.3 km",
+          "3:07:10",
+          "154 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20682965077",
+        "name": "☁️ Morning Ride",
+        "date": "October 22, 2026",
+        "distanceKm": 66,
+        "stats": [
+          "66.0 km",
+          "3:07:59",
+          "142 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "25.2 km",
           "3:03:40",
           "232 m"
-        ]
-      },
-      {
-        "athlete": "Birgit Marco",
-        "athleteId": "63425596",
-        "activityId": "20679951833",
-        "name": "Yoga in der Nacht",
-        "date": "October 21, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "49:03",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Hans-Georg Acker ♣",
-        "athleteId": "34456629",
-        "activityId": "20680416855",
-        "name": "In die Arena 🌧⚽️🎉",
-        "date": "October 21, 2026",
-        "distanceKm": 6.9,
-        "stats": [
-          "6.9 km",
-          "4:40:55",
-          "40 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 231574.8
+      "totalWithEstimatesKm": 231764.5
     }
   }
 }

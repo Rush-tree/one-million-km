@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T17:30:51.033Z",
+  "generatedAt": "2026-10-22T18:01:03.180Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 766508,
-    "percentComplete": 23.35,
+    "remainingKm": 766410,
+    "percentComplete": 23.36,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 7312.3,
-    "thisWeekActivities": 680,
-    "thisWeekHours": 589,
-    "thisWeekElevationM": 54660,
+    "thisWeekKm": 7410.8,
+    "thisWeekActivities": 687,
+    "thisWeekHours": 593,
+    "thisWeekElevationM": 55033,
     "timesAroundEarth": 5.83,
-    "percentToMoon": 60.7,
+    "percentToMoon": 60.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 60.7,
-        "text": "60.7% of the way to the Moon",
+        "value": 60.8,
+        "text": "60.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19094,
+  "totalActivities": 19101,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 233491900,
-    "totalMovingTime": 66276827,
-    "totalElevation": 1712589.6
+    "totalDistance": 233590400,
+    "totalMovingTime": 66290147,
+    "totalElevation": 1712962.6
   },
   "monthStats": {
-    "totalDistance": 36041000,
-    "totalMovingTime": 10338180,
+    "totalDistance": 36139500,
+    "totalMovingTime": 10351500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7312300,
-    "totalMovingTime": 2119860,
-    "count": 680
+    "totalDistance": 7410800,
+    "totalMovingTime": 2133180,
+    "count": 687
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 217694.9,
+    "measuredDistanceKm": 217793.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "20690866738",
-        "name": "Gewichtstraining am Abend",
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20691334515",
+        "name": "Abendradfahrt 🌙",
         "date": "October 22, 2026",
-        "distanceKm": 0,
+        "distanceKm": 22.1,
         "stats": [
-          "0 km",
-          "20:11",
-          "0 m"
+          "22.1 km",
+          "52:21",
+          "31 m"
         ]
       },
       {
@@ -137,29 +137,29 @@
         ]
       },
       {
-        "athlete": "Dirk Mang",
-        "athleteId": "60711719",
-        "activityId": "20690599283",
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20691369182",
         "name": "Abendlauf",
         "date": "October 22, 2026",
-        "distanceKm": 4.7,
+        "distanceKm": 9.7,
         "stats": [
-          "4.7 km",
-          "31:15",
-          "106 m"
+          "9.7 km",
+          "1:30:43",
+          "0 m"
         ]
       },
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20690575341",
-        "name": "Zwift - Climber's Gambit in Watopia",
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20691129804",
+        "name": "Fußball am Abend",
         "date": "October 22, 2026",
-        "distanceKm": 38.2,
+        "distanceKm": 1.2,
         "stats": [
-          "38.2 km",
-          "1:32:08",
-          "719 m"
+          "1.2 km",
+          "1:14:05",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 233491.9
+      "totalWithEstimatesKm": 233590.4
     }
   }
 }

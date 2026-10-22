@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-22T07:30:47.583Z",
+  "generatedAt": "2026-10-22T08:00:58.060Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-22T07:30:47.583Z",
+  "memberCountUpdatedAt": "2026-10-22T08:00:58.060Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 578,
-    "distanceKm": 5937.2,
-    "elevationM": 43124,
-    "movingSeconds": 1798200,
+    "activities": 579,
+    "distanceKm": 5937.7,
+    "elevationM": 43127,
+    "movingSeconds": 1798740,
     "raw": {
-      "activities": "578",
-      "distance": "5,937.2 km",
-      "time": "499 h 30 m",
-      "elevation": "43,124 m"
+      "activities": "579",
+      "distance": "5,937.7 km",
+      "time": "499 h 39 m",
+      "elevation": "43,127 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20684569278",
+      "name": "Morning Walk",
+      "date": "October 22, 2026",
+      "distanceKm": 0.5,
+      "stats": [
+        "0.5 km",
+        "12:12",
+        "2 m"
+      ]
+    },
     {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
@@ -61,26 +74,13 @@
       "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
       "athleteId": "51333291",
       "activityId": "20684168704",
-      "name": "Fahrt am Morgen",
+      "name": "back on track😎",
       "date": "October 22, 2026",
       "distanceKm": 11.5,
       "stats": [
         "11.5 km",
         "50:21",
         "145 m"
-      ]
-    },
-    {
-      "athlete": "Susanne Liepert",
-      "athleteId": "28515644",
-      "activityId": "20683982291",
-      "name": "Spaziergang am Morgen",
-      "date": "October 22, 2026",
-      "distanceKm": 5.3,
-      "stats": [
-        "5.3 km",
-        "1:06:40",
-        "94 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 93311.7,
-  "totalDistanceKm": 216319.8,
+  "observedWeeksKm": 93312.2,
+  "totalDistanceKm": 216320.3,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 232116.8
+    "totalWithEstimatesKm": 232117.3
   }
 }

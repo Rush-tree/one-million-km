@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-22T07:00:58.555Z",
+  "generatedAt": "2026-10-22T07:30:47.583Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-22T07:00:58.555Z",
+  "memberCountUpdatedAt": "2026-10-22T07:30:47.583Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 576,
-    "distanceKm": 5923.1,
-    "elevationM": 43040,
-    "movingSeconds": 1794420,
+    "activities": 578,
+    "distanceKm": 5937.2,
+    "elevationM": 43124,
+    "movingSeconds": 1798200,
     "raw": {
-      "activities": "576",
-      "distance": "5,923.1 km",
-      "time": "498 h 27 m",
-      "elevation": "43,040 m"
+      "activities": "578",
+      "distance": "5,937.2 km",
+      "time": "499 h 30 m",
+      "elevation": "43,124 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20684342701",
+      "name": "Lauf am Morgen",
+      "date": "October 22, 2026",
+      "distanceKm": 7,
+      "stats": [
+        "7.0 km",
+        "46:27",
+        "63 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -69,19 +82,6 @@
         "1:06:40",
         "94 m"
       ]
-    },
-    {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "20683736480",
-      "name": "Morning Yoga 🌔",
-      "date": "October 22, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "26:52",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 93297.6,
-  "totalDistanceKm": 216305.7,
+  "observedWeeksKm": 93311.7,
+  "totalDistanceKm": 216319.8,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 232102.7
+    "totalWithEstimatesKm": 232116.8
   }
 }

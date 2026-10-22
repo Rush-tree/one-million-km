@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T12:01:08.260Z",
+  "generatedAt": "2026-10-22T12:30:52.366Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 767607,
+    "remainingKm": 767582,
     "percentComplete": 23.24,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 6213.6,
-    "thisWeekActivities": 601,
-    "thisWeekHours": 519,
-    "thisWeekElevationM": 45304,
+    "thisWeekKm": 6238.2,
+    "thisWeekActivities": 605,
+    "thisWeekHours": 521,
+    "thisWeekElevationM": 45419,
     "timesAroundEarth": 5.8,
     "percentToMoon": 60.5,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 34.9,
-        "text": "34.9× the length of the Nile",
+        "value": 35,
+        "text": "35× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19016,
+  "totalActivities": 19021,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 232393200,
-    "totalMovingTime": 66025367,
-    "totalElevation": 1703233.6
+    "totalDistance": 232417800,
+    "totalMovingTime": 66031427,
+    "totalElevation": 1703348.6
   },
   "monthStats": {
-    "totalDistance": 34942300,
-    "totalMovingTime": 10086720,
+    "totalDistance": 34966900,
+    "totalMovingTime": 10092780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6213600,
-    "totalMovingTime": 1868400,
-    "count": 601
+    "totalDistance": 6238200,
+    "totalMovingTime": 1874460,
+    "count": 605
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216596.2,
+    "measuredDistanceKm": 216620.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20687279744",
+        "name": "Zwift - Watopia Flat Forward",
+        "date": "October 22, 2026",
+        "distanceKm": 4.8,
+        "stats": [
+          "4.8 km",
+          "15:26",
+          "53 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -134,19 +147,6 @@
           "0 km",
           "47:22",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20686553320",
-        "name": "Lunch Run",
-        "date": "October 22, 2026",
-        "distanceKm": 9.5,
-        "stats": [
-          "9.5 km",
-          "52:20",
-          "68 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 232393.2
+      "totalWithEstimatesKm": 232417.8
     }
   }
 }

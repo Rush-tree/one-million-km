@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T11:30:49.698Z",
+  "generatedAt": "2026-10-22T12:01:08.260Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 767681,
-    "percentComplete": 23.23,
+    "remainingKm": 767607,
+    "percentComplete": 23.24,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 6139.6,
-    "thisWeekActivities": 595,
-    "thisWeekHours": 514,
-    "thisWeekElevationM": 44398,
+    "thisWeekKm": 6213.6,
+    "thisWeekActivities": 601,
+    "thisWeekHours": 519,
+    "thisWeekElevationM": 45304,
     "timesAroundEarth": 5.8,
-    "percentToMoon": 60.4,
+    "percentToMoon": 60.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 60.4,
-        "text": "60.4% of the way to the Moon",
+        "value": 60.5,
+        "text": "60.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19010,
+  "totalActivities": 19016,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 232319200,
-    "totalMovingTime": 66006227,
-    "totalElevation": 1702327.6
+    "totalDistance": 232393200,
+    "totalMovingTime": 66025367,
+    "totalElevation": 1703233.6
   },
   "monthStats": {
-    "totalDistance": 34868300,
-    "totalMovingTime": 10067580,
+    "totalDistance": 34942300,
+    "totalMovingTime": 10086720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6139600,
-    "totalMovingTime": 1849260,
-    "count": 595
+    "totalDistance": 6213600,
+    "totalMovingTime": 1868400,
+    "count": 601
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216522.2,
+    "measuredDistanceKm": 216596.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20686536115",
-        "name": "Mittagsradfahrt",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20686623332",
+        "name": "Lunch Walk",
         "date": "October 22, 2026",
-        "distanceKm": 9.3,
+        "distanceKm": 0.7,
         "stats": [
-          "9.3 km",
-          "18:27",
-          "23 m"
+          "0.7 km",
+          "23:42",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Adriano Perri",
+        "athleteId": "99629318",
+        "activityId": "20686891169",
+        "name": "Back & Chest 💪🏼",
+        "date": "October 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "47:22",
+          "0 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20686279062",
-        "name": "Natación a la hora del almuerzo",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20686675904",
+        "name": "Petite Marche 🗼 le midi 🍽️",
         "date": "October 22, 2026",
-        "distanceKm": 2,
+        "distanceKm": 1,
         "stats": [
-          "2.0 km",
-          "42:19",
-          "0 m"
+          "1.0 km",
+          "1:28:01",
+          "7 m"
         ]
       },
       {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20685991546",
-        "name": "Upper B (Hypertrophy)",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20686815469",
+        "name": "Mittagsradfahrt",
         "date": "October 22, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:09:50",
+          "58:01",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20686196915",
-        "name": "Mittagsradfahrt",
-        "date": "October 22, 2026",
-        "distanceKm": 37.5,
-        "stats": [
-          "37.5 km",
-          "1:17:02",
-          "470 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 232319.2
+      "totalWithEstimatesKm": 232393.2
     }
   }
 }

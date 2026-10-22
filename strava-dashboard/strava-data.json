@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T10:30:50.135Z",
+  "generatedAt": "2026-10-22T11:01:01.347Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 767751,
-    "percentComplete": 23.22,
+    "remainingKm": 767702,
+    "percentComplete": 23.23,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 6069.1,
-    "thisWeekActivities": 587,
-    "thisWeekHours": 507,
-    "thisWeekElevationM": 43627,
+    "thisWeekKm": 6118.7,
+    "thisWeekActivities": 591,
+    "thisWeekHours": 511,
+    "thisWeekElevationM": 44307,
     "timesAroundEarth": 5.8,
     "percentToMoon": 60.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19002,
+  "totalActivities": 19006,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 232248700,
-    "totalMovingTime": 65980847,
-    "totalElevation": 1701556.6
+    "totalDistance": 232298300,
+    "totalMovingTime": 65996147,
+    "totalElevation": 1702236.6
   },
   "monthStats": {
-    "totalDistance": 34797800,
-    "totalMovingTime": 10042200,
+    "totalDistance": 34847400,
+    "totalMovingTime": 10057500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6069100,
-    "totalMovingTime": 1823880,
-    "count": 587
+    "totalDistance": 6118700,
+    "totalMovingTime": 1839180,
+    "count": 591
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216451.7,
+    "measuredDistanceKm": 216501.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20685933002",
+        "name": "Mittagslauf",
+        "date": "October 22, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "44:05",
+          "54 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20685991546",
+        "name": "Upper B (Hypertrophy)",
+        "date": "October 22, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:09:50",
+          "0 m"
+        ]
+      },
       {
         "athlete": "René Sauer",
         "athleteId": "190842154",
@@ -124,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20686196915",
+        "name": "Mittagsradfahrt",
+        "date": "October 22, 2026",
+        "distanceKm": 37.5,
+        "stats": [
+          "37.5 km",
+          "1:17:02",
+          "470 m"
+        ]
+      },
+      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20685460737",
@@ -134,45 +173,6 @@
           "4.4 km",
           "27:25",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Andreas Glaser 🇩🇪🚲",
-        "athleteId": "3109388",
-        "activityId": "20685193725",
-        "name": "Zwift - Big Flat 8 in Watopia",
-        "date": "October 22, 2026",
-        "distanceKm": 30.3,
-        "stats": [
-          "30.3 km",
-          "1:00:25",
-          "61 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20684959618",
-        "name": "Zwift - Volcano Flat in Watopia",
-        "date": "October 22, 2026",
-        "distanceKm": 33.5,
-        "stats": [
-          "33.5 km",
-          "1:10:24",
-          "129 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20684881119",
-        "name": "Lunch Ride",
-        "date": "October 22, 2026",
-        "distanceKm": 35.7,
-        "stats": [
-          "35.7 km",
-          "3:01:10",
-          "180 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 232248.7
+      "totalWithEstimatesKm": 232298.3
     }
   }
 }

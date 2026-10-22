@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-22T19:30:50.483Z",
+  "generatedAt": "2026-10-22T20:00:58.726Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-22T19:30:50.483Z",
+  "memberCountUpdatedAt": "2026-10-22T20:00:58.726Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 703,
-    "distanceKm": 7568.1,
-    "elevationM": 55790,
-    "movingSeconds": 2179920,
+    "activities": 705,
+    "distanceKm": 7621.9,
+    "elevationM": 56457,
+    "movingSeconds": 2190300,
     "raw": {
-      "activities": "703",
-      "distance": "7,568.1 km",
-      "time": "605 h 32 m",
-      "elevation": "55,790 m"
+      "activities": "705",
+      "distance": "7,621.9 km",
+      "time": "608 h 25 m",
+      "elevation": "56,457 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20692697941",
+      "name": "Abendlauf",
+      "date": "October 22, 2026",
+      "distanceKm": 10.5,
+      "stats": [
+        "10.5 km",
+        "58:41",
+        "33 m"
+      ]
+    },
     {
       "athlete": "conny tonder",
       "athleteId": "66434073",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20692508952",
+      "name": "Sykkeltur på kvelden",
+      "date": "October 22, 2026",
+      "distanceKm": 43.3,
+      "stats": [
+        "43.3 km",
+        "2:22:16",
+        "634 m"
+      ]
+    },
+    {
       "athlete": "Georg Weinig",
       "athleteId": "166650923",
       "activityId": "20692092258",
@@ -56,32 +82,6 @@
         "1:41:17",
         "88 m"
       ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20691723121",
-      "name": "Lunch Walk",
-      "date": "October 22, 2026",
-      "distanceKm": 6.5,
-      "stats": [
-        "6.5 km",
-        "1:32:52",
-        "36 m"
-      ]
-    },
-    {
-      "athlete": "Gisbert Drumm",
-      "athleteId": "10905376",
-      "activityId": "20691500402",
-      "name": "Spaziergang am Nachmittag",
-      "date": "October 22, 2026",
-      "distanceKm": 11.8,
-      "stats": [
-        "11.8 km",
-        "6:34:58",
-        "171 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 94942.6,
-  "totalDistanceKm": 217950.7,
+  "observedWeeksKm": 94996.4,
+  "totalDistanceKm": 218004.5,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 233747.7
+    "totalWithEstimatesKm": 233801.5
   }
 }

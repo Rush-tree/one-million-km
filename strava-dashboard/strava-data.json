@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T18:30:51.790Z",
+  "generatedAt": "2026-10-22T19:01:02.413Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 766364,
-    "percentComplete": 23.36,
+    "remainingKm": 766299,
+    "percentComplete": 23.37,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 7456.8,
-    "thisWeekActivities": 695,
-    "thisWeekHours": 598,
-    "thisWeekElevationM": 55361,
+    "thisWeekKm": 7521.5,
+    "thisWeekActivities": 700,
+    "thisWeekHours": 603,
+    "thisWeekElevationM": 55764,
     "timesAroundEarth": 5.83,
     "percentToMoon": 60.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19110,
+  "totalActivities": 19115,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 233636400,
-    "totalMovingTime": 66309887,
-    "totalElevation": 1713290.6
+    "totalDistance": 233701100,
+    "totalMovingTime": 66329147,
+    "totalElevation": 1713693.6
   },
   "monthStats": {
-    "totalDistance": 36185500,
-    "totalMovingTime": 10371240,
+    "totalDistance": 36250200,
+    "totalMovingTime": 10390500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7456800,
-    "totalMovingTime": 2152920,
-    "count": 695
+    "totalDistance": 7521500,
+    "totalMovingTime": 2172180,
+    "count": 700
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 217839.4,
+    "measuredDistanceKm": 217904.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20691465819",
-        "name": "Abendlauf",
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20692044103",
+        "name": "Zwift - Coastal Crown Loop in Watopia",
         "date": "October 22, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 22.3,
         "stats": [
-          "4.4 km",
-          "20:45",
-          "0 m"
+          "22.3 km",
+          "59:01",
+          "283 m"
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20691334515",
-        "name": "Abendradfahrt 🌙",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20691888302",
+        "name": "Abendlauf",
         "date": "October 22, 2026",
-        "distanceKm": 22.1,
+        "distanceKm": 8.9,
         "stats": [
-          "22.1 km",
-          "52:21",
-          "31 m"
+          "8.9 km",
+          "57:54",
+          "26 m"
+        ]
+      },
+      {
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20692092258",
+        "name": "Abendlauf",
+        "date": "October 22, 2026",
+        "distanceKm": 16.8,
+        "stats": [
+          "16.8 km",
+          "1:41:17",
+          "88 m"
         ]
       },
       {
@@ -147,19 +160,6 @@
           "6.5 km",
           "1:32:52",
           "36 m"
-        ]
-      },
-      {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20691369182",
-        "name": "Abendlauf",
-        "date": "October 22, 2026",
-        "distanceKm": 9.7,
-        "stats": [
-          "9.7 km",
-          "1:30:43",
-          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 233636.4
+      "totalWithEstimatesKm": 233701.1
     }
   }
 }

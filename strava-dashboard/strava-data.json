@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-22T12:30:52.366Z",
+  "generatedAt": "2026-10-22T13:01:04.404Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 767582,
-    "percentComplete": 23.24,
+    "remainingKm": 767546,
+    "percentComplete": 23.25,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 6238.2,
-    "thisWeekActivities": 605,
-    "thisWeekHours": 521,
-    "thisWeekElevationM": 45419,
+    "thisWeekKm": 6274.8,
+    "thisWeekActivities": 609,
+    "thisWeekHours": 523,
+    "thisWeekElevationM": 45848,
     "timesAroundEarth": 5.8,
     "percentToMoon": 60.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19021,
+  "totalActivities": 19025,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 232417800,
-    "totalMovingTime": 66031427,
-    "totalElevation": 1703348.6
+    "totalDistance": 232454400,
+    "totalMovingTime": 66038987,
+    "totalElevation": 1703777.6
   },
   "monthStats": {
-    "totalDistance": 34966900,
-    "totalMovingTime": 10092780,
+    "totalDistance": 35003500,
+    "totalMovingTime": 10100340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6238200,
-    "totalMovingTime": 1874460,
-    "count": 605
+    "totalDistance": 6274800,
+    "totalMovingTime": 1882020,
+    "count": 609
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 216620.8,
+    "measuredDistanceKm": 216657.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20687545387",
+        "name": "Gravel",
+        "date": "October 22, 2026",
+        "distanceKm": 6.9,
+        "stats": [
+          "6.9 km",
+          "16:23",
+          "26 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -124,16 +137,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20686623332",
-        "name": "Lunch Walk",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20687495721",
+        "name": "Zwift - Watopia Flat Forward",
         "date": "October 22, 2026",
-        "distanceKm": 0.7,
+        "distanceKm": 21,
         "stats": [
-          "0.7 km",
-          "23:42",
-          "4 m"
+          "21.0 km",
+          "41:40",
+          "265 m"
         ]
       },
       {
@@ -147,19 +160,6 @@
           "0 km",
           "47:22",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20686675904",
-        "name": "Petite Marche 🗼 le midi 🍽️",
-        "date": "October 22, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "1:28:01",
-          "7 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 232417.8
+      "totalWithEstimatesKm": 232454.4
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T11:30:48.532Z",
+  "generatedAt": "2026-10-23T12:01:00.729Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 765639,
-    "percentComplete": 23.44,
+    "remainingKm": 765524,
+    "percentComplete": 23.45,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,17 +13,17 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8181.1,
-    "thisWeekActivities": 776,
-    "thisWeekHours": 667,
-    "thisWeekElevationM": 59960,
+    "thisWeekKm": 8296.6,
+    "thisWeekActivities": 780,
+    "thisWeekHours": 673,
+    "thisWeekElevationM": 61498,
     "timesAroundEarth": 5.85,
     "percentToMoon": 61,
     "comparisons": [
       {
         "key": "equator",
-        "value": 5.8,
-        "text": "5.8× around the equator",
+        "value": 5.9,
+        "text": "5.9× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 35.2,
-        "text": "35.2× the length of the Nile",
+        "value": 35.3,
+        "text": "35.3× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19195,
+  "totalActivities": 19198,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 234360700,
-    "totalMovingTime": 66559127,
-    "totalElevation": 1717889.6
+    "totalDistance": 234476200,
+    "totalMovingTime": 66581027,
+    "totalElevation": 1719427.6
   },
   "monthStats": {
-    "totalDistance": 36909800,
-    "totalMovingTime": 10620480,
+    "totalDistance": 37025300,
+    "totalMovingTime": 10642380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8181100,
-    "totalMovingTime": 2402160,
-    "count": 776
+    "totalDistance": 8296600,
+    "totalMovingTime": 2424060,
+    "count": 780
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 218563.7,
+    "measuredDistanceKm": 218679.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,29 +124,29 @@
         ]
       },
       {
+        "athlete": "Luca Oerter",
+        "athleteId": "168353611",
+        "activityId": "20699322643",
+        "name": "Afternoon Weight Training",
+        "date": "October 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "23:58",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
         "activityId": "20698958516",
-        "name": "Zwift - Pacer Group Ride with Yumi",
+        "name": "Zwift - WarmUp",
         "date": "October 23, 2026",
         "distanceKm": 3.1,
         "stats": [
           "3.1 km",
           "4:29",
           "3 m"
-        ]
-      },
-      {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20698977266",
-        "name": "Mittagslauf",
-        "date": "October 23, 2026",
-        "distanceKm": 3.4,
-        "stats": [
-          "3.4 km",
-          "20:27",
-          "10 m"
         ]
       },
       {
@@ -166,7 +166,7 @@
         "athlete": "Julian Klaas",
         "athleteId": "157058434",
         "activityId": "20699206699",
-        "name": "Mittagslauf",
+        "name": "Lockerer Dauerlauf",
         "date": "October 23, 2026",
         "distanceKm": 11,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 234360.7
+      "totalWithEstimatesKm": 234476.2
     }
   }
 }

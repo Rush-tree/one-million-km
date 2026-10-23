@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T14:30:53.213Z",
+  "generatedAt": "2026-10-23T16:01:00.574Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 765007,
-    "percentComplete": 23.5,
+    "remainingKm": 764758,
+    "percentComplete": 23.52,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8813.3,
-    "thisWeekActivities": 812,
-    "thisWeekHours": 704,
-    "thisWeekElevationM": 66029,
-    "timesAroundEarth": 5.86,
-    "percentToMoon": 61.1,
+    "thisWeekKm": 9062.6,
+    "thisWeekActivities": 827,
+    "thisWeekHours": 722,
+    "thisWeekElevationM": 68420,
+    "timesAroundEarth": 5.87,
+    "percentToMoon": 61.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 61.1,
-        "text": "61.1% of the way to the Moon",
+        "value": 61.2,
+        "text": "61.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 35.3,
-        "text": "35.3× the length of the Nile",
+        "value": 35.4,
+        "text": "35.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19229,
+  "totalActivities": 19243,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 234992900,
-    "totalMovingTime": 66690647,
-    "totalElevation": 1723958.6
+    "totalDistance": 235242200,
+    "totalMovingTime": 66754967,
+    "totalElevation": 1726349.6
   },
   "monthStats": {
-    "totalDistance": 37542000,
-    "totalMovingTime": 10752000,
+    "totalDistance": 37791300,
+    "totalMovingTime": 10816320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8813300,
-    "totalMovingTime": 2533680,
-    "count": 812
+    "totalDistance": 9062600,
+    "totalMovingTime": 2598000,
+    "count": 827
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,73 +105,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 219195.9,
+    "measuredDistanceKm": 219445.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20700571289",
-        "name": "Afternoon Weight Training",
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "20702056412",
+        "name": "Afternoon Walk",
         "date": "October 23, 2026",
-        "distanceKm": 0,
+        "distanceKm": 3,
         "stats": [
-          "0 km",
+          "3.0 km",
+          "30:11",
+          "47 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20702073110",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 23, 2026",
+        "distanceKm": 26.6,
+        "stats": [
+          "26.6 km",
+          "1:14:29",
           "0 m"
         ]
       },
       {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20701116458",
-        "name": "Zwift - Pacer Group Ride with Miguel",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20702033838",
+        "name": "Zwift - Wild Starts",
         "date": "October 23, 2026",
-        "distanceKm": 34.4,
+        "distanceKm": 40.4,
         "stats": [
-          "34.4 km",
-          "1:00:42",
-          "174 m"
+          "40.4 km",
+          "1:13:57",
+          "119 m"
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20701094340",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20702072936",
+        "name": "Afternoon Run",
         "date": "October 23, 2026",
-        "distanceKm": 38.6,
+        "distanceKm": 34.3,
         "stats": [
-          "38.6 km",
-          "1:34:55",
-          "0 m"
+          "34.3 km",
+          "6:14:05",
+          "269 m"
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20701067877",
-        "name": "Zwift - Big Loop in Watopia",
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20701974101",
+        "name": "Fahrt am Morgen",
         "date": "October 23, 2026",
-        "distanceKm": 39.5,
+        "distanceKm": 128.7,
         "stats": [
-          "39.5 km",
-          "1:35:46",
-          "645 m"
-        ]
-      },
-      {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20700937873",
-        "name": "Fahrt am Nachmittag",
-        "date": "October 23, 2026",
-        "distanceKm": 67.8,
-        "stats": [
-          "67.8 km",
-          "2:23:37",
-          "710 m"
+          "128.7 km",
+          "8:14:21",
+          "1,132 m"
         ]
       }
     ],
@@ -193,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 234992.9
+      "totalWithEstimatesKm": 235242.2
     }
   }
 }

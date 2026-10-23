@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T14:01:03.193Z",
+  "generatedAt": "2026-10-23T14:30:53.213Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 765232,
-    "percentComplete": 23.48,
+    "remainingKm": 765007,
+    "percentComplete": 23.5,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8588.8,
-    "thisWeekActivities": 803,
-    "thisWeekHours": 693,
-    "thisWeekElevationM": 63799,
+    "thisWeekKm": 8813.3,
+    "thisWeekActivities": 812,
+    "thisWeekHours": 704,
+    "thisWeekElevationM": 66029,
     "timesAroundEarth": 5.86,
     "percentToMoon": 61.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19222,
+  "totalActivities": 19229,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 234768400,
-    "totalMovingTime": 66653327,
-    "totalElevation": 1721728.6
+    "totalDistance": 234992900,
+    "totalMovingTime": 66690647,
+    "totalElevation": 1723958.6
   },
   "monthStats": {
-    "totalDistance": 37317500,
-    "totalMovingTime": 10714680,
+    "totalDistance": 37542000,
+    "totalMovingTime": 10752000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8588800,
-    "totalMovingTime": 2496360,
-    "count": 803
+    "totalDistance": 8813300,
+    "totalMovingTime": 2533680,
+    "count": 812
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 218971.4,
+    "measuredDistanceKm": 219195.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -123,53 +123,55 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20700571178",
-        "name": "Afternoon Weight Training",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20701116458",
+        "name": "Zwift - Pacer Group Ride with Miguel",
         "date": "October 23, 2026",
-        "distanceKm": 0,
+        "distanceKm": 34.4,
         "stats": [
-          "0 km",
+          "34.4 km",
+          "1:00:42",
+          "174 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20701094340",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 23, 2026",
+        "distanceKm": 38.6,
+        "stats": [
+          "38.6 km",
+          "1:34:55",
           "0 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20700528241",
-        "name": "Afternoon Weight Training",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20701067877",
+        "name": "Zwift - Big Loop in Watopia",
         "date": "October 23, 2026",
-        "distanceKm": 0,
+        "distanceKm": 39.5,
         "stats": [
-          "0 km",
-          "0 m"
+          "39.5 km",
+          "1:35:46",
+          "645 m"
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20700705927",
-        "name": "E-Bike-Fahrt am Nachmittag",
+        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+        "athleteId": "129712916",
+        "activityId": "20700937873",
+        "name": "Fahrt am Nachmittag",
         "date": "October 23, 2026",
-        "distanceKm": 10.6,
+        "distanceKm": 67.8,
         "stats": [
-          "10.6 km",
-          "27:56",
-          "187 m"
-        ]
-      },
-      {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20700772817",
-        "name": "Morning Walk",
-        "date": "October 23, 2026",
-        "distanceKm": 12.9,
-        "stats": [
-          "12.9 km",
-          "1:48:37",
-          "27 m"
+          "67.8 km",
+          "2:23:37",
+          "710 m"
         ]
       }
     ],
@@ -191,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 234768.4
+      "totalWithEstimatesKm": 234992.9
     }
   }
 }

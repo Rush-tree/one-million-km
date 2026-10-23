@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-22T23:30:48.550Z",
+  "generatedAt": "2026-10-23T00:01:01.887Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 766133,
+    "remainingKm": 766129,
     "percentComplete": 23.39,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-17",
+    "projectedDate": "2027-09-18",
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 7687.9,
-    "thisWeekActivities": 717,
-    "thisWeekHours": 618,
-    "thisWeekElevationM": 57045,
+    "thisWeekKm": 7691.4,
+    "thisWeekActivities": 719,
+    "thisWeekHours": 619,
+    "thisWeekElevationM": 57086,
     "timesAroundEarth": 5.84,
     "percentToMoon": 60.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19133,
+  "totalActivities": 19135,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 233867500,
-    "totalMovingTime": 66382367,
-    "totalElevation": 1714974.6
+    "totalDistance": 233871000,
+    "totalMovingTime": 66385127,
+    "totalElevation": 1715015.6
   },
   "monthStats": {
-    "totalDistance": 36416600,
-    "totalMovingTime": 10443720,
+    "totalDistance": 36420100,
+    "totalMovingTime": 10446480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7687900,
-    "totalMovingTime": 2225400,
-    "count": 717
+    "totalDistance": 7691400,
+    "totalMovingTime": 2228160,
+    "count": 719
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 218070.5,
+    "measuredDistanceKm": 218074,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20694657120",
+        "name": "Gece Doğa Yürüyüşü",
+        "date": "October 23, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "42:41",
+          "41 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20692697941",
-        "name": "Lockerer Dauerlauf 60 Min. 🏃🏃🏃 …",
-        "date": "October 22, 2026",
-        "distanceKm": 10.5,
-        "stats": [
-          "10.5 km",
-          "58:41",
-          "33 m"
-        ]
-      },
-      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20693095187",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 233867.5
+      "totalWithEstimatesKm": 233871
     }
   }
 }

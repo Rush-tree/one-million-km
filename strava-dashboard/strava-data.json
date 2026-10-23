@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T03:30:47.114Z",
+  "generatedAt": "2026-10-23T04:00:57.500Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 765931,
+    "remainingKm": 765929,
     "percentComplete": 23.41,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 7889.5,
-    "thisWeekActivities": 725,
-    "thisWeekHours": 629,
-    "thisWeekElevationM": 57944,
+    "thisWeekKm": 7891.5,
+    "thisWeekActivities": 728,
+    "thisWeekHours": 630,
+    "thisWeekElevationM": 57913,
     "timesAroundEarth": 5.84,
     "percentToMoon": 60.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19140,
+  "totalActivities": 19143,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 234069100,
-    "totalMovingTime": 66421427,
-    "totalElevation": 1715873.6
+    "totalDistance": 234071100,
+    "totalMovingTime": 66423287,
+    "totalElevation": 1715842.6
   },
   "monthStats": {
-    "totalDistance": 36618200,
-    "totalMovingTime": 10482780,
+    "totalDistance": 36620200,
+    "totalMovingTime": 10484640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7889500,
-    "totalMovingTime": 2264460,
-    "count": 725
+    "totalDistance": 7891500,
+    "totalMovingTime": 2266320,
+    "count": 728
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 218272.1,
+    "measuredDistanceKm": 218274.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20696230637",
+        "name": "Gewichtstraining am Morgen",
+        "date": "October 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "32:45",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Meenu Nagori",
         "athleteId": "69685863",
@@ -126,21 +139,21 @@
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
-        "activityId": "20695926967",
-        "name": "🌥️ Friday Morning Ride",
+        "activityId": "20696209642",
+        "name": "Friday Morning Activity",
         "date": "October 23, 2026",
-        "distanceKm": 63.6,
+        "distanceKm": 0,
         "stats": [
-          "63.6 km",
-          "3:00:16",
-          "149 m"
+          "0 km",
+          "20:33",
+          "0 m"
         ]
       },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "20695928254",
-        "name": "Friday Morning Ride",
+        "name": "OCTOBER MNG RIDE NO 23 🚵‍♂️",
         "date": "October 23, 2026",
         "distanceKm": 63.5,
         "stats": [
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20694657120",
-        "name": "Gece Doğa Yürüyüşü",
-        "date": "October 23, 2026",
-        "distanceKm": 2.1,
-        "stats": [
-          "2.1 km",
-          "42:41",
-          "41 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20694585913",
-        "name": "KELVİN KİPTUM STYLE BY ÇAVRİLİLİ 🏃🏿‍♂️👣👟🔥🏆🥇🎯🙌💞🇰🇪🇹🇷👑💪👊💯💫🙋🏻‍♂️",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20696217855",
+        "name": "Fahrt am Nachmittag",
         "date": "October 22, 2026",
-        "distanceKm": 21.2,
+        "distanceKm": 31.4,
         "stats": [
-          "21.2 km",
-          "2:06:37",
-          "175 m"
+          "31.4 km",
+          "12:34:22",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 234069.1
+      "totalWithEstimatesKm": 234071.1
     }
   }
 }

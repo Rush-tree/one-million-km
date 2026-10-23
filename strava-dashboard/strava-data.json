@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T11:01:00.934Z",
+  "generatedAt": "2026-10-23T11:30:48.532Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 765664,
-    "percentComplete": 23.43,
+    "remainingKm": 765639,
+    "percentComplete": 23.44,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8156.6,
-    "thisWeekActivities": 770,
-    "thisWeekHours": 664,
-    "thisWeekElevationM": 59709,
+    "thisWeekKm": 8181.1,
+    "thisWeekActivities": 776,
+    "thisWeekHours": 667,
+    "thisWeekElevationM": 59960,
     "timesAroundEarth": 5.85,
     "percentToMoon": 61,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19189,
+  "totalActivities": 19195,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 234336200,
-    "totalMovingTime": 66548387,
-    "totalElevation": 1717638.6
+    "totalDistance": 234360700,
+    "totalMovingTime": 66559127,
+    "totalElevation": 1717889.6
   },
   "monthStats": {
-    "totalDistance": 36885300,
-    "totalMovingTime": 10609740,
+    "totalDistance": 36909800,
+    "totalMovingTime": 10620480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8156600,
-    "totalMovingTime": 2391420,
-    "count": 770
+    "totalDistance": 8181100,
+    "totalMovingTime": 2402160,
+    "count": 776
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 218539.2,
+    "measuredDistanceKm": 218563.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20699214254",
+        "name": "Gewichtstraining am Nachmittag",
+        "date": "October 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "12:17",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20698685133",
-        "name": "Gewichtstraining zur Mittagszeit",
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20698977266",
+        "name": "Mittagslauf",
         "date": "October 23, 2026",
-        "distanceKm": 0,
+        "distanceKm": 3.4,
         "stats": [
-          "0 km",
-          "34:46",
-          "0 m"
+          "3.4 km",
+          "20:27",
+          "10 m"
         ]
       },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
-        "activityId": "20698365225",
-        "name": "Öğle Arası Yürüyüş",
+        "activityId": "20699059376",
+        "name": "Öğleden Sonra Yürüyüş",
         "date": "October 23, 2026",
-        "distanceKm": 1.1,
+        "distanceKm": 1.6,
         "stats": [
-          "1.1 km",
-          "15:15",
-          "13 m"
+          "1.6 km",
+          "35:35",
+          "53 m"
         ]
       },
       {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20698496746",
-        "name": "Day 3",
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20699206699",
+        "name": "Mittagslauf",
         "date": "October 23, 2026",
-        "distanceKm": 11.6,
+        "distanceKm": 11,
         "stats": [
-          "11.6 km",
-          "1:11:48",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20698246365",
-        "name": "Cycle tour from Alappuzza to Rameshwaram, Dhanushkodi. Day -1",
-        "date": "October 23, 2026",
-        "distanceKm": 65.9,
-        "stats": [
-          "65.9 km",
-          "8:15:12",
-          "349 m"
+          "11.0 km",
+          "1:06:54",
+          "117 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 234336.2
+      "totalWithEstimatesKm": 234360.7
     }
   }
 }

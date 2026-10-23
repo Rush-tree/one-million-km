@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-23T19:30:50.720Z",
+  "generatedAt": "2026-10-23T20:00:56.788Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-23T19:30:50.720Z",
+  "memberCountUpdatedAt": "2026-10-23T20:00:56.788Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 865,
-    "distanceKm": 9268.5,
+    "activities": 867,
+    "distanceKm": 9270.3,
     "elevationM": 70260,
-    "movingSeconds": 2724660,
+    "movingSeconds": 2732280,
     "raw": {
-      "activities": "865",
-      "distance": "9,268.5 km",
-      "time": "756 h 51 m",
+      "activities": "867",
+      "distance": "9,270.3 km",
+      "time": "758 h 58 m",
       "elevation": "70,260 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20704264446",
+      "name": "Afternoon Walk",
+      "date": "October 23, 2026",
+      "distanceKm": 1.8,
+      "stats": [
+        "1.8 km",
+        "21:41",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Ricardo Ferre",
       "athleteId": "45223374",
@@ -69,19 +82,6 @@
         "1:20:00",
         "91 m"
       ]
-    },
-    {
-      "athlete": "Jürgen Föll",
-      "athleteId": "41355823",
-      "activityId": "20703908943",
-      "name": "Torspieler Training FCO Aktive",
-      "date": "October 23, 2026",
-      "distanceKm": 1.7,
-      "stats": [
-        "1.7 km",
-        "1:41:48",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 96643,
-  "totalDistanceKm": 219651.1,
+  "observedWeeksKm": 96644.8,
+  "totalDistanceKm": 219652.9,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 235448.1
+    "totalWithEstimatesKm": 235449.9
   }
 }

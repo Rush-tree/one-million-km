@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T09:30:47.811Z",
+  "generatedAt": "2026-10-23T10:00:59.391Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 765749,
+    "remainingKm": 765682,
     "percentComplete": 23.43,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 8071.4,
-    "thisWeekActivities": 762,
-    "thisWeekHours": 657,
-    "thisWeekElevationM": 59128,
+    "thisWeekKm": 8138.7,
+    "thisWeekActivities": 765,
+    "thisWeekHours": 662,
+    "thisWeekElevationM": 59486,
     "timesAroundEarth": 5.85,
-    "percentToMoon": 60.9,
+    "percentToMoon": 61,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 60.9,
-        "text": "60.9% of the way to the Moon",
+        "value": 61,
+        "text": "61% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 17.7,
-        "text": "17.7× the German autobahn network",
+        "value": 17.8,
+        "text": "17.8× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19180,
+  "totalActivities": 19183,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 234251000,
-    "totalMovingTime": 66521267,
-    "totalElevation": 1717057.6
+    "totalDistance": 234318300,
+    "totalMovingTime": 66540467,
+    "totalElevation": 1717415.6
   },
   "monthStats": {
-    "totalDistance": 36800100,
-    "totalMovingTime": 10582620,
+    "totalDistance": 36867400,
+    "totalMovingTime": 10601820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8071400,
-    "totalMovingTime": 2364300,
-    "count": 762
+    "totalDistance": 8138700,
+    "totalMovingTime": 2383500,
+    "count": 765
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 218454,
+    "measuredDistanceKm": 218521.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20698159589",
+        "name": "Lunch Walk",
+        "date": "October 23, 2026",
+        "distanceKm": 0.9,
+        "stats": [
+          "0.9 km",
+          "32:23",
+          "8 m"
+        ]
+      },
       {
         "athlete": "Nico Deckarm",
         "athleteId": "74766538",
@@ -137,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20697486811",
-        "name": "Natación de mañana",
-        "date": "October 23, 2026",
-        "distanceKm": 1.2,
-        "stats": [
-          "1.2 km",
-          "26:22",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "John Spence",
         "athleteId": "97189936",
         "activityId": "20697792541",
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20697490583",
-        "name": "Lauf am Morgen",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20698246365",
+        "name": "Cycle tour from Alappuzza to Rameshwaram, Dhanushkodi. Day -1",
         "date": "October 23, 2026",
-        "distanceKm": 5,
+        "distanceKm": 65.9,
         "stats": [
-          "5.0 km",
-          "33:53",
-          "46 m"
+          "65.9 km",
+          "8:15:12",
+          "349 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 234251
+      "totalWithEstimatesKm": 234318.3
     }
   }
 }

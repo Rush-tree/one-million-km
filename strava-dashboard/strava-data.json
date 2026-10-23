@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T16:01:00.574Z",
+  "generatedAt": "2026-10-23T16:30:50.542Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 764758,
-    "percentComplete": 23.52,
+    "remainingKm": 764729,
+    "percentComplete": 23.53,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9062.6,
-    "thisWeekActivities": 827,
-    "thisWeekHours": 722,
-    "thisWeekElevationM": 68420,
+    "thisWeekKm": 9091.6,
+    "thisWeekActivities": 835,
+    "thisWeekHours": 727,
+    "thisWeekElevationM": 68775,
     "timesAroundEarth": 5.87,
     "percentToMoon": 61.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19243,
+  "totalActivities": 19252,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 235242200,
-    "totalMovingTime": 66754967,
-    "totalElevation": 1726349.6
+    "totalDistance": 235271200,
+    "totalMovingTime": 66775187,
+    "totalElevation": 1726704.6
   },
   "monthStats": {
-    "totalDistance": 37791300,
-    "totalMovingTime": 10816320,
+    "totalDistance": 37820300,
+    "totalMovingTime": 10836540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9062600,
-    "totalMovingTime": 2598000,
-    "count": 827
+    "totalDistance": 9091600,
+    "totalMovingTime": 2618220,
+    "count": 835
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 219445.2,
+    "measuredDistanceKm": 219474.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Biken Ginayatova",
+        "athleteId": "92872558",
+        "activityId": "20702365376",
+        "name": "Friday Evening Run",
+        "date": "October 23, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "28:18",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20702230599",
+        "name": "Carrera de tarde",
+        "date": "October 23, 2026",
+        "distanceKm": 7.4,
+        "stats": [
+          "7.4 km",
+          "43:47",
+          "83 m"
+        ]
+      },
       {
         "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
         "athleteId": "28746307",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20702073110",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20702159541",
+        "name": "Course à pied dans l'après-midi",
         "date": "October 23, 2026",
-        "distanceKm": 26.6,
+        "distanceKm": 10,
         "stats": [
-          "26.6 km",
-          "1:14:29",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20702033838",
-        "name": "Zwift - Wild Starts",
-        "date": "October 23, 2026",
-        "distanceKm": 40.4,
-        "stats": [
-          "40.4 km",
-          "1:13:57",
-          "119 m"
+          "10.0 km",
+          "55:56",
+          "105 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "34.3 km",
           "6:14:05",
           "269 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20701974101",
-        "name": "Fahrt am Morgen",
-        "date": "October 23, 2026",
-        "distanceKm": 128.7,
-        "stats": [
-          "128.7 km",
-          "8:14:21",
-          "1,132 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 235242.2
+      "totalWithEstimatesKm": 235271.2
     }
   }
 }

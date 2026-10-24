@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T18:00:57.370Z",
+  "generatedAt": "2026-10-24T18:15:54.760Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 762187,
-    "percentComplete": 23.78,
+    "remainingKm": 762138,
+    "percentComplete": 23.79,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 11633.7,
-    "thisWeekActivities": 1037,
-    "thisWeekHours": 935,
-    "thisWeekElevationM": 88591,
-    "timesAroundEarth": 5.93,
+    "thisWeekKm": 11682.4,
+    "thisWeekActivities": 1039,
+    "thisWeekHours": 938,
+    "thisWeekElevationM": 88850,
+    "timesAroundEarth": 5.94,
     "percentToMoon": 61.9,
     "comparisons": [
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 37.2,
-        "text": "37.2 return trips Berlin to New York",
+        "value": 37.3,
+        "text": "37.3 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19455,
+  "totalActivities": 19457,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 237813300,
-    "totalMovingTime": 67524227,
-    "totalElevation": 1746520.6
+    "totalDistance": 237862000,
+    "totalMovingTime": 67532807,
+    "totalElevation": 1746779.6
   },
   "monthStats": {
-    "totalDistance": 40362400,
-    "totalMovingTime": 11585580,
+    "totalDistance": 40411100,
+    "totalMovingTime": 11594160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11633700,
-    "totalMovingTime": 3367260,
-    "count": 1037
+    "totalDistance": 11682400,
+    "totalMovingTime": 3375840,
+    "count": 1039
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 222016.3,
+    "measuredDistanceKm": 222065,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "2.1 km",
           "24:05",
           "4 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20716404429",
+        "name": "Zwift - EF Pro Cycling's Red Day Workout",
+        "date": "October 24, 2026",
+        "distanceKm": 18.3,
+        "stats": [
+          "18.3 km",
+          "45:08",
+          "107 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "43:44",
           "18 m"
         ]
-      },
-      {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "20715496594",
-        "name": "Footing 10k falla GPS🏃",
-        "date": "October 24, 2026",
-        "distanceKm": 5.6,
-        "stats": [
-          "5.6 km",
-          "1:24:55",
-          "11 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 237813.3
+      "totalWithEstimatesKm": 237862
     }
   }
 }

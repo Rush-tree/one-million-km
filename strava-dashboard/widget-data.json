@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-24T08:30:48.793Z",
+  "generatedAt": "2026-10-24T09:00:59.799Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-24T08:30:48.793Z",
+  "memberCountUpdatedAt": "2026-10-24T09:00:59.799Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 915,
-    "distanceKm": 9838.5,
-    "elevationM": 73782,
-    "movingSeconds": 2898900,
+    "activities": 920,
+    "distanceKm": 9856,
+    "elevationM": 73989,
+    "movingSeconds": 2907540,
     "raw": {
-      "activities": "915",
-      "distance": "9,838.5 km",
-      "time": "805 h 15 m",
-      "elevation": "73,782 m"
+      "activities": "920",
+      "distance": "9,856.0 km",
+      "time": "807 h 39 m",
+      "elevation": "73,989 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20709318678",
+      "name": "Pedalada matinal",
+      "date": "October 24, 2026",
+      "distanceKm": 4,
+      "stats": [
+        "4.0 km",
+        "13:35",
+        "28 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -32,16 +45,29 @@
       ]
     },
     {
-      "athlete": "Vincent Glößner",
-      "athleteId": "60518823",
-      "activityId": "20708653264",
-      "name": "Gewichtstraining am Morgen",
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20709049070",
+      "name": "Allenamento con i pesi mattutino",
       "date": "October 24, 2026",
       "distanceKm": 0,
       "stats": [
         "0 km",
-        "31:28",
+        "26:59",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Manfred H",
+      "athleteId": "85517467",
+      "activityId": "20709067924",
+      "name": "Shake out run",
+      "date": "October 24, 2026",
+      "distanceKm": 6.5,
+      "stats": [
+        "6.5 km",
+        "38:20",
+        "24 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:09:23",
         "59 m"
       ]
-    },
-    {
-      "athlete": "Silvio Lazzarin",
-      "athleteId": "139275594",
-      "activityId": "20708659304",
-      "name": "Corsa mattutina",
-      "date": "October 24, 2026",
-      "distanceKm": 14,
-      "stats": [
-        "14.0 km",
-        "1:13:33",
-        "23 m"
-      ]
-    },
-    {
-      "athlete": "Elian Golde",
-      "athleteId": "2022066196",
-      "activityId": "20708761575",
-      "name": "Short Ride with the boys in Japan",
-      "date": "October 24, 2026",
-      "distanceKm": 100,
-      "stats": [
-        "100.0 km",
-        "10:20:37",
-        "1,044 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 97213,
-  "totalDistanceKm": 220221.1,
+  "observedWeeksKm": 97230.5,
+  "totalDistanceKm": 220238.6,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 236018.1
+    "totalWithEstimatesKm": 236035.6
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T08:30:48.793Z",
+  "generatedAt": "2026-10-24T09:00:59.799Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 763982,
+    "remainingKm": 763964,
     "percentComplete": 23.6,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9838.5,
-    "thisWeekActivities": 915,
-    "thisWeekHours": 805,
-    "thisWeekElevationM": 73782,
+    "thisWeekKm": 9856,
+    "thisWeekActivities": 920,
+    "thisWeekHours": 808,
+    "thisWeekElevationM": 73989,
     "timesAroundEarth": 5.89,
     "percentToMoon": 61.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19336,
+  "totalActivities": 19342,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 236018100,
-    "totalMovingTime": 67055867,
-    "totalElevation": 1731711.6
+    "totalDistance": 236035600,
+    "totalMovingTime": 67064507,
+    "totalElevation": 1731918.6
   },
   "monthStats": {
-    "totalDistance": 38567200,
-    "totalMovingTime": 11117220,
+    "totalDistance": 38584700,
+    "totalMovingTime": 11125860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9838500,
-    "totalMovingTime": 2898900,
-    "count": 915
+    "totalDistance": 9856000,
+    "totalMovingTime": 2907540,
+    "count": 920
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 220221.1,
+    "measuredDistanceKm": 220238.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20709318678",
+        "name": "Pedalada matinal",
+        "date": "October 24, 2026",
+        "distanceKm": 4,
+        "stats": [
+          "4.0 km",
+          "13:35",
+          "28 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -124,16 +137,29 @@
         ]
       },
       {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "20708653264",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20709049070",
+        "name": "Allenamento con i pesi mattutino",
         "date": "October 24, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "31:28",
+          "26:59",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20709067924",
+        "name": "Shake out run",
+        "date": "October 24, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "38:20",
+          "24 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "8.4 km",
           "1:09:23",
           "59 m"
-        ]
-      },
-      {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20708659304",
-        "name": "Corsa mattutina",
-        "date": "October 24, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "1:13:33",
-          "23 m"
-        ]
-      },
-      {
-        "athlete": "Elian Golde",
-        "athleteId": "2022066196",
-        "activityId": "20708761575",
-        "name": "Short Ride with the boys in Japan",
-        "date": "October 24, 2026",
-        "distanceKm": 100,
-        "stats": [
-          "100.0 km",
-          "10:20:37",
-          "1,044 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 236018.1
+      "totalWithEstimatesKm": 236035.6
     }
   }
 }

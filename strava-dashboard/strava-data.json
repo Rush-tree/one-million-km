@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T11:00:57.958Z",
+  "generatedAt": "2026-10-24T11:21:41.895Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 763547,
+    "remainingKm": 763524,
     "percentComplete": 23.65,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10273,
-    "thisWeekActivities": 949,
-    "thisWeekHours": 837,
-    "thisWeekElevationM": 76700,
+    "thisWeekKm": 10296.1,
+    "thisWeekActivities": 953,
+    "thisWeekHours": 842,
+    "thisWeekElevationM": 77051,
     "timesAroundEarth": 5.9,
     "percentToMoon": 61.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19370,
+  "totalActivities": 19375,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 236452600,
-    "totalMovingTime": 67170467,
-    "totalElevation": 1734629.6
+    "totalDistance": 236475700,
+    "totalMovingTime": 67189427,
+    "totalElevation": 1734980.6
   },
   "monthStats": {
-    "totalDistance": 39001700,
-    "totalMovingTime": 11231820,
+    "totalDistance": 39024800,
+    "totalMovingTime": 11250780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10273000,
-    "totalMovingTime": 3013500,
-    "count": 949
+    "totalDistance": 10296100,
+    "totalMovingTime": 3032460,
+    "count": 953
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 220655.6,
+    "measuredDistanceKm": 220678.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20710532248",
-        "name": "Traillauf zur Mittagszeit",
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20711237869",
+        "name": "Mittagspaziergang",
         "date": "October 24, 2026",
-        "distanceKm": 6,
+        "distanceKm": 3,
         "stats": [
-          "6.0 km",
-          "37:08",
-          "81 m"
+          "3.0 km",
+          "1:07:20",
+          "71 m"
+        ]
+      },
+      {
+        "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
+        "athleteId": "24992941",
+        "activityId": "20711108971",
+        "name": "DL60",
+        "date": "October 24, 2026",
+        "distanceKm": 11.1,
+        "stats": [
+          "11.1 km",
+          "1:00:15",
+          "8 m"
         ]
       },
       {
@@ -137,32 +150,6 @@
         ]
       },
       {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20710752781",
-        "name": "Lunch Run",
-        "date": "October 24, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "1:23:12",
-          "81 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20710469562",
-        "name": "Camminata mattutina",
-        "date": "October 24, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "1:23:13",
-          "7 m"
-        ]
-      },
-      {
         "athlete": "Andreas Glaser 🇩🇪🚲",
         "athleteId": "3109388",
         "activityId": "20711022999",
@@ -173,6 +160,19 @@
           "58.2 km",
           "2:13:01",
           "573 m"
+        ]
+      },
+      {
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20711339316",
+        "name": "Wanderung am Morgen",
+        "date": "October 24, 2026",
+        "distanceKm": 8.8,
+        "stats": [
+          "8.8 km",
+          "2:40:49",
+          "272 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 236452.6
+      "totalWithEstimatesKm": 236475.7
     }
   }
 }

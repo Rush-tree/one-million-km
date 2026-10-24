@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T08:01:02.853Z",
+  "generatedAt": "2026-10-24T08:30:48.793Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 764120,
-    "percentComplete": 23.59,
+    "remainingKm": 763982,
+    "percentComplete": 23.6,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9700.8,
-    "thisWeekActivities": 911,
-    "thisWeekHours": 796,
-    "thisWeekElevationM": 72251,
+    "thisWeekKm": 9838.5,
+    "thisWeekActivities": 915,
+    "thisWeekHours": 805,
+    "thisWeekElevationM": 73782,
     "timesAroundEarth": 5.89,
     "percentToMoon": 61.4,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 36.9,
-        "text": "36.9 return trips Berlin to New York",
+        "value": 37,
+        "text": "37 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19333,
+  "totalActivities": 19336,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 235880400,
-    "totalMovingTime": 67022747,
-    "totalElevation": 1730180.6
+    "totalDistance": 236018100,
+    "totalMovingTime": 67055867,
+    "totalElevation": 1731711.6
   },
   "monthStats": {
-    "totalDistance": 38429500,
-    "totalMovingTime": 11084100,
+    "totalDistance": 38567200,
+    "totalMovingTime": 11117220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9700800,
-    "totalMovingTime": 2865780,
-    "count": 911
+    "totalDistance": 9838500,
+    "totalMovingTime": 2898900,
+    "count": 915
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 220083.4,
+    "measuredDistanceKm": 220221.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20708989154",
+        "name": "Marche le matin",
+        "date": "October 24, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "16:06",
+          "12 m"
+        ]
+      },
       {
         "athlete": "Vincent Glößner",
         "athleteId": "60518823",
@@ -124,16 +137,16 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20708375874",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20708856982",
+        "name": "Lauf am Morgen",
         "date": "October 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 8.4,
         "stats": [
-          "0 km",
-          "16:41",
-          "0 m"
+          "8.4 km",
+          "1:09:23",
+          "59 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Rainer Gatzmaga",
-        "athleteId": "119550686",
-        "activityId": "20708339094",
-        "name": "Lauf am Morgen",
+        "athlete": "Elian Golde",
+        "athleteId": "2022066196",
+        "activityId": "20708761575",
+        "name": "Short Ride with the boys in Japan",
         "date": "October 24, 2026",
-        "distanceKm": 8.3,
+        "distanceKm": 100,
         "stats": [
-          "8.3 km",
-          "47:25",
-          "70 m"
-        ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20708174137",
-        "name": "Morning Walk",
-        "date": "October 24, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "1:03:23",
-          "93 m"
+          "100.0 km",
+          "10:20:37",
+          "1,044 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 235880.4
+      "totalWithEstimatesKm": 236018.1
     }
   }
 }

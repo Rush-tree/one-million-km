@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T05:00:55.117Z",
+  "generatedAt": "2026-10-24T05:30:45.036Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 764329,
+    "remainingKm": 764256,
     "percentComplete": 23.57,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9491.2,
-    "thisWeekActivities": 891,
-    "thisWeekHours": 779,
-    "thisWeekElevationM": 71186,
+    "thisWeekKm": 9564,
+    "thisWeekActivities": 896,
+    "thisWeekHours": 784,
+    "thisWeekElevationM": 71333,
     "timesAroundEarth": 5.88,
     "percentToMoon": 61.3,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 35.4,
-        "text": "35.4× the length of the Nile",
+        "value": 35.5,
+        "text": "35.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19313,
+  "totalActivities": 19317,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 235670800,
-    "totalMovingTime": 66961907,
-    "totalElevation": 1729115.6
+    "totalDistance": 235743600,
+    "totalMovingTime": 66977627,
+    "totalElevation": 1729262.6
   },
   "monthStats": {
-    "totalDistance": 38219900,
-    "totalMovingTime": 11023260,
+    "totalDistance": 38292700,
+    "totalMovingTime": 11038980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9491200,
-    "totalMovingTime": 2804940,
-    "count": 891
+    "totalDistance": 9564000,
+    "totalMovingTime": 2820660,
+    "count": 896
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 219873.8,
+    "measuredDistanceKm": 219946.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20707812663",
+        "name": "Gewichtstraining am Morgen",
+        "date": "October 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "5:29",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20707812658",
+        "name": "Yoga am Morgen",
+        "date": "October 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:22",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Justin Mwenda",
         "athleteId": "160236798",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20707658538",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20707882701",
+        "name": "☁️ Morning Ride",
         "date": "October 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 72.2,
         "stats": [
-          "0 km",
-          "19:31",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20707653008",
-        "name": "Açık alanda koşu",
-        "date": "October 24, 2026",
-        "distanceKm": 13.9,
-        "stats": [
-          "13.9 km",
-          "1:07:01",
-          "56 m"
-        ]
-      },
-      {
-        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-        "athleteId": "72351185",
-        "activityId": "20707685759",
-        "name": "Morning Walk",
-        "date": "October 24, 2026",
-        "distanceKm": 1.3,
-        "stats": [
-          "1.3 km",
-          "16:44",
-          "1 m"
+          "72.2 km",
+          "5:42:43",
+          "146 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 235670.8
+      "totalWithEstimatesKm": 235743.6
     }
   }
 }

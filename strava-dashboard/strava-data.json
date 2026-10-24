@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T18:30:47.222Z",
+  "generatedAt": "2026-10-24T19:00:57.002Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 762127,
+    "remainingKm": 762114,
     "percentComplete": 23.79,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 11693.3,
-    "thisWeekActivities": 1040,
-    "thisWeekHours": 942,
-    "thisWeekElevationM": 89977,
+    "thisWeekKm": 11706.9,
+    "thisWeekActivities": 1044,
+    "thisWeekHours": 945,
+    "thisWeekElevationM": 89995,
     "timesAroundEarth": 5.94,
     "percentToMoon": 61.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19458,
+  "totalActivities": 19463,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 237872900,
-    "totalMovingTime": 67547747,
-    "totalElevation": 1747906.6
+    "totalDistance": 237886500,
+    "totalMovingTime": 67557287,
+    "totalElevation": 1747924.6
   },
   "monthStats": {
-    "totalDistance": 40422000,
-    "totalMovingTime": 11609100,
+    "totalDistance": 40435600,
+    "totalMovingTime": 11618640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11693300,
-    "totalMovingTime": 3390780,
-    "count": 1040
+    "totalDistance": 11706900,
+    "totalMovingTime": 3400320,
+    "count": 1044
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 222075.9,
+    "measuredDistanceKm": 222089.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20716682297",
+        "name": "Afternoon Walk",
+        "date": "October 24, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "15:03",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20716846014",
+        "name": "Yoga am Abend",
+        "date": "October 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "47:44",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "20715952664",
-        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20716731893",
+        "name": "Clean-up event in Indio Hills",
         "date": "October 24, 2026",
-        "distanceKm": 6.5,
+        "distanceKm": 1.7,
         "stats": [
-          "6.5 km",
-          "48:29",
-          "52 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20716206760",
-        "name": "Massilia Prado Sunset 🌇🌊",
-        "date": "October 24, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "1:24:01",
-          "45 m"
-        ]
-      },
-      {
-        "athlete": "Tobias Hoffmann",
-        "athleteId": "136442791",
-        "activityId": "20715634583",
-        "name": "Lauf am Abend",
-        "date": "October 24, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "43:44",
-          "18 m"
+          "1.7 km",
+          "3:08:33",
+          "5 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 237872.9
+      "totalWithEstimatesKm": 237886.5
     }
   }
 }

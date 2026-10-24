@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-10-24T13:00:57.465Z",
+  "generatedAt": "2026-10-24T13:30:48.128Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 763088,
-    "percentComplete": 23.69,
+    "remainingKm": 762906,
+    "percentComplete": 23.71,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-18",
+    "projectedDate": "2027-09-17",
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 10732.1,
-    "thisWeekActivities": 975,
-    "thisWeekHours": 871,
-    "thisWeekElevationM": 80166,
-    "timesAroundEarth": 5.91,
-    "percentToMoon": 61.6,
+    "thisWeekKm": 10914.9,
+    "thisWeekActivities": 986,
+    "thisWeekHours": 885,
+    "thisWeekElevationM": 82303,
+    "timesAroundEarth": 5.92,
+    "percentToMoon": 61.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 61.6,
-        "text": "61.6% of the way to the Moon",
+        "value": 61.7,
+        "text": "61.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 35.6,
-        "text": "35.6× the length of the Nile",
+        "value": 35.7,
+        "text": "35.7× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 17.9,
-        "text": "17.9× the German autobahn network",
+        "value": 18,
+        "text": "18× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19395,
+  "totalActivities": 19405,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 236911700,
-    "totalMovingTime": 67292867,
-    "totalElevation": 1738095.6
+    "totalDistance": 237094500,
+    "totalMovingTime": 67342127,
+    "totalElevation": 1740232.6
   },
   "monthStats": {
-    "totalDistance": 39460800,
-    "totalMovingTime": 11354220,
+    "totalDistance": 39643600,
+    "totalMovingTime": 11403480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10732100,
-    "totalMovingTime": 3135900,
-    "count": 975
+    "totalDistance": 10914900,
+    "totalMovingTime": 3185160,
+    "count": 986
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 221114.7,
+    "measuredDistanceKm": 221297.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "🏃🏻‍♀️🚴🏻‍♀️ Roadrunner",
+        "athleteId": "51333291",
+        "activityId": "20712744075",
+        "name": "Lauf am Nachmittag",
+        "date": "October 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0.0 km",
+          "11:29",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20712360569",
-        "name": "Marche dans l'après-midi",
+        "athlete": "Henrique Juhas",
+        "athleteId": "118657757",
+        "activityId": "20712624601",
+        "name": "Corrida matinal",
         "date": "October 24, 2026",
         "distanceKm": 4.7,
         "stats": [
           "4.7 km",
-          "59:39",
-          "25 m"
+          "58:57",
+          "80 m"
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20712573722",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 24, 2026",
-        "distanceKm": 5.2,
-        "stats": [
-          "5.2 km",
-          "1:26:42",
-          "30 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20712384495",
+        "athlete": "Heiko Kraushaar",
+        "athleteId": "78179687",
+        "activityId": "20712863756",
         "name": "Fahrt am Nachmittag",
         "date": "October 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 54.2,
         "stats": [
-          "0 km",
-          "1:20:00",
-          "0 m"
+          "54.2 km",
+          "2:08:05",
+          "149 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 236911.7
+      "totalWithEstimatesKm": 237094.5
     }
   }
 }

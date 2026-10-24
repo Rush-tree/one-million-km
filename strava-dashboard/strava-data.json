@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T07:30:46.638Z",
+  "generatedAt": "2026-10-24T08:01:02.853Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 764134,
+    "remainingKm": 764120,
     "percentComplete": 23.59,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9686.7,
-    "thisWeekActivities": 909,
-    "thisWeekHours": 794,
-    "thisWeekElevationM": 72228,
+    "thisWeekKm": 9700.8,
+    "thisWeekActivities": 911,
+    "thisWeekHours": 796,
+    "thisWeekElevationM": 72251,
     "timesAroundEarth": 5.89,
     "percentToMoon": 61.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19331,
+  "totalActivities": 19333,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 235866300,
-    "totalMovingTime": 67016627,
-    "totalElevation": 1730157.6
+    "totalDistance": 235880400,
+    "totalMovingTime": 67022747,
+    "totalElevation": 1730180.6
   },
   "monthStats": {
-    "totalDistance": 38415400,
-    "totalMovingTime": 11077980,
+    "totalDistance": 38429500,
+    "totalMovingTime": 11084100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9686700,
-    "totalMovingTime": 2859660,
-    "count": 909
+    "totalDistance": 9700800,
+    "totalMovingTime": 2865780,
+    "count": 911
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 220069.3,
+    "measuredDistanceKm": 220083.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Vincent Glößner",
+        "athleteId": "60518823",
+        "activityId": "20708653264",
+        "name": "Gewichtstraining am Morgen",
+        "date": "October 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "31:28",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -121,6 +134,19 @@
           "0 km",
           "16:41",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20708659304",
+        "name": "Corsa mattutina",
+        "date": "October 24, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "1:13:33",
+          "23 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "1:03:23",
           "93 m"
         ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20707974217",
-        "name": "Saturday Morning Activity",
-        "date": "October 24, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "25:10",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20707920979",
-        "name": "Morning Run",
-        "date": "October 24, 2026",
-        "distanceKm": 38,
-        "stats": [
-          "38.0 km",
-          "3:31:22",
-          "132 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 235866.3
+      "totalWithEstimatesKm": 235880.4
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-24T07:30:46.638Z",
+  "generatedAt": "2026-10-24T08:01:02.853Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-24T07:30:46.638Z",
+  "memberCountUpdatedAt": "2026-10-24T08:01:02.853Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 909,
-    "distanceKm": 9686.7,
-    "elevationM": 72228,
-    "movingSeconds": 2859660,
+    "activities": 911,
+    "distanceKm": 9700.8,
+    "elevationM": 72251,
+    "movingSeconds": 2865780,
     "raw": {
-      "activities": "909",
-      "distance": "9,686.7 km",
-      "time": "794 h 21 m",
-      "elevation": "72,228 m"
+      "activities": "911",
+      "distance": "9,700.8 km",
+      "time": "796 h 3 m",
+      "elevation": "72,251 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Vincent Glößner",
+      "athleteId": "60518823",
+      "activityId": "20708653264",
+      "name": "Gewichtstraining am Morgen",
+      "date": "October 24, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "31:28",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -29,6 +42,19 @@
         "0 km",
         "16:41",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20708659304",
+      "name": "Corsa mattutina",
+      "date": "October 24, 2026",
+      "distanceKm": 14,
+      "stats": [
+        "14.0 km",
+        "1:13:33",
+        "23 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:03:23",
         "93 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20707974217",
-      "name": "Saturday Morning Activity",
-      "date": "October 24, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "25:10",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Amit Zadka",
-      "athleteId": "25927820",
-      "activityId": "20707920979",
-      "name": "Morning Run",
-      "date": "October 24, 2026",
-      "distanceKm": 38,
-      "stats": [
-        "38.0 km",
-        "3:31:22",
-        "132 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 97061.2,
-  "totalDistanceKm": 220069.3,
+  "observedWeeksKm": 97075.3,
+  "totalDistanceKm": 220083.4,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 235866.3
+    "totalWithEstimatesKm": 235880.4
   }
 }

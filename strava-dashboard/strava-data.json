@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T09:30:47.550Z",
+  "generatedAt": "2026-10-24T10:00:58.669Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 763862,
-    "percentComplete": 23.61,
+    "remainingKm": 763787,
+    "percentComplete": 23.62,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 9958.1,
-    "thisWeekActivities": 929,
-    "thisWeekHours": 815,
-    "thisWeekElevationM": 74390,
+    "thisWeekKm": 10033.7,
+    "thisWeekActivities": 934,
+    "thisWeekHours": 821,
+    "thisWeekElevationM": 75337,
     "timesAroundEarth": 5.89,
     "percentToMoon": 61.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19351,
+  "totalActivities": 19356,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 236137700,
-    "totalMovingTime": 67090067,
-    "totalElevation": 1732319.6
+    "totalDistance": 236213300,
+    "totalMovingTime": 67113227,
+    "totalElevation": 1733266.6
   },
   "monthStats": {
-    "totalDistance": 38686800,
-    "totalMovingTime": 11151420,
+    "totalDistance": 38762400,
+    "totalMovingTime": 11174580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9958100,
-    "totalMovingTime": 2933100,
-    "count": 929
+    "totalDistance": 10033700,
+    "totalMovingTime": 2956260,
+    "count": 934
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 220340.7,
+    "measuredDistanceKm": 220416.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20710160474",
+        "name": "Lunch Weight Training",
+        "date": "October 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "10:47",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20709969951",
+        "name": "P5/30 Zwift - Race: Tiny Race (3 of 4) by Zwift Insider (E)",
+        "date": "October 24, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "11:30",
+          "33 m"
+        ]
+      },
+      {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
         "activityId": "20709754829",
-        "name": "P14 Zwift - Race: Tiny Race (2 of 4) by Zwift Insider",
+        "name": "P14/30 Zwift - Race: Tiny Race (2 of 4) by Zwift Insider",
         "date": "October 24, 2026",
         "distanceKm": 6.3,
         "stats": [
           "6.3 km",
           "11:12",
           "29 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20709535613",
-        "name": "P4 Zwift - Race: Tiny Race (1 of 4) by Zwift Insider",
-        "date": "October 24, 2026",
-        "distanceKm": 6.3,
-        "stats": [
-          "6.3 km",
-          "10:10",
-          "12 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20709447298",
-        "name": "Lauf am Morgen",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20709930739",
+        "name": "Kerala-Dhanushkodi Cycle Tour Day 2 Wagamon to Tekkadi",
         "date": "October 24, 2026",
-        "distanceKm": 5.2,
+        "distanceKm": 48,
         "stats": [
-          "5.2 km",
-          "26:38",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Luka M",
-        "athleteId": "33218706",
-        "activityId": "20709417828",
-        "name": "Samstagmorgenspaziergang 🍂",
-        "date": "October 24, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "2:08:52",
-          "43 m"
+          "48.0 km",
+          "6:10:55",
+          "788 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 236137.7
+      "totalWithEstimatesKm": 236213.3
     }
   }
 }

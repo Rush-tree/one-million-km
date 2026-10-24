@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-24T11:21:41.895Z",
+  "generatedAt": "2026-10-24T11:30:46.281Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-24T11:21:41.894Z",
+  "memberCountUpdatedAt": "2026-10-24T11:30:46.281Z",
   "currentWeek": {
     "week": "Oct 19, 2026 - Oct 25, 2026",
-    "activities": 953,
-    "distanceKm": 10296.1,
-    "elevationM": 77051,
-    "movingSeconds": 3032460,
+    "activities": 955,
+    "distanceKm": 10338.4,
+    "elevationM": 77220,
+    "movingSeconds": 3038760,
     "raw": {
-      "activities": "953",
-      "distance": "10,296.1 km",
-      "time": "842 h 21 m",
-      "elevation": "77,051 m"
+      "activities": "955",
+      "distance": "10,338.4 km",
+      "time": "844 h 6 m",
+      "elevation": "77,220 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ricardo Ferre",
+      "athleteId": "45223374",
+      "activityId": "20711410740",
+      "name": "Zwift - Group Ride: Endurance Group ride hosted by ZTBR- Zwift Team Brazil (E)",
+      "date": "October 24, 2026",
+      "distanceKm": 37.3,
+      "stats": [
+        "37.3 km",
+        "1:11:15",
+        "163 m"
+      ]
+    },
     {
       "athlete": "Anja Habermeier",
       "athleteId": "80382525",
@@ -42,19 +55,6 @@
         "11.1 km",
         "1:00:15",
         "8 m"
-      ]
-    },
-    {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20710890173",
-      "name": "Lunch Run",
-      "date": "October 24, 2026",
-      "distanceKm": 12,
-      "stats": [
-        "12.0 km",
-        "1:11:50",
-        "41 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 97670.6,
-  "totalDistanceKm": 220678.7,
+  "observedWeeksKm": 97712.9,
+  "totalDistanceKm": 220721,
   "weeksTracked": 7,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 236475.7
+    "totalWithEstimatesKm": 236518
   }
 }

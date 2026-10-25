@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T06:33:32.529Z",
+  "generatedAt": "2026-10-25T07:00:56.060Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 761638,
+    "remainingKm": 761596,
     "percentComplete": 23.84,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 12182.2,
-    "thisWeekActivities": 1061,
-    "thisWeekHours": 972,
-    "thisWeekElevationM": 92372,
+    "thisWeekKm": 12224.5,
+    "thisWeekActivities": 1062,
+    "thisWeekHours": 976,
+    "thisWeekElevationM": 92644,
     "timesAroundEarth": 5.95,
     "percentToMoon": 62,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 35.8,
-        "text": "35.8× the length of the Nile",
+        "value": 35.9,
+        "text": "35.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 238361800,
-    "totalMovingTime": 67655627,
-    "totalElevation": 1750301.6
+    "totalDistance": 238404100,
+    "totalMovingTime": 67670627,
+    "totalElevation": 1750573.6
   },
   "monthStats": {
-    "totalDistance": 40910900,
-    "totalMovingTime": 11716980,
+    "totalDistance": 40953200,
+    "totalMovingTime": 11731980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12182200,
-    "totalMovingTime": 3498660,
-    "count": 1061
+    "totalDistance": 12224500,
+    "totalMovingTime": 3513660,
+    "count": 1062
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 222564.8,
+    "measuredDistanceKm": 222607.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20720462367",
-        "name": "Sunday Morning Ride",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20720906320",
+        "name": "Morning Run",
         "date": "October 25, 2026",
-        "distanceKm": 67.5,
+        "distanceKm": 42.3,
         "stats": [
-          "67.5 km",
-          "5:11:30",
-          "167 m"
+          "42.3 km",
+          "4:10:02",
+          "272 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 238361.8
+      "totalWithEstimatesKm": 238404.1
     }
   }
 }

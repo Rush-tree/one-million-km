@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T06:00:54.796Z",
+  "generatedAt": "2026-10-25T06:30:45.151Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 761839,
-    "percentComplete": 23.82,
+    "remainingKm": 761638,
+    "percentComplete": 23.84,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 11981.6,
-    "thisWeekActivities": 1060,
-    "thisWeekHours": 963,
-    "thisWeekElevationM": 91199,
-    "timesAroundEarth": 5.94,
+    "thisWeekKm": 12182.2,
+    "thisWeekActivities": 1061,
+    "thisWeekHours": 972,
+    "thisWeekElevationM": 92372,
+    "timesAroundEarth": 5.95,
     "percentToMoon": 62,
     "comparisons": [
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 18,
-        "text": "18× the German autobahn network",
+        "value": 18.1,
+        "text": "18.1× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19478,
+  "totalActivities": 19477,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 238161200,
-    "totalMovingTime": 67625207,
-    "totalElevation": 1749128.6
+    "totalDistance": 238361800,
+    "totalMovingTime": 67655627,
+    "totalElevation": 1750301.6
   },
   "monthStats": {
-    "totalDistance": 40710300,
-    "totalMovingTime": 11686560,
+    "totalDistance": 40910900,
+    "totalMovingTime": 11716980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11981600,
-    "totalMovingTime": 3468240,
-    "count": 1060
+    "totalDistance": 12182200,
+    "totalMovingTime": 3498660,
+    "count": 1061
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 222364.2,
+    "measuredDistanceKm": 222564.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20720332358",
-        "name": "617/730 gün koşusu",
-        "date": "October 25, 2026",
-        "distanceKm": 14.3,
-        "stats": [
-          "14.3 km",
-          "1:05:23",
-          "68 m"
-        ]
-      },
-      {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "20720462367",
@@ -173,6 +160,19 @@
           "67.5 km",
           "5:11:30",
           "167 m"
+        ]
+      },
+      {
+        "athlete": "Fabio Martins Queiroga",
+        "athleteId": "108341050",
+        "activityId": "20720709411",
+        "name": "Volta das praias",
+        "date": "October 24, 2026",
+        "distanceKm": 200.5,
+        "stats": [
+          "200.5 km",
+          "12:53:41",
+          "1,173 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 238161.2
+      "totalWithEstimatesKm": 238361.8
     }
   }
 }

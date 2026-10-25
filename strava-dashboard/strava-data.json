@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T18:30:48.162Z",
+  "generatedAt": "2026-10-25T19:00:54.906Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 759280,
-    "percentComplete": 24.07,
+    "remainingKm": 759222,
+    "percentComplete": 24.08,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14540,
-    "thisWeekActivities": 1210,
-    "thisWeekHours": 1151,
-    "thisWeekElevationM": 108404,
+    "thisWeekKm": 14598.5,
+    "thisWeekActivities": 1215,
+    "thisWeekHours": 1161,
+    "thisWeekElevationM": 108843,
     "timesAroundEarth": 6.01,
     "percentToMoon": 62.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19621,
+  "totalActivities": 19626,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 240719600,
-    "totalMovingTime": 68301707,
-    "totalElevation": 1766333.6
+    "totalDistance": 240778100,
+    "totalMovingTime": 68335787,
+    "totalElevation": 1766772.6
   },
   "monthStats": {
-    "totalDistance": 43268700,
-    "totalMovingTime": 12363060,
+    "totalDistance": 43327200,
+    "totalMovingTime": 12397140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14540000,
-    "totalMovingTime": 4144740,
-    "count": 1210
+    "totalDistance": 14598500,
+    "totalMovingTime": 4178820,
+    "count": 1215
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 224922.6,
+    "measuredDistanceKm": 224981.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20730029880",
+        "name": "Carrera a la hora del almuerzo",
+        "date": "October 25, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "24:05",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20730029430",
+        "name": "Subida picacho ⛰️🏃",
+        "date": "October 25, 2026",
+        "distanceKm": 1.4,
+        "stats": [
+          "1.4 km",
+          "22:15",
+          "317 m"
+        ]
+      },
       {
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
@@ -121,32 +147,6 @@
           "15.3 km",
           "1:26:56",
           "68 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20728900454",
-        "name": "Camminata pomeridiana",
-        "date": "October 25, 2026",
-        "distanceKm": 3.6,
-        "stats": [
-          "3.6 km",
-          "1:31:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20729136539",
-        "name": "Zwift - Paris Toujours in Paris",
-        "date": "October 25, 2026",
-        "distanceKm": 70,
-        "stats": [
-          "70.0 km",
-          "2:26:14",
-          "458 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 240719.6
+      "totalWithEstimatesKm": 240778.1
     }
   }
 }

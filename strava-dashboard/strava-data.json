@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T12:30:44.548Z",
+  "generatedAt": "2026-10-25T12:40:03.089Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 760713,
+    "remainingKm": 760689,
     "percentComplete": 23.93,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 13107.2,
-    "thisWeekActivities": 1116,
-    "thisWeekHours": 1032,
-    "thisWeekElevationM": 97280,
+    "thisWeekKm": 13131.1,
+    "thisWeekActivities": 1119,
+    "thisWeekHours": 1035,
+    "thisWeekElevationM": 97713,
     "timesAroundEarth": 5.97,
-    "percentToMoon": 62.2,
+    "percentToMoon": 62.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 62.2,
-        "text": "62.2% of the way to the Moon",
+        "value": 62.3,
+        "text": "62.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19529,
+  "totalActivities": 19532,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 239286800,
-    "totalMovingTime": 67873427,
-    "totalElevation": 1755209.6
+    "totalDistance": 239310700,
+    "totalMovingTime": 67884347,
+    "totalElevation": 1755642.6
   },
   "monthStats": {
-    "totalDistance": 41835900,
-    "totalMovingTime": 11934780,
+    "totalDistance": 41859800,
+    "totalMovingTime": 11945700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13107200,
-    "totalMovingTime": 3716460,
-    "count": 1116
+    "totalDistance": 13131100,
+    "totalMovingTime": 3727380,
+    "count": 1119
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 223489.8,
+    "measuredDistanceKm": 223513.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20724583706",
-        "name": "Kinomap - Oarboard 1x Victoria Harbour",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20725245898",
+        "name": "Marche le midi",
         "date": "October 25, 2026",
-        "distanceKm": 2.1,
+        "distanceKm": 1.1,
         "stats": [
-          "2.1 km",
-          "8:42",
-          "0 m"
+          "1.1 km",
+          "29:24",
+          "18 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 239286.8
+      "totalWithEstimatesKm": 239310.7
     }
   }
 }

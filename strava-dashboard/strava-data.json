@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T10:00:54.316Z",
+  "generatedAt": "2026-10-25T10:30:47.359Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 761341,
-    "percentComplete": 23.87,
+    "remainingKm": 761218,
+    "percentComplete": 23.88,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 12479.6,
-    "thisWeekActivities": 1086,
-    "thisWeekHours": 996,
-    "thisWeekElevationM": 94179,
+    "thisWeekKm": 12602.1,
+    "thisWeekActivities": 1092,
+    "thisWeekHours": 1002,
+    "thisWeekElevationM": 95489,
     "timesAroundEarth": 5.96,
     "percentToMoon": 62.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19502,
+  "totalActivities": 19507,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 238659200,
-    "totalMovingTime": 67743707,
-    "totalElevation": 1752108.6
+    "totalDistance": 238781700,
+    "totalMovingTime": 67765667,
+    "totalElevation": 1753418.6
   },
   "monthStats": {
-    "totalDistance": 41208300,
-    "totalMovingTime": 11805060,
+    "totalDistance": 41330800,
+    "totalMovingTime": 11827020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12479600,
-    "totalMovingTime": 3586740,
-    "count": 1086
+    "totalDistance": 12602100,
+    "totalMovingTime": 3608700,
+    "count": 1092
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 222862.2,
+    "measuredDistanceKm": 222984.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20722545588",
-        "name": "Styrketrening på morgenen",
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20722958650",
+        "name": "Zwift - Hilly Route in Watopia",
         "date": "October 25, 2026",
-        "distanceKm": 0,
+        "distanceKm": 33.2,
         "stats": [
-          "0 km",
-          "40:26",
-          "0 m"
+          "33.2 km",
+          "1:01:03",
+          "155 m"
         ]
       },
       {
-        "athlete": "Roland Baumann",
-        "athleteId": "87457914",
-        "activityId": "20722195534",
-        "name": "Lauf am Morgen",
+        "athlete": "Phil Duffy",
+        "athleteId": "17634808",
+        "activityId": "20722924403",
+        "name": "Morning Ride",
         "date": "October 25, 2026",
-        "distanceKm": 2.3,
+        "distanceKm": 25.2,
         "stats": [
-          "2.3 km",
-          "16:17",
-          "0 m"
+          "25.2 km",
+          "55:09",
+          "531 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20723003722",
+        "name": "Zwift - Watopia Flat Forward",
+        "date": "October 25, 2026",
+        "distanceKm": 30.1,
+        "stats": [
+          "30.1 km",
+          "1:35:44",
+          "370 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20722937867",
+        "name": "Zwift - Pacer Group Ride with Yumi",
+        "date": "October 25, 2026",
+        "distanceKm": 61.7,
+        "stats": [
+          "61.7 km",
+          "1:31:29",
+          "202 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "42.1 km",
           "1:30:14",
           "266 m"
-        ]
-      },
-      {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20722581275",
-        "name": "Fahrt am Morgen",
-        "date": "October 25, 2026",
-        "distanceKm": 38,
-        "stats": [
-          "38.0 km",
-          "1:31:05",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Rainer Gatzmaga",
-        "athleteId": "119550686",
-        "activityId": "20722522286",
-        "name": "Lauf am Morgen",
-        "date": "October 25, 2026",
-        "distanceKm": 21.1,
-        "stats": [
-          "21.1 km",
-          "2:15:28",
-          "264 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 238659.2
+      "totalWithEstimatesKm": 238781.7
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T17:07:47.670Z",
+  "generatedAt": "2026-10-25T17:30:46.231Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 759534,
-    "percentComplete": 24.05,
+    "remainingKm": 759368,
+    "percentComplete": 24.06,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14286.7,
-    "thisWeekActivities": 1198,
-    "thisWeekHours": 1133,
-    "thisWeekElevationM": 106901,
+    "thisWeekKm": 14452.5,
+    "thisWeekActivities": 1202,
+    "thisWeekHours": 1140,
+    "thisWeekElevationM": 108043,
     "timesAroundEarth": 6,
     "percentToMoon": 62.6,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 11.3,
-        "text": "11.3× the Great Wall of China",
+        "value": 11.4,
+        "text": "11.4× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19610,
+  "totalActivities": 19612,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 240466300,
-    "totalMovingTime": 68237387,
-    "totalElevation": 1764830.6
+    "totalDistance": 240632100,
+    "totalMovingTime": 68261867,
+    "totalElevation": 1765972.6
   },
   "monthStats": {
-    "totalDistance": 43015400,
-    "totalMovingTime": 12298740,
+    "totalDistance": 43181200,
+    "totalMovingTime": 12323220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14286700,
-    "totalMovingTime": 4080420,
-    "count": 1198
+    "totalDistance": 14452500,
+    "totalMovingTime": 4104900,
+    "count": 1202
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 224669.3,
+    "measuredDistanceKm": 224835.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,32 +124,6 @@
         ]
       },
       {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20728803328",
-        "name": "Simulador de escada vespertino",
-        "date": "October 25, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "2:27",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Hannah-Malin Henigin",
-        "athleteId": "162779271",
-        "activityId": "20728426471",
-        "name": "Lauf am Nachmittag",
-        "date": "October 25, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "35:20",
-          "9 m"
-        ]
-      },
-      {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
         "activityId": "20728460426",
@@ -163,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20728900454",
+        "name": "Camminata pomeridiana",
+        "date": "October 25, 2026",
+        "distanceKm": 3.6,
+        "stats": [
+          "3.6 km",
+          "1:31:09",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Georg Weinig",
         "athleteId": "166650923",
         "activityId": "20728835826",
@@ -173,6 +160,19 @@
           "0 km",
           "1:33:19",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20729136539",
+        "name": "Zwift - Paris Toujours in Paris",
+        "date": "October 25, 2026",
+        "distanceKm": 70,
+        "stats": [
+          "70.0 km",
+          "2:26:14",
+          "458 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 240466.3
+      "totalWithEstimatesKm": 240632.1
     }
   }
 }

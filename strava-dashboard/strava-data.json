@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T20:00:57.231Z",
+  "generatedAt": "2026-10-25T20:30:47.079Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 759093,
+    "remainingKm": 759081,
     "percentComplete": 24.09,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14727.7,
-    "thisWeekActivities": 1223,
-    "thisWeekHours": 1170,
-    "thisWeekElevationM": 109308,
+    "thisWeekKm": 14739.2,
+    "thisWeekActivities": 1225,
+    "thisWeekHours": 1171,
+    "thisWeekElevationM": 109347,
     "timesAroundEarth": 6.01,
     "percentToMoon": 62.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19633,
+  "totalActivities": 19636,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 240907300,
-    "totalMovingTime": 68369507,
-    "totalElevation": 1767237.6
+    "totalDistance": 240918800,
+    "totalMovingTime": 68372807,
+    "totalElevation": 1767276.6
   },
   "monthStats": {
-    "totalDistance": 43456400,
-    "totalMovingTime": 12430860,
+    "totalDistance": 43467900,
+    "totalMovingTime": 12434160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14727700,
-    "totalMovingTime": 4212540,
-    "count": 1223
+    "totalDistance": 14739200,
+    "totalMovingTime": 4215840,
+    "count": 1225
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 225110.3,
+    "measuredDistanceKm": 225121.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20730572665",
+        "name": "Abendlauf",
+        "date": "October 25, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "35:44",
+          "22 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20730114084",
-        "name": "Zwift - Country to Coastal in Makuri Islands",
-        "date": "October 25, 2026",
-        "distanceKm": 32.1,
-        "stats": [
-          "32.1 km",
-          "1:06:17",
-          "274 m"
-        ]
-      },
-      {
         "athlete": "Domenic Winges",
         "athleteId": "179823094",
         "activityId": "20730208039",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 240907.3
+      "totalWithEstimatesKm": 240918.8
     }
   }
 }

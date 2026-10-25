@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T16:30:48.717Z",
+  "generatedAt": "2026-10-25T17:00:57.559Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 759590,
-    "percentComplete": 24.04,
+    "remainingKm": 759537,
+    "percentComplete": 24.05,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 14230.9,
-    "thisWeekActivities": 1185,
-    "thisWeekHours": 1123,
-    "thisWeekElevationM": 105974,
+    "thisWeekKm": 14283.5,
+    "thisWeekActivities": 1195,
+    "thisWeekHours": 1131,
+    "thisWeekElevationM": 106853,
     "timesAroundEarth": 6,
-    "percentToMoon": 62.5,
+    "percentToMoon": 62.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 62.5,
-        "text": "62.5% of the way to the Moon",
+        "value": 62.6,
+        "text": "62.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19595,
+  "totalActivities": 19606,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 240410500,
-    "totalMovingTime": 68198747,
-    "totalElevation": 1763903.6
+    "totalDistance": 240463100,
+    "totalMovingTime": 68229047,
+    "totalElevation": 1764782.6
   },
   "monthStats": {
-    "totalDistance": 42959600,
-    "totalMovingTime": 12260100,
+    "totalDistance": 43012200,
+    "totalMovingTime": 12290400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14230900,
-    "totalMovingTime": 4041780,
-    "count": 1185
+    "totalDistance": 14283500,
+    "totalMovingTime": 4072080,
+    "count": 1195
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 224613.5,
+    "measuredDistanceKm": 224666.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20728199054",
-        "name": "Carrera de tarde",
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20728754140",
+        "name": "Pedalada vespertina",
         "date": "October 25, 2026",
-        "distanceKm": 9.4,
+        "distanceKm": 1.1,
         "stats": [
-          "9.4 km",
-          "51:18",
-          "115 m"
+          "1.1 km",
+          "10:14",
+          "14 m"
+        ]
+      },
+      {
+        "athlete": "Hannah-Malin Henigin",
+        "athleteId": "162779271",
+        "activityId": "20728426471",
+        "name": "Lauf am Nachmittag",
+        "date": "October 25, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "35:20",
+          "9 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20728460426",
+        "name": "Morning Walk",
+        "date": "October 25, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "56:19",
+          "3 m"
         ]
       },
       {
@@ -134,32 +160,6 @@
           "0 km",
           "1:19:39",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20728335535",
-        "name": "Marche dans l'après-midi",
-        "date": "October 25, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "1:25:34",
-          "29 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20728274824",
-        "name": "Zwift - Z2 / Z3",
-        "date": "October 25, 2026",
-        "distanceKm": 55.2,
-        "stats": [
-          "55.2 km",
-          "1:31:24",
-          "85 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 240410.5
+      "totalWithEstimatesKm": 240463.1
     }
   }
 }

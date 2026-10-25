@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T09:01:02.409Z",
+  "generatedAt": "2026-10-25T09:30:46.837Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 761513,
-    "percentComplete": 23.85,
+    "remainingKm": 761444,
+    "percentComplete": 23.86,
     "paceBasisWeeks": 5,
     "avgWeekKm": 16259.8,
     "avgDayKm": 2322.8,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 67.2,
     "activitiesPerWeek": 1200,
     "avgActivityKm": 13.6,
-    "thisWeekKm": 12307.8,
-    "thisWeekActivities": 1074,
-    "thisWeekHours": 982,
-    "thisWeekElevationM": 93216,
+    "thisWeekKm": 12376,
+    "thisWeekActivities": 1080,
+    "thisWeekHours": 989,
+    "thisWeekElevationM": 93636,
     "timesAroundEarth": 5.95,
-    "percentToMoon": 62,
+    "percentToMoon": 62.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 62,
-        "text": "62% of the way to the Moon",
+        "value": 62.1,
+        "text": "62.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19490,
+  "totalActivities": 19496,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 238487400,
-    "totalMovingTime": 67693187,
-    "totalElevation": 1751145.6
+    "totalDistance": 238555600,
+    "totalMovingTime": 67718027,
+    "totalElevation": 1751565.6
   },
   "monthStats": {
-    "totalDistance": 41036500,
-    "totalMovingTime": 11754540,
+    "totalDistance": 41104700,
+    "totalMovingTime": 11779380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12307800,
-    "totalMovingTime": 3536220,
-    "count": 1074
+    "totalDistance": 12376000,
+    "totalMovingTime": 3561060,
+    "count": 1080
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 222690.4,
+    "measuredDistanceKm": 222758.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20721451724",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20721962217",
+        "name": "Marche le matin",
+        "date": "October 25, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "44:59",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20721885130",
+        "name": "Longrun Sunday",
+        "date": "October 25, 2026",
+        "distanceKm": 12.6,
+        "stats": [
+          "12.6 km",
+          "1:10:38",
+          "155 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20721956523",
+        "name": "Morning Walk",
+        "date": "October 25, 2026",
+        "distanceKm": 6.9,
+        "stats": [
+          "6.9 km",
+          "1:30:32",
+          "31 m"
+        ]
+      },
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20721815386",
         "name": "Lauf am Morgen",
         "date": "October 25, 2026",
-        "distanceKm": 13.2,
+        "distanceKm": 23.9,
         "stats": [
-          "13.2 km",
-          "1:14:38",
-          "196 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20720935341",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 25, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "21:47",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20720906320",
-        "name": "Morning Run",
-        "date": "October 25, 2026",
-        "distanceKm": 42.3,
-        "stats": [
-          "42.3 km",
-          "4:10:02",
-          "272 m"
+          "23.9 km",
+          "2:29:22",
+          "111 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "2.0 km",
           "45:00",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabio Martins Queiroga",
-        "athleteId": "108341050",
-        "activityId": "20720709411",
-        "name": "Volta das praias",
-        "date": "October 24, 2026",
-        "distanceKm": 200.5,
-        "stats": [
-          "200.5 km",
-          "12:53:41",
-          "1,173 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 238487.4
+      "totalWithEstimatesKm": 238555.6
     }
   }
 }

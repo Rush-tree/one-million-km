@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-10-26T12:01:00.176Z",
+  "generatedAt": "2026-10-26T12:30:51.566Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-26T12:01:00.176Z",
+  "memberCountUpdatedAt": "2026-10-26T12:30:51.566Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 33,
-    "distanceKm": 300.1,
-    "elevationM": 1239,
-    "movingSeconds": 102420,
+    "activities": 36,
+    "distanceKm": 306.2,
+    "elevationM": 1250,
+    "movingSeconds": 109260,
     "raw": {
-      "activities": "33",
-      "distance": "300.1 km",
-      "time": "28 h 27 m",
-      "elevation": "1,239 m"
+      "activities": "36",
+      "distance": "306.2 km",
+      "time": "30 h 21 m",
+      "elevation": "1,250 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20736743710",
+      "name": "Caminhada matinal",
+      "date": "October 26, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "17:35",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20736743767",
+      "name": "Corrida matinal",
+      "date": "October 26, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "31:37",
+        "11 m"
+      ]
+    },
     {
       "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
       "athleteId": "28746307",
@@ -45,32 +71,6 @@
       ]
     },
     {
-      "athlete": "Niels C.",
-      "athleteId": "101871140",
-      "activityId": "20735255164",
-      "name": "Shoe test",
-      "date": "October 26, 2026",
-      "distanceKm": 7.9,
-      "stats": [
-        "7.9 km",
-        "13:32",
-        "10 m"
-      ]
-    },
-    {
-      "athlete": "Herbert Tüns",
-      "athleteId": "42803858",
-      "activityId": "20735037506",
-      "name": "Gravel-Fahrt am Morgen",
-      "date": "October 26, 2026",
-      "distanceKm": 4.5,
-      "stats": [
-        "4.5 km",
-        "24:04",
-        "6 m"
-      ]
-    },
-    {
       "athlete": "Walter Donè",
       "athleteId": "31420262",
       "activityId": "20735486549",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 102414.5,
-  "totalDistanceKm": 225422.6,
+  "observedWeeksKm": 102420.6,
+  "totalDistanceKm": 225428.7,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 241219.6
+    "totalWithEstimatesKm": 241225.7
   }
 }

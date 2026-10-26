@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-26T09:01:01.492Z",
+  "generatedAt": "2026-10-26T09:30:49.447Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-26T09:01:01.492Z",
+  "memberCountUpdatedAt": "2026-10-26T09:30:49.447Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 21,
-    "distanceKm": 253.5,
-    "elevationM": 978,
-    "movingSeconds": 73320,
+    "activities": 23,
+    "distanceKm": 255.8,
+    "elevationM": 995,
+    "movingSeconds": 78720,
     "raw": {
-      "activities": "21",
-      "distance": "253.5 km",
-      "time": "20 h 22 m",
-      "elevation": "978 m"
+      "activities": "23",
+      "distance": "255.8 km",
+      "time": "21 h 52 m",
+      "elevation": "995 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20734696697",
+      "name": "Morning Walk",
+      "date": "October 26, 2026",
+      "distanceKm": 2.2,
+      "stats": [
+        "2.2 km",
+        "37:12",
+        "17 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20733496441",
-      "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-      "date": "October 26, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "20:17",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Ulf Nuglisch",
       "athleteId": "62746305",
       "activityId": "20733724949",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 102367.9,
-  "totalDistanceKm": 225376,
+  "observedWeeksKm": 102370.2,
+  "totalDistanceKm": 225378.3,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 241173
+    "totalWithEstimatesKm": 241175.3
   }
 }

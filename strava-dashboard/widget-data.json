@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-26T22:30:45.995Z",
+  "generatedAt": "2026-10-26T23:00:59.885Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-26T22:30:45.995Z",
+  "memberCountUpdatedAt": "2026-10-26T23:00:59.885Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 134,
-    "distanceKm": 1264.9,
-    "elevationM": 10390,
-    "movingSeconds": 441360,
+    "activities": 136,
+    "distanceKm": 1269.1,
+    "elevationM": 10412,
+    "movingSeconds": 448620,
     "raw": {
-      "activities": "134",
-      "distance": "1,264.9 km",
-      "time": "122 h 36 m",
-      "elevation": "10,390 m"
+      "activities": "136",
+      "distance": "1,269.1 km",
+      "time": "124 h 37 m",
+      "elevation": "10,412 m"
     }
   },
   "latestActivities": [
@@ -32,16 +32,42 @@
       ]
     },
     {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20743783775",
+      "name": "Musculação ao entardecer",
+      "date": "October 26, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:43:30",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Domenic Winges",
       "athleteId": "179823094",
       "activityId": "20743152628",
-      "name": "Gewichtstraining in der Nacht",
+      "name": "Oberkörper-Training",
       "date": "October 26, 2026",
       "distanceKm": 0,
       "stats": [
         "0 km",
         "1:02:01",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20743783210",
+      "name": "Pedalada da tarde",
+      "date": "October 26, 2026",
+      "distanceKm": 4.2,
+      "stats": [
+        "4.2 km",
+        "18:20",
+        "22 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "15:00",
         "0 m"
       ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20741889546",
-      "name": "Sykkeltur på kvelden",
-      "date": "October 26, 2026",
-      "distanceKm": 14.5,
-      "stats": [
-        "14.5 km",
-        "42:48",
-        "234 m"
-      ]
-    },
-    {
-      "athlete": "Heiko Kraushaar",
-      "athleteId": "78179687",
-      "activityId": "20741606000",
-      "name": "MyWhoosh - Push the sky away",
-      "date": "October 26, 2026",
-      "distanceKm": 21.6,
-      "stats": [
-        "21.6 km",
-        "48:15",
-        "135 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 103379.3,
-  "totalDistanceKm": 226387.4,
+  "observedWeeksKm": 103383.5,
+  "totalDistanceKm": 226391.6,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 242184.4
+    "totalWithEstimatesKm": 242188.6
   }
 }

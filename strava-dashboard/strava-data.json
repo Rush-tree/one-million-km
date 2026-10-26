@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T14:30:51.037Z",
+  "generatedAt": "2026-10-26T15:01:02.002Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 758568,
-    "percentComplete": 24.14,
+    "remainingKm": 758549,
+    "percentComplete": 24.15,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 512.4,
-    "thisWeekActivities": 45,
-    "thisWeekHours": 46,
-    "thisWeekElevationM": 3311,
+    "thisWeekKm": 531.9,
+    "thisWeekActivities": 53,
+    "thisWeekHours": 52,
+    "thisWeekElevationM": 3752,
     "timesAroundEarth": 6.02,
     "percentToMoon": 62.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19683,
+  "totalActivities": 19692,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 241431900,
-    "totalMovingTime": 68540987,
-    "totalElevation": 1770590.6
+    "totalDistance": 241451400,
+    "totalMovingTime": 68560367,
+    "totalElevation": 1771031.6
   },
   "monthStats": {
-    "totalDistance": 43981000,
-    "totalMovingTime": 12602340,
+    "totalDistance": 44000500,
+    "totalMovingTime": 12621720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 512400,
-    "totalMovingTime": 167160,
-    "count": 45
+    "totalDistance": 531900,
+    "totalMovingTime": 186540,
+    "count": 53
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,34 +105,60 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 225634.9,
+    "measuredDistanceKm": 225654.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20736947687",
-        "name": "Mittagsradfahrt",
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20738152227",
+        "name": "Spaziergang am Nachmittag",
         "date": "October 26, 2026",
-        "distanceKm": 14,
+        "distanceKm": 1.6,
         "stats": [
-          "14.0 km",
-          "45:58",
-          "122 m"
+          "1.6 km",
+          "39:43",
+          "40 m"
         ]
       },
       {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20737503695",
-        "name": "Gewichtstraining zur Mittagszeit",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20738236195",
+        "name": "Spaziergang am Nachmittag",
+        "date": "October 26, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "56:59",
+          "110 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20738132872",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "October 26, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "40:42",
+          "1:27:52",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20738132865",
+        "name": "Lauf am Nachmittag",
+        "date": "October 26, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "12:07",
           "0 m"
         ]
       },
@@ -147,32 +173,6 @@
           "13.0 km",
           "2:06:24",
           "17 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20737116312",
-        "name": "Coll des Grau",
-        "date": "October 26, 2026",
-        "distanceKm": 73.6,
-        "stats": [
-          "73.6 km",
-          "4:09:28",
-          "1,589 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20737281790",
-        "name": "Kerala-Dhanushkodi Cycling Tour Day -4",
-        "date": "October 26, 2026",
-        "distanceKm": 84.4,
-        "stats": [
-          "84.4 km",
-          "8:22:26",
-          "245 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 241431.9
+      "totalWithEstimatesKm": 241451.4
     }
   }
 }

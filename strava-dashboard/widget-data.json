@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-26T12:30:51.566Z",
+  "generatedAt": "2026-10-26T13:01:02.266Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-26T12:30:51.566Z",
+  "memberCountUpdatedAt": "2026-10-26T13:01:02.265Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 36,
-    "distanceKm": 306.2,
-    "elevationM": 1250,
-    "movingSeconds": 109260,
+    "activities": 39,
+    "distanceKm": 331.3,
+    "elevationM": 1413,
+    "movingSeconds": 117600,
     "raw": {
-      "activities": "36",
-      "distance": "306.2 km",
-      "time": "30 h 21 m",
-      "elevation": "1,250 m"
+      "activities": "39",
+      "distance": "331.3 km",
+      "time": "32 h 40 m",
+      "elevation": "1,413 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20736947687",
+      "name": "Mittagsradfahrt",
+      "date": "October 26, 2026",
+      "distanceKm": 14,
+      "stats": [
+        "14.0 km",
+        "45:58",
+        "122 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -69,19 +82,6 @@
         "16:36",
         "23 m"
       ]
-    },
-    {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "20735486549",
-      "name": "Corsa mattutina",
-      "date": "October 26, 2026",
-      "distanceKm": 7,
-      "stats": [
-        "7.0 km",
-        "1:54:53",
-        "14 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 102420.6,
-  "totalDistanceKm": 225428.7,
+  "observedWeeksKm": 102445.7,
+  "totalDistanceKm": 225453.8,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 241225.7
+    "totalWithEstimatesKm": 241250.8
   }
 }

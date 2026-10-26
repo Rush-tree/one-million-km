@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T12:30:51.566Z",
+  "generatedAt": "2026-10-26T13:01:02.266Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 758774,
-    "percentComplete": 24.12,
+    "remainingKm": 758749,
+    "percentComplete": 24.13,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 306.2,
-    "thisWeekActivities": 36,
-    "thisWeekHours": 30,
-    "thisWeekElevationM": 1250,
+    "thisWeekKm": 331.3,
+    "thisWeekActivities": 39,
+    "thisWeekHours": 33,
+    "thisWeekElevationM": 1413,
     "timesAroundEarth": 6.02,
     "percentToMoon": 62.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19675,
+  "totalActivities": 19678,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 241225700,
-    "totalMovingTime": 68483087,
-    "totalElevation": 1768529.6
+    "totalDistance": 241250800,
+    "totalMovingTime": 68491427,
+    "totalElevation": 1768692.6
   },
   "monthStats": {
-    "totalDistance": 43774800,
-    "totalMovingTime": 12544440,
+    "totalDistance": 43799900,
+    "totalMovingTime": 12552780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 306200,
-    "totalMovingTime": 109260,
-    "count": 36
+    "totalDistance": 331300,
+    "totalMovingTime": 117600,
+    "count": 39
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 225428.7,
+    "measuredDistanceKm": 225453.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20736947687",
+        "name": "Mittagsradfahrt",
+        "date": "October 26, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "45:58",
+          "122 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -161,19 +174,6 @@
           "16:36",
           "23 m"
         ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20735486549",
-        "name": "Corsa mattutina",
-        "date": "October 26, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "1:54:53",
-          "14 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 241225.7
+      "totalWithEstimatesKm": 241250.8
     }
   }
 }

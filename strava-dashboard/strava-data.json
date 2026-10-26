@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T18:00:59.933Z",
+  "generatedAt": "2026-10-26T18:30:48.871Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 758073,
-    "percentComplete": 24.19,
+    "remainingKm": 758021,
+    "percentComplete": 24.2,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 1007.5,
-    "thisWeekActivities": 101,
-    "thisWeekHours": 96,
-    "thisWeekElevationM": 7814,
+    "thisWeekKm": 1059.7,
+    "thisWeekActivities": 106,
+    "thisWeekHours": 101,
+    "thisWeekElevationM": 8118,
     "timesAroundEarth": 6.04,
     "percentToMoon": 62.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19741,
+  "totalActivities": 19746,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 241927000,
-    "totalMovingTime": 68720867,
-    "totalElevation": 1775093.6
+    "totalDistance": 241979200,
+    "totalMovingTime": 68737607,
+    "totalElevation": 1775397.6
   },
   "monthStats": {
-    "totalDistance": 44476100,
-    "totalMovingTime": 12782220,
+    "totalDistance": 44528300,
+    "totalMovingTime": 12798960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1007500,
-    "totalMovingTime": 347040,
-    "count": 101
+    "totalDistance": 1059700,
+    "totalMovingTime": 363780,
+    "count": 106
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 226130,
+    "measuredDistanceKm": 226182.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20740579353",
+        "name": "Gewichtstraining am Abend",
+        "date": "October 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "28:26",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Ricardo Ferre",
         "athleteId": "45223374",
@@ -124,42 +137,29 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20740277215",
-        "name": "Evening Yoga",
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20740686146",
+        "name": "Abendlauf",
         "date": "October 26, 2026",
-        "distanceKm": 0,
+        "distanceKm": 11,
         "stats": [
-          "0 km",
-          "27:54",
-          "0 m"
+          "11.0 km",
+          "1:08:45",
+          "112 m"
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20740396458",
-        "name": "Intervalle 4x800m @ 4:00",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20740831886",
+        "name": "Sortie vélo dans l'après-midi",
         "date": "October 26, 2026",
-        "distanceKm": 8.6,
+        "distanceKm": 30,
         "stats": [
-          "8.6 km",
-          "42:16",
-          "5 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20740273115",
-        "name": "43:24 row",
-        "date": "October 26, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "43:25",
-          "0 m"
+          "30.0 km",
+          "1:56:04",
+          "105 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 241927
+      "totalWithEstimatesKm": 241979.2
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T08:30:48.961Z",
+  "generatedAt": "2026-10-26T09:01:01.492Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 758837,
+    "remainingKm": 758827,
     "percentComplete": 24.12,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 243.4,
-    "thisWeekActivities": 19,
-    "thisWeekHours": 19,
-    "thisWeekElevationM": 876,
+    "thisWeekKm": 253.5,
+    "thisWeekActivities": 21,
+    "thisWeekHours": 20,
+    "thisWeekElevationM": 978,
     "timesAroundEarth": 6.02,
     "percentToMoon": 62.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19656,
+  "totalActivities": 19658,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 241162900,
-    "totalMovingTime": 68442767,
-    "totalElevation": 1768155.6
+    "totalDistance": 241173000,
+    "totalMovingTime": 68447147,
+    "totalElevation": 1768257.6
   },
   "monthStats": {
-    "totalDistance": 43712000,
-    "totalMovingTime": 12504120,
+    "totalDistance": 43722100,
+    "totalMovingTime": 12508500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 243400,
-    "totalMovingTime": 68940,
-    "count": 19
+    "totalDistance": 253500,
+    "totalMovingTime": 73320,
+    "count": 21
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 225365.9,
+    "measuredDistanceKm": 225376,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20734538282",
+        "name": "Pedalada matinal",
+        "date": "October 26, 2026",
+        "distanceKm": 10.1,
+        "stats": [
+          "10.1 km",
+          "32:01",
+          "102 m"
+        ]
+      },
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20734421262",
+        "name": "HIIT matinal",
+        "date": "October 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "42:53",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20734534597",
+        "name": "Fahrt am Morgen",
+        "date": "October 26, 2026",
+        "distanceKm": 15.6,
+        "stats": [
+          "15.6 km",
+          "44:47",
+          "64 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -124,32 +163,6 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20733541753",
-        "name": "Spaziergang am Morgen",
-        "date": "October 26, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "26:49",
-          "45 m"
-        ]
-      },
-      {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20733438227",
-        "name": "Yoga am Morgen",
-        "date": "October 26, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "17:19",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Ulf Nuglisch",
         "athleteId": "62746305",
         "activityId": "20733724949",
@@ -160,19 +173,6 @@
           "2.5 km",
           "1:47:54",
           "23 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20733417657",
-        "name": "Fahrt am Morgen ☁",
-        "date": "October 26, 2026",
-        "distanceKm": 22.3,
-        "stats": [
-          "22.3 km",
-          "52:02",
-          "31 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 241162.9
+      "totalWithEstimatesKm": 241173
     }
   }
 }

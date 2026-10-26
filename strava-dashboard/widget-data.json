@@ -1,23 +1,62 @@
 {
-  "generatedAt": "2026-10-26T08:30:48.961Z",
+  "generatedAt": "2026-10-26T09:01:01.492Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-26T08:30:48.961Z",
+  "memberCountUpdatedAt": "2026-10-26T09:01:01.492Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 19,
-    "distanceKm": 243.4,
-    "elevationM": 876,
-    "movingSeconds": 68940,
+    "activities": 21,
+    "distanceKm": 253.5,
+    "elevationM": 978,
+    "movingSeconds": 73320,
     "raw": {
-      "activities": "19",
-      "distance": "243.4 km",
-      "time": "19 h 9 m",
-      "elevation": "876 m"
+      "activities": "21",
+      "distance": "253.5 km",
+      "time": "20 h 22 m",
+      "elevation": "978 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20734538282",
+      "name": "Pedalada matinal",
+      "date": "October 26, 2026",
+      "distanceKm": 10.1,
+      "stats": [
+        "10.1 km",
+        "32:01",
+        "102 m"
+      ]
+    },
+    {
+      "athlete": "Reynaldo Guerra",
+      "athleteId": "59804669",
+      "activityId": "20734421262",
+      "name": "HIIT matinal",
+      "date": "October 26, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "42:53",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Jürgen Bootsmann",
+      "athleteId": "30645305",
+      "activityId": "20734534597",
+      "name": "Fahrt am Morgen",
+      "date": "October 26, 2026",
+      "distanceKm": 15.6,
+      "stats": [
+        "15.6 km",
+        "44:47",
+        "64 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -28,32 +67,6 @@
       "stats": [
         "0 km",
         "20:17",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20733541753",
-      "name": "Spaziergang am Morgen",
-      "date": "October 26, 2026",
-      "distanceKm": 2.9,
-      "stats": [
-        "2.9 km",
-        "26:49",
-        "45 m"
-      ]
-    },
-    {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20733438227",
-      "name": "Yoga am Morgen",
-      "date": "October 26, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "17:19",
         "0 m"
       ]
     },
@@ -69,19 +82,6 @@
         "1:47:54",
         "23 m"
       ]
-    },
-    {
-      "athlete": "André Brune",
-      "athleteId": "4536289",
-      "activityId": "20733417657",
-      "name": "Fahrt am Morgen ☁",
-      "date": "October 26, 2026",
-      "distanceKm": 22.3,
-      "stats": [
-        "22.3 km",
-        "52:02",
-        "31 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 102357.8,
-  "totalDistanceKm": 225365.9,
+  "observedWeeksKm": 102367.9,
+  "totalDistanceKm": 225376,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 241162.9
+    "totalWithEstimatesKm": 241173
   }
 }

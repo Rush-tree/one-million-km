@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T10:30:46.319Z",
+  "generatedAt": "2026-10-26T11:00:59.913Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 758804,
+    "remainingKm": 758789,
     "percentComplete": 24.12,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 277,
-    "thisWeekActivities": 28,
-    "thisWeekHours": 25,
-    "thisWeekElevationM": 1067,
+    "thisWeekKm": 291.8,
+    "thisWeekActivities": 30,
+    "thisWeekHours": 27,
+    "thisWeekElevationM": 1147,
     "timesAroundEarth": 6.02,
-    "percentToMoon": 62.7,
+    "percentToMoon": 62.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 62.7,
-        "text": "62.7% of the way to the Moon",
+        "value": 62.8,
+        "text": "62.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19666,
+  "totalActivities": 19668,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 241196500,
-    "totalMovingTime": 68465327,
-    "totalElevation": 1768346.6
+    "totalDistance": 241211300,
+    "totalMovingTime": 68471747,
+    "totalElevation": 1768426.6
   },
   "monthStats": {
-    "totalDistance": 43745600,
-    "totalMovingTime": 12526680,
+    "totalDistance": 43760400,
+    "totalMovingTime": 12533100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 277000,
-    "totalMovingTime": 91500,
-    "count": 28
+    "totalDistance": 291800,
+    "totalMovingTime": 97920,
+    "count": 30
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 225399.5,
+    "measuredDistanceKm": 225414.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,16 +150,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20734696697",
-        "name": "Morning Walk",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20735486549",
+        "name": "Corsa mattutina",
         "date": "October 26, 2026",
-        "distanceKm": 2.2,
+        "distanceKm": 7,
         "stats": [
-          "2.2 km",
-          "37:12",
-          "17 m"
+          "7.0 km",
+          "1:54:53",
+          "14 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 241196.5
+      "totalWithEstimatesKm": 241211.3
     }
   }
 }

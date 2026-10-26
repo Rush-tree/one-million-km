@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-26T19:30:51.536Z",
+  "generatedAt": "2026-10-26T20:01:01.399Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-26T19:30:51.536Z",
+  "memberCountUpdatedAt": "2026-10-26T20:01:01.398Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 127,
-    "distanceKm": 1231.8,
-    "elevationM": 9972,
-    "movingSeconds": 421080,
+    "activities": 130,
+    "distanceKm": 1248.4,
+    "elevationM": 10206,
+    "movingSeconds": 429900,
     "raw": {
-      "activities": "127",
-      "distance": "1,231.8 km",
-      "time": "116 h 58 m",
-      "elevation": "9,972 m"
+      "activities": "130",
+      "distance": "1,248.4 km",
+      "time": "119 h 25 m",
+      "elevation": "10,206 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20741889546",
+      "name": "Sykkeltur på kvelden",
+      "date": "October 26, 2026",
+      "distanceKm": 14.5,
+      "stats": [
+        "14.5 km",
+        "42:48",
+        "234 m"
+      ]
+    },
     {
       "athlete": "Cristian Stănciulescu",
       "athleteId": "67352997",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Marisa Funk",
+      "athleteId": "157343980",
+      "activityId": "20741654320",
+      "name": "Abendschwimmen",
+      "date": "October 26, 2026",
+      "distanceKm": 2.1,
+      "stats": [
+        "2.1 km",
+        "1:14:24",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Kupfer Hardy",
       "athleteId": "19034101",
       "activityId": "20741261775",
@@ -56,32 +82,6 @@
         "1:24:01",
         "25 m"
       ]
-    },
-    {
-      "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-      "athleteId": "9696032",
-      "activityId": "20741135442",
-      "name": "Zwift - Group Ride: Rebellunas Banded Ride (D)",
-      "date": "October 26, 2026",
-      "distanceKm": 38.4,
-      "stats": [
-        "38.4 km",
-        "1:36:54",
-        "696 m"
-      ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20741129509",
-      "name": "Abendschwimmen",
-      "date": "October 26, 2026",
-      "distanceKm": 2.5,
-      "stats": [
-        "2.5 km",
-        "56:53",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 103346.2,
-  "totalDistanceKm": 226354.3,
+  "observedWeeksKm": 103362.8,
+  "totalDistanceKm": 226370.9,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 242151.3
+    "totalWithEstimatesKm": 242167.9
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T16:01:01.723Z",
+  "generatedAt": "2026-10-27T16:31:54.261Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 756702,
-    "percentComplete": 24.33,
+    "remainingKm": 756569,
+    "percentComplete": 24.34,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 2378.8,
-    "thisWeekActivities": 233,
-    "thisWeekHours": 218,
-    "thisWeekElevationM": 17892,
+    "thisWeekKm": 2511.4,
+    "thisWeekActivities": 242,
+    "thisWeekHours": 233,
+    "thisWeekElevationM": 19293,
     "timesAroundEarth": 6.07,
     "percentToMoon": 63.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19877,
+  "totalActivities": 19886,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 243298300,
-    "totalMovingTime": 69160367,
-    "totalElevation": 1785171.6
+    "totalDistance": 243430900,
+    "totalMovingTime": 69212747,
+    "totalElevation": 1786572.6
   },
   "monthStats": {
-    "totalDistance": 45847400,
-    "totalMovingTime": 13221720,
+    "totalDistance": 45980000,
+    "totalMovingTime": 13274100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2378800,
-    "totalMovingTime": 786540,
-    "count": 233
+    "totalDistance": 2511400,
+    "totalMovingTime": 838920,
+    "count": 242
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,61 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 227501.3,
+    "measuredDistanceKm": 227633.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20752238287",
-        "name": "Afternoon Walk",
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20752968130",
+        "name": "Zwift - Interval Power Play",
         "date": "October 27, 2026",
-        "distanceKm": 1,
+        "distanceKm": 13.7,
         "stats": [
-          "1.0 km",
-          "22:48",
+          "13.7 km",
+          "31:31",
+          "58 m"
+        ]
+      },
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20752988630",
+        "name": "Crosstrainer-Einheit am Nachmittag",
+        "date": "October 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:10:01",
           "0 m"
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20752218387",
-        "name": "Ettermiddag med sykkeltur",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20752841332",
+        "name": "Grundlage",
         "date": "October 27, 2026",
-        "distanceKm": 10.6,
+        "distanceKm": 13.4,
         "stats": [
-          "10.6 km",
-          "24:13",
-          "113 m"
-        ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20752257541",
-        "name": "Afternoon Walk",
-        "date": "October 27, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "1:00:10",
-          "97 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20752248474",
-        "name": "Fahrt am Nachmittag ☁",
-        "date": "October 27, 2026",
-        "distanceKm": 22.6,
-        "stats": [
-          "22.6 km",
-          "57:43",
-          "32 m"
+          "13.4 km",
+          "1:11:46",
+          "22 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "20.9 km",
           "2:52:25",
           "108 m"
+        ]
+      },
+      {
+        "athlete": "Maximilian Stelzer",
+        "athleteId": "20640429",
+        "activityId": "20753092516",
+        "name": "Wanderung am Morgen",
+        "date": "October 27, 2026",
+        "distanceKm": 27.3,
+        "stats": [
+          "27.3 km",
+          "7:40:28",
+          "752 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 243298.3
+      "totalWithEstimatesKm": 243430.9
     }
   }
 }

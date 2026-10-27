@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-27T07:30:49.078Z",
+  "generatedAt": "2026-10-27T08:01:00.527Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-27T07:30:49.078Z",
+  "memberCountUpdatedAt": "2026-10-27T08:01:00.527Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 165,
-    "distanceKm": 1558.9,
-    "elevationM": 11999,
-    "movingSeconds": 547740,
+    "activities": 167,
+    "distanceKm": 1561.9,
+    "elevationM": 12002,
+    "movingSeconds": 551760,
     "raw": {
-      "activities": "165",
-      "distance": "1,558.9 km",
-      "time": "152 h 9 m",
-      "elevation": "11,999 m"
+      "activities": "167",
+      "distance": "1,561.9 km",
+      "time": "153 h 16 m",
+      "elevation": "12,002 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "20747196680",
+      "name": "Zwift - Pacer Group Ride with Yumi",
+      "date": "October 27, 2026",
+      "distanceKm": 3,
+      "stats": [
+        "3.0 km",
+        "4:35",
+        "3 m"
+      ]
+    },
     {
       "athlete": "Adriano Perri",
       "athleteId": "99629318",
@@ -69,19 +82,6 @@
         "24:30",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20746453544",
-      "name": "Spaziergang am Morgen",
-      "date": "October 27, 2026",
-      "distanceKm": 2.9,
-      "stats": [
-        "2.9 km",
-        "34:27",
-        "50 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 103673.3,
-  "totalDistanceKm": 226681.4,
+  "observedWeeksKm": 103676.3,
+  "totalDistanceKm": 226684.4,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 242478.4
+    "totalWithEstimatesKm": 242481.4
   }
 }

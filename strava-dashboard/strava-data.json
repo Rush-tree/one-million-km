@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T16:45:36.834Z",
+  "generatedAt": "2026-10-27T17:01:05.179Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 756558,
-    "percentComplete": 24.34,
+    "remainingKm": 756479,
+    "percentComplete": 24.35,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 2522.5,
-    "thisWeekActivities": 244,
-    "thisWeekHours": 234,
-    "thisWeekElevationM": 19368,
-    "timesAroundEarth": 6.07,
-    "percentToMoon": 63.3,
+    "thisWeekKm": 2601.9,
+    "thisWeekActivities": 252,
+    "thisWeekHours": 241,
+    "thisWeekElevationM": 19877,
+    "timesAroundEarth": 6.08,
+    "percentToMoon": 63.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 63.3,
-        "text": "63.3% of the way to the Moon",
+        "value": 63.4,
+        "text": "63.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19888,
+  "totalActivities": 19897,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 243442000,
-    "totalMovingTime": 69217607,
-    "totalElevation": 1786647.6
+    "totalDistance": 243521400,
+    "totalMovingTime": 69239867,
+    "totalElevation": 1787156.6
   },
   "monthStats": {
-    "totalDistance": 45991100,
-    "totalMovingTime": 13278960,
+    "totalDistance": 46070500,
+    "totalMovingTime": 13301220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2522500,
-    "totalMovingTime": 843780,
-    "count": 244
+    "totalDistance": 2601900,
+    "totalMovingTime": 866040,
+    "count": 252
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 227645,
+    "measuredDistanceKm": 227724.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20752968130",
-        "name": "Zwift - Interval Power Play",
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20753427306",
+        "name": "Shakeout before 🛫",
         "date": "October 27, 2026",
-        "distanceKm": 13.7,
+        "distanceKm": 5,
         "stats": [
-          "13.7 km",
-          "31:31",
-          "58 m"
+          "5.0 km",
+          "37:58",
+          "68 m"
         ]
       },
       {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20752988630",
-        "name": "Crosstrainer-Einheit am Nachmittag",
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20753364870",
+        "name": "Feierabendrunde?",
+        "date": "October 27, 2026",
+        "distanceKm": 9.7,
+        "stats": [
+          "9.7 km",
+          "50:39",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Alois Petrausch",
+        "athleteId": "40799429",
+        "activityId": "20753408014",
+        "name": "Aqua Fitness im Klutenseebad",
         "date": "October 27, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:10:01",
+          "1:09:50",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20752841332",
-        "name": "Grundlage",
-        "date": "October 27, 2026",
-        "distanceKm": 13.4,
-        "stats": [
-          "13.4 km",
-          "1:11:46",
-          "22 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 243442
+      "totalWithEstimatesKm": 243521.4
     }
   }
 }

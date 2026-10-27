@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T09:01:00.326Z",
+  "generatedAt": "2026-10-27T09:30:50.060Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 757468,
-    "percentComplete": 24.25,
+    "remainingKm": 757437,
+    "percentComplete": 24.26,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 1612.2,
-    "thisWeekActivities": 175,
-    "thisWeekHours": 158,
-    "thisWeekElevationM": 12230,
+    "thisWeekKm": 1643.6,
+    "thisWeekActivities": 180,
+    "thisWeekHours": 161,
+    "thisWeekElevationM": 12442,
     "timesAroundEarth": 6.05,
     "percentToMoon": 63.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19820,
+  "totalActivities": 19825,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 242531700,
-    "totalMovingTime": 68943167,
-    "totalElevation": 1779509.6
+    "totalDistance": 242563100,
+    "totalMovingTime": 68954207,
+    "totalElevation": 1779721.6
   },
   "monthStats": {
-    "totalDistance": 45080800,
-    "totalMovingTime": 13004520,
+    "totalDistance": 45112200,
+    "totalMovingTime": 13015560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1612200,
-    "totalMovingTime": 569340,
-    "count": 175
+    "totalDistance": 1643600,
+    "totalMovingTime": 580380,
+    "count": 180
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 226734.7,
+    "measuredDistanceKm": 226766.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20747888561",
+        "name": "Zwift - Your First Workout",
+        "date": "October 27, 2026",
+        "distanceKm": 9.4,
+        "stats": [
+          "9.4 km",
+          "25:07",
+          "84 m"
+        ]
+      },
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20747754506",
+        "name": "Lauf am Morgen",
+        "date": "October 27, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "31:58",
+          "2 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -124,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20747793586",
+        "name": "1-km-Wiederholungen",
+        "date": "October 27, 2026",
+        "distanceKm": 12.4,
+        "stats": [
+          "12.4 km",
+          "1:15:48",
+          "15 m"
+        ]
+      },
+      {
         "athlete": "Reynaldo Guerra",
         "athleteId": "59804669",
         "activityId": "20747507807",
@@ -133,45 +172,6 @@
         "stats": [
           "0 km",
           "44:48",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20747196680",
-        "name": "Zwift - Pacer Group Ride with Yumi",
-        "date": "October 27, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "4:35",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20747281204",
-        "name": "Zwift - Jürgen Bootsmann ( R2 )'s Meetup on Greater London Flat in London",
-        "date": "October 27, 2026",
-        "distanceKm": 19.4,
-        "stats": [
-          "19.4 km",
-          "40:16",
-          "87 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20747299677",
-        "name": "Fahrt am Morgen",
-        "date": "October 27, 2026",
-        "distanceKm": 17.6,
-        "stats": [
-          "17.6 km",
-          "49:34",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 242531.7
+      "totalWithEstimatesKm": 242563.1
     }
   }
 }

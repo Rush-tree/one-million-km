@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T10:01:00.390Z",
+  "generatedAt": "2026-10-27T10:30:50.095Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 757373,
-    "percentComplete": 24.26,
+    "remainingKm": 757250,
+    "percentComplete": 24.28,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 1707.8,
-    "thisWeekActivities": 183,
-    "thisWeekHours": 164,
-    "thisWeekElevationM": 12856,
-    "timesAroundEarth": 6.05,
-    "percentToMoon": 63.1,
+    "thisWeekKm": 1830.8,
+    "thisWeekActivities": 188,
+    "thisWeekHours": 171,
+    "thisWeekElevationM": 13811,
+    "timesAroundEarth": 6.06,
+    "percentToMoon": 63.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,14 +28,14 @@
       },
       {
         "key": "moon",
-        "value": 63.1,
-        "text": "63.1% of the way to the Moon",
+        "value": 63.2,
+        "text": "63.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
         "key": "greatwall",
-        "value": 11.4,
-        "text": "11.4× the Great Wall of China",
+        "value": 11.5,
+        "text": "11.5× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19828,
+  "totalActivities": 19832,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 242627300,
-    "totalMovingTime": 68965847,
-    "totalElevation": 1780135.6
+    "totalDistance": 242750300,
+    "totalMovingTime": 68988827,
+    "totalElevation": 1781090.6
   },
   "monthStats": {
-    "totalDistance": 45176400,
-    "totalMovingTime": 13027200,
+    "totalDistance": 45299400,
+    "totalMovingTime": 13050180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1707800,
-    "totalMovingTime": 592020,
-    "count": 183
+    "totalDistance": 1830800,
+    "totalMovingTime": 615000,
+    "count": 188
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 226830.3,
+    "measuredDistanceKm": 226953.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20748471031",
+        "name": "Entrenamiento con pesas matutino",
+        "date": "October 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "42:50",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20748290531",
+        "name": "Fahrt am Morgen",
+        "date": "October 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "54:47",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20747754506",
-        "name": "Lauf am Morgen",
+        "athlete": "Andreas Glaser 🇩🇪🚲",
+        "athleteId": "3109388",
+        "activityId": "20748331087",
+        "name": "Stadtrundfahrt 🏙🚴‍♂️",
         "date": "October 27, 2026",
-        "distanceKm": 5,
+        "distanceKm": 34.2,
         "stats": [
-          "5.0 km",
-          "31:58",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20747595465",
-        "name": "Pedalada matinal",
-        "date": "October 27, 2026",
-        "distanceKm": 10.4,
-        "stats": [
-          "10.4 km",
-          "27:58",
-          "117 m"
+          "34.2 km",
+          "1:18:51",
+          "230 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "64.1 km",
           "1:37:20",
           "414 m"
-        ]
-      },
-      {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20747793586",
-        "name": "1-km-Wiederholungen",
-        "date": "October 27, 2026",
-        "distanceKm": 12.4,
-        "stats": [
-          "12.4 km",
-          "1:15:48",
-          "15 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 242627.3
+      "totalWithEstimatesKm": 242750.3
     }
   }
 }

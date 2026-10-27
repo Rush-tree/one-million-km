@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T09:30:50.060Z",
+  "generatedAt": "2026-10-27T10:01:00.390Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 757437,
+    "remainingKm": 757373,
     "percentComplete": 24.26,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 1643.6,
-    "thisWeekActivities": 180,
-    "thisWeekHours": 161,
-    "thisWeekElevationM": 12442,
+    "thisWeekKm": 1707.8,
+    "thisWeekActivities": 183,
+    "thisWeekHours": 164,
+    "thisWeekElevationM": 12856,
     "timesAroundEarth": 6.05,
     "percentToMoon": 63.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19825,
+  "totalActivities": 19828,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 242563100,
-    "totalMovingTime": 68954207,
-    "totalElevation": 1779721.6
+    "totalDistance": 242627300,
+    "totalMovingTime": 68965847,
+    "totalElevation": 1780135.6
   },
   "monthStats": {
-    "totalDistance": 45112200,
-    "totalMovingTime": 13015560,
+    "totalDistance": 45176400,
+    "totalMovingTime": 13027200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1643600,
-    "totalMovingTime": 580380,
-    "count": 180
+    "totalDistance": 1707800,
+    "totalMovingTime": 592020,
+    "count": 183
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 226766.1,
+    "measuredDistanceKm": 226830.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20748001242",
+        "name": "Zwift - Group Ride: Long - Stage 4 - Tour of Watopia 2026",
+        "date": "October 27, 2026",
+        "distanceKm": 64.1,
+        "stats": [
+          "64.1 km",
+          "1:37:20",
+          "414 m"
+        ]
+      },
+      {
         "athlete": "Julian Klaas",
         "athleteId": "157058434",
         "activityId": "20747793586",
@@ -160,19 +173,6 @@
           "12.4 km",
           "1:15:48",
           "15 m"
-        ]
-      },
-      {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20747507807",
-        "name": "HIIT matinal",
-        "date": "October 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "44:48",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 242563.1
+      "totalWithEstimatesKm": 242627.3
     }
   }
 }

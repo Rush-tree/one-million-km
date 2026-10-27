@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-27T12:30:51.567Z",
+  "generatedAt": "2026-10-27T13:30:51.616Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 757174,
+    "remainingKm": 757173,
     "percentComplete": 24.28,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 1906.9,
-    "thisWeekActivities": 200,
-    "thisWeekHours": 181,
-    "thisWeekElevationM": 13719,
+    "thisWeekKm": 1907.6,
+    "thisWeekActivities": 205,
+    "thisWeekHours": 185,
+    "thisWeekElevationM": 13951,
     "timesAroundEarth": 6.06,
     "percentToMoon": 63.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 19845,
+  "totalActivities": 19851,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 242826400,
-    "totalMovingTime": 69025967,
-    "totalElevation": 1780998.6
+    "totalDistance": 242827100,
+    "totalMovingTime": 69041447,
+    "totalElevation": 1781230.6
   },
   "monthStats": {
-    "totalDistance": 45375500,
-    "totalMovingTime": 13087320,
+    "totalDistance": 45376200,
+    "totalMovingTime": 13102800,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1906900,
-    "totalMovingTime": 652140,
-    "count": 200
+    "totalDistance": 1907600,
+    "totalMovingTime": 667620,
+    "count": 205
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 227029.4,
+    "measuredDistanceKm": 227030.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20750938585",
+        "name": "Spaziergang am Nachmittag",
+        "date": "October 27, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "54:15",
+          "58 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20750969395",
+        "name": "Kurzer Spaziergang bei Sonnenschein",
+        "date": "October 27, 2026",
+        "distanceKm": 3.1,
+        "stats": [
+          "3.1 km",
+          "57:15",
+          "55 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20750385248",
+        "name": "Upper A (Strength)",
+        "date": "October 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:07:45",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Anja Habermeier",
         "athleteId": "80382525",
@@ -126,19 +165,6 @@
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
-        "activityId": "20750106429",
-        "name": "Mittagsradfahrt",
-        "date": "October 27, 2026",
-        "distanceKm": 23,
-        "stats": [
-          "23.0 km",
-          "1:23:04",
-          "28 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
         "activityId": "20750157007",
         "name": "Mittagsradfahrt",
         "date": "October 27, 2026",
@@ -147,32 +173,6 @@
           "23.5 km",
           "1:23:01",
           "101 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20749712729",
-        "name": "Kerala-Dhanushkodi Cycling Tour Day-5 Paramkudi-Mandapam",
-        "date": "October 27, 2026",
-        "distanceKm": 77.1,
-        "stats": [
-          "77.1 km",
-          "9:38:02",
-          "86 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20749853715",
-        "name": "Mittagsradfahrt",
-        "date": "October 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "30:00",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 242826.4
+      "totalWithEstimatesKm": 242827.1
     }
   }
 }

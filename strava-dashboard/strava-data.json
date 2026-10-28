@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T18:00:59.306Z",
+  "generatedAt": "2026-10-28T18:30:50.981Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 754118,
-    "percentComplete": 24.59,
+    "remainingKm": 753992,
+    "percentComplete": 24.6,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 4962.1,
-    "thisWeekActivities": 456,
-    "thisWeekHours": 416,
-    "thisWeekElevationM": 38820,
+    "thisWeekKm": 5088.6,
+    "thisWeekActivities": 466,
+    "thisWeekHours": 427,
+    "thisWeekElevationM": 39393,
     "timesAroundEarth": 6.14,
     "percentToMoon": 64,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20104,
+  "totalActivities": 20114,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 245881600,
-    "totalMovingTime": 69872987,
-    "totalElevation": 1806099.6
+    "totalDistance": 246008100,
+    "totalMovingTime": 69911867,
+    "totalElevation": 1806672.6
   },
   "monthStats": {
-    "totalDistance": 48430700,
-    "totalMovingTime": 13934340,
+    "totalDistance": 48557200,
+    "totalMovingTime": 13973220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4962100,
-    "totalMovingTime": 1499160,
-    "count": 456
+    "totalDistance": 5088600,
+    "totalMovingTime": 1538040,
+    "count": 466
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 230084.6,
+    "measuredDistanceKm": 230211.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20768697380",
+        "name": "Evening Weight Training",
+        "date": "October 28, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "8:55",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20768608519",
+        "name": "Zwift - Group Ride: Breast Cancer Awareness: Every Story Matters with Rebecca Charlton (E)",
+        "date": "October 28, 2026",
+        "distanceKm": 18.1,
+        "stats": [
+          "18.1 km",
+          "41:47",
+          "68 m"
+        ]
+      },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
@@ -121,19 +147,6 @@
           "20.3 km",
           "38:41",
           "102 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20768183408",
-        "name": "Zwift - Tempus Fugit in Watopia",
-        "date": "October 28, 2026",
-        "distanceKm": 20.1,
-        "stats": [
-          "20.1 km",
-          "45:58",
-          "208 m"
         ]
       },
       {
@@ -150,28 +163,15 @@
         ]
       },
       {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20768013671",
-        "name": "Popołudniowy trening siłowy",
+        "athlete": "Luca Oerter",
+        "athleteId": "168353611",
+        "activityId": "20768606629",
+        "name": "Afternoon Weight Training",
         "date": "October 28, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:29:10",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20768066594",
-        "name": "Schwimmen am Nachmittag",
-        "date": "October 28, 2026",
-        "distanceKm": 2.7,
-        "stats": [
-          "2.7 km",
-          "1:08:21",
+          "2:41:34",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 245881.6
+      "totalWithEstimatesKm": 246008.1
     }
   }
 }

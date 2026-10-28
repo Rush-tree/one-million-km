@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T11:01:03.076Z",
+  "generatedAt": "2026-10-28T11:30:50.100Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 755106,
-    "percentComplete": 24.49,
+    "remainingKm": 755013,
+    "percentComplete": 24.5,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 3974.5,
-    "thisWeekActivities": 383,
-    "thisWeekHours": 346,
-    "thisWeekElevationM": 28948,
+    "thisWeekKm": 4067.8,
+    "thisWeekActivities": 387,
+    "thisWeekHours": 351,
+    "thisWeekElevationM": 30527,
     "timesAroundEarth": 6.11,
     "percentToMoon": 63.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20031,
+  "totalActivities": 20035,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 244894000,
-    "totalMovingTime": 69619367,
-    "totalElevation": 1796227.6
+    "totalDistance": 244987300,
+    "totalMovingTime": 69638387,
+    "totalElevation": 1797806.6
   },
   "monthStats": {
-    "totalDistance": 47443100,
-    "totalMovingTime": 13680720,
+    "totalDistance": 47536400,
+    "totalMovingTime": 13699740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3974500,
-    "totalMovingTime": 1245540,
-    "count": 383
+    "totalDistance": 4067800,
+    "totalMovingTime": 1264560,
+    "count": 387
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 229097,
+    "measuredDistanceKm": 229190.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20763271183",
+        "name": "Mittagslauf",
+        "date": "October 28, 2026",
+        "distanceKm": 3.9,
+        "stats": [
+          "3.9 km",
+          "20:02",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Daniel Stodden",
         "athleteId": "23274828",
@@ -121,6 +134,19 @@
           "3.1 km",
           "17:24",
           "39 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20763411903",
+        "name": "Lower A (Strength)",
+        "date": "October 28, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "59:56",
+          "0 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20762924628",
-        "name": "Traillauf am Morgen",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20763371684",
+        "name": "Ciclismo mattutino",
         "date": "October 28, 2026",
-        "distanceKm": 9,
+        "distanceKm": 11,
         "stats": [
-          "9.0 km",
-          "41:59",
-          "107 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20762492930",
-        "name": "Morning Walk",
-        "date": "October 28, 2026",
-        "distanceKm": 2.5,
-        "stats": [
-          "2.5 km",
-          "35:31",
-          "13 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20762489346",
-        "name": "Sortie vélo >>> 🦮 🏥🧑‍⚕️",
-        "date": "October 28, 2026",
-        "distanceKm": 6.7,
-        "stats": [
-          "6.7 km",
-          "21:06",
-          "46 m"
+          "11.0 km",
+          "1:52:47",
+          "6 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 244894
+      "totalWithEstimatesKm": 244987.3
     }
   }
 }

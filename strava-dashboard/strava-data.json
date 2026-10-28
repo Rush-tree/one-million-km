@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T13:01:03.483Z",
+  "generatedAt": "2026-10-28T13:30:51.703Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 754948,
+    "remainingKm": 754939,
     "percentComplete": 24.51,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 4132.9,
-    "thisWeekActivities": 396,
-    "thisWeekHours": 360,
+    "thisWeekKm": 4141.3,
+    "thisWeekActivities": 398,
+    "thisWeekHours": 362,
     "thisWeekElevationM": 31241,
-    "timesAroundEarth": 6.11,
-    "percentToMoon": 63.7,
+    "timesAroundEarth": 6.12,
+    "percentToMoon": 63.8,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 63.7,
-        "text": "63.7% of the way to the Moon",
+        "value": 63.8,
+        "text": "63.8% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 36.8,
-        "text": "36.8× the length of the Nile",
+        "value": 36.9,
+        "text": "36.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20045,
+  "totalActivities": 20047,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 245052400,
-    "totalMovingTime": 69670187,
+    "totalDistance": 245060800,
+    "totalMovingTime": 69677387,
     "totalElevation": 1798520.6
   },
   "monthStats": {
-    "totalDistance": 47601500,
-    "totalMovingTime": 13731540,
+    "totalDistance": 47609900,
+    "totalMovingTime": 13738740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4132900,
-    "totalMovingTime": 1296360,
-    "count": 396
+    "totalDistance": 4141300,
+    "totalMovingTime": 1303560,
+    "count": 398
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 229255.4,
+    "measuredDistanceKm": 229263.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20764997640",
+        "name": "Lauf am Nachmittag",
+        "date": "October 28, 2026",
+        "distanceKm": 8.3,
+        "stats": [
+          "8.3 km",
+          "1:00:10",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -137,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20763680609",
-        "name": "Mittagsradfahrt",
-        "date": "October 28, 2026",
-        "distanceKm": 14.1,
-        "stats": [
-          "14.1 km",
-          "41:19",
-          "31 m"
-        ]
-      },
-      {
         "athlete": "Maximilian Stelzer",
         "athleteId": "20640429",
         "activityId": "20764375799",
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20763711300",
-        "name": "Spaziergang am Nachmittag",
-        "date": "October 27, 2026",
-        "distanceKm": 2.6,
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20764731182",
+        "name": "Fahrt am Nachmittag",
+        "date": "October 28, 2026",
+        "distanceKm": 0,
         "stats": [
-          "2.6 km",
-          "22:53:20",
-          "23 m"
+          "0 km",
+          "1:00:00",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 245052.4
+      "totalWithEstimatesKm": 245060.8
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-28T13:01:03.483Z",
+  "generatedAt": "2026-10-28T13:30:51.703Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-28T13:01:03.483Z",
+  "memberCountUpdatedAt": "2026-10-28T13:30:51.702Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 396,
-    "distanceKm": 4132.9,
+    "activities": 398,
+    "distanceKm": 4141.3,
     "elevationM": 31241,
-    "movingSeconds": 1296360,
+    "movingSeconds": 1303560,
     "raw": {
-      "activities": "396",
-      "distance": "4,132.9 km",
-      "time": "360 h 6 m",
+      "activities": "398",
+      "distance": "4,141.3 km",
+      "time": "362 h 6 m",
       "elevation": "31,241 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "20764997640",
+      "name": "Lauf am Nachmittag",
+      "date": "October 28, 2026",
+      "distanceKm": 8.3,
+      "stats": [
+        "8.3 km",
+        "1:00:10",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -45,19 +58,6 @@
       ]
     },
     {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "20763680609",
-      "name": "Mittagsradfahrt",
-      "date": "October 28, 2026",
-      "distanceKm": 14.1,
-      "stats": [
-        "14.1 km",
-        "41:19",
-        "31 m"
-      ]
-    },
-    {
       "athlete": "Maximilian Stelzer",
       "athleteId": "20640429",
       "activityId": "20764375799",
@@ -71,16 +71,16 @@
       ]
     },
     {
-      "athlete": "Ulf Nuglisch",
-      "athleteId": "62746305",
-      "activityId": "20763711300",
-      "name": "Spaziergang am Nachmittag",
-      "date": "October 27, 2026",
-      "distanceKm": 2.6,
+      "athlete": "Nico Hoßfeld",
+      "athleteId": "177308499",
+      "activityId": "20764731182",
+      "name": "Fahrt am Nachmittag",
+      "date": "October 28, 2026",
+      "distanceKm": 0,
       "stats": [
-        "2.6 km",
-        "22:53:20",
-        "23 m"
+        "0 km",
+        "1:00:00",
+        "0 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 106247.3,
-  "totalDistanceKm": 229255.4,
+  "observedWeeksKm": 106255.7,
+  "totalDistanceKm": 229263.8,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 245052.4
+    "totalWithEstimatesKm": 245060.8
   }
 }

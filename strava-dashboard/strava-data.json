@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T20:00:59.051Z",
+  "generatedAt": "2026-10-28T20:30:46.247Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 753803,
-    "percentComplete": 24.62,
+    "remainingKm": 753747,
+    "percentComplete": 24.63,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 5277.2,
-    "thisWeekActivities": 486,
-    "thisWeekHours": 444,
-    "thisWeekElevationM": 40077,
+    "thisWeekKm": 5333.7,
+    "thisWeekActivities": 488,
+    "thisWeekHours": 447,
+    "thisWeekElevationM": 40226,
     "timesAroundEarth": 6.14,
-    "percentToMoon": 64,
+    "percentToMoon": 64.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 64,
-        "text": "64% of the way to the Moon",
+        "value": 64.1,
+        "text": "64.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20135,
+  "totalActivities": 20136,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 246196700,
-    "totalMovingTime": 69972827,
-    "totalElevation": 1807356.6
+    "totalDistance": 246253200,
+    "totalMovingTime": 69983927,
+    "totalElevation": 1807505.6
   },
   "monthStats": {
-    "totalDistance": 48745800,
-    "totalMovingTime": 14034180,
+    "totalDistance": 48802300,
+    "totalMovingTime": 14045280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5277200,
-    "totalMovingTime": 1599000,
-    "count": 486
+    "totalDistance": 5333700,
+    "totalMovingTime": 1610100,
+    "count": 488
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 230399.7,
+    "measuredDistanceKm": 230456.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20770082399",
+        "name": "Abendschwimmen",
+        "date": "October 28, 2026",
+        "distanceKm": 1.9,
+        "stats": [
+          "1.9 km",
+          "58:17",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -137,36 +150,23 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20769528183",
-        "name": "Course à pied en soirée",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20769964200",
+        "name": "Poco -Night -Ride",
         "date": "October 28, 2026",
-        "distanceKm": 7,
+        "distanceKm": 54.5,
         "stats": [
-          "7.0 km",
-          "2:06:17",
-          "38 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20769466024",
-        "name": "Akşam Koşu",
-        "date": "October 28, 2026",
-        "distanceKm": 21.1,
-        "stats": [
-          "21.1 km",
-          "2:10:33",
-          "98 m"
+          "54.5 km",
+          "3:06:33",
+          "148 m"
         ]
       },
       {
         "athlete": "# MarshmallowBen",
         "athleteId": "114783849",
         "activityId": "20769745372",
-        "name": "Abendausfahrt",
+        "name": "Mittwochs Poco",
         "date": "October 28, 2026",
         "distanceKm": 73.6,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 246196.7
+      "totalWithEstimatesKm": 246253.2
     }
   }
 }

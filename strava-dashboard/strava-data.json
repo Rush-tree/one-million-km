@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T22:00:55.739Z",
+  "generatedAt": "2026-10-28T22:30:44.226Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 753611,
+    "remainingKm": 753589,
     "percentComplete": 24.64,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 5469.8,
-    "thisWeekActivities": 494,
-    "thisWeekHours": 455,
-    "thisWeekElevationM": 41114,
+    "thisWeekKm": 5491.3,
+    "thisWeekActivities": 497,
+    "thisWeekHours": 457,
+    "thisWeekElevationM": 41283,
     "timesAroundEarth": 6.15,
     "percentToMoon": 64.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20142,
+  "totalActivities": 20145,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 246389300,
-    "totalMovingTime": 70011587,
-    "totalElevation": 1808393.6
+    "totalDistance": 246410800,
+    "totalMovingTime": 70017647,
+    "totalElevation": 1808562.6
   },
   "monthStats": {
-    "totalDistance": 48938400,
-    "totalMovingTime": 14072940,
+    "totalDistance": 48959900,
+    "totalMovingTime": 14079000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5469800,
-    "totalMovingTime": 1637760,
-    "count": 494
+    "totalDistance": 5491300,
+    "totalMovingTime": 1643820,
+    "count": 497
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 230592.3,
+    "measuredDistanceKm": 230613.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20771132901",
+        "name": "Gåtur på natten",
+        "date": "October 28, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "25:17",
+          "16 m"
+        ]
+      },
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20771102663",
+        "name": "Corrida ao entardecer",
+        "date": "October 28, 2026",
+        "distanceKm": 5.3,
+        "stats": [
+          "5.3 km",
+          "31:27",
+          "31 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20771376398",
+        "name": "Nachtradfahrt",
+        "date": "October 28, 2026",
+        "distanceKm": 13.9,
+        "stats": [
+          "13.9 km",
+          "47:22",
+          "122 m"
+        ]
+      },
       {
         "athlete": "Norick Maurer",
         "athleteId": "107445415",
@@ -124,32 +163,6 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20769752234",
-        "name": "Blackroll Compression Boots 2.0 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "October 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "38:03",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Elmar Höckensfeld 🇩🇪",
-        "athleteId": "18975420",
-        "activityId": "20769760976",
-        "name": "Poco Mittwoch CX",
-        "date": "October 28, 2026",
-        "distanceKm": 42.4,
-        "stats": [
-          "42.4 km",
-          "2:14:32",
-          "94 m"
-        ]
-      },
-      {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
         "activityId": "20769964200",
@@ -160,19 +173,6 @@
           "54.5 km",
           "3:06:33",
           "148 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20769745372",
-        "name": "Mittwochs Poco",
-        "date": "October 28, 2026",
-        "distanceKm": 73.6,
-        "stats": [
-          "73.6 km",
-          "3:00:56",
-          "151 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 246389.3
+      "totalWithEstimatesKm": 246410.8
     }
   }
 }

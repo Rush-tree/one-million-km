@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-28T16:01:00.989Z",
+  "generatedAt": "2026-10-28T16:30:50.638Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-28T16:01:00.989Z",
+  "memberCountUpdatedAt": "2026-10-28T16:30:50.638Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 421,
-    "distanceKm": 4527.8,
-    "elevationM": 35945,
-    "movingSeconds": 1389000,
+    "activities": 428,
+    "distanceKm": 4568,
+    "elevationM": 36255,
+    "movingSeconds": 1404300,
     "raw": {
-      "activities": "421",
-      "distance": "4,527.8 km",
-      "time": "385 h 50 m",
-      "elevation": "35,945 m"
+      "activities": "428",
+      "distance": "4,568.0 km",
+      "time": "390 h 5 m",
+      "elevation": "36,255 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cathi Caesar",
+      "athleteId": "74482280",
+      "activityId": "20766931134",
+      "name": "Intervalle",
+      "date": "October 28, 2026",
+      "distanceKm": 8,
+      "stats": [
+        "8.0 km",
+        "40:32",
+        "27 m"
+      ]
+    },
     {
       "athlete": "Goro Shigeno",
       "athleteId": "37029557",
@@ -45,29 +58,16 @@
       ]
     },
     {
-      "athlete": "André Brune",
-      "athleteId": "4536289",
-      "activityId": "20766445350",
-      "name": "Fahrt am Nachmittag 🌥",
+      "athlete": "Alex 3R",
+      "athleteId": "89054684",
+      "activityId": "20766746757",
+      "name": "Lauf am Nachmittag",
       "date": "October 28, 2026",
-      "distanceKm": 26,
+      "distanceKm": 14.3,
       "stats": [
-        "26.0 km",
-        "1:05:16",
-        "45 m"
-      ]
-    },
-    {
-      "athlete": "Max Gräber",
-      "athleteId": "138199030",
-      "activityId": "20766373782",
-      "name": "Fahrt am Nachmittag",
-      "date": "October 28, 2026",
-      "distanceKm": 50,
-      "stats": [
-        "50.0 km",
-        "2:39:46",
-        "538 m"
+        "14.3 km",
+        "1:10:50",
+        "69 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 106642.2,
-  "totalDistanceKm": 229650.3,
+  "observedWeeksKm": 106682.4,
+  "totalDistanceKm": 229690.5,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 245447.3
+    "totalWithEstimatesKm": 245487.5
   }
 }

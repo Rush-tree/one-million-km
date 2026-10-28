@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T16:01:00.989Z",
+  "generatedAt": "2026-10-28T16:30:50.638Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 754553,
-    "percentComplete": 24.54,
+    "remainingKm": 754513,
+    "percentComplete": 24.55,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 4527.8,
-    "thisWeekActivities": 421,
-    "thisWeekHours": 386,
-    "thisWeekElevationM": 35945,
-    "timesAroundEarth": 6.12,
+    "thisWeekKm": 4568,
+    "thisWeekActivities": 428,
+    "thisWeekHours": 390,
+    "thisWeekElevationM": 36255,
+    "timesAroundEarth": 6.13,
     "percentToMoon": 63.9,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20069,
+  "totalActivities": 20076,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 245447300,
-    "totalMovingTime": 69762827,
-    "totalElevation": 1803224.6
+    "totalDistance": 245487500,
+    "totalMovingTime": 69778127,
+    "totalElevation": 1803534.6
   },
   "monthStats": {
-    "totalDistance": 47996400,
-    "totalMovingTime": 13824180,
+    "totalDistance": 48036600,
+    "totalMovingTime": 13839480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4527800,
-    "totalMovingTime": 1389000,
-    "count": 421
+    "totalDistance": 4568000,
+    "totalMovingTime": 1404300,
+    "count": 428
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 229650.3,
+    "measuredDistanceKm": 229690.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "20766931134",
+        "name": "Intervalle",
+        "date": "October 28, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "40:32",
+          "27 m"
+        ]
+      },
       {
         "athlete": "Goro Shigeno",
         "athleteId": "37029557",
@@ -137,29 +150,16 @@
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20766445350",
-        "name": "Fahrt am Nachmittag 🌥",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20766746757",
+        "name": "Lauf am Nachmittag",
         "date": "October 28, 2026",
-        "distanceKm": 26,
+        "distanceKm": 14.3,
         "stats": [
-          "26.0 km",
-          "1:05:16",
-          "45 m"
-        ]
-      },
-      {
-        "athlete": "Max Gräber",
-        "athleteId": "138199030",
-        "activityId": "20766373782",
-        "name": "Fahrt am Nachmittag",
-        "date": "October 28, 2026",
-        "distanceKm": 50,
-        "stats": [
-          "50.0 km",
-          "2:39:46",
-          "538 m"
+          "14.3 km",
+          "1:10:50",
+          "69 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 245447.3
+      "totalWithEstimatesKm": 245487.5
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T16:30:50.638Z",
+  "generatedAt": "2026-10-28T17:01:03.078Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 754513,
+    "remainingKm": 754475,
     "percentComplete": 24.55,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 4568,
-    "thisWeekActivities": 428,
-    "thisWeekHours": 390,
-    "thisWeekElevationM": 36255,
+    "thisWeekKm": 4605.1,
+    "thisWeekActivities": 434,
+    "thisWeekHours": 395,
+    "thisWeekElevationM": 36588,
     "timesAroundEarth": 6.13,
     "percentToMoon": 63.9,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 38.4,
-        "text": "38.4 return trips Berlin to New York",
+        "value": 38.5,
+        "text": "38.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20076,
+  "totalActivities": 20083,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 245487500,
-    "totalMovingTime": 69778127,
-    "totalElevation": 1803534.6
+    "totalDistance": 245524600,
+    "totalMovingTime": 69794507,
+    "totalElevation": 1803867.6
   },
   "monthStats": {
-    "totalDistance": 48036600,
-    "totalMovingTime": 13839480,
+    "totalDistance": 48073700,
+    "totalMovingTime": 13855860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4568000,
-    "totalMovingTime": 1404300,
-    "count": 428
+    "totalDistance": 4605100,
+    "totalMovingTime": 1420680,
+    "count": 434
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 229690.5,
+    "measuredDistanceKm": 229727.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20767496528",
+        "name": "Marche dans l'après-midi",
+        "date": "October 28, 2026",
+        "distanceKm": 3.1,
+        "stats": [
+          "3.1 km",
+          "50:37",
+          "22 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20767122249",
+        "name": "Carrera de tarde",
+        "date": "October 28, 2026",
+        "distanceKm": 5.7,
+        "stats": [
+          "5.7 km",
+          "40:23",
+          "46 m"
+        ]
+      },
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20767439387",
+        "name": "Lauf am Nachmittag",
+        "date": "October 28, 2026",
+        "distanceKm": 11.5,
+        "stats": [
+          "11.5 km",
+          "1:15:57",
+          "201 m"
+        ]
+      },
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
@@ -135,45 +174,6 @@
           "49:19",
           "70 m"
         ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20766427156",
-        "name": "Camminata pomeridiana",
-        "date": "October 28, 2026",
-        "distanceKm": 4.2,
-        "stats": [
-          "4.2 km",
-          "1:03:16",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20766746757",
-        "name": "Lauf am Nachmittag",
-        "date": "October 28, 2026",
-        "distanceKm": 14.3,
-        "stats": [
-          "14.3 km",
-          "1:10:50",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20766531828",
-        "name": "Küstenklassiker",
-        "date": "October 28, 2026",
-        "distanceKm": 125.4,
-        "stats": [
-          "125.4 km",
-          "7:37:07",
-          "2,332 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 245487.5
+      "totalWithEstimatesKm": 245524.6
     }
   }
 }

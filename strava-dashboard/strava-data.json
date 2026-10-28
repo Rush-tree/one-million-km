@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T17:01:03.078Z",
+  "generatedAt": "2026-10-28T17:30:48.510Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 754475,
-    "percentComplete": 24.55,
+    "remainingKm": 754310,
+    "percentComplete": 24.57,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 4605.1,
-    "thisWeekActivities": 434,
-    "thisWeekHours": 395,
-    "thisWeekElevationM": 36588,
+    "thisWeekKm": 4770.9,
+    "thisWeekActivities": 445,
+    "thisWeekHours": 404,
+    "thisWeekElevationM": 37527,
     "timesAroundEarth": 6.13,
     "percentToMoon": 63.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20083,
+  "totalActivities": 20093,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 245524600,
-    "totalMovingTime": 69794507,
-    "totalElevation": 1803867.6
+    "totalDistance": 245690400,
+    "totalMovingTime": 69828167,
+    "totalElevation": 1804806.6
   },
   "monthStats": {
-    "totalDistance": 48073700,
-    "totalMovingTime": 13855860,
+    "totalDistance": 48239500,
+    "totalMovingTime": 13889520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4605100,
-    "totalMovingTime": 1420680,
-    "count": 434
+    "totalDistance": 4770900,
+    "totalMovingTime": 1454340,
+    "count": 445
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,55 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 229727.6,
+    "measuredDistanceKm": 229893.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20767685611",
+        "name": "Lunch Walk",
+        "date": "October 28, 2026",
+        "distanceKm": 3.1,
+        "stats": [
+          "3.1 km",
+          "36:39",
+          "23 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20767648485",
+        "name": "Zwift - California Roll in Watopia",
+        "date": "October 28, 2026",
+        "distanceKm": 33,
+        "stats": [
+          "33.0 km",
+          "58:21",
+          "126 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20767543968",
+        "name": "Feierabendrunde 😴",
+        "date": "October 28, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "51:04",
+          "31 m"
+        ]
+      },
+      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20767496528",
-        "name": "Marche dans l'après-midi",
+        "name": "Tolosa 🔴⚫ Walk dans l'après-midi",
         "date": "October 28, 2026",
         "distanceKm": 3.1,
         "stats": [
@@ -124,55 +163,16 @@
         ]
       },
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20767122249",
-        "name": "Carrera de tarde",
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20767661354",
+        "name": "Course à pied dans l'après-midi",
         "date": "October 28, 2026",
-        "distanceKm": 5.7,
+        "distanceKm": 17.1,
         "stats": [
-          "5.7 km",
-          "40:23",
-          "46 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20767439387",
-        "name": "Lauf am Nachmittag",
-        "date": "October 28, 2026",
-        "distanceKm": 11.5,
-        "stats": [
-          "11.5 km",
-          "1:15:57",
-          "201 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20766931134",
-        "name": "Intervalle",
-        "date": "October 28, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "40:32",
-          "27 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20766715570",
-        "name": "Night Ride",
-        "date": "October 28, 2026",
-        "distanceKm": 11.9,
-        "stats": [
-          "11.9 km",
-          "49:19",
-          "70 m"
+          "17.1 km",
+          "1:33:35",
+          "68 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 245524.6
+      "totalWithEstimatesKm": 245690.4
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T19:42:06.926Z",
+  "generatedAt": "2026-10-28T20:00:59.051Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 753919,
-    "percentComplete": 24.61,
+    "remainingKm": 753803,
+    "percentComplete": 24.62,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 5161.1,
-    "thisWeekActivities": 483,
-    "thisWeekHours": 439,
-    "thisWeekElevationM": 39832,
+    "thisWeekKm": 5277.2,
+    "thisWeekActivities": 486,
+    "thisWeekHours": 444,
+    "thisWeekElevationM": 40077,
     "timesAroundEarth": 6.14,
     "percentToMoon": 64,
     "comparisons": [
@@ -46,21 +46,21 @@
       },
       {
         "key": "transatlantic",
-        "value": 38.5,
-        "text": "38.5 return trips Berlin to New York",
+        "value": 38.6,
+        "text": "38.6 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
         "key": "autobahn",
-        "value": 18.6,
-        "text": "18.6× the German autobahn network",
+        "value": 18.7,
+        "text": "18.7× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20133,
+  "totalActivities": 20135,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 246080600,
-    "totalMovingTime": 69954947,
-    "totalElevation": 1807111.6
+    "totalDistance": 246196700,
+    "totalMovingTime": 69972827,
+    "totalElevation": 1807356.6
   },
   "monthStats": {
-    "totalDistance": 48629700,
-    "totalMovingTime": 14016300,
+    "totalDistance": 48745800,
+    "totalMovingTime": 14034180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5161100,
-    "totalMovingTime": 1581120,
-    "count": 483
+    "totalDistance": 5277200,
+    "totalMovingTime": 1599000,
+    "count": 486
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 230283.6,
+    "measuredDistanceKm": 230399.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20769459737",
-        "name": "Gewichtstraining am Abend",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20769752234",
+        "name": "Yoga am Abend",
         "date": "October 28, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "15:04",
+          "38:03",
           "0 m"
         ]
       },
       {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20769387554",
-        "name": "Night Walk",
+        "athlete": "Elmar Höckensfeld 🇩🇪",
+        "athleteId": "18975420",
+        "activityId": "20769760976",
+        "name": "Poco Mittwoch CX",
         "date": "October 28, 2026",
-        "distanceKm": 0.1,
+        "distanceKm": 42.4,
         "stats": [
-          "0.1 km",
-          "5:54",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20769227849",
-        "name": "Zwift - Caldera Coaster in Watopia",
-        "date": "October 28, 2026",
-        "distanceKm": 3.4,
-        "stats": [
-          "3.4 km",
-          "8:02",
-          "11 m"
+          "42.4 km",
+          "2:14:32",
+          "94 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "2:10:33",
           "98 m"
         ]
+      },
+      {
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "20769745372",
+        "name": "Abendausfahrt",
+        "date": "October 28, 2026",
+        "distanceKm": 73.6,
+        "stats": [
+          "73.6 km",
+          "3:00:56",
+          "151 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 246080.6
+      "totalWithEstimatesKm": 246196.7
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T09:01:02.583Z",
+  "generatedAt": "2026-10-28T09:30:48.376Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 755180,
+    "remainingKm": 755179,
     "percentComplete": 24.48,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,7 +13,7 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 3901,
+    "thisWeekKm": 3901.1,
     "thisWeekActivities": 371,
     "thisWeekHours": 337,
     "thisWeekElevationM": 28208,
@@ -70,18 +70,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 244820500,
-    "totalMovingTime": 69588647,
+    "totalDistance": 244820600,
+    "totalMovingTime": 69588767,
     "totalElevation": 1795487.6
   },
   "monthStats": {
-    "totalDistance": 47369600,
-    "totalMovingTime": 13650000,
+    "totalDistance": 47369700,
+    "totalMovingTime": 13650120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3901000,
-    "totalMovingTime": 1214820,
+    "totalDistance": 3901100,
+    "totalMovingTime": 1214940,
     "count": 371
   },
   "lastWeekStats": {
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 229023.5,
+    "measuredDistanceKm": 229023.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 244820.5
+      "totalWithEstimatesKm": 244820.6
     }
   }
 }

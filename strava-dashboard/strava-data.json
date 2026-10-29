@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T11:30:47.366Z",
+  "generatedAt": "2026-10-29T12:00:59.606Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 753067,
+    "remainingKm": 753055,
     "percentComplete": 24.69,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 6013.3,
-    "thisWeekActivities": 545,
-    "thisWeekHours": 505,
-    "thisWeekElevationM": 43953,
+    "thisWeekKm": 6026,
+    "thisWeekActivities": 548,
+    "thisWeekHours": 508,
+    "thisWeekElevationM": 44045,
     "timesAroundEarth": 6.16,
     "percentToMoon": 64.2,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 11.6,
-        "text": "11.6× the Great Wall of China",
+        "value": 11.7,
+        "text": "11.7× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20194,
+  "totalActivities": 20197,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 246932800,
-    "totalMovingTime": 70191707,
-    "totalElevation": 1811232.6
+    "totalDistance": 246945500,
+    "totalMovingTime": 70201367,
+    "totalElevation": 1811324.6
   },
   "monthStats": {
-    "totalDistance": 49481900,
-    "totalMovingTime": 14253060,
+    "totalDistance": 49494600,
+    "totalMovingTime": 14262720,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6013300,
-    "totalMovingTime": 1817880,
-    "count": 545
+    "totalDistance": 6026000,
+    "totalMovingTime": 1827540,
+    "count": 548
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 231135.8,
+    "measuredDistanceKm": 231148.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20777206704",
+        "name": "Upper B (Hypertrophy)",
+        "date": "October 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:00:29",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -124,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Rainer Gatzmaga",
+        "athleteId": "119550686",
+        "activityId": "20777294147",
+        "name": "Mm",
+        "date": "October 29, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:27:47",
+          "68 m"
+        ]
+      },
+      {
         "athlete": "conny tonder",
         "athleteId": "66434073",
         "activityId": "20776485882",
@@ -134,32 +160,6 @@
           "0 km",
           "40:38",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20775756848",
-        "name": "Wanderung am Morgen",
-        "date": "October 29, 2026",
-        "distanceKm": 4.8,
-        "stats": [
-          "4.8 km",
-          "1:02:09",
-          "31 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20775679697",
-        "name": "Zwift - The Magnificent 8 in Watopia",
-        "date": "October 29, 2026",
-        "distanceKm": 28,
-        "stats": [
-          "28.0 km",
-          "1:03:57",
-          "159 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 246932.8
+      "totalWithEstimatesKm": 246945.5
     }
   }
 }

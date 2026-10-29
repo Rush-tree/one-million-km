@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-29T00:30:44.692Z",
+  "generatedAt": "2026-10-29T01:00:58.711Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-29T00:30:44.692Z",
+  "memberCountUpdatedAt": "2026-10-29T01:00:58.711Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 500,
-    "distanceKm": 5491.3,
-    "elevationM": 41283,
-    "movingSeconds": 1650240,
+    "activities": 504,
+    "distanceKm": 5514.9,
+    "elevationM": 41313,
+    "movingSeconds": 1667880,
     "raw": {
-      "activities": "500",
-      "distance": "5,491.3 km",
-      "time": "458 h 24 m",
-      "elevation": "41,283 m"
+      "activities": "504",
+      "distance": "5,514.9 km",
+      "time": "463 h 18 m",
+      "elevation": "41,313 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20772739062",
+      "name": "Vôlei ao entardecer",
+      "date": "October 28, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0.0 km",
+        "1:17:37",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -69,19 +82,6 @@
         "47:22",
         "122 m"
       ]
-    },
-    {
-      "athlete": "Norick Maurer",
-      "athleteId": "107445415",
-      "activityId": "20770082399",
-      "name": "Abendschwimmen",
-      "date": "October 28, 2026",
-      "distanceKm": 1.9,
-      "stats": [
-        "1.9 km",
-        "58:17",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 107605.7,
-  "totalDistanceKm": 230613.8,
+  "observedWeeksKm": 107629.3,
+  "totalDistanceKm": 230637.4,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 246410.8
+    "totalWithEstimatesKm": 246434.4
   }
 }

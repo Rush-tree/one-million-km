@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-29T16:01:02.355Z",
+  "generatedAt": "2026-10-29T16:30:47.826Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 752528,
-    "percentComplete": 24.75,
+    "remainingKm": 752437,
+    "percentComplete": 24.76,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 6553,
-    "thisWeekActivities": 586,
-    "thisWeekHours": 549,
-    "thisWeekElevationM": 48453,
+    "thisWeekKm": 6643.4,
+    "thisWeekActivities": 593,
+    "thisWeekHours": 555,
+    "thisWeekElevationM": 50147,
     "timesAroundEarth": 6.18,
     "percentToMoon": 64.4,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 18.7,
-        "text": "18.7× the German autobahn network",
+        "value": 18.8,
+        "text": "18.8× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20235,
+  "totalActivities": 20242,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 247472500,
-    "totalMovingTime": 70350107,
-    "totalElevation": 1815732.6
+    "totalDistance": 247562900,
+    "totalMovingTime": 70372847,
+    "totalElevation": 1817426.6
   },
   "monthStats": {
-    "totalDistance": 50021600,
-    "totalMovingTime": 14411460,
+    "totalDistance": 50112000,
+    "totalMovingTime": 14434200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6553000,
-    "totalMovingTime": 1976280,
-    "count": 586
+    "totalDistance": 6643400,
+    "totalMovingTime": 1999020,
+    "count": 593
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,34 +105,34 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 231675.5,
+    "measuredDistanceKm": 231765.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20779564444",
-        "name": "Gewichtstraining am Nachmittag",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20780390833",
+        "name": "E-Bike-Fahrt am Nachmittag",
+        "date": "October 29, 2026",
+        "distanceKm": 5.6,
+        "stats": [
+          "5.6 km",
+          "15:29",
+          "90 m"
+        ]
+      },
+      {
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20780172691",
+        "name": "Legday",
         "date": "October 29, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "13:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20779651367",
-        "name": "Afternoon Walk",
-        "date": "October 29, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "29:52",
+          "50:57",
           "0 m"
         ]
       },
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20779596424",
-        "name": "Kraftraining",
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20780274260",
+        "name": "Málaga Tag 1",
         "date": "October 29, 2026",
-        "distanceKm": 0,
+        "distanceKm": 69.3,
         "stats": [
-          "0 km",
-          "1:23:33",
-          "0 m"
+          "69.3 km",
+          "5:10:08",
+          "1,484 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 247472.5
+      "totalWithEstimatesKm": 247562.9
     }
   }
 }

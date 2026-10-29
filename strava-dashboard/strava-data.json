@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T16:30:47.826Z",
+  "generatedAt": "2026-10-29T17:01:01.092Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 752437,
+    "remainingKm": 752378,
     "percentComplete": 24.76,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 6643.4,
-    "thisWeekActivities": 593,
-    "thisWeekHours": 555,
-    "thisWeekElevationM": 50147,
+    "thisWeekKm": 6702.6,
+    "thisWeekActivities": 600,
+    "thisWeekHours": 562,
+    "thisWeekElevationM": 50724,
     "timesAroundEarth": 6.18,
     "percentToMoon": 64.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20242,
+  "totalActivities": 20249,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 247562900,
-    "totalMovingTime": 70372847,
-    "totalElevation": 1817426.6
+    "totalDistance": 247622100,
+    "totalMovingTime": 70396067,
+    "totalElevation": 1818003.6
   },
   "monthStats": {
-    "totalDistance": 50112000,
-    "totalMovingTime": 14434200,
+    "totalDistance": 50171200,
+    "totalMovingTime": 14457420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6643400,
-    "totalMovingTime": 1999020,
-    "count": 593
+    "totalDistance": 6702600,
+    "totalMovingTime": 2022240,
+    "count": 600
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 231765.9,
+    "measuredDistanceKm": 231825.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20780509658",
+        "name": "Kinomap - Rynna - Mała Panew",
+        "date": "October 29, 2026",
+        "distanceKm": 3.6,
+        "stats": [
+          "3.6 km",
+          "7:43",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Dirk Mang",
         "athleteId": "60711719",
@@ -121,6 +134,19 @@
           "5.6 km",
           "15:29",
           "90 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20780676371",
+        "name": "😴😴😴",
+        "date": "October 29, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "49:46",
+          "36 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20779674552",
-        "name": "Camminata pomeridiana",
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20780410350",
+        "name": "Gravel-Fahrt zum Feierabend mit Did",
         "date": "October 29, 2026",
-        "distanceKm": 2.1,
+        "distanceKm": 25.5,
         "stats": [
-          "2.1 km",
-          "38:04",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20779930992",
-        "name": "Fahrt am Nachmittag 🌥",
-        "date": "October 29, 2026",
-        "distanceKm": 25.6,
-        "stats": [
-          "25.6 km",
-          "59:32",
-          "33 m"
-        ]
-      },
-      {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20780274260",
-        "name": "Málaga Tag 1",
-        "date": "October 29, 2026",
-        "distanceKm": 69.3,
-        "stats": [
-          "69.3 km",
-          "5:10:08",
-          "1,484 m"
+          "25.5 km",
+          "1:23:25",
+          "362 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 247562.9
+      "totalWithEstimatesKm": 247622.1
     }
   }
 }

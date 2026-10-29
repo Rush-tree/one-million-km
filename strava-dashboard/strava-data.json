@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T19:30:49.881Z",
+  "generatedAt": "2026-10-29T20:00:56.327Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751911,
+    "remainingKm": 751853,
     "percentComplete": 24.81,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7169.6,
-    "thisWeekActivities": 650,
-    "thisWeekHours": 596,
-    "thisWeekElevationM": 53089,
+    "thisWeekKm": 7228,
+    "thisWeekActivities": 656,
+    "thisWeekHours": 601,
+    "thisWeekElevationM": 53284,
     "timesAroundEarth": 6.19,
-    "percentToMoon": 64.5,
+    "percentToMoon": 64.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 64.5,
-        "text": "64.5% of the way to the Moon",
+        "value": 64.6,
+        "text": "64.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20301,
+  "totalActivities": 20308,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248089100,
-    "totalMovingTime": 70520387,
-    "totalElevation": 1820368.6
+    "totalDistance": 248147500,
+    "totalMovingTime": 70535747,
+    "totalElevation": 1820563.6
   },
   "monthStats": {
-    "totalDistance": 50638200,
-    "totalMovingTime": 14581740,
+    "totalDistance": 50696600,
+    "totalMovingTime": 14597100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7169600,
-    "totalMovingTime": 2146560,
-    "count": 650
+    "totalDistance": 7228000,
+    "totalMovingTime": 2161920,
+    "count": 656
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232292.1,
+    "measuredDistanceKm": 232350.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "20782290577",
-        "name": "Abendlauf",
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20782834125",
+        "name": "Sykkeltur på kvelden",
         "date": "October 29, 2026",
-        "distanceKm": 3.7,
+        "distanceKm": 7.7,
         "stats": [
-          "3.7 km",
-          "20:26",
-          "2 m"
+          "7.7 km",
+          "26:53",
+          "127 m"
         ]
       },
       {
@@ -137,16 +137,16 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20782590331",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20782911060",
         "name": "Abendlauf",
         "date": "October 29, 2026",
-        "distanceKm": 5,
+        "distanceKm": 6.4,
         "stats": [
-          "5.0 km",
-          "48:14",
-          "3 m"
+          "6.4 km",
+          "50:13",
+          "9 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "20782646102",
-        "name": "NGD Intervalle",
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20782851150",
+        "name": "Fahrt am Nachmittag",
         "date": "October 29, 2026",
-        "distanceKm": 8,
+        "distanceKm": 16.7,
         "stats": [
-          "8.0 km",
-          "1:05:11",
-          "0 m"
+          "16.7 km",
+          "3:56:00",
+          "41 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248089.1
+      "totalWithEstimatesKm": 248147.5
     }
   }
 }

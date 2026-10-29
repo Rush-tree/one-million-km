@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T15:01:02.627Z",
+  "generatedAt": "2026-10-29T15:30:51.334Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 752710,
+    "remainingKm": 752651,
     "percentComplete": 24.73,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 6370.2,
-    "thisWeekActivities": 574,
-    "thisWeekHours": 534,
-    "thisWeekElevationM": 46794,
+    "thisWeekKm": 6430,
+    "thisWeekActivities": 583,
+    "thisWeekHours": 541,
+    "thisWeekElevationM": 47311,
     "timesAroundEarth": 6.17,
     "percentToMoon": 64.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20223,
+  "totalActivities": 20233,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 247289700,
-    "totalMovingTime": 70296227,
-    "totalElevation": 1814073.6
+    "totalDistance": 247349500,
+    "totalMovingTime": 70323047,
+    "totalElevation": 1814590.6
   },
   "monthStats": {
-    "totalDistance": 49838800,
-    "totalMovingTime": 14357580,
+    "totalDistance": 49898600,
+    "totalMovingTime": 14384400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6370200,
-    "totalMovingTime": 1922400,
-    "count": 574
+    "totalDistance": 6430000,
+    "totalMovingTime": 1949220,
+    "count": 583
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,73 +105,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 231492.7,
+    "measuredDistanceKm": 231552.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20779239238",
-        "name": "Afternoon Swim",
-        "date": "October 29, 2026",
-        "distanceKm": 0.9,
-        "stats": [
-          "0.9 km",
-          "22:25",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20779239213",
-        "name": "Afternoon Swim",
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20779564444",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "October 29, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
+          "13:09",
           "0 m"
         ]
       },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
-        "activityId": "20779239216",
-        "name": "Afternoon Workout",
-        "date": "October 29, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "16:36",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20778731322",
-        "name": "Lauf am Nachmittag",
-        "date": "October 29, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "1:05:14",
-          "36 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20778762883",
+        "activityId": "20779651367",
         "name": "Afternoon Walk",
         "date": "October 29, 2026",
-        "distanceKm": 1.5,
+        "distanceKm": 1,
         "stats": [
-          "1.5 km",
-          "2:04:57",
-          "14 m"
+          "1.0 km",
+          "29:52",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20779674552",
+        "name": "Camminata pomeridiana",
+        "date": "October 29, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "38:04",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20779700819",
+        "name": "Treppenstepper am Nachmittag",
+        "date": "October 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "41:01",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20779596424",
+        "name": "Kraftraining",
+        "date": "October 29, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:23:33",
+          "0 m"
         ]
       }
     ],
@@ -193,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 247289.7
+      "totalWithEstimatesKm": 247349.5
     }
   }
 }

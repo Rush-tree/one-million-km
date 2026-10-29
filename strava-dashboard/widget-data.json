@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-29T04:00:57.783Z",
+  "generatedAt": "2026-10-29T04:30:45.293Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-29T04:00:57.783Z",
+  "memberCountUpdatedAt": "2026-10-29T04:30:45.293Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 508,
-    "distanceKm": 5647.3,
-    "elevationM": 41676,
-    "movingSeconds": 1695480,
+    "activities": 509,
+    "distanceKm": 5653.5,
+    "elevationM": 41693,
+    "movingSeconds": 1696320,
     "raw": {
-      "activities": "508",
-      "distance": "5,647.3 km",
-      "time": "470 h 58 m",
-      "elevation": "41,676 m"
+      "activities": "509",
+      "distance": "5,653.5 km",
+      "time": "471 h 12 m",
+      "elevation": "41,693 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20773803905",
+      "name": "Gravel",
+      "date": "October 29, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "14:27",
+        "17 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -69,19 +82,6 @@
         "1:17:37",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20771790801",
-      "name": "Musculação ao entardecer",
-      "date": "October 28, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "43:18",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 107761.7,
-  "totalDistanceKm": 230769.8,
+  "observedWeeksKm": 107767.9,
+  "totalDistanceKm": 230776,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 246566.8
+    "totalWithEstimatesKm": 246573
   }
 }

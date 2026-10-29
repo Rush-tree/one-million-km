@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:00:58.711Z",
+  "generatedAt": "2026-10-29T01:30:48.575Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,8 +13,8 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 5514.9,
-    "thisWeekActivities": 504,
+    "thisWeekKm": 5515,
+    "thisWeekActivities": 505,
     "thisWeekHours": 463,
     "thisWeekElevationM": 41313,
     "timesAroundEarth": 6.15,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20153,
+  "totalActivities": 20154,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 246434400,
-    "totalMovingTime": 70041707,
+    "totalDistance": 246434500,
+    "totalMovingTime": 70041827,
     "totalElevation": 1808592.6
   },
   "monthStats": {
-    "totalDistance": 48983500,
-    "totalMovingTime": 14103060,
+    "totalDistance": 48983600,
+    "totalMovingTime": 14103180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5514900,
-    "totalMovingTime": 1667880,
-    "count": 504
+    "totalDistance": 5515000,
+    "totalMovingTime": 1668000,
+    "count": 505
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 230637.4,
+    "measuredDistanceKm": 230637.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Rajesh Khandare",
+        "athleteId": "129925061",
+        "activityId": "20772872727",
+        "name": "Morning Run",
+        "date": "October 29, 2026",
+        "distanceKm": 0.1,
+        "stats": [
+          "0.1 km",
+          "2:46",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Yuri Luna",
         "athleteId": "126667110",
@@ -161,19 +174,6 @@
           "31:27",
           "31 m"
         ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20771376398",
-        "name": "Nachtradfahrt",
-        "date": "October 28, 2026",
-        "distanceKm": 13.9,
-        "stats": [
-          "13.9 km",
-          "47:22",
-          "122 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 246434.4
+      "totalWithEstimatesKm": 246434.5
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-29T01:00:58.711Z",
+  "generatedAt": "2026-10-29T01:30:48.575Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-29T01:00:58.711Z",
+  "memberCountUpdatedAt": "2026-10-29T01:30:48.575Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 504,
-    "distanceKm": 5514.9,
+    "activities": 505,
+    "distanceKm": 5515,
     "elevationM": 41313,
-    "movingSeconds": 1667880,
+    "movingSeconds": 1668000,
     "raw": {
-      "activities": "504",
-      "distance": "5,514.9 km",
-      "time": "463 h 18 m",
+      "activities": "505",
+      "distance": "5,515.0 km",
+      "time": "463 h 20 m",
       "elevation": "41,313 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Rajesh Khandare",
+      "athleteId": "129925061",
+      "activityId": "20772872727",
+      "name": "Morning Run",
+      "date": "October 29, 2026",
+      "distanceKm": 0.1,
+      "stats": [
+        "0.1 km",
+        "2:46",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Yuri Luna",
       "athleteId": "126667110",
@@ -69,19 +82,6 @@
         "31:27",
         "31 m"
       ]
-    },
-    {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "20771376398",
-      "name": "Nachtradfahrt",
-      "date": "October 28, 2026",
-      "distanceKm": 13.9,
-      "stats": [
-        "13.9 km",
-        "47:22",
-        "122 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 107629.3,
-  "totalDistanceKm": 230637.4,
+  "observedWeeksKm": 107629.4,
+  "totalDistanceKm": 230637.5,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 246434.4
+    "totalWithEstimatesKm": 246434.5
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-29T07:30:52.006Z",
+  "generatedAt": "2026-10-29T08:01:08.721Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-29T07:30:52.006Z",
+  "memberCountUpdatedAt": "2026-10-29T08:01:08.721Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 523,
-    "distanceKm": 5747.2,
-    "elevationM": 42296,
-    "movingSeconds": 1735560,
+    "activities": 526,
+    "distanceKm": 5753.2,
+    "elevationM": 42345,
+    "movingSeconds": 1743660,
     "raw": {
-      "activities": "523",
-      "distance": "5,747.2 km",
-      "time": "482 h 6 m",
-      "elevation": "42,296 m"
+      "activities": "526",
+      "distance": "5,753.2 km",
+      "time": "484 h 21 m",
+      "elevation": "42,345 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20774876971",
+      "name": "Lauf am Morgen",
+      "date": "October 29, 2026",
+      "distanceKm": 6,
+      "stats": [
+        "6.0 km",
+        "43:52",
+        "49 m"
+      ]
+    },
     {
       "athlete": "Susanne Liepert",
       "athleteId": "28515644",
@@ -69,19 +82,6 @@
         "30:24",
         "52 m"
       ]
-    },
-    {
-      "athlete": "Silvio Lazzarin",
-      "athleteId": "139275594",
-      "activityId": "20774232085",
-      "name": "Allenamento mattutino",
-      "date": "October 29, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "25:14",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 107861.6,
-  "totalDistanceKm": 230869.7,
+  "observedWeeksKm": 107867.6,
+  "totalDistanceKm": 230875.7,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 246666.7
+    "totalWithEstimatesKm": 246672.7
   }
 }

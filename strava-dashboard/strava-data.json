@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T12:01:00.470Z",
+  "generatedAt": "2026-10-30T12:30:50.035Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 750963,
-    "percentComplete": 24.9,
+    "remainingKm": 750924,
+    "percentComplete": 24.91,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 8117.1,
-    "thisWeekActivities": 721,
-    "thisWeekHours": 663,
-    "thisWeekElevationM": 60584,
-    "timesAroundEarth": 6.21,
+    "thisWeekKm": 8156.4,
+    "thisWeekActivities": 725,
+    "thisWeekHours": 670,
+    "thisWeekElevationM": 60898,
+    "timesAroundEarth": 6.22,
     "percentToMoon": 64.8,
     "comparisons": [
       {
@@ -34,14 +34,14 @@
       },
       {
         "key": "greatwall",
-        "value": 11.7,
-        "text": "11.7× the Great Wall of China",
+        "value": 11.8,
+        "text": "11.8× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
         "key": "nile",
-        "value": 37.4,
-        "text": "37.4× the length of the Nile",
+        "value": 37.5,
+        "text": "37.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20372,
+  "totalActivities": 20376,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 249036600,
-    "totalMovingTime": 70760987,
-    "totalElevation": 1827863.6
+    "totalDistance": 249075900,
+    "totalMovingTime": 70784867,
+    "totalElevation": 1828177.6
   },
   "monthStats": {
-    "totalDistance": 51585700,
-    "totalMovingTime": 14822340,
+    "totalDistance": 51625000,
+    "totalMovingTime": 14846220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8117100,
-    "totalMovingTime": 2387160,
-    "count": 721
+    "totalDistance": 8156400,
+    "totalMovingTime": 2411040,
+    "count": 725
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 233239.6,
+    "measuredDistanceKm": 233278.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20790027144",
+        "name": "Gewichtstraining zur Mittagszeit",
+        "date": "October 30, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "50:21",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20789042048",
-        "name": "11km Dauerlauf",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20790051579",
+        "name": "Corsa mattutina",
         "date": "October 30, 2026",
-        "distanceKm": 11,
+        "distanceKm": 10.1,
         "stats": [
-          "11.0 km",
-          "1:02:08",
-          "108 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20789519648",
-        "name": "Afternoon Run",
-        "date": "October 30, 2026",
-        "distanceKm": 5.2,
-        "stats": [
-          "5.2 km",
-          "33:32",
-          "22 m"
+          "10.1 km",
+          "4:05:46",
+          "14 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 249036.6
+      "totalWithEstimatesKm": 249075.9
     }
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T17:00:57.417Z",
+  "generatedAt": "2026-10-30T17:30:48.639Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 750019,
-    "percentComplete": 25,
+    "remainingKm": 749904,
+    "percentComplete": 25.01,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 9061.8,
-    "thisWeekActivities": 788,
-    "thisWeekHours": 744,
-    "thisWeekElevationM": 68577,
+    "thisWeekKm": 9176.4,
+    "thisWeekActivities": 791,
+    "thisWeekHours": 753,
+    "thisWeekElevationM": 71803,
     "timesAroundEarth": 6.24,
-    "percentToMoon": 65,
+    "percentToMoon": 65.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 65,
-        "text": "65% of the way to the Moon",
+        "value": 65.1,
+        "text": "65.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20438,
+  "totalActivities": 20440,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 249981300,
-    "totalMovingTime": 71052047,
-    "totalElevation": 1835856.6
+    "totalDistance": 250095900,
+    "totalMovingTime": 71082827,
+    "totalElevation": 1839082.6
   },
   "monthStats": {
-    "totalDistance": 52530400,
-    "totalMovingTime": 15113400,
+    "totalDistance": 52645000,
+    "totalMovingTime": 15144180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9061800,
-    "totalMovingTime": 2678220,
-    "count": 788
+    "totalDistance": 9176400,
+    "totalMovingTime": 2709000,
+    "count": 791
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 234184.3,
+    "measuredDistanceKm": 234298.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20793184012",
-        "name": "Course à pied dans l'après-midi",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "20793715915",
+        "name": "Camminata pomeridiana",
         "date": "October 30, 2026",
-        "distanceKm": 9.1,
+        "distanceKm": 5.8,
         "stats": [
-          "9.1 km",
-          "51:18",
-          "67 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20793150517",
-        "name": "Fahrt am Nachmittag",
-        "date": "October 30, 2026",
-        "distanceKm": 26.7,
-        "stats": [
-          "26.7 km",
-          "1:00:41",
-          "0 m"
+          "5.8 km",
+          "1:07:29",
+          "7 m"
         ]
       },
       {
@@ -160,6 +147,19 @@
           "25.1 km",
           "1:16:18",
           "192 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20793758915",
+        "name": "Fahrt am Morgen",
+        "date": "October 30, 2026",
+        "distanceKm": 102,
+        "stats": [
+          "102.0 km",
+          "8:20:07",
+          "2,442 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 249981.3
+      "totalWithEstimatesKm": 250095.9
     }
   }
 }

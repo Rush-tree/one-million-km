@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T09:01:01.582Z",
+  "generatedAt": "2026-10-30T09:30:43.932Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751338,
+    "remainingKm": 751295,
     "percentComplete": 24.87,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7742.1,
-    "thisWeekActivities": 701,
-    "thisWeekHours": 644,
-    "thisWeekElevationM": 57093,
-    "timesAroundEarth": 6.2,
+    "thisWeekKm": 7785.6,
+    "thisWeekActivities": 704,
+    "thisWeekHours": 646,
+    "thisWeekElevationM": 57236,
+    "timesAroundEarth": 6.21,
     "percentToMoon": 64.7,
     "comparisons": [
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 38.9,
-        "text": "38.9 return trips Berlin to New York",
+        "value": 39,
+        "text": "39 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20353,
+  "totalActivities": 20356,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248661600,
-    "totalMovingTime": 70693787,
-    "totalElevation": 1824372.6
+    "totalDistance": 248705100,
+    "totalMovingTime": 70699607,
+    "totalElevation": 1824515.6
   },
   "monthStats": {
-    "totalDistance": 51210700,
-    "totalMovingTime": 14755140,
+    "totalDistance": 51254200,
+    "totalMovingTime": 14760960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7742100,
-    "totalMovingTime": 2319960,
-    "count": 701
+    "totalDistance": 7785600,
+    "totalMovingTime": 2325780,
+    "count": 704
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232864.6,
+    "measuredDistanceKm": 232908.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20788189528",
+        "name": "Natación de mañana",
+        "date": "October 30, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "34:41",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20788194907",
+        "name": "Zwift - Group Ride: Standard - Stage 4 - Tour of Watopia 2026",
+        "date": "October 30, 2026",
+        "distanceKm": 41.6,
+        "stats": [
+          "41.6 km",
+          "1:00:43",
+          "143 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -121,19 +147,6 @@
           "6.1 km",
           "1:06:22",
           "97 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20787497507",
-        "name": "Walking - October 2026 - Enghelab complex 🌞🚶🕊",
-        "date": "October 30, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "51:01",
-          "25 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "3:56:34",
           "597 m"
         ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "20787335021",
-        "name": "Morning Run",
-        "date": "October 30, 2026",
-        "distanceKm": 38,
-        "stats": [
-          "38.0 km",
-          "3:21:05",
-          "61 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248661.6
+      "totalWithEstimatesKm": 248705.1
     }
   }
 }

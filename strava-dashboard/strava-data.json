@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T20:00:56.369Z",
+  "generatedAt": "2026-10-30T20:30:45.023Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 749582,
-    "percentComplete": 25.04,
+    "remainingKm": 749514,
+    "percentComplete": 25.05,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,23 +13,23 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 9498.1,
-    "thisWeekActivities": 814,
-    "thisWeekHours": 774,
-    "thisWeekElevationM": 73243,
+    "thisWeekKm": 9566.4,
+    "thisWeekActivities": 819,
+    "thisWeekHours": 778,
+    "thisWeekElevationM": 73388,
     "timesAroundEarth": 6.25,
-    "percentToMoon": 65.1,
+    "percentToMoon": 65.2,
     "comparisons": [
       {
         "key": "equator",
-        "value": 6.2,
-        "text": "6.2× around the equator",
+        "value": 6.3,
+        "text": "6.3× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
         "key": "moon",
-        "value": 65.1,
-        "text": "65.1% of the way to the Moon",
+        "value": 65.2,
+        "text": "65.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20463,
+  "totalActivities": 20468,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 250417600,
-    "totalMovingTime": 71158787,
-    "totalElevation": 1840522.6
+    "totalDistance": 250485900,
+    "totalMovingTime": 71174627,
+    "totalElevation": 1840667.6
   },
   "monthStats": {
-    "totalDistance": 52966700,
-    "totalMovingTime": 15220140,
+    "totalDistance": 53035000,
+    "totalMovingTime": 15235980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9498100,
-    "totalMovingTime": 2784960,
-    "count": 814
+    "totalDistance": 9566400,
+    "totalMovingTime": 2800800,
+    "count": 819
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,21 +105,21 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 234620.6,
+    "measuredDistanceKm": 234688.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20794490841",
-        "name": "Evening Weight Training Freeletics",
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20795425180",
+        "name": "Abendradfahrt",
         "date": "October 30, 2026",
-        "distanceKm": 0,
+        "distanceKm": 28.2,
         "stats": [
-          "0 km",
-          "22:31",
+          "28.2 km",
+          "55:20",
           "0 m"
         ]
       },
@@ -137,16 +137,16 @@
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20794205692",
-        "name": "Zwift - Tempus Fugit in Watopia",
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20795254758",
+        "name": "Torspieler Training FCO Aktive",
         "date": "October 30, 2026",
-        "distanceKm": 20.5,
+        "distanceKm": 2,
         "stats": [
-          "20.5 km",
-          "35:13",
-          "32 m"
+          "2.0 km",
+          "1:29:16",
+          "8 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20794351483",
-        "name": "Akşam Koşu",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20795298104",
+        "name": "Enjoyed the Pedal Warriors Diwali Night Ride with lit cycles",
         "date": "October 30, 2026",
-        "distanceKm": 15.1,
+        "distanceKm": 26.1,
         "stats": [
-          "15.1 km",
-          "1:55:31",
-          "98 m"
+          "26.1 km",
+          "4:01:35",
+          "39 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 250417.6
+      "totalWithEstimatesKm": 250485.9
     }
   }
 }

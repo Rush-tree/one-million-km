@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T06:00:59.073Z",
+  "generatedAt": "2026-10-30T06:30:49.151Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751576,
+    "remainingKm": 751551,
     "percentComplete": 24.84,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7504.5,
-    "thisWeekActivities": 683,
-    "thisWeekHours": 625,
-    "thisWeekElevationM": 55208,
+    "thisWeekKm": 7529.4,
+    "thisWeekActivities": 687,
+    "thisWeekHours": 627,
+    "thisWeekElevationM": 55464,
     "timesAroundEarth": 6.2,
     "percentToMoon": 64.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20335,
+  "totalActivities": 20340,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248424000,
-    "totalMovingTime": 70622987,
-    "totalElevation": 1822487.6
+    "totalDistance": 248448900,
+    "totalMovingTime": 70629947,
+    "totalElevation": 1822743.6
   },
   "monthStats": {
-    "totalDistance": 50973100,
-    "totalMovingTime": 14684340,
+    "totalDistance": 50998000,
+    "totalMovingTime": 14691300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7504500,
-    "totalMovingTime": 2249160,
-    "count": 683
+    "totalDistance": 7529400,
+    "totalMovingTime": 2256120,
+    "count": 687
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232627,
+    "measuredDistanceKm": 232651.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20787108010",
+        "name": "Frühstücks-Service",
+        "date": "October 30, 2026",
+        "distanceKm": 3.6,
+        "stats": [
+          "3.6 km",
+          "13:51",
+          "20 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "20787066506",
+        "name": "Yoga am Morgen",
+        "date": "October 30, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:51",
+          "0 m"
+        ]
+      },
       {
         "athlete": "André Brune",
         "athleteId": "4536289",
@@ -124,19 +150,6 @@
         ]
       },
       {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20786856014",
-        "name": "Running - October 2026 - Enghelab complex 🌞🏃‍♂️🕊",
-        "date": "October 30, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "40:36",
-          "61 m"
-        ]
-      },
-      {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
         "activityId": "20786907425",
@@ -147,19 +160,6 @@
           "14.4 km",
           "1:23:49",
           "38 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20786867045",
-        "name": "Morning Run",
-        "date": "October 30, 2026",
-        "distanceKm": 11.1,
-        "stats": [
-          "11.1 km",
-          "1:42:11",
-          "175 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248424
+      "totalWithEstimatesKm": 248448.9
     }
   }
 }

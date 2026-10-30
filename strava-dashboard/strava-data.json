@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T07:00:52.966Z",
+  "generatedAt": "2026-10-30T07:30:46.268Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751474,
+    "remainingKm": 751469,
     "percentComplete": 24.85,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7606.9,
-    "thisWeekActivities": 689,
-    "thisWeekHours": 632,
-    "thisWeekElevationM": 55741,
+    "thisWeekKm": 7611.1,
+    "thisWeekActivities": 693,
+    "thisWeekHours": 634,
+    "thisWeekElevationM": 55766,
     "timesAroundEarth": 6.2,
     "percentToMoon": 64.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20341,
+  "totalActivities": 20346,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248526400,
-    "totalMovingTime": 70647947,
-    "totalElevation": 1823020.6
+    "totalDistance": 248530600,
+    "totalMovingTime": 70655627,
+    "totalElevation": 1823045.6
   },
   "monthStats": {
-    "totalDistance": 51075500,
-    "totalMovingTime": 14709300,
+    "totalDistance": 51079700,
+    "totalMovingTime": 14716980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7606900,
-    "totalMovingTime": 2274120,
-    "count": 689
+    "totalDistance": 7611100,
+    "totalMovingTime": 2281800,
+    "count": 693
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232729.4,
+    "measuredDistanceKm": 232733.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "siavash Akbari",
+        "athleteId": "56213794",
+        "activityId": "20787497507",
+        "name": "Walking - October 2026 - Enghelab complex 🌞🚶🕊",
+        "date": "October 30, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "51:01",
+          "25 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20787394179",
+        "name": "Yoga am Morgen",
+        "date": "October 30, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "20:22",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -134,32 +160,6 @@
           "0 km",
           "16:51",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20786970691",
-        "name": "Fahrt am Morgen ☁",
-        "date": "October 30, 2026",
-        "distanceKm": 22.1,
-        "stats": [
-          "22.1 km",
-          "51:07",
-          "40 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20786907425",
-        "name": "Fahrt am Morgen",
-        "date": "October 30, 2026",
-        "distanceKm": 14.4,
-        "stats": [
-          "14.4 km",
-          "1:23:49",
-          "38 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248526.4
+      "totalWithEstimatesKm": 248530.6
     }
   }
 }

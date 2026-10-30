@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-30T10:30:49.743Z",
+  "generatedAt": "2026-10-30T11:01:00.575Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-30T10:30:49.743Z",
+  "memberCountUpdatedAt": "2026-10-30T11:01:00.575Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 711,
-    "distanceKm": 7938.2,
-    "elevationM": 58227,
-    "movingSeconds": 2354880,
+    "activities": 714,
+    "distanceKm": 8020.4,
+    "elevationM": 59666,
+    "movingSeconds": 2368200,
     "raw": {
-      "activities": "711",
-      "distance": "7,938.2 km",
-      "time": "654 h 8 m",
-      "elevation": "58,227 m"
+      "activities": "714",
+      "distance": "8,020.4 km",
+      "time": "657 h 50 m",
+      "elevation": "59,666 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Julian Klaas",
+      "athleteId": "157058434",
+      "activityId": "20789042048",
+      "name": "11km Dauerlauf",
+      "date": "October 30, 2026",
+      "distanceKm": 11,
+      "stats": [
+        "11.0 km",
+        "1:02:08",
+        "108 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20788732097",
-      "name": "Morning Workout",
-      "date": "October 30, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:08:55",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "David Frerichs",
       "athleteId": "41924749",
       "activityId": "20788513929",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 110052.6,
-  "totalDistanceKm": 233060.7,
+  "observedWeeksKm": 110134.8,
+  "totalDistanceKm": 233142.9,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 248857.7
+    "totalWithEstimatesKm": 248939.9
   }
 }

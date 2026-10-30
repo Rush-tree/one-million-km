@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-30T10:00:58.659Z",
+  "generatedAt": "2026-10-30T10:18:08.640Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751223,
-    "percentComplete": 24.88,
+    "remainingKm": 751142,
+    "percentComplete": 24.89,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-24",
+    "projectedDate": "2027-09-23",
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7857.9,
-    "thisWeekActivities": 708,
-    "thisWeekHours": 650,
-    "thisWeekElevationM": 57636,
+    "thisWeekKm": 7938.2,
+    "thisWeekActivities": 711,
+    "thisWeekHours": 654,
+    "thisWeekElevationM": 58227,
     "timesAroundEarth": 6.21,
     "percentToMoon": 64.7,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 18.8,
-        "text": "18.8× the German autobahn network",
+        "value": 18.9,
+        "text": "18.9× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20360,
+  "totalActivities": 20363,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248777400,
-    "totalMovingTime": 70712387,
-    "totalElevation": 1824915.6
+    "totalDistance": 248857700,
+    "totalMovingTime": 70728707,
+    "totalElevation": 1825506.6
   },
   "monthStats": {
-    "totalDistance": 51326500,
-    "totalMovingTime": 14773740,
+    "totalDistance": 51406800,
+    "totalMovingTime": 14790060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7857900,
-    "totalMovingTime": 2338560,
-    "count": 708
+    "totalDistance": 7938200,
+    "totalMovingTime": 2354880,
+    "count": 711
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232980.4,
+    "measuredDistanceKm": 233060.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20788848928",
+        "name": "Fahrt am Morgen",
+        "date": "October 30, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "51:11",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
         "activityId": "20788530584",
@@ -137,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20788189528",
-        "name": "Natación de mañana",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20788732097",
+        "name": "Morning Workout",
         "date": "October 30, 2026",
-        "distanceKm": 1.5,
+        "distanceKm": 0,
         "stats": [
-          "1.5 km",
-          "34:41",
+          "0 km",
+          "1:08:55",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20788194907",
-        "name": "Zwift - Group Ride: Standard - Stage 4 - Tour of Watopia 2026",
-        "date": "October 30, 2026",
-        "distanceKm": 41.6,
-        "stats": [
-          "41.6 km",
-          "1:00:43",
-          "143 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248777.4
+      "totalWithEstimatesKm": 248857.7
     }
   }
 }

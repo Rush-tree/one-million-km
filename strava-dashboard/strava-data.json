@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T13:30:48.112Z",
+  "generatedAt": "2026-10-30T14:00:58.084Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 750707,
-    "percentComplete": 24.93,
+    "remainingKm": 750640,
+    "percentComplete": 24.94,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 8373.3,
-    "thisWeekActivities": 732,
-    "thisWeekHours": 682,
-    "thisWeekElevationM": 62269,
+    "thisWeekKm": 8440.2,
+    "thisWeekActivities": 740,
+    "thisWeekHours": 692,
+    "thisWeekElevationM": 62918,
     "timesAroundEarth": 6.22,
     "percentToMoon": 64.9,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 39,
-        "text": "39 return trips Berlin to New York",
+        "value": 39.1,
+        "text": "39.1 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20382,
+  "totalActivities": 20390,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 249292800,
-    "totalMovingTime": 70829267,
-    "totalElevation": 1829548.6
+    "totalDistance": 249359700,
+    "totalMovingTime": 70863287,
+    "totalElevation": 1830197.6
   },
   "monthStats": {
-    "totalDistance": 51841900,
-    "totalMovingTime": 14890620,
+    "totalDistance": 51908800,
+    "totalMovingTime": 14924640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8373300,
-    "totalMovingTime": 2455440,
-    "count": 732
+    "totalDistance": 8440200,
+    "totalMovingTime": 2489460,
+    "count": 740
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 233495.8,
+    "measuredDistanceKm": 233562.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20791322838",
+        "name": "Evening Ride",
+        "date": "October 30, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "1:14:51",
+          "37 m"
+        ]
+      },
       {
         "athlete": "Luka M",
         "athleteId": "33218706",
@@ -124,16 +137,29 @@
         ]
       },
       {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20790592179",
-        "name": "Yoga am Nachmittag",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20791301874",
+        "name": "Lunch Walk",
         "date": "October 30, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1.4,
         "stats": [
-          "0 km",
-          "26:47",
-          "0 m"
+          "1.4 km",
+          "1:36:36",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Andreas Glaser 🇩🇪🚲",
+        "athleteId": "3109388",
+        "activityId": "20791145551",
+        "name": "Durch Wald und Flur 🏞🚵🏽‍♂️",
+        "date": "October 30, 2026",
+        "distanceKm": 39.6,
+        "stats": [
+          "39.6 km",
+          "1:41:31",
+          "413 m"
         ]
       },
       {
@@ -146,32 +172,6 @@
         "stats": [
           "8.1 km",
           "1:17:48",
-          "148 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20790715315",
-        "name": "Streckenvermessung für den Teufelsberg Fun Backyard",
-        "date": "October 30, 2026",
-        "distanceKm": 23.5,
-        "stats": [
-          "23.5 km",
-          "2:32:32",
-          "711 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20790716106",
-        "name": "Gravel-Fahrt am Morgen",
-        "date": "October 30, 2026",
-        "distanceKm": 94.4,
-        "stats": [
-          "94.4 km",
-          "5:08:37",
           "148 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 249292.8
+      "totalWithEstimatesKm": 249359.7
     }
   }
 }

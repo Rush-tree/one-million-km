@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-30T00:00:58.245Z",
+  "generatedAt": "2026-10-30T00:30:47.036Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-30T00:00:58.245Z",
+  "memberCountUpdatedAt": "2026-10-30T00:30:47.036Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 666,
-    "distanceKm": 7292.4,
-    "elevationM": 53743,
-    "movingSeconds": 2188440,
+    "activities": 668,
+    "distanceKm": 7295.6,
+    "elevationM": 53747,
+    "movingSeconds": 2194440,
     "raw": {
-      "activities": "666",
-      "distance": "7,292.4 km",
-      "time": "607 h 54 m",
-      "elevation": "53,743 m"
+      "activities": "668",
+      "distance": "7,295.6 km",
+      "time": "609 h 34 m",
+      "elevation": "53,747 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20785539605",
+      "name": "Evening Walk",
+      "date": "October 29, 2026",
+      "distanceKm": 3.2,
+      "stats": [
+        "3.2 km",
+        "33:45",
+        "4 m"
+      ]
+    },
     {
       "athlete": "Josué González",
       "athleteId": "178408867",
@@ -29,6 +42,19 @@
         "6.4 km",
         "41:38",
         "24 m"
+      ]
+    },
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20785355575",
+      "name": "Musculação ao entardecer",
+      "date": "October 29, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:06:32",
+        "0 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "20:10",
         "27 m"
       ]
-    },
-    {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20783846578",
-      "name": "Dauerlauf 75 Min. 🏃🏃🏃 …",
-      "date": "October 29, 2026",
-      "distanceKm": 13.5,
-      "stats": [
-        "13.5 km",
-        "1:21:52",
-        "178 m"
-      ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20782834125",
-      "name": "Sykkeltur på kvelden",
-      "date": "October 29, 2026",
-      "distanceKm": 7.7,
-      "stats": [
-        "7.7 km",
-        "26:53",
-        "127 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 109406.8,
-  "totalDistanceKm": 232414.9,
+  "observedWeeksKm": 109410,
+  "totalDistanceKm": 232418.1,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 248211.9
+    "totalWithEstimatesKm": 248215.1
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-30T05:30:46.632Z",
+  "generatedAt": "2026-10-30T06:00:59.073Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-30T05:30:46.631Z",
+  "memberCountUpdatedAt": "2026-10-30T06:00:59.073Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 682,
-    "distanceKm": 7482.4,
-    "elevationM": 55168,
-    "movingSeconds": 2246100,
+    "activities": 683,
+    "distanceKm": 7504.5,
+    "elevationM": 55208,
+    "movingSeconds": 2249160,
     "raw": {
-      "activities": "682",
-      "distance": "7,482.4 km",
-      "time": "623 h 55 m",
-      "elevation": "55,168 m"
+      "activities": "683",
+      "distance": "7,504.5 km",
+      "time": "624 h 46 m",
+      "elevation": "55,208 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "André Brune",
+      "athleteId": "4536289",
+      "activityId": "20786970691",
+      "name": "Fahrt am Morgen ☁",
+      "date": "October 30, 2026",
+      "distanceKm": 22.1,
+      "stats": [
+        "22.1 km",
+        "51:07",
+        "40 m"
+      ]
+    },
     {
       "athlete": "siavash Akbari",
       "athleteId": "56213794",
@@ -29,19 +42,6 @@
         "5.1 km",
         "40:36",
         "61 m"
-      ]
-    },
-    {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "20786760000",
-      "name": "Gewichtstraining am Morgen",
-      "date": "October 30, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "28:34",
-        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 109596.8,
-  "totalDistanceKm": 232604.9,
+  "observedWeeksKm": 109618.9,
+  "totalDistanceKm": 232627,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 248401.9
+    "totalWithEstimatesKm": 248424
   }
 }

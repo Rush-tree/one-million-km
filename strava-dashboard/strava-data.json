@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T09:30:43.932Z",
+  "generatedAt": "2026-10-30T10:00:58.659Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751295,
-    "percentComplete": 24.87,
+    "remainingKm": 751223,
+    "percentComplete": 24.88,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7785.6,
-    "thisWeekActivities": 704,
-    "thisWeekHours": 646,
-    "thisWeekElevationM": 57236,
+    "thisWeekKm": 7857.9,
+    "thisWeekActivities": 708,
+    "thisWeekHours": 650,
+    "thisWeekElevationM": 57636,
     "timesAroundEarth": 6.21,
     "percentToMoon": 64.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20356,
+  "totalActivities": 20360,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248705100,
-    "totalMovingTime": 70699607,
-    "totalElevation": 1824515.6
+    "totalDistance": 248777400,
+    "totalMovingTime": 70712387,
+    "totalElevation": 1824915.6
   },
   "monthStats": {
-    "totalDistance": 51254200,
-    "totalMovingTime": 14760960,
+    "totalDistance": 51326500,
+    "totalMovingTime": 14773740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7785600,
-    "totalMovingTime": 2325780,
-    "count": 704
+    "totalDistance": 7857900,
+    "totalMovingTime": 2338560,
+    "count": 708
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232908.1,
+    "measuredDistanceKm": 232980.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20788514227",
+        "name": "Zwift - Group Ride: Short - Stage 4 - Tour of Watopia 2026",
+        "date": "October 30, 2026",
+        "distanceKm": 22.8,
+        "stats": [
+          "22.8 km",
+          "36:33",
+          "107 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20788530584",
+        "name": "Öğle Arası Sürüş",
+        "date": "October 30, 2026",
+        "distanceKm": 5.3,
+        "stats": [
+          "5.3 km",
+          "49:00",
+          "87 m"
+        ]
+      },
       {
         "athlete": "Alfonso Contreras Calderón",
         "athleteId": "123434994",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20787821429",
-        "name": "Spaziergang am Morgen",
+        "athlete": "David Frerichs",
+        "athleteId": "41924749",
+        "activityId": "20788513929",
+        "name": "Fahrt am Morgen",
         "date": "October 30, 2026",
-        "distanceKm": 6.1,
+        "distanceKm": 41,
         "stats": [
-          "6.1 km",
-          "1:06:22",
-          "97 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20787641239",
-        "name": "Sykkeltur om morgenen",
-        "date": "October 30, 2026",
-        "distanceKm": 31.3,
-        "stats": [
-          "31.3 km",
-          "1:37:42",
-          "249 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20787558385",
-        "name": "Fahrt zu den Stauseen",
-        "date": "October 30, 2026",
-        "distanceKm": 85.5,
-        "stats": [
-          "85.5 km",
-          "3:56:34",
-          "597 m"
+          "41.0 km",
+          "1:50:32",
+          "94 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248705.1
+      "totalWithEstimatesKm": 248777.4
     }
   }
 }

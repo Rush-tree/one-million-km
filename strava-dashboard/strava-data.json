@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T02:30:47.423Z",
+  "generatedAt": "2026-10-30T02:46:00.005Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 751767,
-    "percentComplete": 24.82,
+    "remainingKm": 751701,
+    "percentComplete": 24.83,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 7313.6,
-    "thisWeekActivities": 670,
-    "thisWeekHours": 612,
-    "thisWeekElevationM": 54037,
-    "timesAroundEarth": 6.19,
+    "thisWeekKm": 7379.1,
+    "thisWeekActivities": 671,
+    "thisWeekHours": 614,
+    "thisWeekElevationM": 54233,
+    "timesAroundEarth": 6.2,
     "percentToMoon": 64.6,
     "comparisons": [
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 248233100,
-    "totalMovingTime": 70575347,
-    "totalElevation": 1821316.6
+    "totalDistance": 248298600,
+    "totalMovingTime": 70585607,
+    "totalElevation": 1821512.6
   },
   "monthStats": {
-    "totalDistance": 50782200,
-    "totalMovingTime": 14636700,
+    "totalDistance": 50847700,
+    "totalMovingTime": 14646960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7313600,
-    "totalMovingTime": 2201520,
-    "count": 670
+    "totalDistance": 7379100,
+    "totalMovingTime": 2211780,
+    "count": 671
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 232436.1,
+    "measuredDistanceKm": 232501.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20786317300",
+        "name": "Friday Morning Ride",
+        "date": "October 30, 2026",
+        "distanceKm": 65.5,
+        "stats": [
+          "65.5 km",
+          "2:55:53",
+          "195 m"
+        ]
+      },
+      {
         "athlete": "Josué González",
         "athleteId": "178408867",
         "activityId": "20784902371",
@@ -161,19 +174,6 @@
           "1:06:32",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20784669712",
-        "name": "Yoga in der Nacht",
-        "date": "October 29, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "33:24",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 248233.1
+      "totalWithEstimatesKm": 248298.6
     }
   }
 }

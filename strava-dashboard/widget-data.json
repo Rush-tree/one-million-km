@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-31T05:00:53.157Z",
+  "generatedAt": "2026-10-31T05:30:42.861Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-31T05:00:53.157Z",
+  "memberCountUpdatedAt": "2026-10-31T05:30:42.861Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 832,
-    "distanceKm": 9744.3,
-    "elevationM": 73956,
-    "movingSeconds": 2865180,
+    "activities": 833,
+    "distanceKm": 9750.5,
+    "elevationM": 74036,
+    "movingSeconds": 2867580,
     "raw": {
-      "activities": "832",
-      "distance": "9,744.3 km",
-      "time": "795 h 53 m",
-      "elevation": "73,956 m"
+      "activities": "833",
+      "distance": "9,750.5 km",
+      "time": "796 h 33 m",
+      "elevation": "74,036 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+      "athleteId": "28746307",
+      "activityId": "20798823596",
+      "name": "Morning Run",
+      "date": "October 31, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "39:12",
+        "80 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -69,19 +82,6 @@
         "1:23:12",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20796331494",
-      "name": "Night Walk",
-      "date": "October 30, 2026",
-      "distanceKm": 0.7,
-      "stats": [
-        "0.7 km",
-        "23:52",
-        "4 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 111858.7,
-  "totalDistanceKm": 234866.8,
+  "observedWeeksKm": 111864.9,
+  "totalDistanceKm": 234873,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 250663.8
+    "totalWithEstimatesKm": 250670
   }
 }

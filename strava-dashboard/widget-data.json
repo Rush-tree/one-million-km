@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-31T13:00:51.281Z",
+  "generatedAt": "2026-10-31T13:30:45.280Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-31T13:00:51.281Z",
+  "memberCountUpdatedAt": "2026-10-31T13:30:45.280Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 908,
-    "distanceKm": 10715.9,
-    "elevationM": 81033,
-    "movingSeconds": 3123360,
+    "activities": 918,
+    "distanceKm": 10959.3,
+    "elevationM": 82359,
+    "movingSeconds": 3170340,
     "raw": {
-      "activities": "908",
-      "distance": "10,715.9 km",
-      "time": "867 h 36 m",
-      "elevation": "81,033 m"
+      "activities": "918",
+      "distance": "10,959.3 km",
+      "time": "880 h 39 m",
+      "elevation": "82,359 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Marisa Funk",
+      "athleteId": "157343980",
+      "activityId": "20803979253",
+      "name": "Lauf am Nachmittag",
+      "date": "October 31, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "26:41",
+        "39 m"
+      ]
+    },
     {
       "athlete": "Reynaldo Guerra",
       "athleteId": "59804669",
@@ -32,15 +45,15 @@
       ]
     },
     {
-      "athlete": "Julian Klaas",
-      "athleteId": "157058434",
-      "activityId": "20803251457",
-      "name": "Lower B (Hypertrophy)",
+      "athlete": "Norick Maurer",
+      "athleteId": "107445415",
+      "activityId": "20803764160",
+      "name": "Schwimmen am Nachmittag",
       "date": "October 31, 2026",
-      "distanceKm": 0,
+      "distanceKm": 1.8,
       "stats": [
-        "0 km",
-        "50:48",
+        "1.8 km",
+        "51:52",
         "0 m"
       ]
     },
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Jürgen Bootsmann",
-      "athleteId": "30645305",
-      "activityId": "20803087976",
-      "name": "Mountainbike-Fahrt am Morgen",
+      "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
+      "athleteId": "129712916",
+      "activityId": "20803905396",
+      "name": "Mittagsradfahrt",
       "date": "October 31, 2026",
-      "distanceKm": 65.3,
+      "distanceKm": 69.5,
       "stats": [
-        "65.3 km",
-        "4:53:53",
-        "156 m"
-      ]
-    },
-    {
-      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
-      "athleteId": "72351185",
-      "activityId": "20803226586",
-      "name": "Pre BRM Bike check & puncture repair ride",
-      "date": "October 31, 2026",
-      "distanceKm": 5.7,
-      "stats": [
-        "5.7 km",
-        "39:33",
-        "1 m"
+        "69.5 km",
+        "2:19:14",
+        "508 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 112830.3,
-  "totalDistanceKm": 235838.4,
+  "observedWeeksKm": 113073.7,
+  "totalDistanceKm": 236081.8,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 251635.4
+    "totalWithEstimatesKm": 251878.8
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T13:30:45.280Z",
+  "generatedAt": "2026-10-31T14:00:51.199Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 748121,
+    "remainingKm": 748077,
     "percentComplete": 25.19,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 10959.3,
-    "thisWeekActivities": 918,
-    "thisWeekHours": 881,
-    "thisWeekElevationM": 82359,
+    "thisWeekKm": 11004,
+    "thisWeekActivities": 924,
+    "thisWeekHours": 887,
+    "thisWeekElevationM": 82687,
     "timesAroundEarth": 6.29,
     "percentToMoon": 65.5,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 39.4,
-        "text": "39.4 return trips Berlin to New York",
+        "value": 39.5,
+        "text": "39.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20566,
+  "totalActivities": 20572,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 251878800,
-    "totalMovingTime": 71544167,
-    "totalElevation": 1849638.6
+    "totalDistance": 251923500,
+    "totalMovingTime": 71566607,
+    "totalElevation": 1849966.6
   },
   "monthStats": {
-    "totalDistance": 54427900,
-    "totalMovingTime": 15605520,
+    "totalDistance": 54472600,
+    "totalMovingTime": 15627960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10959300,
-    "totalMovingTime": 3170340,
-    "count": 918
+    "totalDistance": 11004000,
+    "totalMovingTime": 3192780,
+    "count": 924
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 236081.8,
+    "measuredDistanceKm": 236126.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20804233419",
+        "name": "Styrketrening på ettermiddagen",
+        "date": "October 31, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "35:11",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20803444013",
-        "name": "Pedalada matinal",
-        "date": "October 31, 2026",
-        "distanceKm": 3.2,
-        "stats": [
-          "3.2 km",
-          "8:43",
-          "116 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20803764160",
-        "name": "Schwimmen am Nachmittag",
-        "date": "October 31, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "51:52",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Adriano Perri",
-        "athleteId": "99629318",
-        "activityId": "20803475619",
-        "name": "Legs and Abs 🔥",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20804470754",
+        "name": "Lunch Weight Training",
         "date": "October 31, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:19:17",
+          "1:24:02",
           "0 m"
         ]
       },
       {
-        "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-        "athleteId": "129712916",
-        "activityId": "20803905396",
-        "name": "Mittagsradfahrt",
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20804382139",
+        "name": "Schwellenlauf",
         "date": "October 31, 2026",
-        "distanceKm": 69.5,
+        "distanceKm": 20,
         "stats": [
-          "69.5 km",
-          "2:19:14",
-          "508 m"
+          "20.0 km",
+          "1:46:29",
+          "46 m"
+        ]
+      },
+      {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20804186511",
+        "name": "Ein Herz für den Grunewald. Und die vielen Hunde. Und für Gen Z. Und für die Off Season ❤️",
+        "date": "October 31, 2026",
+        "distanceKm": 19.2,
+        "stats": [
+          "19.2 km",
+          "1:53:44",
+          "259 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 251878.8
+      "totalWithEstimatesKm": 251923.5
     }
   }
 }

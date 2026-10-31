@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-10-31T22:00:52.407Z",
+  "generatedAt": "2026-10-31T22:30:44.496Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-10-31T22:00:52.407Z",
+  "memberCountUpdatedAt": "2026-10-31T22:30:44.496Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 985,
-    "distanceKm": 12105.1,
-    "elevationM": 93284,
-    "movingSeconds": 3473400,
+    "activities": 987,
+    "distanceKm": 12112.5,
+    "elevationM": 93306,
+    "movingSeconds": 3479220,
     "raw": {
-      "activities": "985",
-      "distance": "12,105.1 km",
-      "time": "964 h 50 m",
-      "elevation": "93,284 m"
+      "activities": "987",
+      "distance": "12,112.5 km",
+      "time": "966 h 27 m",
+      "elevation": "93,306 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20809705537",
+      "name": "Night Walk",
+      "date": "October 31, 2026",
+      "distanceKm": 0.6,
+      "stats": [
+        "0.6 km",
+        "18:46",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -29,32 +42,6 @@
         "0 km",
         "47:59",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20808391420",
-      "name": "Traillauf am Abend",
-      "date": "October 31, 2026",
-      "distanceKm": 0.2,
-      "stats": [
-        "0.2 km",
-        "2:29",
-        "3 m"
-      ]
-    },
-    {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20808391416",
-      "name": "Halloweenlauf Oppen 2026👻🎃🏁",
-      "date": "October 31, 2026",
-      "distanceKm": 4.9,
-      "stats": [
-        "4.9 km",
-        "15:10",
-        "54 m"
       ]
     },
     {
@@ -82,6 +69,19 @@
         "3:02:53",
         "177 m"
       ]
+    },
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20809823093",
+      "name": "Lunch Walk",
+      "date": "October 31, 2026",
+      "distanceKm": 6.7,
+      "stats": [
+        "6.7 km",
+        "5:14:52",
+        "3 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 114219.5,
-  "totalDistanceKm": 237227.6,
+  "observedWeeksKm": 114226.9,
+  "totalDistanceKm": 237235,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 253024.6
+    "totalWithEstimatesKm": 253032
   }
 }

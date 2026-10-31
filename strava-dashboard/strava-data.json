@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T22:00:52.407Z",
+  "generatedAt": "2026-10-31T22:30:44.496Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 746975,
+    "remainingKm": 746968,
     "percentComplete": 25.3,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 12105.1,
-    "thisWeekActivities": 985,
-    "thisWeekHours": 965,
-    "thisWeekElevationM": 93284,
+    "thisWeekKm": 12112.5,
+    "thisWeekActivities": 987,
+    "thisWeekHours": 966,
+    "thisWeekElevationM": 93306,
     "timesAroundEarth": 6.31,
     "percentToMoon": 65.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20630,
+  "totalActivities": 20632,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 253024600,
-    "totalMovingTime": 71847227,
-    "totalElevation": 1860563.6
+    "totalDistance": 253032000,
+    "totalMovingTime": 71853047,
+    "totalElevation": 1860585.6
   },
   "monthStats": {
-    "totalDistance": 55573700,
-    "totalMovingTime": 15908580,
+    "totalDistance": 55581100,
+    "totalMovingTime": 15914400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12105100,
-    "totalMovingTime": 3473400,
-    "count": 985
+    "totalDistance": 12112500,
+    "totalMovingTime": 3479220,
+    "count": 987
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 237227.6,
+    "measuredDistanceKm": 237235,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20809705537",
+        "name": "Night Walk",
+        "date": "October 31, 2026",
+        "distanceKm": 0.6,
+        "stats": [
+          "0.6 km",
+          "18:46",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -121,32 +134,6 @@
           "0 km",
           "47:59",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20808391420",
-        "name": "Traillauf am Abend",
-        "date": "October 31, 2026",
-        "distanceKm": 0.2,
-        "stats": [
-          "0.2 km",
-          "2:29",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20808391416",
-        "name": "Halloweenlauf Oppen 2026👻🎃🏁",
-        "date": "October 31, 2026",
-        "distanceKm": 4.9,
-        "stats": [
-          "4.9 km",
-          "15:10",
-          "54 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "3:02:53",
           "177 m"
         ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20809823093",
+        "name": "Lunch Walk",
+        "date": "October 31, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "5:14:52",
+          "3 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 253024.6
+      "totalWithEstimatesKm": 253032
     }
   }
 }

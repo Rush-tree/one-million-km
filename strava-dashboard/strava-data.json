@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-31T09:30:43.895Z",
+  "generatedAt": "2026-10-31T10:00:53.021Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 749142,
+    "remainingKm": 749099,
     "percentComplete": 25.09,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 9938.4,
-    "thisWeekActivities": 859,
-    "thisWeekHours": 814,
-    "thisWeekElevationM": 75138,
+    "thisWeekKm": 9981.1,
+    "thisWeekActivities": 865,
+    "thisWeekHours": 818,
+    "thisWeekElevationM": 75702,
     "timesAroundEarth": 6.26,
     "percentToMoon": 65.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20510,
+  "totalActivities": 20516,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 250857900,
-    "totalMovingTime": 71303207,
-    "totalElevation": 1842417.6
+    "totalDistance": 250900600,
+    "totalMovingTime": 71317607,
+    "totalElevation": 1842981.6
   },
   "monthStats": {
-    "totalDistance": 53407000,
-    "totalMovingTime": 15364560,
+    "totalDistance": 53449700,
+    "totalMovingTime": 15378960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9938400,
-    "totalMovingTime": 2929380,
-    "count": 859
+    "totalDistance": 9981100,
+    "totalMovingTime": 2943780,
+    "count": 865
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 235060.9,
+    "measuredDistanceKm": 235103.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20800673112",
+        "name": "Zwift - Race: Tiny Race (3 of 4) by Zwift Insider (E)",
+        "date": "October 31, 2026",
+        "distanceKm": 5.7,
+        "stats": [
+          "5.7 km",
+          "15:08",
+          "36 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -124,49 +137,36 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20800197070",
-        "name": "Zwift - Race: Tiny Race (1 of 4) by Zwift Insider",
-        "date": "October 31, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "11:48",
-          "20 m"
-        ]
-      },
-      {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
-        "activityId": "20800100912",
-        "name": "Zwift - Glen Etive in Video",
+        "activityId": "20800426025",
+        "name": "Zwift - Chapman's Peak in Video",
         "date": "October 31, 2026",
-        "distanceKm": 7.4,
+        "distanceKm": 11.6,
         "stats": [
-          "7.4 km",
-          "11:16",
-          "47 m"
+          "11.6 km",
+          "25:49",
+          "192 m"
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20800019930",
-        "name": "Zwift - Glen Etive in Video",
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20800721227",
+        "name": "Lauf am Morgen",
         "date": "October 31, 2026",
-        "distanceKm": 6.4,
+        "distanceKm": 12,
         "stats": [
-          "6.4 km",
-          "10:50",
-          "40 m"
+          "12.0 km",
+          "1:13:53",
+          "156 m"
         ]
       },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
         "activityId": "20800295844",
-        "name": "Lauf am Morgen",
+        "name": "Longrun - Grundlage",
         "date": "October 31, 2026",
         "distanceKm": 14.6,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 250857.9
+      "totalWithEstimatesKm": 250900.6
     }
   }
 }

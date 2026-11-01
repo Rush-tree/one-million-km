@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-01T03:00:53.358Z",
+  "generatedAt": "2026-11-01T03:30:45.577Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-01T03:00:53.358Z",
+  "memberCountUpdatedAt": "2026-11-01T03:30:45.577Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 989,
-    "distanceKm": 12191.9,
-    "elevationM": 93434,
-    "movingSeconds": 3492480,
+    "activities": 990,
+    "distanceKm": 12198.6,
+    "elevationM": 93462,
+    "movingSeconds": 3496560,
     "raw": {
-      "activities": "989",
-      "distance": "12,191.9 km",
-      "time": "970 h 8 m",
-      "elevation": "93,434 m"
+      "activities": "990",
+      "distance": "12,198.6 km",
+      "time": "971 h 16 m",
+      "elevation": "93,462 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Rajesh Khandare",
+      "athleteId": "129925061",
+      "activityId": "20811797089",
+      "name": "Morning Run",
+      "date": "November 1, 2026",
+      "distanceKm": 6.7,
+      "stats": [
+        "6.7 km",
+        "1:09:22",
+        "28 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Hans-Georg Acker ♣",
-      "athleteId": "34456629",
-      "activityId": "20808916849",
-      "name": "RR In die Kneipe, die Sky zwischenzeitlich gekündigt hat ...",
-      "date": "October 31, 2026",
-      "distanceKm": 23.2,
-      "stats": [
-        "23.2 km",
-        "3:02:53",
-        "177 m"
-      ]
-    },
-    {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
       "activityId": "20809823093",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 114306.3,
-  "totalDistanceKm": 237314.4,
+  "observedWeeksKm": 114313,
+  "totalDistanceKm": 237321.1,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 253111.4
+    "totalWithEstimatesKm": 253118.1
   }
 }

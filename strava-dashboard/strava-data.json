@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T17:00:52.619Z",
+  "generatedAt": "2026-11-01T17:30:41.979Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 744220,
+    "remainingKm": 744186,
     "percentComplete": 25.58,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 14861,
-    "thisWeekActivities": 1143,
-    "thisWeekHours": 1149,
-    "thisWeekElevationM": 111649,
+    "thisWeekKm": 14894.2,
+    "thisWeekActivities": 1148,
+    "thisWeekHours": 1152,
+    "thisWeekElevationM": 112252,
     "timesAroundEarth": 6.38,
     "percentToMoon": 66.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20780,
+  "totalActivities": 20786,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 255780500,
-    "totalMovingTime": 72510887,
-    "totalElevation": 1878928.6
+    "totalDistance": 255813700,
+    "totalMovingTime": 72520307,
+    "totalElevation": 1879531.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14861000,
-    "totalMovingTime": 4137060,
-    "count": 1143
+    "totalDistance": 14894200,
+    "totalMovingTime": 4146480,
+    "count": 1148
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 239983.5,
+    "measuredDistanceKm": 240016.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Hannah-Malin Henigin",
-        "athleteId": "162779271",
-        "activityId": "20819816699",
-        "name": "Family Run",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20820586949",
+        "name": "Treppenstepper am Nachmittag",
         "date": "November 1, 2026",
-        "distanceKm": 5.4,
+        "distanceKm": 0,
         "stats": [
-          "5.4 km",
-          "36:53",
-          "6 m"
+          "0 km",
+          "31:15",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20820468708",
+        "name": "Carrera de tarde",
+        "date": "November 1, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "57:32",
+          "119 m"
+        ]
+      },
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20820507182",
+        "name": "Zwift - Colorado River Sunrise in Video",
+        "date": "November 1, 2026",
+        "distanceKm": 27,
+        "stats": [
+          "27.0 km",
+          "1:03:13",
+          "270 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20819809973",
-        "name": "kleiner Spaziergang zum Eis essen 😋",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20820361406",
+        "name": "Lauf am Nachmittag",
         "date": "November 1, 2026",
-        "distanceKm": 4.3,
+        "distanceKm": 2.8,
         "stats": [
-          "4.3 km",
-          "1:30:45",
-          "43 m"
-        ]
-      },
-      {
-        "athlete": "Olivier Vander Elst",
-        "athleteId": "138410042",
-        "activityId": "20820131824",
-        "name": "Part 2/2",
-        "date": "November 1, 2026",
-        "distanceKm": 26.8,
-        "stats": [
-          "26.8 km",
-          "2:47:51",
-          "57 m"
-        ]
-      },
-      {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20819809653",
-        "name": "Fahrt am Morgen",
-        "date": "November 1, 2026",
-        "distanceKm": 98.9,
-        "stats": [
-          "98.9 km",
-          "6:48:53",
-          "1,064 m"
+          "2.8 km",
+          "16:38",
+          "16 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 255780.5
+      "totalWithEstimatesKm": 255813.7
     }
   }
 }

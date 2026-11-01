@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T11:30:44.004Z",
+  "generatedAt": "2026-11-01T12:00:53.588Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 745958,
-    "percentComplete": 25.4,
+    "remainingKm": 745821,
+    "percentComplete": 25.42,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 13122.3,
-    "thisWeekActivities": 1054,
-    "thisWeekHours": 1030,
-    "thisWeekElevationM": 98684,
+    "thisWeekKm": 13259.6,
+    "thisWeekActivities": 1059,
+    "thisWeekHours": 1038,
+    "thisWeekElevationM": 99646,
     "timesAroundEarth": 6.34,
     "percentToMoon": 66.1,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 19.2,
-        "text": "19.2× the German autobahn network",
+        "value": 19.3,
+        "text": "19.3× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20698,
+  "totalActivities": 20702,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 254041800,
-    "totalMovingTime": 72082727,
-    "totalElevation": 1865963.6
+    "totalDistance": 254179100,
+    "totalMovingTime": 72110027,
+    "totalElevation": 1866925.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13122300,
-    "totalMovingTime": 3708900,
-    "count": 1054
+    "totalDistance": 13259600,
+    "totalMovingTime": 3736200,
+    "count": 1059
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 238244.8,
+    "measuredDistanceKm": 238382.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20815721800",
+        "name": "Zwift - Pacer Group Ride with Miguel",
+        "date": "November 1, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "11:40",
+          "7 m"
+        ]
+      },
       {
         "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
         "athleteId": "10923773",
@@ -124,16 +137,16 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20815264215",
-        "name": "Zwift - Chapman's Peak in Video",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "20815855934",
+        "name": "Mittagslauf",
         "date": "November 1, 2026",
-        "distanceKm": 11,
+        "distanceKm": 15.8,
         "stats": [
-          "11.0 km",
-          "38:10",
-          "157 m"
+          "15.8 km",
+          "1:30:14",
+          "47 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20815424748",
-        "name": "Fahrt am Morgen",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20816116689",
+        "name": "Mittagschwimmen",
         "date": "November 1, 2026",
-        "distanceKm": 54.1,
+        "distanceKm": 1,
         "stats": [
-          "54.1 km",
-          "2:25:58",
+          "1.0 km",
+          "55:43",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20815351928",
-        "name": "Zwift - Base Builder",
-        "date": "November 1, 2026",
-        "distanceKm": 70.6,
-        "stats": [
-          "70.6 km",
-          "2:23:22",
-          "620 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 254041.8
+      "totalWithEstimatesKm": 254179.1
     }
   }
 }

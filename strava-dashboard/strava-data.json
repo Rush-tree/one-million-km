@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-01T16:13:50.076Z",
+  "generatedAt": "2026-11-01T16:30:43.930Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 744431,
-    "percentComplete": 25.56,
+    "remainingKm": 744250,
+    "percentComplete": 25.57,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
-    "weeksToGoal": 47,
-    "projectedDate": "2027-09-23",
+    "weeksToGoal": 46,
+    "projectedDate": "2027-09-22",
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 14649.6,
-    "thisWeekActivities": 1133,
-    "thisWeekHours": 1134,
-    "thisWeekElevationM": 110333,
+    "thisWeekKm": 14830.3,
+    "thisWeekActivities": 1141,
+    "thisWeekHours": 1147,
+    "thisWeekElevationM": 111589,
     "timesAroundEarth": 6.38,
     "percentToMoon": 66.5,
     "comparisons": [
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 38.4,
-        "text": "38.4× the length of the Nile",
+        "value": 38.5,
+        "text": "38.5× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 40,
-        "text": "40 return trips Berlin to New York",
+        "value": 40.1,
+        "text": "40.1 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20771,
+  "totalActivities": 20779,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 255569100,
-    "totalMovingTime": 72456407,
-    "totalElevation": 1877612.6
+    "totalDistance": 255749800,
+    "totalMovingTime": 72502607,
+    "totalElevation": 1878868.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14649600,
-    "totalMovingTime": 4082580,
-    "count": 1133
+    "totalDistance": 14830300,
+    "totalMovingTime": 4128780,
+    "count": 1141
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 239772.1,
+    "measuredDistanceKm": 239952.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Hannah-Malin Henigin",
+        "athleteId": "162779271",
+        "activityId": "20819816699",
+        "name": "Family Run",
+        "date": "November 1, 2026",
+        "distanceKm": 5.4,
+        "stats": [
+          "5.4 km",
+          "36:53",
+          "6 m"
+        ]
+      },
       {
         "athlete": "Hanna Greß",
         "athleteId": "75797079",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20819458674",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20819809973",
+        "name": "kleiner Spaziergang zum Eis essen 😋",
         "date": "November 1, 2026",
-        "distanceKm": 8,
+        "distanceKm": 4.3,
         "stats": [
-          "8.0 km",
-          "2:40:47",
-          "130 m"
+          "4.3 km",
+          "1:30:45",
+          "43 m"
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20819213409",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20819809653",
+        "name": "Fahrt am Morgen",
         "date": "November 1, 2026",
-        "distanceKm": 27.1,
+        "distanceKm": 98.9,
         "stats": [
-          "27.1 km",
-          "3:15:35",
-          "311 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20819200353",
-        "name": "Mittagspaziergang",
-        "date": "November 1, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "3:46:37",
-          "75 m"
+          "98.9 km",
+          "6:48:53",
+          "1,064 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 255569.1
+      "totalWithEstimatesKm": 255749.8
     }
   }
 }

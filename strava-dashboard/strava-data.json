@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T07:30:42.396Z",
+  "generatedAt": "2026-11-01T08:01:00.274Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 746713,
+    "remainingKm": 746673,
     "percentComplete": 25.33,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 12367.9,
-    "thisWeekActivities": 1002,
-    "thisWeekHours": 986,
-    "thisWeekElevationM": 94255,
+    "thisWeekKm": 12408,
+    "thisWeekActivities": 1003,
+    "thisWeekHours": 987,
+    "thisWeekElevationM": 94410,
     "timesAroundEarth": 6.32,
     "percentToMoon": 65.9,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 11.9,
-        "text": "11.9× the Great Wall of China",
+        "value": 12,
+        "text": "12× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20646,
+  "totalActivities": 20647,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 253287400,
-    "totalMovingTime": 71923067,
-    "totalElevation": 1861534.6
+    "totalDistance": 253327500,
+    "totalMovingTime": 71927507,
+    "totalElevation": 1861689.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12367900,
-    "totalMovingTime": 3549240,
-    "count": 1002
+    "totalDistance": 12408000,
+    "totalMovingTime": 3553680,
+    "count": 1003
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 237490.4,
+    "measuredDistanceKm": 237530.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 253287.4
+      "totalWithEstimatesKm": 253327.5
     }
   }
 }

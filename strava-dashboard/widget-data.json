@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-01T09:00:54.527Z",
+  "generatedAt": "2026-11-01T09:28:10.082Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-01T09:00:54.527Z",
+  "memberCountUpdatedAt": "2026-11-01T09:28:10.082Z",
   "currentWeek": {
     "week": "Oct 26, 2026 - Nov 1, 2026",
-    "activities": 1007,
-    "distanceKm": 12449.1,
-    "elevationM": 94545,
-    "movingSeconds": 3567720,
+    "activities": 1009,
+    "distanceKm": 12465.7,
+    "elevationM": 94666,
+    "movingSeconds": 3573720,
     "raw": {
-      "activities": "1007",
-      "distance": "12,449.1 km",
-      "time": "991 h 2 m",
-      "elevation": "94,545 m"
+      "activities": "1009",
+      "distance": "12,465.7 km",
+      "time": "992 h 42 m",
+      "elevation": "94,666 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Georg Weinig",
+      "athleteId": "166650923",
+      "activityId": "20813326715",
+      "name": "Ausversehen gespeichert",
+      "date": "November 1, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "28:16",
+        "13 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -29,6 +42,19 @@
         "5.0 km",
         "44:49",
         "19 m"
+      ]
+    },
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20813315924",
+      "name": "Lockerer Dauerlauf 🏃🏃🏃 …",
+      "date": "November 1, 2026",
+      "distanceKm": 12.1,
+      "stats": [
+        "12.1 km",
+        "1:11:16",
+        "108 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:28:46",
         "68 m"
       ]
-    },
-    {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "20812496006",
-      "name": "Yoga am Morgen",
-      "date": "November 1, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "15:07",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "20812455269",
-      "name": "Morning Walk",
-      "date": "November 1, 2026",
-      "distanceKm": 3.3,
-      "stats": [
-        "3.3 km",
-        "46:28",
-        "57 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 114563.5,
-  "totalDistanceKm": 237571.6,
+  "observedWeeksKm": 114580.1,
+  "totalDistanceKm": 237588.2,
   "weeksTracked": 8,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 253368.6
+    "totalWithEstimatesKm": 253385.2
   }
 }

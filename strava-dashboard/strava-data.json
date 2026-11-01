@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T13:30:44.869Z",
+  "generatedAt": "2026-11-01T14:00:50.661Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 745300,
-    "percentComplete": 25.47,
+    "remainingKm": 745115,
+    "percentComplete": 25.49,
     "paceBasisWeeks": 6,
     "avgWeekKm": 16006.5,
     "avgDayKm": 2286.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 66.1,
     "activitiesPerWeek": 1204,
     "avgActivityKm": 13.3,
-    "thisWeekKm": 13780.1,
-    "thisWeekActivities": 1091,
-    "thisWeekHours": 1078,
-    "thisWeekElevationM": 104368,
+    "thisWeekKm": 13965.6,
+    "thisWeekActivities": 1100,
+    "thisWeekHours": 1089,
+    "thisWeekElevationM": 106357,
     "timesAroundEarth": 6.36,
     "percentToMoon": 66.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20733,
+  "totalActivities": 20741,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,9 +70,9 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 254699600,
-    "totalMovingTime": 72254867,
-    "totalElevation": 1871647.6
+    "totalDistance": 254885100,
+    "totalMovingTime": 72293687,
+    "totalElevation": 1873636.6
   },
   "monthStats": {
     "totalDistance": 0,
@@ -80,9 +80,9 @@
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13780100,
-    "totalMovingTime": 3881040,
-    "count": 1091
+    "totalDistance": 13965600,
+    "totalMovingTime": 3919860,
+    "count": 1100
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 238902.6,
+    "measuredDistanceKm": 239088.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20817771200",
+        "name": "Course à pied dans l'après-midi",
+        "date": "November 1, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "20:17",
+          "21 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20817578616",
+        "name": "Afternoon Walk",
+        "date": "November 1, 2026",
+        "distanceKm": 0.9,
+        "stats": [
+          "0.9 km",
+          "16:37",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Rajesh Khandare",
         "athleteId": "129925061",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20817196824",
-        "name": "Lunch Workout",
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20817810251",
+        "name": "Zwift - Pacer Group Ride with Maria",
         "date": "November 1, 2026",
-        "distanceKm": 0,
+        "distanceKm": 45,
         "stats": [
-          "0 km",
-          "17:35",
-          "0 m"
+          "45.0 km",
+          "1:15:22",
+          "162 m"
         ]
       },
       {
-        "athlete": "Britta Prasse",
-        "athleteId": "200634990",
-        "activityId": "20817128482",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "20817728183",
+        "name": "Spaziergang am Nachmittag",
         "date": "November 1, 2026",
-        "distanceKm": 6.1,
+        "distanceKm": 4.7,
         "stats": [
-          "6.1 km",
-          "46:42",
+          "4.7 km",
+          "1:31:49",
           "57 m"
-        ]
-      },
-      {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20817162247",
-        "name": "Fahrt am Nachmittag",
-        "date": "November 1, 2026",
-        "distanceKm": 30,
-        "stats": [
-          "30.0 km",
-          "57:18",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20817219057",
-        "name": "Conker's bad fur day",
-        "date": "November 1, 2026",
-        "distanceKm": 25.5,
-        "stats": [
-          "25.5 km",
-          "2:21:52",
-          "248 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 254699.6
+      "totalWithEstimatesKm": 254885.1
     }
   }
 }

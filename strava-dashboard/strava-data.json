@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T18:38:18.631Z",
+  "generatedAt": "2026-11-02T19:00:57.325Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 742763,
-    "percentComplete": 25.72,
+    "remainingKm": 742722,
+    "percentComplete": 25.73,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 65.6,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 1236.9,
-    "thisWeekActivities": 123,
-    "thisWeekHours": 97,
-    "thisWeekElevationM": 9601,
+    "thisWeekKm": 1278.3,
+    "thisWeekActivities": 131,
+    "thisWeekHours": 106,
+    "thisWeekElevationM": 9751,
     "timesAroundEarth": 6.42,
     "percentToMoon": 66.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20932,
+  "totalActivities": 20941,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 257237000,
-    "totalMovingTime": 72927527,
-    "totalElevation": 1890981.6
+    "totalDistance": 257278400,
+    "totalMovingTime": 72960347,
+    "totalElevation": 1891131.6
   },
   "monthStats": {
-    "totalDistance": 1236900,
-    "totalMovingTime": 347700,
+    "totalDistance": 1278300,
+    "totalMovingTime": 380520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1236900,
-    "totalMovingTime": 347700,
-    "count": 123
+    "totalDistance": 1278300,
+    "totalMovingTime": 380520,
+    "count": 131
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 241440,
+    "measuredDistanceKm": 241481.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20832912704",
+        "name": "Gewichtstraining am Abend",
+        "date": "November 2, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "42:09",
+          "0 m"
+        ]
+      },
       {
         "athlete": "conny tonder",
         "athleteId": "66434073",
@@ -124,29 +137,16 @@
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20832404354",
-        "name": "Zwift - Beach Island Loop in Watopia",
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20833058879",
+        "name": "Abendtraining",
         "date": "November 2, 2026",
-        "distanceKm": 13.1,
+        "distanceKm": 0,
         "stats": [
-          "13.1 km",
-          "25:18",
-          "48 m"
-        ]
-      },
-      {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "20832329030",
-        "name": "Zwift - Eggum Coastal in Video",
-        "date": "November 2, 2026",
-        "distanceKm": 17,
-        "stats": [
-          "17.0 km",
-          "34:10",
-          "168 m"
+          "0 km",
+          "59:52",
+          "0 m"
         ]
       },
       {
@@ -163,15 +163,15 @@
         ]
       },
       {
-        "athlete": "Alois Petrausch",
-        "athleteId": "40799429",
-        "activityId": "20832387237",
-        "name": "Nachmittagstraining",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20832951413",
+        "name": "Evening Weight Training",
         "date": "November 2, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "4:04:28",
+          "1:42:43",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 257237
+      "totalWithEstimatesKm": 257278.4
     }
   }
 }

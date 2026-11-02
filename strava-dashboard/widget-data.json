@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T22:00:55.790Z",
+  "generatedAt": "2026-11-02T22:30:44.532Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T22:00:55.790Z",
+  "memberCountUpdatedAt": "2026-11-02T22:30:44.532Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 147,
-    "distanceKm": 1324.2,
-    "elevationM": 10316,
-    "movingSeconds": 423000,
+    "activities": 148,
+    "distanceKm": 1356,
+    "elevationM": 10499,
+    "movingSeconds": 427080,
     "raw": {
-      "activities": "147",
-      "distance": "1,324.2 km",
-      "time": "117 h 30 m",
-      "elevation": "10,316 m"
+      "activities": "148",
+      "distance": "1,356.0 km",
+      "time": "118 h 38 m",
+      "elevation": "10,499 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "20835178727",
+      "name": "Zwift - Kurzes dynamische Intervalle (Pwr) - #SubThreshold",
+      "date": "November 2, 2026",
+      "distanceKm": 31.7,
+      "stats": [
+        "31.7 km",
+        "1:07:50",
+        "183 m"
+      ]
+    },
     {
       "athlete": "Domenic Winges",
       "athleteId": "179823094",
@@ -41,19 +54,6 @@
       "stats": [
         "0 km",
         "30:10",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "René Rosenberger",
-      "athleteId": "757098365",
-      "activityId": "20833601085",
-      "name": "Gewichtstraining am Abend",
-      "date": "November 2, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "32:26",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 118519.2,
-  "totalDistanceKm": 241527.3,
+  "observedWeeksKm": 118551,
+  "totalDistanceKm": 241559.1,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 257324.3
+    "totalWithEstimatesKm": 257356.1
   }
 }

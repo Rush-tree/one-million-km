@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T02:30:45.996Z",
+  "generatedAt": "2026-11-02T03:01:05.099Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T02:30:45.996Z",
+  "memberCountUpdatedAt": "2026-11-02T03:01:05.098Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 2,
-    "distanceKm": 1.9,
-    "elevationM": 0,
-    "movingSeconds": 6240,
+    "activities": 4,
+    "distanceKm": 66.9,
+    "elevationM": 184,
+    "movingSeconds": 18420,
     "raw": {
-      "activities": "2",
-      "distance": "1.9 km",
-      "time": "1 h 44 m",
-      "elevation": "0 m"
+      "activities": "4",
+      "distance": "66.9 km",
+      "time": "5 h 7 m",
+      "elevation": "184 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "20824472512",
+      "name": "🌤️ Morning Ride",
+      "date": "November 2, 2026",
+      "distanceKm": 62.6,
+      "stats": [
+        "62.6 km",
+        "2:52:27",
+        "148 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -42,19 +55,6 @@
         "2.3 km",
         "54:33",
         "9 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20821685895",
-      "name": "Evening Bodyweight Training Freeletics",
-      "date": "November 1, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:13:39",
-        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 117196.9,
-  "totalDistanceKm": 240205,
+  "observedWeeksKm": 117261.9,
+  "totalDistanceKm": 240270,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 256002
+    "totalWithEstimatesKm": 256067
   }
 }

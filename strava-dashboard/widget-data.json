@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T05:30:48.204Z",
+  "generatedAt": "2026-11-02T06:00:58.716Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T05:30:48.204Z",
+  "memberCountUpdatedAt": "2026-11-02T06:00:58.716Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 13,
-    "distanceKm": 117.2,
-    "elevationM": 472,
-    "movingSeconds": 40380,
+    "activities": 15,
+    "distanceKm": 132,
+    "elevationM": 512,
+    "movingSeconds": 43200,
     "raw": {
-      "activities": "13",
-      "distance": "117.2 km",
-      "time": "11 h 13 m",
-      "elevation": "472 m"
+      "activities": "15",
+      "distance": "132.0 km",
+      "time": "12 h 0 m",
+      "elevation": "512 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20825070065",
+      "name": "Fahrt am Morgen",
+      "date": "November 2, 2026",
+      "distanceKm": 12.5,
+      "stats": [
+        "12.5 km",
+        "39:02",
+        "34 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -41,19 +54,6 @@
       "stats": [
         "0 km",
         "40:26",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "20824870506",
-      "name": "Morning Weight Training",
-      "date": "November 2, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "55:24",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 117312.2,
-  "totalDistanceKm": 240320.3,
+  "observedWeeksKm": 117327,
+  "totalDistanceKm": 240335.1,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 256117.3
+    "totalWithEstimatesKm": 256132.1
   }
 }

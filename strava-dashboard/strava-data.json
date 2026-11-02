@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T09:30:49.666Z",
+  "generatedAt": "2026-11-02T10:00:53.851Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 743754,
-    "percentComplete": 25.62,
+    "remainingKm": 743654,
+    "percentComplete": 25.63,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 65.6,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 245.9,
-    "thisWeekActivities": 32,
-    "thisWeekHours": 21,
-    "thisWeekElevationM": 1563,
-    "timesAroundEarth": 6.39,
+    "thisWeekKm": 345.6,
+    "thisWeekActivities": 35,
+    "thisWeekHours": 24,
+    "thisWeekElevationM": 1966,
+    "timesAroundEarth": 6.4,
     "percentToMoon": 66.7,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20839,
+  "totalActivities": 20842,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 256246000,
-    "totalMovingTime": 72654287,
-    "totalElevation": 1882943.6
+    "totalDistance": 256345700,
+    "totalMovingTime": 72666827,
+    "totalElevation": 1883346.6
   },
   "monthStats": {
-    "totalDistance": 245900,
-    "totalMovingTime": 74460,
+    "totalDistance": 345600,
+    "totalMovingTime": 87000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 245900,
-    "totalMovingTime": 74460,
-    "count": 32
+    "totalDistance": 345600,
+    "totalMovingTime": 87000,
+    "count": 35
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 240449,
+    "measuredDistanceKm": 240548.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20826550162",
+        "name": "Fahrt am Morgen",
+        "date": "November 2, 2026",
+        "distanceKm": 42.9,
+        "stats": [
+          "42.9 km",
+          "1:36:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20826517708",
+        "name": "Zwift - Threshold Pushing",
+        "date": "November 2, 2026",
+        "distanceKm": 52.3,
+        "stats": [
+          "52.3 km",
+          "1:36:15",
+          "164 m"
+        ]
+      },
       {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
@@ -148,32 +174,6 @@
           "45:06",
           "219 m"
         ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20825353039",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "November 2, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "26:16",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20825393126",
-        "name": "Morning Yoga 🌗",
-        "date": "November 2, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "35:00",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 256246
+      "totalWithEstimatesKm": 256345.7
     }
   }
 }

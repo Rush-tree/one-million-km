@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T18:30:47.933Z",
+  "generatedAt": "2026-11-02T18:38:18.631Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T18:30:47.933Z",
+  "memberCountUpdatedAt": "2026-11-02T18:38:18.631Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 121,
-    "distanceKm": 1183.3,
-    "elevationM": 9245,
-    "movingSeconds": 340500,
+    "activities": 123,
+    "distanceKm": 1236.9,
+    "elevationM": 9601,
+    "movingSeconds": 347700,
     "raw": {
-      "activities": "121",
-      "distance": "1,183.3 km",
-      "time": "94 h 35 m",
-      "elevation": "9,245 m"
+      "activities": "123",
+      "distance": "1,236.9 km",
+      "time": "96 h 35 m",
+      "elevation": "9,601 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "conny tonder",
+      "athleteId": "66434073",
+      "activityId": "20832822261",
+      "name": "Zwift - California Dreamin' in Watopia",
+      "date": "November 2, 2026",
+      "distanceKm": 19.4,
+      "stats": [
+        "19.4 km",
+        "41:11",
+        "104 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -45,29 +58,16 @@
       ]
     },
     {
-      "athlete": "Susanne Liepert",
-      "athleteId": "28515644",
-      "activityId": "20831917191",
-      "name": "Zwift - Crit Cross in Watopia",
+      "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+      "athleteId": "9696032",
+      "activityId": "20832809069",
+      "name": "Zwift - Group Ride: Rebellunas Banded Ride (D)",
       "date": "November 2, 2026",
-      "distanceKm": 14,
+      "distanceKm": 34.2,
       "stats": [
-        "14.0 km",
-        "26:26",
-        "40 m"
-      ]
-    },
-    {
-      "athlete": "Paweł Siergiej",
-      "athleteId": "147932574",
-      "activityId": "20831961990",
-      "name": "Popołudniowy trening siłowy",
-      "date": "November 2, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:18:22",
-        "0 m"
+        "34.2 km",
+        "1:18:31",
+        "252 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 118378.3,
-  "totalDistanceKm": 241386.4,
+  "observedWeeksKm": 118431.9,
+  "totalDistanceKm": 241440,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 257183.4
+    "totalWithEstimatesKm": 257237
   }
 }

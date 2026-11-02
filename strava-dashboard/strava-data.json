@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T09:01:07.302Z",
+  "generatedAt": "2026-11-02T09:30:49.666Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 743769,
+    "remainingKm": 743754,
     "percentComplete": 25.62,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 65.6,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 231.4,
-    "thisWeekActivities": 30,
-    "thisWeekHours": 19,
-    "thisWeekElevationM": 1422,
+    "thisWeekKm": 245.9,
+    "thisWeekActivities": 32,
+    "thisWeekHours": 21,
+    "thisWeekElevationM": 1563,
     "timesAroundEarth": 6.39,
     "percentToMoon": 66.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20837,
+  "totalActivities": 20839,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 256231500,
-    "totalMovingTime": 72649787,
-    "totalElevation": 1882802.6
+    "totalDistance": 256246000,
+    "totalMovingTime": 72654287,
+    "totalElevation": 1882943.6
   },
   "monthStats": {
-    "totalDistance": 231400,
-    "totalMovingTime": 69960,
+    "totalDistance": 245900,
+    "totalMovingTime": 74460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 231400,
-    "totalMovingTime": 69960,
-    "count": 30
+    "totalDistance": 245900,
+    "totalMovingTime": 74460,
+    "count": 32
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 240434.5,
+    "measuredDistanceKm": 240449,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 256231.5
+      "totalWithEstimatesKm": 256246
     }
   }
 }

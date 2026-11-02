@@ -1,23 +1,62 @@
 {
-  "generatedAt": "2026-11-02T10:00:53.851Z",
+  "generatedAt": "2026-11-02T10:30:53.706Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T10:00:53.851Z",
+  "memberCountUpdatedAt": "2026-11-02T10:30:53.706Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 35,
-    "distanceKm": 345.6,
-    "elevationM": 1966,
-    "movingSeconds": 87000,
+    "activities": 40,
+    "distanceKm": 391.7,
+    "elevationM": 2247,
+    "movingSeconds": 104760,
     "raw": {
-      "activities": "35",
-      "distance": "345.6 km",
-      "time": "24 h 10 m",
-      "elevation": "1,966 m"
+      "activities": "40",
+      "distance": "391.7 km",
+      "time": "29 h 6 m",
+      "elevation": "2,247 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20826858828",
+      "name": "Morning Walk",
+      "date": "November 2, 2026",
+      "distanceKm": 1.9,
+      "stats": [
+        "1.9 km",
+        "48:24",
+        "10 m"
+      ]
+    },
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20826870400",
+      "name": "Pedalada matinal 🌧🌧🌧🌧🌧🌧🌧",
+      "date": "November 2, 2026",
+      "distanceKm": 35.1,
+      "stats": [
+        "35.1 km",
+        "1:51:52",
+        "271 m"
+      ]
+    },
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20826858870",
+      "name": "Morning Weight Training",
+      "date": "November 2, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:07:14",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
       "athleteId": "4351490",
@@ -43,45 +82,6 @@
         "1:36:15",
         "164 m"
       ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20825829758",
-      "name": "Morning Ride",
-      "date": "November 2, 2026",
-      "distanceKm": 11.9,
-      "stats": [
-        "11.9 km",
-        "42:59",
-        "80 m"
-      ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20825468247",
-      "name": "Sykkeltur om morgenen",
-      "date": "November 2, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "17:50",
-        "52 m"
-      ]
-    },
-    {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20825474627",
-      "name": "Zwift - Clarence Drive in Video",
-      "date": "November 2, 2026",
-      "distanceKm": 20.1,
-      "stats": [
-        "20.1 km",
-        "45:06",
-        "219 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 117540.6,
-  "totalDistanceKm": 240548.7,
+  "observedWeeksKm": 117586.7,
+  "totalDistanceKm": 240594.8,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 256345.7
+    "totalWithEstimatesKm": 256391.8
   }
 }

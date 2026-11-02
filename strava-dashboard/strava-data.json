@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-02T13:30:48.213Z",
+  "generatedAt": "2026-11-02T14:00:56.282Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 743450,
-    "percentComplete": 25.65,
+    "remainingKm": 743425,
+    "percentComplete": 25.66,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 65.6,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 549.7,
-    "thisWeekActivities": 51,
-    "thisWeekHours": 39,
-    "thisWeekElevationM": 3731,
+    "thisWeekKm": 575.1,
+    "thisWeekActivities": 58,
+    "thisWeekHours": 43,
+    "thisWeekElevationM": 3952,
     "timesAroundEarth": 6.4,
     "percentToMoon": 66.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20858,
+  "totalActivities": 20865,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 256549800,
-    "totalMovingTime": 72721187,
-    "totalElevation": 1885111.6
+    "totalDistance": 256575200,
+    "totalMovingTime": 72734867,
+    "totalElevation": 1885332.6
   },
   "monthStats": {
-    "totalDistance": 549700,
-    "totalMovingTime": 141360,
+    "totalDistance": 575100,
+    "totalMovingTime": 155040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 549700,
-    "totalMovingTime": 141360,
-    "count": 51
+    "totalDistance": 575100,
+    "totalMovingTime": 155040,
+    "count": 58
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 240752.8,
+    "measuredDistanceKm": 240778.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20829397947",
+        "name": "Pendel Home",
+        "date": "November 2, 2026",
+        "distanceKm": 5.9,
+        "stats": [
+          "5.9 km",
+          "17:16",
+          "24 m"
+        ]
+      },
+      {
+        "athlete": "Olivier Vander Elst",
+        "athleteId": "138410042",
+        "activityId": "20829210426",
+        "name": "Namiddagwandeling",
+        "date": "November 2, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "22:39",
+          "5 m"
+        ]
+      },
       {
         "athlete": "Muhammed Edip KARABACAK 🇹🇷",
         "athleteId": "47897742",
@@ -126,14 +152,14 @@
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
-        "activityId": "20827577416",
-        "name": "Lunch Run",
+        "activityId": "20829153772",
+        "name": "Lunch Walk",
         "date": "November 2, 2026",
-        "distanceKm": 1,
+        "distanceKm": 8,
         "stats": [
-          "1.0 km",
-          "18:40",
-          "0 m"
+          "8.0 km",
+          "1:51:03",
+          "42 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "20.0 km",
           "2:13:23",
           "50 m"
-        ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20828161998",
-        "name": "Skylane ytour Bangkok...",
-        "date": "November 2, 2026",
-        "distanceKm": 47.9,
-        "stats": [
-          "47.9 km",
-          "2:29:09",
-          "14 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20827373668",
-        "name": "Morning Walk",
-        "date": "November 2, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "2:34:42",
-          "23 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 256549.8
+      "totalWithEstimatesKm": 256575.2
     }
   }
 }

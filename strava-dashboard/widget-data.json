@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T18:00:56.109Z",
+  "generatedAt": "2026-11-02T18:30:47.933Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T18:00:56.109Z",
+  "memberCountUpdatedAt": "2026-11-02T18:30:47.933Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 116,
-    "distanceKm": 1156.9,
-    "elevationM": 9140,
-    "movingSeconds": 318660,
+    "activities": 121,
+    "distanceKm": 1183.3,
+    "elevationM": 9245,
+    "movingSeconds": 340500,
     "raw": {
-      "activities": "116",
-      "distance": "1,156.9 km",
-      "time": "88 h 31 m",
-      "elevation": "9,140 m"
+      "activities": "121",
+      "distance": "1,183.3 km",
+      "time": "94 h 35 m",
+      "elevation": "9,245 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20832404354",
+      "name": "Zwift - Beach Island Loop in Watopia",
+      "date": "November 2, 2026",
+      "distanceKm": 13.1,
+      "stats": [
+        "13.1 km",
+        "25:18",
+        "48 m"
+      ]
+    },
     {
       "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
       "athleteId": "10923773",
@@ -29,19 +42,6 @@
         "17.0 km",
         "34:10",
         "168 m"
-      ]
-    },
-    {
-      "athlete": "Falko Frese",
-      "athleteId": "11833410",
-      "activityId": "20832038182",
-      "name": "Abendradfahrt",
-      "date": "November 2, 2026",
-      "distanceKm": 8.7,
-      "stats": [
-        "8.7 km",
-        "21:56",
-        "73 m"
       ]
     },
     {
@@ -58,19 +58,6 @@
       ]
     },
     {
-      "athlete": "Benny Pos",
-      "athleteId": "85148884",
-      "activityId": "20831917322",
-      "name": "Zwift - Chapman's Peak in Video",
-      "date": "November 2, 2026",
-      "distanceKm": 11.6,
-      "stats": [
-        "11.6 km",
-        "29:27",
-        "190 m"
-      ]
-    },
-    {
       "athlete": "Paweł Siergiej",
       "athleteId": "147932574",
       "activityId": "20831961990",
@@ -82,6 +69,19 @@
         "1:18:22",
         "0 m"
       ]
+    },
+    {
+      "athlete": "Alois Petrausch",
+      "athleteId": "40799429",
+      "activityId": "20832387237",
+      "name": "Nachmittagstraining",
+      "date": "November 2, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "4:04:28",
+        "0 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 118351.9,
-  "totalDistanceKm": 241360,
+  "observedWeeksKm": 118378.3,
+  "totalDistanceKm": 241386.4,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 257157
+    "totalWithEstimatesKm": 257183.4
   }
 }

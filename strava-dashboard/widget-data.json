@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-02T07:52:53.637Z",
+  "generatedAt": "2026-11-02T08:01:00.727Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 242,
-  "memberCountUpdatedAt": "2026-11-02T07:52:53.637Z",
+  "memberCountUpdatedAt": "2026-11-02T08:01:00.726Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 29,
-    "distanceKm": 219.5,
-    "elevationM": 1342,
-    "movingSeconds": 67920,
+    "activities": 30,
+    "distanceKm": 231.4,
+    "elevationM": 1422,
+    "movingSeconds": 69960,
     "raw": {
-      "activities": "29",
-      "distance": "219.5 km",
-      "time": "18 h 52 m",
-      "elevation": "1,342 m"
+      "activities": "30",
+      "distance": "231.4 km",
+      "time": "19 h 26 m",
+      "elevation": "1,422 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Tim Siber",
+      "athleteId": "91630363",
+      "activityId": "20825829758",
+      "name": "Morning Ride",
+      "date": "November 2, 2026",
+      "distanceKm": 11.9,
+      "stats": [
+        "11.9 km",
+        "42:59",
+        "80 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -29,19 +42,6 @@
         "4.4 km",
         "17:50",
         "52 m"
-      ]
-    },
-    {
-      "athlete": "Falko Frese",
-      "athleteId": "11833410",
-      "activityId": "20825381212",
-      "name": "Commute #124/2026 🏥🩺",
-      "date": "November 2, 2026",
-      "distanceKm": 9,
-      "stats": [
-        "9.0 km",
-        "20:33",
-        "30 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 117414.5,
-  "totalDistanceKm": 240422.6,
+  "observedWeeksKm": 117426.4,
+  "totalDistanceKm": 240434.5,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 256219.6
+    "totalWithEstimatesKm": 256231.5
   }
 }

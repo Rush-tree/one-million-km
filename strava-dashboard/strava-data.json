@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T07:00:54.520Z",
+  "generatedAt": "2026-11-03T07:30:48.561Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 742368,
-    "percentComplete": 25.76,
+    "remainingKm": 742350,
+    "percentComplete": 25.77,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 65.6,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 1632.4,
-    "thisWeekActivities": 183,
-    "thisWeekHours": 147,
-    "thisWeekElevationM": 12550,
+    "thisWeekKm": 1650.1,
+    "thisWeekActivities": 190,
+    "thisWeekHours": 149,
+    "thisWeekElevationM": 12734,
     "timesAroundEarth": 6.43,
     "percentToMoon": 67,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 40.3,
-        "text": "40.3 return trips Berlin to New York",
+        "value": 40.4,
+        "text": "40.4 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20996,
+  "totalActivities": 21004,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 257632500,
-    "totalMovingTime": 73107647,
-    "totalElevation": 1893930.6
+    "totalDistance": 257650200,
+    "totalMovingTime": 73117127,
+    "totalElevation": 1894114.6
   },
   "monthStats": {
-    "totalDistance": 1632400,
-    "totalMovingTime": 527820,
+    "totalDistance": 1650100,
+    "totalMovingTime": 537300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1632400,
-    "totalMovingTime": 527820,
-    "count": 183
+    "totalDistance": 1650100,
+    "totalMovingTime": 537300,
+    "count": 190
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 241835.5,
+    "measuredDistanceKm": 241853.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20838703117",
+        "name": "Sykkeltur om morgenen",
+        "date": "November 3, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "16:57",
+          "53 m"
+        ]
+      },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Silvio Lazzarin",
-        "athleteId": "139275594",
-        "activityId": "20838296732",
-        "name": "Allenamento mattutino",
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "20838690482",
+        "name": "Gewichtstraining am Morgen",
         "date": "November 3, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "17:27",
+          "42:30",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20838250230",
-        "name": "Fahrt am Morgen ☁",
-        "date": "November 3, 2026",
-        "distanceKm": 22.2,
-        "stats": [
-          "22.2 km",
-          "53:10",
-          "40 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 257632.5
+      "totalWithEstimatesKm": 257650.2
     }
   }
 }

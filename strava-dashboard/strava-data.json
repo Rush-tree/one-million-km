@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T09:00:56.296Z",
+  "generatedAt": "2026-11-03T09:30:49.991Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 742308,
+    "remainingKm": 742298,
     "percentComplete": 25.77,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 65.3,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 1691.7,
+    "thisWeekKm": 1701.7,
     "thisWeekActivities": 196,
-    "thisWeekHours": 155,
-    "thisWeekElevationM": 12934,
+    "thisWeekHours": 156,
+    "thisWeekElevationM": 13050,
     "timesAroundEarth": 6.43,
     "percentToMoon": 67,
     "comparisons": [
@@ -70,18 +70,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 257691800,
-    "totalMovingTime": 73136507,
-    "totalElevation": 1894314.6
+    "totalDistance": 257701800,
+    "totalMovingTime": 73140407,
+    "totalElevation": 1894430.6
   },
   "monthStats": {
-    "totalDistance": 1691700,
-    "totalMovingTime": 556680,
+    "totalDistance": 1701700,
+    "totalMovingTime": 560580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1691700,
-    "totalMovingTime": 556680,
+    "totalDistance": 1701700,
+    "totalMovingTime": 560580,
     "count": 196
   },
   "lastWeekStats": {
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 241894.8,
+    "measuredDistanceKm": 241904.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20839658930",
+        "name": "Lauf am Morgen",
+        "date": "November 3, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:05:51",
+          "116 m"
+        ]
+      },
+      {
         "athlete": "Reynaldo Guerra",
         "athleteId": "59804669",
         "activityId": "20839375424",
@@ -134,19 +147,6 @@
           "0 km",
           "52:15",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20838703117",
-        "name": "Sykkeltur om morgenen",
-        "date": "November 3, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "16:57",
-          "53 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 257691.8
+      "totalWithEstimatesKm": 257701.8
     }
   }
 }

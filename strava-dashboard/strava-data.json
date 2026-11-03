@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T17:01:03.001Z",
+  "generatedAt": "2026-11-03T17:30:49.744Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 741559,
-    "percentComplete": 25.84,
+    "remainingKm": 741453,
+    "percentComplete": 25.85,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,23 +13,23 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 2440.6,
-    "thisWeekActivities": 286,
-    "thisWeekHours": 225,
-    "thisWeekElevationM": 17617,
+    "thisWeekKm": 2547.3,
+    "thisWeekActivities": 296,
+    "thisWeekHours": 233,
+    "thisWeekElevationM": 18652,
     "timesAroundEarth": 6.45,
-    "percentToMoon": 67.2,
+    "percentToMoon": 67.3,
     "comparisons": [
       {
         "key": "equator",
-        "value": 6.4,
-        "text": "6.4× around the equator",
+        "value": 6.5,
+        "text": "6.5× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
         "key": "moon",
-        "value": 67.2,
-        "text": "67.2% of the way to the Moon",
+        "value": 67.3,
+        "text": "67.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21105,
+  "totalActivities": 21115,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 258440700,
-    "totalMovingTime": 73389107,
-    "totalElevation": 1898997.6
+    "totalDistance": 258547400,
+    "totalMovingTime": 73420067,
+    "totalElevation": 1900032.6
   },
   "monthStats": {
-    "totalDistance": 2440600,
-    "totalMovingTime": 809280,
+    "totalDistance": 2547300,
+    "totalMovingTime": 840240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2440600,
-    "totalMovingTime": 809280,
-    "count": 286
+    "totalDistance": 2547300,
+    "totalMovingTime": 840240,
+    "count": 296
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 242643.7,
+    "measuredDistanceKm": 242750.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20844814869",
-        "name": "Afternoon Walk",
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20845270893",
+        "name": "E-Bike-Fahrt am Nachmittag",
         "date": "November 3, 2026",
-        "distanceKm": 1.3,
+        "distanceKm": 5.4,
         "stats": [
-          "1.3 km",
-          "17:40",
-          "10 m"
+          "5.4 km",
+          "15:30",
+          "99 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20845444768",
+        "name": "Course à pied dans l'après-midi",
+        "date": "November 3, 2026",
+        "distanceKm": 15,
+        "stats": [
+          "15.0 km",
+          "1:18:00",
+          "51 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Werner Hunold",
-        "athleteId": "372952540",
-        "activityId": "20845051846",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20845090146",
+        "name": "11km DL",
         "date": "November 3, 2026",
-        "distanceKm": 10.5,
+        "distanceKm": 11,
         "stats": [
-          "10.5 km",
-          "55:39",
-          "70 m"
+          "11.0 km",
+          "1:00:45",
+          "114 m"
         ]
       },
       {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "20844875705",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20845124768",
+        "name": "Zone 2",
         "date": "November 3, 2026",
-        "distanceKm": 10.4,
+        "distanceKm": 15.2,
         "stats": [
-          "10.4 km",
-          "52:06",
-          "32 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20844951705",
-        "name": "Blackroll, Stretching, Stabi",
-        "date": "November 3, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:10:13",
-          "0 m"
+          "15.2 km",
+          "1:48:39",
+          "35 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 258440.7
+      "totalWithEstimatesKm": 258547.4
     }
   }
 }

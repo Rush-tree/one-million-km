@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T04:00:56.834Z",
+  "generatedAt": "2026-11-03T04:30:45.719Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 742532,
+    "remainingKm": 742525,
     "percentComplete": 25.75,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 65.6,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 1468.4,
-    "thisWeekActivities": 155,
-    "thisWeekHours": 128,
-    "thisWeekElevationM": 11749,
+    "thisWeekKm": 1474.6,
+    "thisWeekActivities": 157,
+    "thisWeekHours": 129,
+    "thisWeekElevationM": 11768,
     "timesAroundEarth": 6.42,
     "percentToMoon": 67,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 20966,
+  "totalActivities": 20968,
   "memberCount": 242,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 257468500,
-    "totalMovingTime": 73040687,
-    "totalElevation": 1893129.6
+    "totalDistance": 257474700,
+    "totalMovingTime": 73045247,
+    "totalElevation": 1893148.6
   },
   "monthStats": {
-    "totalDistance": 1468400,
-    "totalMovingTime": 460860,
+    "totalDistance": 1474600,
+    "totalMovingTime": 465420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1468400,
-    "totalMovingTime": 460860,
-    "count": 155
+    "totalDistance": 1474600,
+    "totalMovingTime": 465420,
+    "count": 157
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 241671.5,
+    "measuredDistanceKm": 241677.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20837848266",
+        "name": "Work",
+        "date": "November 3, 2026",
+        "distanceKm": 6.1,
+        "stats": [
+          "6.1 km",
+          "14:11",
+          "19 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20837831437",
+        "name": "Morning Yoga",
+        "date": "November 3, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:01:29",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
         "athleteId": "28746307",
@@ -147,32 +173,6 @@
           "0.0 km",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20837388366",
-        "name": "Tuesday Morning Ride",
-        "date": "November 3, 2026",
-        "distanceKm": 60.6,
-        "stats": [
-          "60.6 km",
-          "3:00:38",
-          "161 m"
-        ]
-      },
-      {
-        "athlete": "Fabio Martins Queiroga",
-        "athleteId": "108341050",
-        "activityId": "20836102213",
-        "name": "Endurance Recife X Mossoro 600 km",
-        "date": "October 31, 2026",
-        "distanceKm": 602.1,
-        "stats": [
-          "602.1 km",
-          "52:10:59",
-          "4,451 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -193,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 257468.5
+      "totalWithEstimatesKm": 257474.7
     }
   }
 }

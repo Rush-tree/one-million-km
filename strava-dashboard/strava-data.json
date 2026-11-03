@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T20:01:05.582Z",
+  "generatedAt": "2026-11-03T20:30:54.521Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 740659,
-    "percentComplete": 25.93,
+    "remainingKm": 740603,
+    "percentComplete": 25.94,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 3340.5,
-    "thisWeekActivities": 355,
-    "thisWeekHours": 280,
-    "thisWeekElevationM": 23665,
+    "thisWeekKm": 3397.1,
+    "thisWeekActivities": 361,
+    "thisWeekHours": 285,
+    "thisWeekElevationM": 24131,
     "timesAroundEarth": 6.47,
     "percentToMoon": 67.5,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 19.6,
-        "text": "19.6× the German autobahn network",
+        "value": 19.7,
+        "text": "19.7× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21173,
+  "totalActivities": 21180,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 259340600,
-    "totalMovingTime": 73586927,
-    "totalElevation": 1905045.6
+    "totalDistance": 259397200,
+    "totalMovingTime": 73606787,
+    "totalElevation": 1905511.6
   },
   "monthStats": {
-    "totalDistance": 3340500,
-    "totalMovingTime": 1007100,
+    "totalDistance": 3397100,
+    "totalMovingTime": 1026960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3340500,
-    "totalMovingTime": 1007100,
-    "count": 355
+    "totalDistance": 3397100,
+    "totalMovingTime": 1026960,
+    "count": 361
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 243543.6,
+    "measuredDistanceKm": 243600.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "10.2 km",
           "59:54",
           "23 m"
+        ]
+      },
+      {
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20847729004",
+        "name": "Abendlauf",
+        "date": "November 3, 2026",
+        "distanceKm": 15,
+        "stats": [
+          "15.0 km",
+          "1:37:37",
+          "177 m"
         ]
       },
       {
@@ -147,19 +160,6 @@
           "10.3 km",
           "1:02:18",
           "90 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20847087141",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Mint League Division 3 - Race 4 (D)",
-        "date": "November 3, 2026",
-        "distanceKm": 32,
-        "stats": [
-          "32.0 km",
-          "59:55",
-          "221 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 259340.6
+      "totalWithEstimatesKm": 259397.2
     }
   }
 }

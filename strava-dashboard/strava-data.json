@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-03T19:30:49.927Z",
+  "generatedAt": "2026-11-03T20:01:05.582Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 740727,
+    "remainingKm": 740659,
     "percentComplete": 25.93,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 3273.2,
-    "thisWeekActivities": 344,
-    "thisWeekHours": 269,
-    "thisWeekElevationM": 22903,
+    "thisWeekKm": 3340.5,
+    "thisWeekActivities": 355,
+    "thisWeekHours": 280,
+    "thisWeekElevationM": 23665,
     "timesAroundEarth": 6.47,
-    "percentToMoon": 67.4,
+    "percentToMoon": 67.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 67.4,
-        "text": "67.4% of the way to the Moon",
+        "value": 67.5,
+        "text": "67.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21162,
+  "totalActivities": 21173,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 259273300,
-    "totalMovingTime": 73547147,
-    "totalElevation": 1904283.6
+    "totalDistance": 259340600,
+    "totalMovingTime": 73586927,
+    "totalElevation": 1905045.6
   },
   "monthStats": {
-    "totalDistance": 3273200,
-    "totalMovingTime": 967320,
+    "totalDistance": 3340500,
+    "totalMovingTime": 1007100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3273200,
-    "totalMovingTime": 967320,
-    "count": 344
+    "totalDistance": 3340500,
+    "totalMovingTime": 1007100,
+    "count": 355
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 243476.3,
+    "measuredDistanceKm": 243543.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Adriano Perri",
+        "athleteId": "99629318",
+        "activityId": "20847243331",
+        "name": "After work run",
+        "date": "November 3, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "59:54",
+          "23 m"
+        ]
+      },
       {
         "athlete": "Heiko Kraushaar",
         "athleteId": "78179687",
@@ -124,29 +137,16 @@
         ]
       },
       {
-        "athlete": "heike moschel",
-        "athleteId": "79094374",
-        "activityId": "20847029010",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 4 (C)",
+        "athlete": "Gilbert Schwartmann",
+        "athleteId": "147030966",
+        "activityId": "20847207636",
+        "name": "Hallo November!",
         "date": "November 3, 2026",
-        "distanceKm": 30.4,
+        "distanceKm": 10.3,
         "stats": [
-          "30.4 km",
-          "55:33",
-          "216 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20847013748",
-        "name": "Zwift - Race: Zwift Racing League 26/27: Fast & Fresh : Women's Dev Mint League Division 1 - Race 4 (C)",
-        "date": "November 3, 2026",
-        "distanceKm": 32,
-        "stats": [
-          "32.0 km",
-          "54:23",
-          "222 m"
+          "10.3 km",
+          "1:02:18",
+          "90 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20847065524",
-        "name": "Abendradfahrt",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20847449037",
+        "name": "Lauf am Nachmittag",
         "date": "November 3, 2026",
-        "distanceKm": 37.1,
+        "distanceKm": 32,
         "stats": [
-          "37.1 km",
-          "1:37:29",
-          "0 m"
+          "32.0 km",
+          "3:21:46",
+          "148 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 259273.3
+      "totalWithEstimatesKm": 259340.6
     }
   }
 }

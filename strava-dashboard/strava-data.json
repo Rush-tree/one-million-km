@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-03T18:31:00.632Z",
+  "generatedAt": "2026-11-03T19:00:59.459Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 741222,
-    "percentComplete": 25.88,
+    "remainingKm": 741123,
+    "percentComplete": 25.89,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 2778.3,
-    "thisWeekActivities": 321,
-    "thisWeekHours": 247,
-    "thisWeekElevationM": 19850,
+    "thisWeekKm": 2876.8,
+    "thisWeekActivities": 326,
+    "thisWeekHours": 252,
+    "thisWeekElevationM": 20205,
     "timesAroundEarth": 6.46,
     "percentToMoon": 67.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21141,
+  "totalActivities": 21145,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 258778400,
-    "totalMovingTime": 73468067,
-    "totalElevation": 1901230.6
+    "totalDistance": 258876900,
+    "totalMovingTime": 73485707,
+    "totalElevation": 1901585.6
   },
   "monthStats": {
-    "totalDistance": 2778300,
-    "totalMovingTime": 888240,
+    "totalDistance": 2876800,
+    "totalMovingTime": 905880,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2778300,
-    "totalMovingTime": 888240,
-    "count": 321
+    "totalDistance": 2876800,
+    "totalMovingTime": 905880,
+    "count": 326
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 242981.4,
+    "measuredDistanceKm": 243079.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20846461587",
+        "name": "Zwift - Chapman's Peak in Video",
+        "date": "November 3, 2026",
+        "distanceKm": 11.6,
+        "stats": [
+          "11.6 km",
+          "30:41",
+          "190 m"
+        ]
+      },
       {
         "athlete": "heike moschel",
         "athleteId": "79094374",
@@ -137,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Marcel Gehrer",
-        "athleteId": "135991683",
-        "activityId": "20846001840",
-        "name": "eeeeaaasyy",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20846662276",
+        "name": "Lauf am Nachmittag",
         "date": "November 3, 2026",
-        "distanceKm": 5.7,
+        "distanceKm": 19.3,
         "stats": [
-          "5.7 km",
-          "37:46",
-          "19 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20845855534",
-        "name": "Zwift - Tick Tock in Watopia",
-        "date": "November 3, 2026",
-        "distanceKm": 19.8,
-        "stats": [
-          "19.8 km",
-          "39:04",
-          "59 m"
+          "19.3 km",
+          "2:07:57",
+          "111 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 258778.4
+      "totalWithEstimatesKm": 258876.9
     }
   }
 }

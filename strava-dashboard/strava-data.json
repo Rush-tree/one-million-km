@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-03T08:30:46.326Z",
+  "generatedAt": "2026-11-03T09:00:56.296Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 742320,
+    "remainingKm": 742308,
     "percentComplete": 25.77,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 47,
     "projectedDate": "2027-09-26",
-    "kmPerMemberWeek": 65.6,
+    "kmPerMemberWeek": 65.3,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 1679.6,
-    "thisWeekActivities": 194,
-    "thisWeekHours": 153,
-    "thisWeekElevationM": 12891,
+    "thisWeekKm": 1691.7,
+    "thisWeekActivities": 196,
+    "thisWeekHours": 155,
+    "thisWeekElevationM": 12934,
     "timesAroundEarth": 6.43,
     "percentToMoon": 67,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 38.7,
-        "text": "38.7× the length of the Nile",
+        "value": 38.8,
+        "text": "38.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,8 +60,8 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21008,
-  "memberCount": 242,
+  "totalActivities": 21010,
+  "memberCount": 243,
   "memberGrowth": {
     "day": 0,
     "week": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 257679700,
-    "totalMovingTime": 73131167,
-    "totalElevation": 1894271.6
+    "totalDistance": 257691800,
+    "totalMovingTime": 73136507,
+    "totalElevation": 1894314.6
   },
   "monthStats": {
-    "totalDistance": 1679600,
-    "totalMovingTime": 551340,
+    "totalDistance": 1691700,
+    "totalMovingTime": 556680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1679600,
-    "totalMovingTime": 551340,
-    "count": 194
+    "totalDistance": 1691700,
+    "totalMovingTime": 556680,
+    "count": 196
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 241882.7,
+    "measuredDistanceKm": 241894.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20839526637",
+        "name": "Pedalada matinal",
+        "date": "November 3, 2026",
+        "distanceKm": 12,
+        "stats": [
+          "12.0 km",
+          "36:50",
+          "42 m"
+        ]
+      },
+      {
+        "athlete": "Reynaldo Guerra",
+        "athleteId": "59804669",
+        "activityId": "20839375424",
+        "name": "HIIT matinal",
+        "date": "November 3, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "52:15",
+          "0 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -148,32 +174,6 @@
           "1:10:50",
           "27 m"
         ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20838544862",
-        "name": "Fahrt am Morgen",
-        "date": "November 3, 2026",
-        "distanceKm": 9,
-        "stats": [
-          "9.0 km",
-          "22:10",
-          "28 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "20838628365",
-        "name": "Morning Yoga at dawn 🌗🌘",
-        "date": "November 3, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "39:48",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 257679.7
+      "totalWithEstimatesKm": 257691.8
     }
   }
 }

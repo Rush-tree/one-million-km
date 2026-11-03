@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-03T22:00:53.661Z",
+  "generatedAt": "2026-11-03T22:30:46.881Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-03T22:00:53.661Z",
+  "memberCountUpdatedAt": "2026-11-03T22:30:46.881Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 367,
-    "distanceKm": 3418.7,
-    "elevationM": 24199,
-    "movingSeconds": 1048020,
+    "activities": 368,
+    "distanceKm": 3425.7,
+    "elevationM": 24240,
+    "movingSeconds": 1050180,
     "raw": {
-      "activities": "367",
-      "distance": "3,418.7 km",
-      "time": "291 h 7 m",
-      "elevation": "24,199 m"
+      "activities": "368",
+      "distance": "3,425.7 km",
+      "time": "291 h 43 m",
+      "elevation": "24,240 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Yuri Luna",
+      "athleteId": "126667110",
+      "activityId": "20849047100",
+      "name": "Corrida ao entardecer",
+      "date": "November 3, 2026",
+      "distanceKm": 7,
+      "stats": [
+        "7.0 km",
+        "37:09",
+        "41 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -42,19 +55,6 @@
         "1.8 km",
         "51:38",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Adriano Perri",
-      "athleteId": "99629318",
-      "activityId": "20847243331",
-      "name": "After work run",
-      "date": "November 3, 2026",
-      "distanceKm": 10.2,
-      "stats": [
-        "10.2 km",
-        "59:54",
-        "23 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 120613.7,
-  "totalDistanceKm": 243621.8,
+  "observedWeeksKm": 120620.7,
+  "totalDistanceKm": 243628.8,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 259418.8
+    "totalWithEstimatesKm": 259425.8
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T07:00:53.557Z",
+  "generatedAt": "2026-11-04T07:30:46.566Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 740352,
-    "percentComplete": 25.96,
+    "remainingKm": 740326,
+    "percentComplete": 25.97,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 3648.3,
-    "thisWeekActivities": 393,
-    "thisWeekHours": 309,
-    "thisWeekElevationM": 25866,
+    "thisWeekKm": 3674.2,
+    "thisWeekActivities": 396,
+    "thisWeekHours": 311,
+    "thisWeekElevationM": 25915,
     "timesAroundEarth": 6.48,
-    "percentToMoon": 67.5,
+    "percentToMoon": 67.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,14 +28,14 @@
       },
       {
         "key": "moon",
-        "value": 67.5,
-        "text": "67.5% of the way to the Moon",
+        "value": 67.6,
+        "text": "67.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
         "key": "greatwall",
-        "value": 12.2,
-        "text": "12.2× the Great Wall of China",
+        "value": 12.3,
+        "text": "12.3× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21213,
+  "totalActivities": 21216,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 259648400,
-    "totalMovingTime": 73691807,
-    "totalElevation": 1907246.6
+    "totalDistance": 259674300,
+    "totalMovingTime": 73699007,
+    "totalElevation": 1907295.6
   },
   "monthStats": {
-    "totalDistance": 3648300,
-    "totalMovingTime": 1111980,
+    "totalDistance": 3674200,
+    "totalMovingTime": 1119180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3648300,
-    "totalMovingTime": 1111980,
-    "count": 393
+    "totalDistance": 3674200,
+    "totalMovingTime": 1119180,
+    "count": 396
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 243851.4,
+    "measuredDistanceKm": 243877.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20852815493",
+        "name": "Morning run 🌘",
+        "date": "November 4, 2026",
+        "distanceKm": 1.2,
+        "stats": [
+          "1.2 km",
+          "9:32",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Lara WSM",
         "athleteId": "143255915",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20852402943",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20852746082",
+        "name": "Nach dem Mittwochslauf",
         "date": "November 4, 2026",
-        "distanceKm": 0,
+        "distanceKm": 11.1,
         "stats": [
-          "0 km",
-          "17:12",
+          "11.1 km",
+          "57:54",
+          "49 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20852704212",
+        "name": "Spaziergang am Morgen",
+        "date": "November 4, 2026",
+        "distanceKm": 4.2,
+        "stats": [
+          "4.2 km",
+          "44:29",
+          "54 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20852645356",
+        "name": "Lauf am Morgen",
+        "date": "November 4, 2026",
+        "distanceKm": 13.5,
+        "stats": [
+          "13.5 km",
+          "54:01",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20852345041",
-        "name": "Sykkeltur om morgenen",
-        "date": "November 4, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "17:00",
-          "55 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20852444924",
-        "name": "Cycl⚙️Taf 🚴‍♀️",
-        "date": "November 4, 2026",
-        "distanceKm": 6.8,
-        "stats": [
-          "6.8 km",
-          "32:49",
-          "10 m"
-        ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20852483851",
-        "name": "Morning Walk",
-        "date": "November 4, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "33:05",
-          "56 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 259648.4
+      "totalWithEstimatesKm": 259674.3
     }
   }
 }

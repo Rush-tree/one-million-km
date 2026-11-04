@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T21:30:45.802Z",
+  "generatedAt": "2026-11-04T22:00:55.192Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 738579,
+    "remainingKm": 738575,
     "percentComplete": 26.14,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 5420.5,
-    "thisWeekActivities": 533,
-    "thisWeekHours": 439,
-    "thisWeekElevationM": 38735,
+    "thisWeekKm": 5424.8,
+    "thisWeekActivities": 535,
+    "thisWeekHours": 440,
+    "thisWeekElevationM": 38770,
     "timesAroundEarth": 6.52,
     "percentToMoon": 68,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21354,
+  "totalActivities": 21356,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 261420600,
-    "totalMovingTime": 74161007,
-    "totalElevation": 1920115.6
+    "totalDistance": 261424900,
+    "totalMovingTime": 74164247,
+    "totalElevation": 1920150.6
   },
   "monthStats": {
-    "totalDistance": 5420500,
-    "totalMovingTime": 1581180,
+    "totalDistance": 5424800,
+    "totalMovingTime": 1584420,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5420500,
-    "totalMovingTime": 1581180,
-    "count": 533
+    "totalDistance": 5424800,
+    "totalMovingTime": 1584420,
+    "count": 535
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 245623.6,
+    "measuredDistanceKm": 245627.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20862282738",
+        "name": "Pedalada ao entardecer",
+        "date": "November 4, 2026",
+        "distanceKm": 4.3,
+        "stats": [
+          "4.3 km",
+          "26:46",
+          "35 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20862290556",
+        "name": "Yoga in der Nacht",
+        "date": "November 4, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "30:32",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Sascha Gebel",
         "athleteId": "19964716",
@@ -121,19 +147,6 @@
           "33.5 km",
           "1:09:32",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20861299971",
-        "name": "Zwift - Mend",
-        "date": "November 4, 2026",
-        "distanceKm": 11.7,
-        "stats": [
-          "11.7 km",
-          "33:10",
-          "70 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "1:17:59",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20861400039",
-        "name": "Gravel-Fahrt am Abend",
-        "date": "November 4, 2026",
-        "distanceKm": 68.3,
-        "stats": [
-          "68.3 km",
-          "3:08:30",
-          "227 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 261420.6
+      "totalWithEstimatesKm": 261424.9
     }
   }
 }

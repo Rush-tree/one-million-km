@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-04T22:30:43.493Z",
+  "generatedAt": "2026-11-04T23:00:51.693Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-04T22:30:43.493Z",
+  "memberCountUpdatedAt": "2026-11-04T23:00:51.693Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 538,
-    "distanceKm": 5452.7,
-    "elevationM": 38894,
-    "movingSeconds": 1597380,
+    "activities": 540,
+    "distanceKm": 5463.9,
+    "elevationM": 39014,
+    "movingSeconds": 1599600,
     "raw": {
-      "activities": "538",
-      "distance": "5,452.7 km",
-      "time": "443 h 43 m",
-      "elevation": "38,894 m"
+      "activities": "540",
+      "distance": "5,463.9 km",
+      "time": "444 h 20 m",
+      "elevation": "39,014 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20862847208",
+      "name": "Pedalada ao entardecer",
+      "date": "November 4, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "17:18",
+        "53 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -29,6 +42,19 @@
         "0.8 km",
         "28:54",
         "17 m"
+      ]
+    },
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20862837865",
+      "name": "Pedalada ao entardecer",
+      "date": "November 4, 2026",
+      "distanceKm": 6.1,
+      "stats": [
+        "6.1 km",
+        "33:20",
+        "67 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "30:32",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Sascha Gebel",
-      "athleteId": "19964716",
-      "activityId": "20862095687",
-      "name": "Nachtradfahrt",
-      "date": "November 4, 2026",
-      "distanceKm": 33.5,
-      "stats": [
-        "33.5 km",
-        "1:09:32",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Ricardo Ferre",
-      "athleteId": "45223374",
-      "activityId": "20861931850",
-      "name": "Evening Basketball",
-      "date": "November 4, 2026",
-      "distanceKm": 0.7,
-      "stats": [
-        "0.7 km",
-        "1:17:59",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 122647.7,
-  "totalDistanceKm": 245655.8,
+  "observedWeeksKm": 122658.9,
+  "totalDistanceKm": 245667,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 261452.8
+    "totalWithEstimatesKm": 261464
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-04T14:00:57.328Z",
+  "generatedAt": "2026-11-04T14:30:46.702Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 739833,
+    "remainingKm": 739790,
     "percentComplete": 26.02,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 4167.2,
-    "thisWeekActivities": 439,
-    "thisWeekHours": 348,
-    "thisWeekElevationM": 29812,
+    "thisWeekKm": 4209.6,
+    "thisWeekActivities": 441,
+    "thisWeekHours": 352,
+    "thisWeekElevationM": 30469,
     "timesAroundEarth": 6.49,
     "percentToMoon": 67.7,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 40.7,
-        "text": "40.7 return trips Berlin to New York",
+        "value": 40.8,
+        "text": "40.8 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21260,
+  "totalActivities": 21262,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 260167300,
-    "totalMovingTime": 73832867,
-    "totalElevation": 1911192.6
+    "totalDistance": 260209700,
+    "totalMovingTime": 73848407,
+    "totalElevation": 1911849.6
   },
   "monthStats": {
-    "totalDistance": 4167200,
-    "totalMovingTime": 1253040,
+    "totalDistance": 4209600,
+    "totalMovingTime": 1268580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4167200,
-    "totalMovingTime": 1253040,
-    "count": 439
+    "totalDistance": 4209600,
+    "totalMovingTime": 1268580,
+    "count": 441
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 244370.3,
+    "measuredDistanceKm": 244412.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,19 +150,6 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20855939229",
-        "name": "Öğleden Sonra Yürüyüş",
-        "date": "November 4, 2026",
-        "distanceKm": 0.3,
-        "stats": [
-          "0.3 km",
-          "16:15",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "John Spence",
         "athleteId": "97189936",
         "activityId": "20856111294",
@@ -173,6 +160,19 @@
           "3.5 km",
           "1:08:50",
           "13 m"
+        ]
+      },
+      {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20857113188",
+        "name": "Mittagswanderung im Münstertal zum 61. Geburtstag von Did 🎂🍀💐",
+        "date": "November 4, 2026",
+        "distanceKm": 14.4,
+        "stats": [
+          "14.4 km",
+          "3:34:53",
+          "478 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 260167.3
+      "totalWithEstimatesKm": 260209.7
     }
   }
 }

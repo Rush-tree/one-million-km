@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-04T13:00:55.369Z",
+  "generatedAt": "2026-11-04T13:30:47.074Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-04T13:00:55.369Z",
+  "memberCountUpdatedAt": "2026-11-04T13:30:47.074Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 428,
-    "distanceKm": 4117.2,
-    "elevationM": 29637,
-    "movingSeconds": 1232040,
+    "activities": 430,
+    "distanceKm": 4133.2,
+    "elevationM": 29670,
+    "movingSeconds": 1236600,
     "raw": {
-      "activities": "428",
-      "distance": "4,117.2 km",
-      "time": "342 h 14 m",
-      "elevation": "29,637 m"
+      "activities": "430",
+      "distance": "4,133.2 km",
+      "time": "343 h 30 m",
+      "elevation": "29,670 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Daniel Stodden",
+      "athleteId": "23274828",
+      "activityId": "20856232920",
+      "name": "Lauf am Nachmittag",
+      "date": "November 4, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "21:24",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Muhammed Edip KARABACAK 🇹🇷",
       "athleteId": "47897742",
@@ -29,19 +42,6 @@
         "0.3 km",
         "16:15",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Irene Adkins",
-      "athleteId": "51333291",
-      "activityId": "20855648352",
-      "name": "Mittagspause😊",
-      "date": "November 4, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "29:23",
-        "50 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 121312.2,
-  "totalDistanceKm": 244320.3,
+  "observedWeeksKm": 121328.2,
+  "totalDistanceKm": 244336.3,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 260117.3
+    "totalWithEstimatesKm": 260133.3
   }
 }

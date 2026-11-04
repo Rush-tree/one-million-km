@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-04T09:30:50.374Z",
+  "generatedAt": "2026-11-04T10:00:59.449Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-04T09:30:50.374Z",
+  "memberCountUpdatedAt": "2026-11-04T10:00:59.449Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 405,
-    "distanceKm": 3867.5,
+    "activities": 406,
+    "distanceKm": 3867.6,
     "elevationM": 26793,
-    "movingSeconds": 1154160,
+    "movingSeconds": 1157700,
     "raw": {
-      "activities": "405",
-      "distance": "3,867.5 km",
-      "time": "320 h 36 m",
+      "activities": "406",
+      "distance": "3,867.6 km",
+      "time": "321 h 35 m",
       "elevation": "26,793 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "20853849852",
+      "name": "Gravel-Fahrt am Morgen",
+      "date": "November 4, 2026",
+      "distanceKm": 7.3,
+      "stats": [
+        "7.3 km",
+        "42:59",
+        "27 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -69,19 +82,6 @@
         "1:31:49",
         "299 m"
       ]
-    },
-    {
-      "athlete": "Ralf Rogall",
-      "athleteId": "105597565",
-      "activityId": "20853244949",
-      "name": "Fahrt am Morgen",
-      "date": "November 4, 2026",
-      "distanceKm": 110.5,
-      "stats": [
-        "110.5 km",
-        "7:01:14",
-        "175 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 121062.5,
-  "totalDistanceKm": 244070.6,
+  "observedWeeksKm": 121062.6,
+  "totalDistanceKm": 244070.7,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 259867.6
+    "totalWithEstimatesKm": 259867.7
   }
 }

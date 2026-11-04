@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T09:30:50.374Z",
+  "generatedAt": "2026-11-04T10:00:59.449Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,9 +13,9 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 3867.5,
-    "thisWeekActivities": 405,
-    "thisWeekHours": 321,
+    "thisWeekKm": 3867.6,
+    "thisWeekActivities": 406,
+    "thisWeekHours": 322,
     "thisWeekElevationM": 26793,
     "timesAroundEarth": 6.48,
     "percentToMoon": 67.6,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21225,
+  "totalActivities": 21226,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 259867600,
-    "totalMovingTime": 73733987,
+    "totalDistance": 259867700,
+    "totalMovingTime": 73737527,
     "totalElevation": 1908173.6
   },
   "monthStats": {
-    "totalDistance": 3867500,
-    "totalMovingTime": 1154160,
+    "totalDistance": 3867600,
+    "totalMovingTime": 1157700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3867500,
-    "totalMovingTime": 1154160,
-    "count": 405
+    "totalDistance": 3867600,
+    "totalMovingTime": 1157700,
+    "count": 406
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 244070.6,
+    "measuredDistanceKm": 244070.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20853849852",
+        "name": "Gravel-Fahrt am Morgen",
+        "date": "November 4, 2026",
+        "distanceKm": 7.3,
+        "stats": [
+          "7.3 km",
+          "42:59",
+          "27 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -161,19 +174,6 @@
           "1:31:49",
           "299 m"
         ]
-      },
-      {
-        "athlete": "Ralf Rogall",
-        "athleteId": "105597565",
-        "activityId": "20853244949",
-        "name": "Fahrt am Morgen",
-        "date": "November 4, 2026",
-        "distanceKm": 110.5,
-        "stats": [
-          "110.5 km",
-          "7:01:14",
-          "175 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 259867.6
+      "totalWithEstimatesKm": 259867.7
     }
   }
 }

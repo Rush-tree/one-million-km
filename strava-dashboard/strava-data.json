@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-04T05:30:43.232Z",
+  "generatedAt": "2026-11-04T06:00:53.016Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 740437,
+    "remainingKm": 740390,
     "percentComplete": 25.96,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-27",
+    "projectedDate": "2027-09-26",
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 3562.6,
-    "thisWeekActivities": 380,
-    "thisWeekHours": 302,
-    "thisWeekElevationM": 25279,
+    "thisWeekKm": 3609.6,
+    "thisWeekActivities": 384,
+    "thisWeekHours": 305,
+    "thisWeekElevationM": 25502,
     "timesAroundEarth": 6.48,
     "percentToMoon": 67.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21199,
+  "totalActivities": 21203,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 259562700,
-    "totalMovingTime": 73666667,
-    "totalElevation": 1906659.6
+    "totalDistance": 259609700,
+    "totalMovingTime": 73679027,
+    "totalElevation": 1906882.6
   },
   "monthStats": {
-    "totalDistance": 3562600,
-    "totalMovingTime": 1086840,
+    "totalDistance": 3609600,
+    "totalMovingTime": 1099200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3562600,
-    "totalMovingTime": 1086840,
-    "count": 380
+    "totalDistance": 3609600,
+    "totalMovingTime": 1099200,
+    "count": 384
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 243765.7,
+    "measuredDistanceKm": 243812.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20852232682",
+        "name": "Fahrt am Morgen",
+        "date": "November 4, 2026",
+        "distanceKm": 14.2,
+        "stats": [
+          "14.2 km",
+          "46:32",
+          "38 m"
+        ]
+      },
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20852264522",
+        "name": "Fahrt am Morgen",
+        "date": "November 4, 2026",
+        "distanceKm": 22.2,
+        "stats": [
+          "22.2 km",
+          "59:20",
+          "51 m"
+        ]
+      },
       {
         "athlete": "Susi Wong",
         "athleteId": "44756315",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20851852816",
-        "name": "Morning Run",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20852191059",
+        "name": "Morning Walk",
         "date": "November 4, 2026",
-        "distanceKm": 7.3,
+        "distanceKm": 8.1,
         "stats": [
-          "7.3 km",
-          "1:08:14",
-          "149 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20851530030",
-        "name": "Morning HIIT",
-        "date": "November 4, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "16:25",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20851447475",
-        "name": "NOVEMBER MNG RIDE NO 4 🚵‍♂️",
-        "date": "November 4, 2026",
-        "distanceKm": 62.8,
-        "stats": [
-          "62.8 km",
-          "2:58:46",
-          "166 m"
+          "8.1 km",
+          "1:40:41",
+          "128 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 259562.7
+      "totalWithEstimatesKm": 259609.7
     }
   }
 }

@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-04T16:01:01.233Z",
+  "generatedAt": "2026-11-04T16:30:47.576Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 739552,
-    "percentComplete": 26.04,
+    "remainingKm": 739482,
+    "percentComplete": 26.05,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 47,
     "projectedDate": "2027-09-26",
-    "kmPerMemberWeek": 64.8,
+    "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 4447.9,
-    "thisWeekActivities": 462,
-    "thisWeekHours": 366,
-    "thisWeekElevationM": 32062,
+    "thisWeekKm": 4518,
+    "thisWeekActivities": 469,
+    "thisWeekHours": 372,
+    "thisWeekElevationM": 32854,
     "timesAroundEarth": 6.5,
     "percentToMoon": 67.8,
     "comparisons": [
@@ -60,8 +60,8 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21283,
-  "memberCount": 245,
+  "totalActivities": 21290,
+  "memberCount": 246,
   "memberGrowth": {
     "day": 0,
     "week": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 260448000,
-    "totalMovingTime": 73898027,
-    "totalElevation": 1913442.6
+    "totalDistance": 260518100,
+    "totalMovingTime": 73919807,
+    "totalElevation": 1914234.6
   },
   "monthStats": {
-    "totalDistance": 4447900,
-    "totalMovingTime": 1318200,
+    "totalDistance": 4518000,
+    "totalMovingTime": 1339980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4447900,
-    "totalMovingTime": 1318200,
-    "count": 462
+    "totalDistance": 4518000,
+    "totalMovingTime": 1339980,
+    "count": 469
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 244651,
+    "measuredDistanceKm": 244721.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20858056030",
-        "name": "Zwift - Caldera Coaster in Watopia",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20858487380",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "November 4, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 0,
         "stats": [
-          "4.4 km",
-          "7:45",
-          "13 m"
+          "0 km",
+          "20:49",
+          "0 m"
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20858134268",
-        "name": "Ettermiddag med sykkeltur",
-        "date": "November 4, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "16:11",
-          "54 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "20857992282",
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20858534923",
         "name": "Lauf am Nachmittag",
         "date": "November 4, 2026",
-        "distanceKm": 1.5,
+        "distanceKm": 5.2,
         "stats": [
-          "1.5 km",
-          "9:20",
-          "22 m"
+          "5.2 km",
+          "32:32",
+          "61 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20858317148",
+        "name": "Zwift - Seafoam Circuit in Watopia",
+        "date": "November 4, 2026",
+        "distanceKm": 12.3,
+        "stats": [
+          "12.3 km",
+          "19:20",
+          "58 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20858338055",
+        "name": "Lower A (Strength)",
+        "date": "November 4, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "48:38",
+          "0 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "31.5 km",
           "1:10:03",
           "66 m"
-        ]
-      },
-      {
-        "athlete": "Hannah-Malin Henigin",
-        "athleteId": "162779271",
-        "activityId": "20857953076",
-        "name": "Gravel-Fahrt am Nachmittag",
-        "date": "November 4, 2026",
-        "distanceKm": 37.8,
-        "stats": [
-          "37.8 km",
-          "2:08:14",
-          "524 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 260448
+      "totalWithEstimatesKm": 260518.1
     }
   }
 }

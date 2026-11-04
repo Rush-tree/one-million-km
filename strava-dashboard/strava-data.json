@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T02:30:45.739Z",
+  "generatedAt": "2026-11-04T03:00:59.852Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 740551,
-    "percentComplete": 25.94,
+    "remainingKm": 740488,
+    "percentComplete": 25.95,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.8,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 3449,
-    "thisWeekActivities": 373,
-    "thisWeekHours": 295,
-    "thisWeekElevationM": 24786,
-    "timesAroundEarth": 6.47,
+    "thisWeekKm": 3511.8,
+    "thisWeekActivities": 375,
+    "thisWeekHours": 298,
+    "thisWeekElevationM": 24952,
+    "timesAroundEarth": 6.48,
     "percentToMoon": 67.5,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21193,
+  "totalActivities": 21194,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 259449100,
-    "totalMovingTime": 73642727,
-    "totalElevation": 1906166.6
+    "totalDistance": 259511900,
+    "totalMovingTime": 73653767,
+    "totalElevation": 1906332.6
   },
   "monthStats": {
-    "totalDistance": 3449000,
-    "totalMovingTime": 1062900,
+    "totalDistance": 3511800,
+    "totalMovingTime": 1073940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3449000,
-    "totalMovingTime": 1062900,
-    "count": 373
+    "totalDistance": 3511800,
+    "totalMovingTime": 1073940,
+    "count": 375
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 243652.1,
+    "measuredDistanceKm": 243714.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20851530030",
+        "name": "Morning HIIT",
+        "date": "November 4, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20851447475",
+        "name": "Wednesday Morning Ride",
+        "date": "November 4, 2026",
+        "distanceKm": 62.8,
+        "stats": [
+          "62.8 km",
+          "2:58:46",
+          "166 m"
+        ]
+      },
       {
         "athlete": "Travis Woulfe",
         "athleteId": "24823170",
@@ -148,32 +174,6 @@
           "37:09",
           "41 m"
         ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20848242691",
-        "name": "Blackroll Compression Boots 2.0 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "November 3, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "34:49",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20848203735",
-        "name": "Abendschwimmen",
-        "date": "November 3, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "51:38",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 259449.1
+      "totalWithEstimatesKm": 259511.9
     }
   }
 }

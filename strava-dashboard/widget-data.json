@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-05T10:30:46.458Z",
+  "generatedAt": "2026-11-05T11:00:54.491Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-05T10:30:46.458Z",
+  "memberCountUpdatedAt": "2026-11-05T11:00:54.491Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 585,
-    "distanceKm": 5898.5,
-    "elevationM": 41437,
-    "movingSeconds": 1738440,
+    "activities": 588,
+    "distanceKm": 5928.6,
+    "elevationM": 41717,
+    "movingSeconds": 1746840,
     "raw": {
-      "activities": "585",
-      "distance": "5,898.5 km",
-      "time": "482 h 54 m",
-      "elevation": "41,437 m"
+      "activities": "588",
+      "distance": "5,928.6 km",
+      "time": "485 h 14 m",
+      "elevation": "41,717 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20867994942",
+      "name": "Physiotherapie in der Mittagspause",
+      "date": "November 5, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "30:01",
+        "0 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -29,6 +42,19 @@
         "1.4 km",
         "25:23",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Andreas Glaser 🇩🇪🚲",
+      "athleteId": "3109388",
+      "activityId": "20867754259",
+      "name": "Zwift - The Hogsback in Video",
+      "date": "November 5, 2026",
+      "distanceKm": 26,
+      "stats": [
+        "26.0 km",
+        "1:02:06",
+        "277 m"
       ]
     },
     {
@@ -45,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Reynaldo Guerra",
-      "athleteId": "59804669",
-      "activityId": "20866719574",
-      "name": "HIIT matinal",
-      "date": "November 5, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "39:48",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
       "activityId": "20866940518",
@@ -69,19 +82,6 @@
         "1:00:28",
         "212 m"
       ]
-    },
-    {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20866529876",
-      "name": "Zwift - Colorado River Sunrise in Video",
-      "date": "November 5, 2026",
-      "distanceKm": 25.3,
-      "stats": [
-        "25.3 km",
-        "1:01:07",
-        "256 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 123093.5,
-  "totalDistanceKm": 246101.6,
+  "observedWeeksKm": 123123.6,
+  "totalDistanceKm": 246131.7,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 261898.6
+    "totalWithEstimatesKm": 261928.7
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-05T13:30:46.313Z",
+  "generatedAt": "2026-11-05T14:01:02.015Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-05T13:30:46.313Z",
+  "memberCountUpdatedAt": "2026-11-05T14:01:02.014Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 610,
-    "distanceKm": 6036.2,
-    "elevationM": 42292,
-    "movingSeconds": 1798680,
+    "activities": 611,
+    "distanceKm": 6042.7,
+    "elevationM": 42322,
+    "movingSeconds": 1802520,
     "raw": {
-      "activities": "610",
-      "distance": "6,036.2 km",
-      "time": "499 h 38 m",
-      "elevation": "42,292 m"
+      "activities": "611",
+      "distance": "6,042.7 km",
+      "time": "500 h 42 m",
+      "elevation": "42,322 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20870156370",
+      "name": "Gravel",
+      "date": "November 5, 2026",
+      "distanceKm": 6.4,
+      "stats": [
+        "6.4 km",
+        "17:16",
+        "30 m"
+      ]
+    },
     {
       "athlete": "Manfred H",
       "athleteId": "85517467",
@@ -41,19 +54,6 @@
       "stats": [
         "0 km",
         "8:40",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20869775928",
-      "name": "Afternoon Workout",
-      "date": "November 5, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "13:18",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 123231.2,
-  "totalDistanceKm": 246239.3,
+  "observedWeeksKm": 123237.7,
+  "totalDistanceKm": 246245.8,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 262036.3
+    "totalWithEstimatesKm": 262042.8
   }
 }

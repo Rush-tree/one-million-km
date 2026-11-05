@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T14:30:59.286Z",
+  "generatedAt": "2026-11-05T15:00:59.510Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 737903,
+    "remainingKm": 737851,
     "percentComplete": 26.21,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 6097.3,
-    "thisWeekActivities": 615,
-    "thisWeekHours": 506,
-    "thisWeekElevationM": 42700,
+    "thisWeekKm": 6149.2,
+    "thisWeekActivities": 621,
+    "thisWeekHours": 509,
+    "thisWeekElevationM": 43046,
     "timesAroundEarth": 6.54,
     "percentToMoon": 68.2,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 41,
-        "text": "41 return trips Berlin to New York",
+        "value": 41.1,
+        "text": "41.1 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21439,
+  "totalActivities": 21446,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 262097400,
-    "totalMovingTime": 74399747,
-    "totalElevation": 1924080.6
+    "totalDistance": 262149300,
+    "totalMovingTime": 74413307,
+    "totalElevation": 1924426.6
   },
   "monthStats": {
-    "totalDistance": 6097300,
-    "totalMovingTime": 1819920,
+    "totalDistance": 6149200,
+    "totalMovingTime": 1833480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6097300,
-    "totalMovingTime": 1819920,
-    "count": 615
+    "totalDistance": 6149200,
+    "totalMovingTime": 1833480,
+    "count": 621
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 246300.4,
+    "measuredDistanceKm": 246352.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20870156370",
-        "name": "Home",
-        "date": "November 5, 2026",
-        "distanceKm": 6.4,
-        "stats": [
-          "6.4 km",
-          "17:16",
-          "30 m"
-        ]
-      },
-      {
-        "athlete": "Rajesh Khandare",
-        "athleteId": "129925061",
-        "activityId": "20870439958",
-        "name": "Evening Run",
-        "date": "November 5, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "54:20",
-          "34 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20870429354",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20870632566",
         "name": "Spaziergang am Nachmittag",
         "date": "November 5, 2026",
-        "distanceKm": 3.3,
+        "distanceKm": 2.9,
         "stats": [
-          "3.3 km",
-          "47:51",
-          "34 m"
+          "2.9 km",
+          "29:17",
+          "6 m"
+        ]
+      },
+      {
+        "athlete": "Luka M",
+        "athleteId": "33218706",
+        "activityId": "20870786635",
+        "name": "Afternoon Run",
+        "date": "November 5, 2026",
+        "distanceKm": 12,
+        "stats": [
+          "12.0 km",
+          "1:01:57",
+          "114 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "2:36:38",
           "14 m"
         ]
+      },
+      {
+        "athlete": "Nujaim Noorahdheen",
+        "athleteId": "191343444",
+        "activityId": "20870595797",
+        "name": "Evening Run",
+        "date": "November 5, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "45:41",
+          "26 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 262097.4
+      "totalWithEstimatesKm": 262149.3
     }
   }
 }

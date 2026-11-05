@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-05T11:30:46.392Z",
+  "generatedAt": "2026-11-05T12:00:54.405Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 738071,
-    "percentComplete": 26.19,
+    "remainingKm": 738050,
+    "percentComplete": 26.2,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 5928.6,
-    "thisWeekActivities": 588,
-    "thisWeekHours": 485,
-    "thisWeekElevationM": 41717,
+    "thisWeekKm": 5950.4,
+    "thisWeekActivities": 592,
+    "thisWeekHours": 490,
+    "thisWeekElevationM": 41840,
     "timesAroundEarth": 6.54,
     "percentToMoon": 68.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21411,
+  "totalActivities": 21415,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 261928700,
-    "totalMovingTime": 74326667,
-    "totalElevation": 1923097.6
+    "totalDistance": 261950500,
+    "totalMovingTime": 74342927,
+    "totalElevation": 1923220.6
   },
   "monthStats": {
-    "totalDistance": 5928600,
-    "totalMovingTime": 1746840,
+    "totalDistance": 5950400,
+    "totalMovingTime": 1763100,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5928600,
-    "totalMovingTime": 1746840,
-    "count": 588
+    "totalDistance": 5950400,
+    "totalMovingTime": 1763100,
+    "count": 592
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 246131.7,
+    "measuredDistanceKm": 246153.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,19 +124,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20867628544",
-        "name": "Morning Walk",
-        "date": "November 5, 2026",
-        "distanceKm": 1.4,
-        "stats": [
-          "1.4 km",
-          "25:23",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Andreas Glaser 🇩🇪🚲",
         "athleteId": "3109388",
         "activityId": "20867754259",
@@ -150,29 +137,42 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20867367658",
-        "name": "Morning Workout",
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20868710417",
+        "name": "Afternoon Ride",
         "date": "November 5, 2026",
-        "distanceKm": 0,
+        "distanceKm": 6.4,
         "stats": [
-          "0 km",
-          "1:47:15",
-          "0 m"
+          "6.4 km",
+          "2:49:55",
+          "43 m"
         ]
       },
       {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "20866940518",
-        "name": "Pedalada matinal",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20868457975",
+        "name": "Corsa mattutina",
         "date": "November 5, 2026",
-        "distanceKm": 20.4,
+        "distanceKm": 10.2,
         "stats": [
-          "20.4 km",
-          "1:00:28",
-          "212 m"
+          "10.2 km",
+          "3:19:46",
+          "15 m"
+        ]
+      },
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20868714940",
+        "name": "Afternoon Ride",
+        "date": "November 5, 2026",
+        "distanceKm": 36.6,
+        "stats": [
+          "36.6 km",
+          "5:56:59",
+          "129 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 261928.7
+      "totalWithEstimatesKm": 261950.5
     }
   }
 }

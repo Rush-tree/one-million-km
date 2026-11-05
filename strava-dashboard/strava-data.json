@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:30:43.812Z",
+  "generatedAt": "2026-11-05T10:00:52.453Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,9 +13,9 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 5885.8,
-    "thisWeekActivities": 581,
-    "thisWeekHours": 480,
+    "thisWeekKm": 5886.1,
+    "thisWeekActivities": 583,
+    "thisWeekHours": 482,
     "thisWeekElevationM": 41411,
     "timesAroundEarth": 6.53,
     "percentToMoon": 68.1,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21403,
+  "totalActivities": 21405,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 261885900,
-    "totalMovingTime": 74307227,
+    "totalDistance": 261886200,
+    "totalMovingTime": 74313887,
     "totalElevation": 1922791.6
   },
   "monthStats": {
-    "totalDistance": 5885800,
-    "totalMovingTime": 1727400,
+    "totalDistance": 5886100,
+    "totalMovingTime": 1734060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5885800,
-    "totalMovingTime": 1727400,
-    "count": 581
+    "totalDistance": 5886100,
+    "totalMovingTime": 1734060,
+    "count": 583
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 246088.9,
+    "measuredDistanceKm": 246089.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20867367658",
+        "name": "Morning Workout",
+        "date": "November 5, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:47:15",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Reynaldo Guerra",
         "athleteId": "59804669",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Irene Adkins",
-        "athleteId": "51333291",
-        "activityId": "20866242052",
-        "name": "Good Morning World 😎😊😎",
-        "date": "November 5, 2026",
-        "distanceKm": 11.1,
-        "stats": [
-          "11.1 km",
-          "36:32",
-          "120 m"
-        ]
-      },
-      {
         "athlete": "David Frerichs",
         "athleteId": "41924749",
         "activityId": "20866458871",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 261885.9
+      "totalWithEstimatesKm": 261886.2
     }
   }
 }

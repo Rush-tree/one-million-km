@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-04T23:30:43.815Z",
+  "generatedAt": "2026-11-05T00:00:53.516Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 738536,
+    "remainingKm": 738533,
     "percentComplete": 26.15,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 47,
-    "projectedDate": "2027-09-26",
+    "projectedDate": "2027-09-27",
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 5463.9,
-    "thisWeekActivities": 540,
-    "thisWeekHours": 444,
-    "thisWeekElevationM": 39014,
+    "thisWeekKm": 5466.8,
+    "thisWeekActivities": 543,
+    "thisWeekHours": 447,
+    "thisWeekElevationM": 39044,
     "timesAroundEarth": 6.52,
     "percentToMoon": 68,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 40.9,
-        "text": "40.9 return trips Berlin to New York",
+        "value": 41,
+        "text": "41 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21361,
+  "totalActivities": 21364,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 261464000,
-    "totalMovingTime": 74179427,
-    "totalElevation": 1920394.6
+    "totalDistance": 261466900,
+    "totalMovingTime": 74188667,
+    "totalElevation": 1920424.6
   },
   "monthStats": {
-    "totalDistance": 5463900,
-    "totalMovingTime": 1599600,
+    "totalDistance": 5466800,
+    "totalMovingTime": 1608840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5463900,
-    "totalMovingTime": 1599600,
-    "count": 540
+    "totalDistance": 5466800,
+    "totalMovingTime": 1608840,
+    "count": 543
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 245667,
+    "measuredDistanceKm": 245669.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20863479920",
+        "name": "Pedalada ao entardecer",
+        "date": "November 4, 2026",
+        "distanceKm": 2.8,
+        "stats": [
+          "2.8 km",
+          "9:44",
+          "30 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -121,6 +134,19 @@
           "5.0 km",
           "17:18",
           "53 m"
+        ]
+      },
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20863470101",
+        "name": "Musculação ao entardecer",
+        "date": "November 4, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:32:34",
+          "0 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "33:20",
           "67 m"
         ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20862282738",
-        "name": "Pedalada ao entardecer",
-        "date": "November 4, 2026",
-        "distanceKm": 4.3,
-        "stats": [
-          "4.3 km",
-          "26:46",
-          "35 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20862290556",
-        "name": "Yoga in der Nacht",
-        "date": "November 4, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "30:32",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 261464
+      "totalWithEstimatesKm": 261466.9
     }
   }
 }

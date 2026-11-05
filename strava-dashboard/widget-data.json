@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-05T05:00:53.331Z",
+  "generatedAt": "2026-11-05T05:30:49.219Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-05T05:00:53.331Z",
+  "memberCountUpdatedAt": "2026-11-05T05:30:49.218Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 554,
-    "distanceKm": 5638.8,
-    "elevationM": 39501,
-    "movingSeconds": 1651860,
+    "activities": 558,
+    "distanceKm": 5654.1,
+    "elevationM": 39557,
+    "movingSeconds": 1660200,
     "raw": {
-      "activities": "554",
-      "distance": "5,638.8 km",
-      "time": "458 h 51 m",
-      "elevation": "39,501 m"
+      "activities": "558",
+      "distance": "5,654.1 km",
+      "time": "461 h 10 m",
+      "elevation": "39,557 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "20865556234",
+      "name": "Corsa mattutina",
+      "date": "November 5, 2026",
+      "distanceKm": 10.7,
+      "stats": [
+        "10.7 km",
+        "1:00:24",
+        "12 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -32,16 +45,16 @@
       ]
     },
     {
-      "athlete": "Benny Pos",
-      "athleteId": "85148884",
-      "activityId": "20865324772",
-      "name": "🥱🚴 Work",
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20865540268",
+      "name": "Gewichtstraining am Morgen",
       "date": "November 5, 2026",
-      "distanceKm": 6.1,
+      "distanceKm": 0,
       "stats": [
-        "6.1 km",
-        "15:23",
-        "17 m"
+        "0 km",
+        "33:26",
+        "0 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "1:10:55",
         "24 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "20864952560",
-      "name": "Morning HIIT",
-      "date": "November 5, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "10:47",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 122833.8,
-  "totalDistanceKm": 245841.9,
+  "observedWeeksKm": 122849.1,
+  "totalDistanceKm": 245857.2,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 261638.9
+    "totalWithEstimatesKm": 261654.2
   }
 }

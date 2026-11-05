@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-05T10:00:52.453Z",
+  "generatedAt": "2026-11-05T10:30:46.458Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-05T10:00:52.453Z",
+  "memberCountUpdatedAt": "2026-11-05T10:30:46.458Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 583,
-    "distanceKm": 5886.1,
-    "elevationM": 41411,
-    "movingSeconds": 1734060,
+    "activities": 585,
+    "distanceKm": 5898.5,
+    "elevationM": 41437,
+    "movingSeconds": 1738440,
     "raw": {
-      "activities": "583",
-      "distance": "5,886.1 km",
-      "time": "481 h 41 m",
-      "elevation": "41,411 m"
+      "activities": "585",
+      "distance": "5,898.5 km",
+      "time": "482 h 54 m",
+      "elevation": "41,437 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20867628544",
+      "name": "Morning Walk",
+      "date": "November 5, 2026",
+      "distanceKm": 1.4,
+      "stats": [
+        "1.4 km",
+        "25:23",
+        "0 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -69,19 +82,6 @@
         "1:01:07",
         "256 m"
       ]
-    },
-    {
-      "athlete": "David Frerichs",
-      "athleteId": "41924749",
-      "activityId": "20866458871",
-      "name": "Lauf am Morgen",
-      "date": "November 5, 2026",
-      "distanceKm": 17,
-      "stats": [
-        "17.0 km",
-        "1:42:17",
-        "37 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 123081.1,
-  "totalDistanceKm": 246089.2,
+  "observedWeeksKm": 123093.5,
+  "totalDistanceKm": 246101.6,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 261886.2
+    "totalWithEstimatesKm": 261898.6
   }
 }

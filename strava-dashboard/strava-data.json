@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-06T14:00:58.044Z",
+  "generatedAt": "2026-11-06T14:30:46.889Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 735883,
-    "percentComplete": 26.41,
+    "remainingKm": 735775,
+    "percentComplete": 26.42,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 46,
-    "projectedDate": "2027-09-27",
+    "projectedDate": "2027-09-26",
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 8116.5,
-    "thisWeekActivities": 791,
-    "thisWeekHours": 663,
-    "thisWeekElevationM": 57915,
+    "thisWeekKm": 8224.8,
+    "thisWeekActivities": 798,
+    "thisWeekHours": 670,
+    "thisWeekElevationM": 58969,
     "timesAroundEarth": 6.59,
     "percentToMoon": 68.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21618,
+  "totalActivities": 21625,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 264116600,
-    "totalMovingTime": 74967947,
-    "totalElevation": 1939295.6
+    "totalDistance": 264224900,
+    "totalMovingTime": 74991767,
+    "totalElevation": 1940349.6
   },
   "monthStats": {
-    "totalDistance": 8116500,
-    "totalMovingTime": 2388120,
+    "totalDistance": 8224800,
+    "totalMovingTime": 2411940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8116500,
-    "totalMovingTime": 2388120,
-    "count": 791
+    "totalDistance": 8224800,
+    "totalMovingTime": 2411940,
+    "count": 798
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 248319.6,
+    "measuredDistanceKm": 248427.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20882677035",
-        "name": "Afternoon Walk",
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20883033082",
+        "name": "Spaziergang am Nachmittag",
         "date": "November 6, 2026",
-        "distanceKm": 1.8,
+        "distanceKm": 2.1,
         "stats": [
-          "1.8 km",
-          "42:20",
-          "6 m"
+          "2.1 km",
+          "25:41",
+          "76 m"
+        ]
+      },
+      {
+        "athlete": "Josué González",
+        "athleteId": "178408867",
+        "activityId": "20883007071",
+        "name": "Morning Run",
+        "date": "November 6, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "27:16",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20883062431",
+        "name": "Gemütlicher Waldlauf 🌳",
+        "date": "November 6, 2026",
+        "distanceKm": 11.1,
+        "stats": [
+          "11.1 km",
+          "1:01:52",
+          "140 m"
         ]
       },
       {
         "athlete": "Falko Frese",
         "athleteId": "11833410",
-        "activityId": "20881744787",
-        "name": "Commute #125/2026 🏡",
+        "activityId": "20883036635",
+        "name": "Zwift - Group Ride: Long - Stage 5 - Tour of Watopia 2026",
         "date": "November 6, 2026",
-        "distanceKm": 8.6,
+        "distanceKm": 51.3,
         "stats": [
-          "8.6 km",
-          "19:19",
-          "121 m"
+          "51.3 km",
+          "1:19:09",
+          "483 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "10.4 km",
           "2:08:16",
           "45 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20881823022",
-        "name": "Lunch Ride",
-        "date": "November 6, 2026",
-        "distanceKm": 12.1,
-        "stats": [
-          "12.1 km",
-          "1:54:46",
-          "83 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20881437509",
-        "name": "Wandelen me de padré",
-        "date": "November 6, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "1:28:34",
-          "35 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 264116.6
+      "totalWithEstimatesKm": 264224.9
     }
   }
 }

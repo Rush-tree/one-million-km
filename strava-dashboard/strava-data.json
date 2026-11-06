@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T16:00:56.894Z",
+  "generatedAt": "2026-11-06T16:30:43.787Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 735559,
-    "percentComplete": 26.44,
+    "remainingKm": 735543,
+    "percentComplete": 26.45,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 8441.1,
-    "thisWeekActivities": 814,
-    "thisWeekHours": 687,
-    "thisWeekElevationM": 60165,
+    "thisWeekKm": 8456.5,
+    "thisWeekActivities": 819,
+    "thisWeekHours": 690,
+    "thisWeekElevationM": 60521,
     "timesAroundEarth": 6.6,
     "percentToMoon": 68.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21640,
+  "totalActivities": 21646,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 264441200,
-    "totalMovingTime": 75052427,
-    "totalElevation": 1941545.6
+    "totalDistance": 264456600,
+    "totalMovingTime": 75063287,
+    "totalElevation": 1941901.6
   },
   "monthStats": {
-    "totalDistance": 8441100,
-    "totalMovingTime": 2472600,
+    "totalDistance": 8456500,
+    "totalMovingTime": 2483460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8441100,
-    "totalMovingTime": 2472600,
-    "count": 814
+    "totalDistance": 8456500,
+    "totalMovingTime": 2483460,
+    "count": 819
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 248644.2,
+    "measuredDistanceKm": 248659.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Dirk Mang",
+        "athleteId": "60711719",
+        "activityId": "20884222026",
+        "name": "E-Bike-Fahrt am Nachmittag",
+        "date": "November 6, 2026",
+        "distanceKm": 5.8,
+        "stats": [
+          "5.8 km",
+          "15:54",
+          "97 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20883905471",
-        "name": "Ettermiddag med sykkeltur",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20884105458",
+        "name": "Kreiseln am Schloss Solitude 🏃🏃🏃 …",
         "date": "November 6, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 5.7,
         "stats": [
-          "4.4 km",
-          "27:34",
-          "56 m"
+          "5.7 km",
+          "43:04",
+          "234 m"
+        ]
+      },
+      {
+        "athlete": "Biken Ginayatova",
+        "athleteId": "92872558",
+        "activityId": "20884319328",
+        "name": "Evening Weight Training",
+        "date": "November 6, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:09:52",
+          "0 m"
         ]
       },
       {
         "athlete": "Rainer Gatzmaga",
         "athleteId": "119550686",
         "activityId": "20884038572",
-        "name": "Lauf am Nachmittag",
+        "name": "The Green, Green Grass of Home 🤩",
         "date": "November 6, 2026",
         "distanceKm": 7.6,
         "stats": [
           "7.6 km",
           "1:05:53",
           "78 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "20883822169",
-        "name": "Gravel-Fahrt am Nachmittag",
-        "date": "November 6, 2026",
-        "distanceKm": 49.5,
-        "stats": [
-          "49.5 km",
-          "2:41:32",
-          "103 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20883770831",
-        "name": "Lauf am Nachmittag",
-        "date": "November 6, 2026",
-        "distanceKm": 16,
-        "stats": [
-          "16.0 km",
-          "1:15:03",
-          "32 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 264441.2
+      "totalWithEstimatesKm": 264456.6
     }
   }
 }

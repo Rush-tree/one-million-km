@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T17:00:57.713Z",
+  "generatedAt": "2026-11-06T17:30:45.998Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 735487,
-    "percentComplete": 26.45,
+    "remainingKm": 735430,
+    "percentComplete": 26.46,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 8512.9,
-    "thisWeekActivities": 826,
-    "thisWeekHours": 697,
-    "thisWeekElevationM": 61171,
+    "thisWeekKm": 8570,
+    "thisWeekActivities": 831,
+    "thisWeekHours": 700,
+    "thisWeekElevationM": 61645,
     "timesAroundEarth": 6.6,
     "percentToMoon": 68.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21653,
+  "totalActivities": 21658,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 264513000,
-    "totalMovingTime": 75087647,
-    "totalElevation": 1942551.6
+    "totalDistance": 264570100,
+    "totalMovingTime": 75098387,
+    "totalElevation": 1943025.6
   },
   "monthStats": {
-    "totalDistance": 8512900,
-    "totalMovingTime": 2507820,
+    "totalDistance": 8570000,
+    "totalMovingTime": 2518560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8512900,
-    "totalMovingTime": 2507820,
-    "count": 826
+    "totalDistance": 8570000,
+    "totalMovingTime": 2518560,
+    "count": 831
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 248716,
+    "measuredDistanceKm": 248773.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20884890387",
+        "name": "Zwift - Clarence Drive in Video",
+        "date": "November 6, 2026",
+        "distanceKm": 16.8,
+        "stats": [
+          "16.8 km",
+          "39:46",
+          "189 m"
+        ]
+      },
+      {
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "20884926390",
+        "name": "Zwift - Colorado River Sunrise in Video",
+        "date": "November 6, 2026",
+        "distanceKm": 25.4,
+        "stats": [
+          "25.4 km",
+          "51:07",
+          "259 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Furansuwa B.",
-        "athleteId": "94754434",
-        "activityId": "20884453747",
-        "name": "Course à pied dans l'après-midi",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20884890857",
+        "name": "Morning Walk",
         "date": "November 6, 2026",
-        "distanceKm": 9,
+        "distanceKm": 3.1,
         "stats": [
-          "9.0 km",
-          "51:49",
-          "54 m"
-        ]
-      },
-      {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20884729926",
-        "name": "12km DL Z2",
-        "date": "November 6, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "1:13:40",
-          "125 m"
+          "3.1 km",
+          "1:11:01",
+          "3 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "10.1 km",
           "2:06:14",
           "297 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20884572598",
-        "name": "Lauf am Nachmittag",
-        "date": "November 6, 2026",
-        "distanceKm": 7.7,
-        "stats": [
-          "7.7 km",
-          "46:55",
-          "18 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 264513
+      "totalWithEstimatesKm": 264570.1
     }
   }
 }

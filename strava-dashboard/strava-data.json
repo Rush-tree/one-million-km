@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T18:30:45.865Z",
+  "generatedAt": "2026-11-06T19:30:45.486Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 735107,
-    "percentComplete": 26.49,
+    "remainingKm": 734955,
+    "percentComplete": 26.5,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 8892.9,
-    "thisWeekActivities": 844,
-    "thisWeekHours": 716,
-    "thisWeekElevationM": 62750,
+    "thisWeekKm": 9045.3,
+    "thisWeekActivities": 850,
+    "thisWeekHours": 724,
+    "thisWeekElevationM": 64174,
     "timesAroundEarth": 6.61,
-    "percentToMoon": 68.9,
+    "percentToMoon": 69,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 68.9,
-        "text": "68.9% of the way to the Moon",
+        "value": 69,
+        "text": "69% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 39.8,
-        "text": "39.8× the length of the Nile",
+        "value": 39.9,
+        "text": "39.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21670,
+  "totalActivities": 21675,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 264893000,
-    "totalMovingTime": 75156527,
-    "totalElevation": 1944130.6
+    "totalDistance": 265045400,
+    "totalMovingTime": 75186707,
+    "totalElevation": 1945554.6
   },
   "monthStats": {
-    "totalDistance": 8892900,
-    "totalMovingTime": 2576700,
+    "totalDistance": 9045300,
+    "totalMovingTime": 2606880,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8892900,
-    "totalMovingTime": 2576700,
-    "count": 844
+    "totalDistance": 9045300,
+    "totalMovingTime": 2606880,
+    "count": 850
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 249096,
+    "measuredDistanceKm": 249248.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "20886210368",
+        "name": "Gece Yürüyüş",
+        "date": "November 6, 2026",
+        "distanceKm": 1.3,
+        "stats": [
+          "1.3 km",
+          "19:19",
+          "86 m"
+        ]
+      },
+      {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20885890444",
+        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
+        "date": "November 6, 2026",
+        "distanceKm": 35.2,
+        "stats": [
+          "35.2 km",
+          "1:11:59",
+          "134 m"
+        ]
+      },
       {
         "athlete": "Jürgen Föll",
         "athleteId": "41355823",
@@ -137,36 +163,10 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20885568157",
-        "name": "Fahrt am Nachmittag",
-        "date": "November 6, 2026",
-        "distanceKm": 65.6,
-        "stats": [
-          "65.6 km",
-          "2:47:06",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20885535655",
-        "name": "Zwift - Endurance Journey",
-        "date": "November 6, 2026",
-        "distanceKm": 86.1,
-        "stats": [
-          "86.1 km",
-          "2:46:31",
-          "234 m"
-        ]
-      },
-      {
         "athlete": "# MarshmallowBen",
         "athleteId": "114783849",
         "activityId": "20885543382",
-        "name": "Abendausfahrt",
+        "name": "Arbeitsweg PSL",
         "date": "November 6, 2026",
         "distanceKm": 16.1,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 264893
+      "totalWithEstimatesKm": 265045.4
     }
   }
 }

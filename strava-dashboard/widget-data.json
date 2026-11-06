@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-06T12:00:56.833Z",
+  "generatedAt": "2026-11-06T12:30:43.561Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-06T12:00:56.833Z",
+  "memberCountUpdatedAt": "2026-11-06T12:30:43.561Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 772,
-    "distanceKm": 7898.8,
-    "elevationM": 56330,
-    "movingSeconds": 2323800,
+    "activities": 776,
+    "distanceKm": 7936.9,
+    "elevationM": 56802,
+    "movingSeconds": 2332680,
     "raw": {
-      "activities": "772",
-      "distance": "7,898.8 km",
-      "time": "645 h 30 m",
-      "elevation": "56,330 m"
+      "activities": "776",
+      "distance": "7,936.9 km",
+      "time": "647 h 58 m",
+      "elevation": "56,802 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "20881744787",
+      "name": "Commute #125/2026 🏡",
+      "date": "November 6, 2026",
+      "distanceKm": 8.6,
+      "stats": [
+        "8.6 km",
+        "19:19",
+        "121 m"
+      ]
+    },
     {
       "athlete": "Sascha Gebel",
       "athleteId": "19964716",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "Tim Siber",
+      "athleteId": "91630363",
+      "activityId": "20881823022",
+      "name": "Lunch Ride",
+      "date": "November 6, 2026",
+      "distanceKm": 12.1,
+      "stats": [
+        "12.1 km",
+        "1:54:46",
+        "83 m"
+      ]
+    },
+    {
       "athlete": "Jasper Mermans",
       "athleteId": "25786886",
       "activityId": "20881437509",
@@ -56,32 +82,6 @@
         "1:28:34",
         "35 m"
       ]
-    },
-    {
-      "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
-      "athleteId": "24992941",
-      "activityId": "20881240273",
-      "name": "Ochtendloop",
-      "date": "November 6, 2026",
-      "distanceKm": 17,
-      "stats": [
-        "17.0 km",
-        "1:38:13",
-        "19 m"
-      ]
-    },
-    {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "20880943765",
-      "name": "Ciclismo mattutino",
-      "date": "November 6, 2026",
-      "distanceKm": 12.1,
-      "stats": [
-        "12.1 km",
-        "2:04:40",
-        "3 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 125093.8,
-  "totalDistanceKm": 248101.9,
+  "observedWeeksKm": 125131.9,
+  "totalDistanceKm": 248140,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 263898.9
+    "totalWithEstimatesKm": 263937
   }
 }

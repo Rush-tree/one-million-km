@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-05T23:30:44.821Z",
+  "generatedAt": "2026-11-06T00:00:52.655Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 736928,
-    "percentComplete": 26.31,
+    "remainingKm": 736777,
+    "percentComplete": 26.32,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 46,
-    "projectedDate": "2027-09-26",
+    "projectedDate": "2027-09-27",
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 7072,
-    "thisWeekActivities": 705,
-    "thisWeekHours": 586,
-    "thisWeekElevationM": 49758,
-    "timesAroundEarth": 6.56,
-    "percentToMoon": 68.4,
+    "thisWeekKm": 7223.1,
+    "thisWeekActivities": 706,
+    "thisWeekHours": 591,
+    "thisWeekElevationM": 50806,
+    "timesAroundEarth": 6.57,
+    "percentToMoon": 68.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 68.4,
-        "text": "68.4% of the way to the Moon",
+        "value": 68.5,
+        "text": "68.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 263072100,
-    "totalMovingTime": 74687807,
-    "totalElevation": 1931138.6
+    "totalDistance": 263223200,
+    "totalMovingTime": 74708327,
+    "totalElevation": 1932186.6
   },
   "monthStats": {
-    "totalDistance": 7072000,
-    "totalMovingTime": 2107980,
+    "totalDistance": 7223100,
+    "totalMovingTime": 2128500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7072000,
-    "totalMovingTime": 2107980,
-    "count": 705
+    "totalDistance": 7223100,
+    "totalMovingTime": 2128500,
+    "count": 706
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 247275.1,
+    "measuredDistanceKm": 247426.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 263072.1
+      "totalWithEstimatesKm": 263223.2
     }
   }
 }

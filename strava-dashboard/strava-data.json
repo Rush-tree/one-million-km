@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T20:00:55.571Z",
+  "generatedAt": "2026-11-06T20:30:45.235Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 734955,
-    "percentComplete": 26.5,
+    "remainingKm": 734942,
+    "percentComplete": 26.51,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 9045.3,
-    "thisWeekActivities": 850,
-    "thisWeekHours": 724,
-    "thisWeekElevationM": 64174,
+    "thisWeekKm": 9057.6,
+    "thisWeekActivities": 852,
+    "thisWeekHours": 727,
+    "thisWeekElevationM": 64538,
     "timesAroundEarth": 6.61,
     "percentToMoon": 69,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21675,
+  "totalActivities": 21677,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 265045400,
-    "totalMovingTime": 75186707,
-    "totalElevation": 1945554.6
+    "totalDistance": 265057700,
+    "totalMovingTime": 75198047,
+    "totalElevation": 1945918.6
   },
   "monthStats": {
-    "totalDistance": 9045300,
-    "totalMovingTime": 2606880,
+    "totalDistance": 9057600,
+    "totalMovingTime": 2618220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9045300,
-    "totalMovingTime": 2606880,
-    "count": 850
+    "totalDistance": 9057600,
+    "totalMovingTime": 2618220,
+    "count": 852
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 249248.4,
+    "measuredDistanceKm": 249260.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "1.3 km",
           "19:19",
           "86 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20886631749",
+        "name": "Abendspaziergang",
+        "date": "November 6, 2026",
+        "distanceKm": 3.4,
+        "stats": [
+          "3.4 km",
+          "47:12",
+          "45 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20885562307",
-        "name": "Zwift - Group Ride: Long - Stage 5 - Tour of Watopia 2026",
+        "athlete": "Marisa Funk",
+        "athleteId": "157343980",
+        "activityId": "20886616116",
+        "name": "einmal quer durch Antwerpen spaziert",
         "date": "November 6, 2026",
-        "distanceKm": 43,
+        "distanceKm": 8.8,
         "stats": [
-          "43.0 km",
-          "2:16:02",
-          "457 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20885543382",
-        "name": "Arbeitsweg PSL",
-        "date": "November 6, 2026",
-        "distanceKm": 16.1,
-        "stats": [
-          "16.1 km",
-          "36:44",
-          "17 m"
+          "8.8 km",
+          "7:14:38",
+          "318 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 265045.4
+      "totalWithEstimatesKm": 265057.7
     }
   }
 }

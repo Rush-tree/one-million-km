@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T15:14:13.863Z",
+  "generatedAt": "2026-11-06T15:30:45.803Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 735663,
-    "percentComplete": 26.43,
+    "remainingKm": 735625,
+    "percentComplete": 26.44,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 8337.1,
-    "thisWeekActivities": 807,
-    "thisWeekHours": 680,
-    "thisWeekElevationM": 59696,
+    "thisWeekKm": 8375.1,
+    "thisWeekActivities": 810,
+    "thisWeekHours": 683,
+    "thisWeekElevationM": 59905,
     "timesAroundEarth": 6.6,
     "percentToMoon": 68.8,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 39.7,
-        "text": "39.7× the length of the Nile",
+        "value": 39.8,
+        "text": "39.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21634,
+  "totalActivities": 21637,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 264337200,
-    "totalMovingTime": 75028547,
-    "totalElevation": 1941076.6
+    "totalDistance": 264375200,
+    "totalMovingTime": 75040127,
+    "totalElevation": 1941285.6
   },
   "monthStats": {
-    "totalDistance": 8337100,
-    "totalMovingTime": 2448720,
+    "totalDistance": 8375100,
+    "totalMovingTime": 2460300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8337100,
-    "totalMovingTime": 2448720,
-    "count": 807
+    "totalDistance": 8375100,
+    "totalMovingTime": 2460300,
+    "count": 810
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,21 +105,21 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 248540.2,
+    "measuredDistanceKm": 248578.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Josué González",
-        "athleteId": "178408867",
-        "activityId": "20883588571",
-        "name": "Morning Weight Training",
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20883638457",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "November 6, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "29:33",
+          "54:08",
           "0 m"
         ]
       },
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20883488793",
-        "name": "Crosstrainer-Einheit am Nachmittag",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20883770831",
+        "name": "Lauf am Nachmittag",
         "date": "November 6, 2026",
-        "distanceKm": 0,
+        "distanceKm": 16,
         "stats": [
-          "0 km",
-          "1:06:33",
-          "0 m"
+          "16.0 km",
+          "1:15:03",
+          "32 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 264337.2
+      "totalWithEstimatesKm": 264375.2
     }
   }
 }

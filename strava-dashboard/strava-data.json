@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T06:00:52.474Z",
+  "generatedAt": "2026-11-06T06:30:46.601Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 736635,
+    "remainingKm": 736592,
     "percentComplete": 26.34,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 7364.8,
-    "thisWeekActivities": 725,
-    "thisWeekHours": 605,
-    "thisWeekElevationM": 52077,
+    "thisWeekKm": 7407.6,
+    "thisWeekActivities": 730,
+    "thisWeekHours": 608,
+    "thisWeekElevationM": 52496,
     "timesAroundEarth": 6.57,
     "percentToMoon": 68.5,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 41.2,
-        "text": "41.2 return trips Berlin to New York",
+        "value": 41.3,
+        "text": "41.3 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21551,
+  "totalActivities": 21556,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 263364900,
-    "totalMovingTime": 74759267,
-    "totalElevation": 1933457.6
+    "totalDistance": 263407700,
+    "totalMovingTime": 74769827,
+    "totalElevation": 1933876.6
   },
   "monthStats": {
-    "totalDistance": 7364800,
-    "totalMovingTime": 2179440,
+    "totalDistance": 7407600,
+    "totalMovingTime": 2190000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7364800,
-    "totalMovingTime": 2179440,
-    "count": 725
+    "totalDistance": 7407600,
+    "totalMovingTime": 2190000,
+    "count": 730
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 247567.9,
+    "measuredDistanceKm": 247610.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20878777138",
+        "name": "Freitags Frühstücksservice",
+        "date": "November 6, 2026",
+        "distanceKm": 3.8,
+        "stats": [
+          "3.8 km",
+          "12:32",
+          "29 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "20878667844",
+        "name": "Lauf am Morgen",
+        "date": "November 6, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "48:36",
+          "83 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -124,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20878402871",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "20878751879",
+        "name": "🌙 Fahrt am Morgen",
         "date": "November 6, 2026",
-        "distanceKm": 0,
+        "distanceKm": 5.9,
         "stats": [
-          "0 km",
-          "32:16",
-          "0 m"
+          "5.9 km",
+          "14:34",
+          "21 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "14.4 km",
           "1:30:26",
           "43 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "20878452660",
-        "name": "Morning Weight Training_ Legs Day",
-        "date": "November 6, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:11:32",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20878443872",
-        "name": "Morning Run",
-        "date": "November 6, 2026",
-        "distanceKm": 12.1,
-        "stats": [
-          "12.1 km",
-          "1:45:53",
-          "181 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 263364.9
+      "totalWithEstimatesKm": 263407.7
     }
   }
 }

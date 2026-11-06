@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-06T01:00:50.777Z",
+  "generatedAt": "2026-11-06T01:30:42.658Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-06T01:00:50.777Z",
+  "memberCountUpdatedAt": "2026-11-06T01:30:42.658Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 708,
-    "distanceKm": 7225.5,
+    "activities": 709,
+    "distanceKm": 7227.5,
     "elevationM": 50806,
-    "movingSeconds": 2134680,
+    "movingSeconds": 2136180,
     "raw": {
-      "activities": "708",
-      "distance": "7,225.5 km",
-      "time": "592 h 58 m",
+      "activities": "709",
+      "distance": "7,227.5 km",
+      "time": "593 h 23 m",
       "elevation": "50,806 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20877431324",
+      "name": "Evening Walk",
+      "date": "November 5, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "31:43",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -69,19 +82,6 @@
         "31:48",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Ricardo Ferre",
-      "athleteId": "45223374",
-      "activityId": "20875066773",
-      "name": "Evening Weight Training",
-      "date": "November 5, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "2:23:04",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 124420.5,
-  "totalDistanceKm": 247428.6,
+  "observedWeeksKm": 124422.5,
+  "totalDistanceKm": 247430.6,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 263225.6
+    "totalWithEstimatesKm": 263227.6
   }
 }

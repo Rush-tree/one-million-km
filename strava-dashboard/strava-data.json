@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T17:00:57.185Z",
+  "generatedAt": "2026-11-07T17:30:48.018Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 733479,
+    "remainingKm": 733466,
     "percentComplete": 26.65,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 10520.7,
-    "thisWeekActivities": 963,
-    "thisWeekHours": 838,
-    "thisWeekElevationM": 76203,
+    "thisWeekKm": 10533.8,
+    "thisWeekActivities": 967,
+    "thisWeekHours": 840,
+    "thisWeekElevationM": 76249,
     "timesAroundEarth": 6.65,
     "percentToMoon": 69.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21788,
+  "totalActivities": 21792,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 266520800,
-    "totalMovingTime": 75595307,
-    "totalElevation": 1957583.6
+    "totalDistance": 266533900,
+    "totalMovingTime": 75604607,
+    "totalElevation": 1957629.6
   },
   "monthStats": {
-    "totalDistance": 10520700,
-    "totalMovingTime": 3015480,
+    "totalDistance": 10533800,
+    "totalMovingTime": 3024780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10520700,
-    "totalMovingTime": 3015480,
-    "count": 963
+    "totalDistance": 10533800,
+    "totalMovingTime": 3024780,
+    "count": 967
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 250723.8,
+    "measuredDistanceKm": 250736.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20898302956",
+        "name": "8K 🏃Sunset 🌇 Shake Out Run Baby",
+        "date": "November 7, 2026",
+        "distanceKm": 8.1,
+        "stats": [
+          "8.1 km",
+          "45:34",
+          "29 m"
+        ]
+      },
+      {
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20898129793",
+        "name": "Carrera por la mañana",
+        "date": "November 7, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "29:24",
+          "17 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "20898103164",
+        "name": "Lower B (Hypertrophy)",
+        "date": "November 7, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "55:05",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Susanne Liepert",
         "athleteId": "28515644",
@@ -121,45 +160,6 @@
           "46.1 km",
           "1:24:57",
           "470 m"
-        ]
-      },
-      {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20896953061",
-        "name": "Zwift - Col du Galibier, Lautaret in Video",
-        "date": "November 7, 2026",
-        "distanceKm": 16.8,
-        "stats": [
-          "16.8 km",
-          "1:01:47",
-          "576 m"
-        ]
-      },
-      {
-        "athlete": "Heiko Kraushaar",
-        "athleteId": "78179687",
-        "activityId": "20897281868",
-        "name": "Fahrt am Nachmittag",
-        "date": "November 7, 2026",
-        "distanceKm": 70.1,
-        "stats": [
-          "70.1 km",
-          "3:00:07",
-          "399 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "20897127109",
-        "name": "Da was wijd wandelen vo ne choco",
-        "date": "November 7, 2026",
-        "distanceKm": 8.5,
-        "stats": [
-          "8.5 km",
-          "2:54:09",
-          "46 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 266520.8
+      "totalWithEstimatesKm": 266533.9
     }
   }
 }

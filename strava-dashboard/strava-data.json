@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-06T23:30:45.570Z",
+  "generatedAt": "2026-11-07T00:00:55.205Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 734928,
+    "remainingKm": 734912,
     "percentComplete": 26.51,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
     "weeksToGoal": 46,
-    "projectedDate": "2027-09-26",
+    "projectedDate": "2027-09-27",
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 9071.8,
-    "thisWeekActivities": 857,
-    "thisWeekHours": 732,
-    "thisWeekElevationM": 64614,
+    "thisWeekKm": 9088.2,
+    "thisWeekActivities": 861,
+    "thisWeekHours": 735,
+    "thisWeekElevationM": 64776,
     "timesAroundEarth": 6.61,
     "percentToMoon": 69,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21683,
+  "totalActivities": 21687,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 265071900,
-    "totalMovingTime": 75214547,
-    "totalElevation": 1945994.6
+    "totalDistance": 265088300,
+    "totalMovingTime": 75225707,
+    "totalElevation": 1946156.6
   },
   "monthStats": {
-    "totalDistance": 9071800,
-    "totalMovingTime": 2634720,
+    "totalDistance": 9088200,
+    "totalMovingTime": 2645880,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9071800,
-    "totalMovingTime": 2634720,
-    "count": 857
+    "totalDistance": 9088200,
+    "totalMovingTime": 2645880,
+    "count": 861
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 249274.9,
+    "measuredDistanceKm": 249291.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20888270798",
+        "name": "Corrida ao entardecer",
+        "date": "November 6, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "32:41",
+          "34 m"
+        ]
+      },
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20888243726",
+        "name": "Morning Run",
+        "date": "November 7, 2026",
+        "distanceKm": 6.1,
+        "stats": [
+          "6.1 km",
+          "54:36",
+          "35 m"
+        ]
+      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -124,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Yuri Luna",
+        "athleteId": "126667110",
+        "activityId": "20888270571",
+        "name": "Musculação ao entardecer",
+        "date": "November 6, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:02:13",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Goro Shigeno",
         "athleteId": "37029557",
         "activityId": "20888121031",
@@ -134,45 +173,6 @@
           "8.1 km",
           "42:05",
           "48 m"
-        ]
-      },
-      {
-        "athlete": "Yuri Luna",
-        "athleteId": "126667110",
-        "activityId": "20887332699",
-        "name": "Caminhada vespertina",
-        "date": "November 6, 2026",
-        "distanceKm": 4,
-        "stats": [
-          "4.0 km",
-          "50:37",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20886210368",
-        "name": "Gece Yürüyüş",
-        "date": "November 6, 2026",
-        "distanceKm": 1.3,
-        "stats": [
-          "1.3 km",
-          "19:19",
-          "86 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20886631749",
-        "name": "Abendspaziergang",
-        "date": "November 6, 2026",
-        "distanceKm": 3.4,
-        "stats": [
-          "3.4 km",
-          "47:12",
-          "45 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 265071.9
+      "totalWithEstimatesKm": 265088.3
     }
   }
 }

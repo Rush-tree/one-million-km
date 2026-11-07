@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T14:30:45.357Z",
+  "generatedAt": "2026-11-07T15:00:58.209Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 733898,
+    "remainingKm": 733874,
     "percentComplete": 26.61,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 10101.6,
-    "thisWeekActivities": 942,
-    "thisWeekHours": 811,
-    "thisWeekElevationM": 73351,
+    "thisWeekKm": 10126.2,
+    "thisWeekActivities": 944,
+    "thisWeekHours": 813,
+    "thisWeekElevationM": 73458,
     "timesAroundEarth": 6.64,
     "percentToMoon": 69.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21768,
+  "totalActivities": 21770,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 266101700,
-    "totalMovingTime": 75498647,
-    "totalElevation": 1954731.6
+    "totalDistance": 266126300,
+    "totalMovingTime": 75507767,
+    "totalElevation": 1954838.6
   },
   "monthStats": {
-    "totalDistance": 10101600,
-    "totalMovingTime": 2918820,
+    "totalDistance": 10126200,
+    "totalMovingTime": 2927940,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10101600,
-    "totalMovingTime": 2918820,
-    "count": 942
+    "totalDistance": 10126200,
+    "totalMovingTime": 2927940,
+    "count": 944
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 250304.7,
+    "measuredDistanceKm": 250329.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,16 +124,42 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20894984254",
-        "name": "Schwimmen am Nachmittag",
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20896233626",
+        "name": "Afternoon Swim",
         "date": "November 7, 2026",
-        "distanceKm": 0.5,
+        "distanceKm": 1.9,
         "stats": [
-          "0.5 km",
-          "30:24",
-          "0 m"
+          "1.9 km",
+          "1:07:06",
+          "29 m"
+        ]
+      },
+      {
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20895950886",
+        "name": "Zwift - Z2 / Z3",
+        "date": "November 7, 2026",
+        "distanceKm": 38.9,
+        "stats": [
+          "38.9 km",
+          "1:05:27",
+          "59 m"
+        ]
+      },
+      {
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20895957834",
+        "name": "Lauf am Nachmittag",
+        "date": "November 7, 2026",
+        "distanceKm": 15.3,
+        "stats": [
+          "15.3 km",
+          "1:20:10",
+          "19 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "20.0 km",
           "1:49:14",
           "270 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "20895099699",
-        "name": "Short evening Ride after Diwali decoration.",
-        "date": "November 7, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "1:47:43",
-          "10 m"
-        ]
-      },
-      {
-        "athlete": "Jaron Saam",
-        "athleteId": "91151036",
-        "activityId": "20895270952",
-        "name": "Kalter Groupride 🍁",
-        "date": "November 7, 2026",
-        "distanceKm": 51.2,
-        "stats": [
-          "51.2 km",
-          "2:05:14",
-          "143 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 266101.7
+      "totalWithEstimatesKm": 266126.3
     }
   }
 }

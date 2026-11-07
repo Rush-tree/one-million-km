@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T13:30:47.001Z",
+  "generatedAt": "2026-11-07T14:00:54.187Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 734037,
-    "percentComplete": 26.6,
+    "remainingKm": 733901,
+    "percentComplete": 26.61,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 9962.7,
-    "thisWeekActivities": 936,
-    "thisWeekHours": 804,
-    "thisWeekElevationM": 72900,
+    "thisWeekKm": 10099.3,
+    "thisWeekActivities": 940,
+    "thisWeekHours": 810,
+    "thisWeekElevationM": 73316,
     "timesAroundEarth": 6.64,
     "percentToMoon": 69.2,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 12.5,
-        "text": "12.5× the Great Wall of China",
+        "value": 12.6,
+        "text": "12.6× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 20.1,
-        "text": "20.1× the German autobahn network",
+        "value": 20.2,
+        "text": "20.2× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21763,
+  "totalActivities": 21766,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 265962800,
-    "totalMovingTime": 75474227,
-    "totalElevation": 1954280.6
+    "totalDistance": 266099400,
+    "totalMovingTime": 75495467,
+    "totalElevation": 1954696.6
   },
   "monthStats": {
-    "totalDistance": 9962700,
-    "totalMovingTime": 2894400,
+    "totalDistance": 10099300,
+    "totalMovingTime": 2915640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9962700,
-    "totalMovingTime": 2894400,
-    "count": 936
+    "totalDistance": 10099300,
+    "totalMovingTime": 2915640,
+    "count": 940
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 250165.8,
+    "measuredDistanceKm": 250302.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,6 +137,19 @@
         ]
       },
       {
+        "athlete": "René Rosenberger",
+        "athleteId": "757098365",
+        "activityId": "20895337034",
+        "name": "Mittagslauf",
+        "date": "November 7, 2026",
+        "distanceKm": 20,
+        "stats": [
+          "20.0 km",
+          "1:49:14",
+          "270 m"
+        ]
+      },
+      {
         "athlete": "Mangala Pai",
         "athleteId": "118301293",
         "activityId": "20895099699",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "20894926252",
-        "name": "Lunch Hike",
+        "athlete": "Jaron Saam",
+        "athleteId": "91151036",
+        "activityId": "20895270952",
+        "name": "Kalter Groupride 🍁",
         "date": "November 7, 2026",
-        "distanceKm": 7.3,
+        "distanceKm": 51.2,
         "stats": [
-          "7.3 km",
-          "2:05:26",
-          "153 m"
-        ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "20894725218",
-        "name": "BBall refereeing",
-        "date": "November 7, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "2:14:04",
-          "0 m"
+          "51.2 km",
+          "2:05:14",
+          "143 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 265962.8
+      "totalWithEstimatesKm": 266099.4
     }
   }
 }

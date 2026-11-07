@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T15:30:44.367Z",
+  "generatedAt": "2026-11-07T16:00:53.259Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 733830,
+    "remainingKm": 733804,
     "percentComplete": 26.62,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 10170.1,
-    "thisWeekActivities": 949,
-    "thisWeekHours": 818,
-    "thisWeekElevationM": 73789,
+    "thisWeekKm": 10195.5,
+    "thisWeekActivities": 954,
+    "thisWeekHours": 825,
+    "thisWeekElevationM": 74411,
     "timesAroundEarth": 6.64,
     "percentToMoon": 69.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21775,
+  "totalActivities": 21781,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 266170200,
-    "totalMovingTime": 75525887,
-    "totalElevation": 1955169.6
+    "totalDistance": 266195600,
+    "totalMovingTime": 75548747,
+    "totalElevation": 1955791.6
   },
   "monthStats": {
-    "totalDistance": 10170100,
-    "totalMovingTime": 2946060,
+    "totalDistance": 10195500,
+    "totalMovingTime": 2968920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10170100,
-    "totalMovingTime": 2946060,
-    "count": 949
+    "totalDistance": 10195500,
+    "totalMovingTime": 2968920,
+    "count": 954
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 250373.2,
+    "measuredDistanceKm": 250398.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20896953061",
+        "name": "Zwift - Col du Galibier, Lautaret in Video",
+        "date": "November 7, 2026",
+        "distanceKm": 16.8,
+        "stats": [
+          "16.8 km",
+          "1:01:47",
+          "576 m"
+        ]
+      },
+      {
         "athlete": "Dirk Mang",
         "athleteId": "60711719",
         "activityId": "20896625774",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20896233626",
-        "name": "Afternoon Swim",
+        "athlete": "Frederik Schäfer",
+        "athleteId": "135167529",
+        "activityId": "20896906958",
+        "name": "Gewichtstraining am Nachmittag",
         "date": "November 7, 2026",
-        "distanceKm": 1.9,
+        "distanceKm": 0,
         "stats": [
-          "1.9 km",
-          "1:07:06",
-          "29 m"
+          "0 km",
+          "1:19:35",
+          "0 m"
         ]
       },
       {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20895950886",
-        "name": "Zwift - Z2 / Z3",
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20897127109",
+        "name": "Da was wijd wandelen vo ne choco",
         "date": "November 7, 2026",
-        "distanceKm": 38.9,
+        "distanceKm": 8.5,
         "stats": [
-          "38.9 km",
-          "1:05:27",
-          "59 m"
-        ]
-      },
-      {
-        "athlete": "Laura Oerter",
-        "athleteId": "166620468",
-        "activityId": "20895957834",
-        "name": "Lauf am Nachmittag",
-        "date": "November 7, 2026",
-        "distanceKm": 15.3,
-        "stats": [
-          "15.3 km",
-          "1:20:10",
-          "19 m"
+          "8.5 km",
+          "2:54:09",
+          "46 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 266170.2
+      "totalWithEstimatesKm": 266195.6
     }
   }
 }

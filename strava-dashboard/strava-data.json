@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T19:30:48.134Z",
+  "generatedAt": "2026-11-07T21:00:53.754Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 732921,
+    "remainingKm": 732911,
     "percentComplete": 26.71,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 11078.9,
-    "thisWeekActivities": 987,
-    "thisWeekHours": 876,
-    "thisWeekElevationM": 79667,
+    "thisWeekKm": 11088.6,
+    "thisWeekActivities": 992,
+    "thisWeekHours": 881,
+    "thisWeekElevationM": 80155,
     "timesAroundEarth": 6.66,
     "percentToMoon": 69.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21809,
+  "totalActivities": 21815,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 267079000,
-    "totalMovingTime": 75732887,
-    "totalElevation": 1961047.6
+    "totalDistance": 267088700,
+    "totalMovingTime": 75749747,
+    "totalElevation": 1961535.6
   },
   "monthStats": {
-    "totalDistance": 11078900,
-    "totalMovingTime": 3153060,
+    "totalDistance": 11088600,
+    "totalMovingTime": 3169920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11078900,
-    "totalMovingTime": 3153060,
-    "count": 987
+    "totalDistance": 11088600,
+    "totalMovingTime": 3169920,
+    "count": 992
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 251282,
+    "measuredDistanceKm": 251291.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20900016307",
+        "name": "Abendspaziergang",
+        "date": "November 7, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "30:37",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20899214090",
-        "name": "Zwift - Zwift Pro Training Camp: Movistar | Sara Martin",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "20899791288",
+        "name": "Zwift - Colorado River Sunrise in Video",
         "date": "November 7, 2026",
-        "distanceKm": 20.3,
+        "distanceKm": 24.5,
         "stats": [
-          "20.3 km",
-          "56:37",
-          "190 m"
+          "24.5 km",
+          "1:02:29",
+          "255 m"
         ]
       },
       {
-        "athlete": "Georg Weinig",
-        "athleteId": "166650923",
-        "activityId": "20899240367",
-        "name": "Upper",
+        "athlete": "Marisa Funk",
+        "athleteId": "157343980",
+        "activityId": "20900079965",
+        "name": "nochmal quer durch Antwerpen spaziert ⭐️",
         "date": "November 7, 2026",
-        "distanceKm": 0,
+        "distanceKm": 9.2,
         "stats": [
-          "0 km",
-          "1:04:29",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20899235713",
-        "name": "Abendradfahrt",
-        "date": "November 7, 2026",
-        "distanceKm": 41.6,
-        "stats": [
-          "41.6 km",
-          "1:25:44",
-          "0 m"
+          "9.2 km",
+          "10:31:04",
+          "34 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 267079
+      "totalWithEstimatesKm": 267088.7
     }
   }
 }

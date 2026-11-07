@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-07T07:00:54.733Z",
+  "generatedAt": "2026-11-07T07:28:17.526Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-07T07:00:54.733Z",
+  "memberCountUpdatedAt": "2026-11-07T07:28:17.526Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 872,
-    "distanceKm": 9206.4,
-    "elevationM": 65862,
-    "movingSeconds": 2682060,
+    "activities": 874,
+    "distanceKm": 9208.9,
+    "elevationM": 65883,
+    "movingSeconds": 2683380,
     "raw": {
-      "activities": "872",
-      "distance": "9,206.4 km",
-      "time": "745 h 1 m",
-      "elevation": "65,862 m"
+      "activities": "874",
+      "distance": "9,208.9 km",
+      "time": "745 h 23 m",
+      "elevation": "65,883 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+      "athleteId": "47897742",
+      "activityId": "20890653300",
+      "name": "Sabah Koşusu",
+      "date": "November 7, 2026",
+      "distanceKm": 2.4,
+      "stats": [
+        "2.4 km",
+        "25:25",
+        "21 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -69,19 +82,6 @@
         "1:20:25",
         "127 m"
       ]
-    },
-    {
-      "athlete": "Goro Shigeno",
-      "athleteId": "37029557",
-      "activityId": "20889776148",
-      "name": "Morning Walk",
-      "date": "November 7, 2026",
-      "distanceKm": 8.7,
-      "stats": [
-        "8.7 km",
-        "1:21:16",
-        "43 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 126401.4,
-  "totalDistanceKm": 249409.5,
+  "observedWeeksKm": 126403.9,
+  "totalDistanceKm": 249412,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 265206.5
+    "totalWithEstimatesKm": 265209
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-07T05:00:53.684Z",
+  "generatedAt": "2026-11-07T05:30:46.589Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-07T05:00:53.684Z",
+  "memberCountUpdatedAt": "2026-11-07T05:30:46.589Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 866,
-    "distanceKm": 9175.4,
-    "elevationM": 65610,
-    "movingSeconds": 2666940,
+    "activities": 867,
+    "distanceKm": 9182,
+    "elevationM": 65737,
+    "movingSeconds": 2671560,
     "raw": {
-      "activities": "866",
-      "distance": "9,175.4 km",
-      "time": "740 h 49 m",
-      "elevation": "65,610 m"
+      "activities": "867",
+      "distance": "9,182.0 km",
+      "time": "742 h 6 m",
+      "elevation": "65,737 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20890256805",
+      "name": "Morning Run",
+      "date": "November 7, 2026",
+      "distanceKm": 6.5,
+      "stats": [
+        "6.5 km",
+        "1:20:25",
+        "127 m"
+      ]
+    },
     {
       "athlete": "Goro Shigeno",
       "athleteId": "37029557",
@@ -69,19 +82,6 @@
         "54:36",
         "35 m"
       ]
-    },
-    {
-      "athlete": "Yuri Luna",
-      "athleteId": "126667110",
-      "activityId": "20888270571",
-      "name": "Musculação ao entardecer",
-      "date": "November 6, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:02:13",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 126370.4,
-  "totalDistanceKm": 249378.5,
+  "observedWeeksKm": 126377,
+  "totalDistanceKm": 249385.1,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 265175.5
+    "totalWithEstimatesKm": 265182.1
   }
 }

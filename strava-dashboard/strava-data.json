@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T14:30:46.739Z",
+  "generatedAt": "2026-11-08T15:00:55.850Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 730602,
-    "percentComplete": 26.94,
+    "remainingKm": 730366,
+    "percentComplete": 26.96,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 13397.6,
-    "thisWeekActivities": 1139,
-    "thisWeekHours": 1031,
-    "thisWeekElevationM": 98921,
-    "timesAroundEarth": 6.72,
+    "thisWeekKm": 13633.9,
+    "thisWeekActivities": 1147,
+    "thisWeekHours": 1047,
+    "thisWeekElevationM": 100436,
+    "timesAroundEarth": 6.73,
     "percentToMoon": 70.1,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21958,
+  "totalActivities": 21965,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 269397700,
-    "totalMovingTime": 76291907,
-    "totalElevation": 1980301.6
+    "totalDistance": 269634000,
+    "totalMovingTime": 76349807,
+    "totalElevation": 1981816.6
   },
   "monthStats": {
-    "totalDistance": 13397600,
-    "totalMovingTime": 3712080,
+    "totalDistance": 13633900,
+    "totalMovingTime": 3769980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13397600,
-    "totalMovingTime": 3712080,
-    "count": 1139
+    "totalDistance": 13633900,
+    "totalMovingTime": 3769980,
+    "count": 1147
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 253600.7,
+    "measuredDistanceKm": 253837,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Nujaim Noorahdheen",
+        "athleteId": "191343444",
+        "activityId": "20909570777",
+        "name": "Evening Run",
+        "date": "November 8, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "34:53",
+          "5 m"
+        ]
+      },
+      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "20909391656",
-        "name": "Entraînement aux poids dans l'après-midi",
+        "name": "P'tit Renfo 💪🍫🦵 dans l'après-midi",
         "date": "November 8, 2026",
         "distanceKm": 0,
         "stats": [
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20909151513",
-        "name": "Afternoon Run",
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20909634236",
+        "name": "Lauf am Nachmittag",
         "date": "November 8, 2026",
-        "distanceKm": 3.7,
+        "distanceKm": 10.1,
         "stats": [
-          "3.7 km",
-          "31:38",
-          "75 m"
+          "10.1 km",
+          "1:16:31",
+          "141 m"
         ]
       },
       {
-        "athlete": "Birgit Marco",
-        "athleteId": "63425596",
-        "activityId": "20908782723",
-        "name": "Shorty mit Ronja",
+        "athlete": "Hannah-Malin Henigin",
+        "athleteId": "162779271",
+        "activityId": "20909472501",
+        "name": "Lauf am Nachmittag",
         "date": "November 8, 2026",
-        "distanceKm": 5,
+        "distanceKm": 12.2,
         "stats": [
-          "5.0 km",
-          "28:25",
-          "74 m"
+          "12.2 km",
+          "1:45:56",
+          "36 m"
         ]
       },
       {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20909141685",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Frederik Schäfer",
+        "athleteId": "135167529",
+        "activityId": "20909486242",
+        "name": "☁️ 2026-11-08Ride",
         "date": "November 8, 2026",
-        "distanceKm": 9.3,
+        "distanceKm": 141.7,
         "stats": [
-          "9.3 km",
-          "1:38:09",
-          "133 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20909222329",
-        "name": "Lauf am Morgen",
-        "date": "November 8, 2026",
-        "distanceKm": 48,
-        "stats": [
-          "48.0 km",
-          "5:01:02",
-          "0 m"
+          "141.7 km",
+          "4:54:28",
+          "479 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 269397.7
+      "totalWithEstimatesKm": 269634
     }
   }
 }

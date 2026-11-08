@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-08T20:30:47.172Z",
+  "generatedAt": "2026-11-08T21:00:54.040Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-08T20:30:47.172Z",
+  "memberCountUpdatedAt": "2026-11-08T21:00:54.040Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 1187,
-    "distanceKm": 14511.3,
-    "elevationM": 106148,
-    "movingSeconds": 3968400,
+    "activities": 1188,
+    "distanceKm": 14514.1,
+    "elevationM": 106154,
+    "movingSeconds": 3973020,
     "raw": {
-      "activities": "1187",
-      "distance": "14,511.3 km",
-      "time": "1,102 h 20 m",
-      "elevation": "106,148 m"
+      "activities": "1188",
+      "distance": "14,514.1 km",
+      "time": "1,103 h 37 m",
+      "elevation": "106,154 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cristian Stănciulescu",
+      "athleteId": "67352997",
+      "activityId": "20913719321",
+      "name": "Evening Walk",
+      "date": "November 8, 2026",
+      "distanceKm": 2.7,
+      "stats": [
+        "2.7 km",
+        "1:22:34",
+        "6 m"
+      ]
+    },
     {
       "athlete": "Tim Siber",
       "athleteId": "91630363",
@@ -69,19 +82,6 @@
         "1:05:26",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20912354384",
-      "name": "Stretching 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-      "date": "November 8, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "53:09",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 131706.3,
-  "totalDistanceKm": 254714.4,
+  "observedWeeksKm": 131709.1,
+  "totalDistanceKm": 254717.2,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 270511.4
+    "totalWithEstimatesKm": 270514.2
   }
 }

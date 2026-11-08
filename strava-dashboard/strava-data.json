@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T10:30:59.945Z",
+  "generatedAt": "2026-11-08T10:38:17.460Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 731972,
+    "remainingKm": 731952,
     "percentComplete": 26.8,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 12028.4,
-    "thisWeekActivities": 1064,
-    "thisWeekHours": 949,
-    "thisWeekElevationM": 87066,
+    "thisWeekKm": 12047.9,
+    "thisWeekActivities": 1072,
+    "thisWeekHours": 951,
+    "thisWeekElevationM": 87135,
     "timesAroundEarth": 6.69,
     "percentToMoon": 69.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21887,
+  "totalActivities": 21896,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 268028500,
-    "totalMovingTime": 75995087,
-    "totalElevation": 1968446.6
+    "totalDistance": 268048000,
+    "totalMovingTime": 76004087,
+    "totalElevation": 1968515.6
   },
   "monthStats": {
-    "totalDistance": 12028400,
-    "totalMovingTime": 3415260,
+    "totalDistance": 12047900,
+    "totalMovingTime": 3424260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12028400,
-    "totalMovingTime": 3415260,
-    "count": 1064
+    "totalDistance": 12047900,
+    "totalMovingTime": 3424260,
+    "count": 1072
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 252231.5,
+    "measuredDistanceKm": 252251,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20905197477",
-        "name": "Zwift - Race: Women's Mini Races || p/b FemmeCycle Collab (D)",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20905607773",
+        "name": "Zwift - Glen Etive in Video",
         "date": "November 8, 2026",
-        "distanceKm": 8.1,
+        "distanceKm": 10.8,
         "stats": [
-          "8.1 km",
-          "17:06",
-          "54 m"
+          "10.8 km",
+          "15:54",
+          "53 m"
         ]
       },
       {
@@ -137,29 +137,29 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20905352753",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20905656591",
         "name": "Fahrt am Morgen",
         "date": "November 8, 2026",
-        "distanceKm": 55.5,
+        "distanceKm": 27,
         "stats": [
-          "55.5 km",
-          "2:08:07",
+          "27.0 km",
+          "1:05:01",
           "0 m"
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20905269635",
-        "name": "Zwift - Intervall 3x10:00 min Z2, Z3, Z4",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20905674165",
+        "name": "Fahrt am Morgen",
         "date": "November 8, 2026",
-        "distanceKm": 70.4,
+        "distanceKm": 27.8,
         "stats": [
-          "70.4 km",
-          "2:06:50",
-          "196 m"
+          "27.8 km",
+          "1:05:24",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 268028.5
+      "totalWithEstimatesKm": 268048
     }
   }
 }

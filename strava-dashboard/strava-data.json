@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T11:30:47.553Z",
+  "generatedAt": "2026-11-08T12:01:01.748Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 731736,
-    "percentComplete": 26.83,
+    "remainingKm": 731573,
+    "percentComplete": 26.84,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 12264.2,
-    "thisWeekActivities": 1092,
-    "thisWeekHours": 966,
-    "thisWeekElevationM": 89943,
-    "timesAroundEarth": 6.69,
+    "thisWeekKm": 12427.3,
+    "thisWeekActivities": 1101,
+    "thisWeekHours": 973,
+    "thisWeekElevationM": 91130,
+    "timesAroundEarth": 6.7,
     "percentToMoon": 69.8,
     "comparisons": [
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 40.3,
-        "text": "40.3× the length of the Nile",
+        "value": 40.4,
+        "text": "40.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21916,
+  "totalActivities": 21925,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 268264300,
-    "totalMovingTime": 76057787,
-    "totalElevation": 1971323.6
+    "totalDistance": 268427400,
+    "totalMovingTime": 76083347,
+    "totalElevation": 1972510.6
   },
   "monthStats": {
-    "totalDistance": 12264200,
-    "totalMovingTime": 3477960,
+    "totalDistance": 12427300,
+    "totalMovingTime": 3503520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12264200,
-    "totalMovingTime": 3477960,
-    "count": 1092
+    "totalDistance": 12427300,
+    "totalMovingTime": 3503520,
+    "count": 1101
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 252467.3,
+    "measuredDistanceKm": 252630.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20907017474",
+        "name": "Zwift - Caldera Coaster in Watopia",
+        "date": "November 8, 2026",
+        "distanceKm": 4.2,
+        "stats": [
+          "4.2 km",
+          "7:36",
+          "12 m"
+        ]
+      },
+      {
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20906894976",
+        "name": "Zwift - Glen Etive in Video",
+        "date": "November 8, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "10:23",
+          "42 m"
+        ]
+      },
       {
         "athlete": "heike moschel",
         "athleteId": "79094374",
@@ -137,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20906629812",
-        "name": "Marche le midi",
-        "date": "November 8, 2026",
-        "distanceKm": 1.2,
-        "stats": [
-          "1.2 km",
-          "22:52",
-          "14 m"
-        ]
-      },
-      {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
         "activityId": "20906206830",
@@ -160,19 +173,6 @@
           "4.3 km",
           "1:04:51",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20906010848",
-        "name": "Traillauf am Morgen",
-        "date": "November 8, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "1:29:43",
-          "330 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 268264.3
+      "totalWithEstimatesKm": 268427.4
     }
   }
 }

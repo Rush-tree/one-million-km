@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T09:01:57.953Z",
+  "generatedAt": "2026-11-08T09:31:50.039Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 732512,
-    "percentComplete": 26.75,
+    "remainingKm": 732442,
+    "percentComplete": 26.76,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 11487.8,
-    "thisWeekActivities": 1030,
-    "thisWeekHours": 914,
-    "thisWeekElevationM": 84284,
-    "timesAroundEarth": 6.67,
+    "thisWeekKm": 11557.9,
+    "thisWeekActivities": 1037,
+    "thisWeekHours": 921,
+    "thisWeekElevationM": 84737,
+    "timesAroundEarth": 6.68,
     "percentToMoon": 69.6,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21854,
+  "totalActivities": 21861,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 267487900,
-    "totalMovingTime": 75871907,
-    "totalElevation": 1965664.6
+    "totalDistance": 267558000,
+    "totalMovingTime": 75896747,
+    "totalElevation": 1966117.6
   },
   "monthStats": {
-    "totalDistance": 11487800,
-    "totalMovingTime": 3292080,
+    "totalDistance": 11557900,
+    "totalMovingTime": 3316920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11487800,
-    "totalMovingTime": 3292080,
-    "count": 1030
+    "totalDistance": 11557900,
+    "totalMovingTime": 3316920,
+    "count": 1037
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 251690.9,
+    "measuredDistanceKm": 251761,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20904597408",
+        "name": "Zwift - Pacific Pursuit in Watopia",
+        "date": "November 8, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "12:04",
+          "16 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "20904545877",
+        "name": "Longrun Sunday - Basis",
+        "date": "November 8, 2026",
+        "distanceKm": 13.5,
+        "stats": [
+          "13.5 km",
+          "1:09:21",
+          "131 m"
+        ]
+      },
       {
         "athlete": "Jürgen Bootsmann",
         "athleteId": "30645305",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20904111460",
-        "name": "Marche le matin",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20904472634",
+        "name": "Camminata mattutina",
         "date": "November 8, 2026",
-        "distanceKm": 1.4,
+        "distanceKm": 5,
         "stats": [
-          "1.4 km",
-          "31:58",
-          "13 m"
+          "5.0 km",
+          "1:38:07",
+          "14 m"
         ]
       },
       {
-        "athlete": "Nathalie Reichard",
-        "athleteId": "129991187",
-        "activityId": "20904190869",
-        "name": "Dankbar ☺️",
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "20904501108",
+        "name": "Trail le matin",
         "date": "November 8, 2026",
-        "distanceKm": 13.5,
+        "distanceKm": 22,
         "stats": [
-          "13.5 km",
-          "1:18:59",
-          "218 m"
-        ]
-      },
-      {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20903908270",
-        "name": "Schwimmen am Morgen",
-        "date": "November 8, 2026",
-        "distanceKm": 2.1,
-        "stats": [
-          "2.1 km",
-          "1:02:37",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20903870110",
-        "name": "Crosstrainer-Einheit am Morgen",
-        "date": "November 8, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:10:00",
-          "0 m"
+          "22.0 km",
+          "2:01:20",
+          "43 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 267487.9
+      "totalWithEstimatesKm": 267558
     }
   }
 }

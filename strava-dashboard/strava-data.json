@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T16:30:49.954Z",
+  "generatedAt": "2026-11-08T17:00:55.945Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 729990,
-    "percentComplete": 27,
+    "remainingKm": 729800,
+    "percentComplete": 27.02,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 14009.9,
-    "thisWeekActivities": 1161,
-    "thisWeekHours": 1069,
-    "thisWeekElevationM": 103442,
+    "thisWeekKm": 14199.6,
+    "thisWeekActivities": 1168,
+    "thisWeekHours": 1079,
+    "thisWeekElevationM": 103898,
     "timesAroundEarth": 6.74,
-    "percentToMoon": 70.2,
+    "percentToMoon": 70.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 70.2,
-        "text": "70.2% of the way to the Moon",
+        "value": 70.3,
+        "text": "70.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21977,
+  "totalActivities": 21983,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 270010000,
-    "totalMovingTime": 76427267,
-    "totalElevation": 1984822.6
+    "totalDistance": 270199700,
+    "totalMovingTime": 76464587,
+    "totalElevation": 1985278.6
   },
   "monthStats": {
-    "totalDistance": 14009900,
-    "totalMovingTime": 3847440,
+    "totalDistance": 14199600,
+    "totalMovingTime": 3884760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14009900,
-    "totalMovingTime": 3847440,
-    "count": 1161
+    "totalDistance": 14199600,
+    "totalMovingTime": 3884760,
+    "count": 1168
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 254213,
+    "measuredDistanceKm": 254402.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20910421519",
-        "name": "Gewichtstraining am Nachmittag",
+        "athlete": "Irene Adkins",
+        "athleteId": "51333291",
+        "activityId": "20911301933",
+        "name": "Zone 2 🏃🏻‍♀️🏃🏻‍♀️",
         "date": "November 8, 2026",
-        "distanceKm": 0,
+        "distanceKm": 6.1,
         "stats": [
-          "0 km",
-          "35:04",
-          "0 m"
+          "6.1 km",
+          "47:08",
+          "57 m"
+        ]
+      },
+      {
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20911188722",
+        "name": "Course à pied dans l'après-midi",
+        "date": "November 8, 2026",
+        "distanceKm": 15.5,
+        "stats": [
+          "15.5 km",
+          "1:21:52",
+          "75 m"
         ]
       },
       {
@@ -140,7 +153,7 @@
         "athlete": "Johannes Tangel",
         "athleteId": "127575472",
         "activityId": "20911046598",
-        "name": "Mit Ina Wandern 😉",
+        "name": "Spaziergang mit Ina 😊",
         "date": "November 8, 2026",
         "distanceKm": 7,
         "stats": [
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20909634236",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Heiko Kraushaar",
+        "athleteId": "78179687",
+        "activityId": "20911430469",
+        "name": "Mittagsradfahrt",
         "date": "November 8, 2026",
-        "distanceKm": 10.1,
+        "distanceKm": 136.6,
         "stats": [
-          "10.1 km",
-          "1:16:31",
-          "141 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20910282826",
-        "name": "Gravel-Fahrt am Nachmittag",
-        "date": "November 8, 2026",
-        "distanceKm": 60.1,
-        "stats": [
-          "60.1 km",
-          "2:52:55",
-          "466 m"
+          "136.6 km",
+          "5:09:31",
+          "248 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 270010
+      "totalWithEstimatesKm": 270199.7
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-08T20:00:53.362Z",
+  "generatedAt": "2026-11-08T20:30:47.172Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-08T20:00:53.362Z",
+  "memberCountUpdatedAt": "2026-11-08T20:30:47.172Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 1186,
-    "distanceKm": 14499.1,
-    "elevationM": 106077,
-    "movingSeconds": 3964740,
+    "activities": 1187,
+    "distanceKm": 14511.3,
+    "elevationM": 106148,
+    "movingSeconds": 3968400,
     "raw": {
-      "activities": "1186",
-      "distance": "14,499.1 km",
-      "time": "1,101 h 19 m",
-      "elevation": "106,077 m"
+      "activities": "1187",
+      "distance": "14,511.3 km",
+      "time": "1,102 h 20 m",
+      "elevation": "106,148 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Tim Siber",
+      "athleteId": "91630363",
+      "activityId": "20913404447",
+      "name": "Evening Run",
+      "date": "November 8, 2026",
+      "distanceKm": 12.2,
+      "stats": [
+        "12.2 km",
+        "1:02:23",
+        "71 m"
+      ]
+    },
     {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
@@ -35,7 +48,7 @@
       "athlete": "Jürgen Föll",
       "athleteId": "41355823",
       "activityId": "20913152154",
-      "name": "Fußball am Abend",
+      "name": "Kirchenkick",
       "date": "November 8, 2026",
       "distanceKm": 6.3,
       "stats": [
@@ -69,19 +82,6 @@
         "53:09",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Manuel Zamora",
-      "athleteId": "27178448",
-      "activityId": "20912289924",
-      "name": "Las flores Jaltomate y Villa Juarez",
-      "date": "November 8, 2026",
-      "distanceKm": 72.4,
-      "stats": [
-        "72.4 km",
-        "3:10:50",
-        "621 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 131694.1,
-  "totalDistanceKm": 254702.2,
+  "observedWeeksKm": 131706.3,
+  "totalDistanceKm": 254714.4,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 270499.2
+    "totalWithEstimatesKm": 270511.4
   }
 }

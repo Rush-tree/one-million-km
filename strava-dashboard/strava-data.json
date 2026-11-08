@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T20:00:53.362Z",
+  "generatedAt": "2026-11-08T20:30:47.172Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 729501,
+    "remainingKm": 729489,
     "percentComplete": 27.05,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
@@ -13,17 +13,17 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 14499.1,
-    "thisWeekActivities": 1186,
-    "thisWeekHours": 1101,
-    "thisWeekElevationM": 106077,
+    "thisWeekKm": 14511.3,
+    "thisWeekActivities": 1187,
+    "thisWeekHours": 1102,
+    "thisWeekElevationM": 106148,
     "timesAroundEarth": 6.75,
     "percentToMoon": 70.4,
     "comparisons": [
       {
         "key": "equator",
-        "value": 6.7,
-        "text": "6.7× around the equator",
+        "value": 6.8,
+        "text": "6.8× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22000,
+  "totalActivities": 22001,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 270499200,
-    "totalMovingTime": 76544567,
-    "totalElevation": 1987457.6
+    "totalDistance": 270511400,
+    "totalMovingTime": 76548227,
+    "totalElevation": 1987528.6
   },
   "monthStats": {
-    "totalDistance": 14499100,
-    "totalMovingTime": 3964740,
+    "totalDistance": 14511300,
+    "totalMovingTime": 3968400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14499100,
-    "totalMovingTime": 3964740,
-    "count": 1186
+    "totalDistance": 14511300,
+    "totalMovingTime": 3968400,
+    "count": 1187
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 254702.2,
+    "measuredDistanceKm": 254714.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20913404447",
+        "name": "Evening Run",
+        "date": "November 8, 2026",
+        "distanceKm": 12.2,
+        "stats": [
+          "12.2 km",
+          "1:02:23",
+          "71 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -127,7 +140,7 @@
         "athlete": "Jürgen Föll",
         "athleteId": "41355823",
         "activityId": "20913152154",
-        "name": "Fußball am Abend",
+        "name": "Kirchenkick",
         "date": "November 8, 2026",
         "distanceKm": 6.3,
         "stats": [
@@ -161,19 +174,6 @@
           "53:09",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "20912289924",
-        "name": "Las flores Jaltomate y Villa Juarez",
-        "date": "November 8, 2026",
-        "distanceKm": 72.4,
-        "stats": [
-          "72.4 km",
-          "3:10:50",
-          "621 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 270499.2
+      "totalWithEstimatesKm": 270511.4
     }
   }
 }

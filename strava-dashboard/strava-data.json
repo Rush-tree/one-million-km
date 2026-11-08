@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T15:30:46.515Z",
+  "generatedAt": "2026-11-08T16:00:54.701Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 730131,
-    "percentComplete": 26.99,
+    "remainingKm": 729997,
+    "percentComplete": 27,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 13869.4,
-    "thisWeekActivities": 1155,
-    "thisWeekHours": 1059,
-    "thisWeekElevationM": 102444,
-    "timesAroundEarth": 6.73,
+    "thisWeekKm": 14002.8,
+    "thisWeekActivities": 1159,
+    "thisWeekHours": 1066,
+    "thisWeekElevationM": 103377,
+    "timesAroundEarth": 6.74,
     "percentToMoon": 70.2,
     "comparisons": [
       {
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 20.4,
-        "text": "20.4× the German autobahn network",
+        "value": 20.5,
+        "text": "20.5× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21972,
+  "totalActivities": 21975,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 269869500,
-    "totalMovingTime": 76392827,
-    "totalElevation": 1983824.6
+    "totalDistance": 270002900,
+    "totalMovingTime": 76418147,
+    "totalElevation": 1984757.6
   },
   "monthStats": {
-    "totalDistance": 13869400,
-    "totalMovingTime": 3813000,
+    "totalDistance": 14002800,
+    "totalMovingTime": 3838320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13869400,
-    "totalMovingTime": 3813000,
-    "count": 1155
+    "totalDistance": 14002800,
+    "totalMovingTime": 3838320,
+    "count": 1159
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 254072.5,
+    "measuredDistanceKm": 254205.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20910421519",
+        "name": "Gewichtstraining am Nachmittag",
+        "date": "November 8, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "35:04",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Nujaim Noorahdheen",
         "athleteId": "191343444",
@@ -134,19 +147,6 @@
           "10.1 km",
           "1:16:31",
           "141 m"
-        ]
-      },
-      {
-        "athlete": "Hannah-Malin Henigin",
-        "athleteId": "162779271",
-        "activityId": "20909472501",
-        "name": "Lauf am Nachmittag",
-        "date": "November 8, 2026",
-        "distanceKm": 12.2,
-        "stats": [
-          "12.2 km",
-          "1:45:56",
-          "36 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 269869.5
+      "totalWithEstimatesKm": 270002.9
     }
   }
 }

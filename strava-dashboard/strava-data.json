@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T08:30:46.710Z",
+  "generatedAt": "2026-11-08T09:01:57.953Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 732577,
-    "percentComplete": 26.74,
+    "remainingKm": 732512,
+    "percentComplete": 26.75,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 11423.2,
-    "thisWeekActivities": 1024,
-    "thisWeekHours": 909,
-    "thisWeekElevationM": 83267,
+    "thisWeekKm": 11487.8,
+    "thisWeekActivities": 1030,
+    "thisWeekHours": 914,
+    "thisWeekElevationM": 84284,
     "timesAroundEarth": 6.67,
     "percentToMoon": 69.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21848,
+  "totalActivities": 21854,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 267423300,
-    "totalMovingTime": 75851627,
-    "totalElevation": 1964647.6
+    "totalDistance": 267487900,
+    "totalMovingTime": 75871907,
+    "totalElevation": 1965664.6
   },
   "monthStats": {
-    "totalDistance": 11423200,
-    "totalMovingTime": 3271800,
+    "totalDistance": 11487800,
+    "totalMovingTime": 3292080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11423200,
-    "totalMovingTime": 3271800,
-    "count": 1024
+    "totalDistance": 11487800,
+    "totalMovingTime": 3292080,
+    "count": 1030
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 251626.3,
+    "measuredDistanceKm": 251690.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20903758626",
-        "name": "Zwift - Crit Cross in Watopia",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20904197994",
+        "name": "Mountainbike-Fahrt am Morgen",
         "date": "November 8, 2026",
-        "distanceKm": 13.8,
+        "distanceKm": 10.8,
         "stats": [
-          "13.8 km",
-          "26:55",
-          "37 m"
+          "10.8 km",
+          "37:45",
+          "66 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20904111460",
+        "name": "Marche le matin",
+        "date": "November 8, 2026",
+        "distanceKm": 1.4,
+        "stats": [
+          "1.4 km",
+          "31:58",
+          "13 m"
+        ]
+      },
+      {
+        "athlete": "Nathalie Reichard",
+        "athleteId": "129991187",
+        "activityId": "20904190869",
+        "name": "Dankbar ☺️",
+        "date": "November 8, 2026",
+        "distanceKm": 13.5,
+        "stats": [
+          "13.5 km",
+          "1:18:59",
+          "218 m"
         ]
       },
       {
@@ -137,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "20903822711",
-        "name": "Bucharest 21k Series",
-        "date": "November 8, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "49:25",
-          "79 m"
-        ]
-      },
-      {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
         "activityId": "20903870110",
@@ -160,19 +173,6 @@
           "0 km",
           "1:10:00",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "20903596915",
-        "name": "Zwift - Jarvis Seaside Sprint in Watopia",
-        "date": "November 8, 2026",
-        "distanceKm": 13,
-        "stats": [
-          "13.0 km",
-          "25:04",
-          "97 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 267423.3
+      "totalWithEstimatesKm": 267487.9
     }
   }
 }

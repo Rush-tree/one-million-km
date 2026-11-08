@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T05:00:53.933Z",
+  "generatedAt": "2026-11-08T05:30:46.663Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 732804,
-    "percentComplete": 26.72,
+    "remainingKm": 732746,
+    "percentComplete": 26.73,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 11195.7,
-    "thisWeekActivities": 1000,
-    "thisWeekHours": 887,
-    "thisWeekElevationM": 81530,
+    "thisWeekKm": 11253.7,
+    "thisWeekActivities": 1001,
+    "thisWeekHours": 890,
+    "thisWeekElevationM": 81860,
     "timesAroundEarth": 6.67,
     "percentToMoon": 69.5,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 41.8,
-        "text": "41.8 return trips Berlin to New York",
+        "value": 41.9,
+        "text": "41.9 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 267195800,
-    "totalMovingTime": 75774467,
-    "totalElevation": 1962910.6
+    "totalDistance": 267253800,
+    "totalMovingTime": 75783887,
+    "totalElevation": 1963240.6
   },
   "monthStats": {
-    "totalDistance": 11195700,
-    "totalMovingTime": 3194640,
+    "totalDistance": 11253700,
+    "totalMovingTime": 3204060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11195700,
-    "totalMovingTime": 3194640,
-    "count": 1000
+    "totalDistance": 11253700,
+    "totalMovingTime": 3204060,
+    "count": 1001
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 251398.8,
+    "measuredDistanceKm": 251456.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20903246793",
+        "name": "Morning Ride",
+        "date": "November 8, 2026",
+        "distanceKm": 58,
+        "stats": [
+          "58.0 km",
+          "3:41:18",
+          "330 m"
+        ]
+      },
       {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
@@ -121,6 +134,19 @@
           "30.1 km",
           "1:20:00",
           "328 m"
+        ]
+      },
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20903238433",
+        "name": "Morning Run",
+        "date": "November 8, 2026",
+        "distanceKm": 95.9,
+        "stats": [
+          "95.9 km",
+          "6:50:49",
+          "846 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "19:17",
           "2 m"
         ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20900533102",
-        "name": "Yoga in der Nacht",
-        "date": "November 7, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "30:13",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20900016307",
-        "name": "Abendspaziergang",
-        "date": "November 7, 2026",
-        "distanceKm": 2.2,
-        "stats": [
-          "2.2 km",
-          "30:37",
-          "19 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 267195.8
+      "totalWithEstimatesKm": 267253.8
     }
   }
 }

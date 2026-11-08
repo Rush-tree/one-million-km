@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-07T23:30:44.229Z",
+  "generatedAt": "2026-11-08T00:00:55.875Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-07T23:30:44.229Z",
+  "memberCountUpdatedAt": "2026-11-08T00:00:55.875Z",
   "currentWeek": {
     "week": "Nov 2, 2026 - Nov 8, 2026",
-    "activities": 997,
-    "distanceKm": 11103.7,
-    "elevationM": 80469,
-    "movingSeconds": 3180960,
+    "activities": 998,
+    "distanceKm": 11163.2,
+    "elevationM": 81180,
+    "movingSeconds": 3189060,
     "raw": {
-      "activities": "997",
-      "distance": "11,103.7 km",
-      "time": "883 h 36 m",
-      "elevation": "80,469 m"
+      "activities": "998",
+      "distance": "11,163.2 km",
+      "time": "885 h 51 m",
+      "elevation": "81,180 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Niels C.",
+      "athleteId": "101871140",
+      "activityId": "20901522499",
+      "name": "Morning Ride",
+      "date": "November 8, 2026",
+      "distanceKm": 59.4,
+      "stats": [
+        "59.4 km",
+        "2:20:24",
+        "712 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -69,19 +82,6 @@
         "1:02:29",
         "255 m"
       ]
-    },
-    {
-      "athlete": "Marisa Funk",
-      "athleteId": "157343980",
-      "activityId": "20900079965",
-      "name": "nochmal quer durch Antwerpen spaziert ⭐️",
-      "date": "November 7, 2026",
-      "distanceKm": 9.2,
-      "stats": [
-        "9.2 km",
-        "10:31:04",
-        "34 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 128298.7,
-  "totalDistanceKm": 251306.8,
+  "observedWeeksKm": 128358.2,
+  "totalDistanceKm": 251366.3,
   "weeksTracked": 9,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 267103.8
+    "totalWithEstimatesKm": 267163.3
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-08T13:00:53.258Z",
+  "generatedAt": "2026-11-08T14:00:51.738Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 730874,
-    "percentComplete": 26.91,
+    "remainingKm": 730765,
+    "percentComplete": 26.92,
     "paceBasisWeeks": 7,
     "avgWeekKm": 15874.2,
     "avgDayKm": 2267.7,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.5,
     "activitiesPerWeek": 1199,
     "avgActivityKm": 13.2,
-    "thisWeekKm": 13126.1,
-    "thisWeekActivities": 1126,
-    "thisWeekHours": 1012,
-    "thisWeekElevationM": 96679,
+    "thisWeekKm": 13234.9,
+    "thisWeekActivities": 1133,
+    "thisWeekHours": 1019,
+    "thisWeekElevationM": 97950,
     "timesAroundEarth": 6.72,
     "percentToMoon": 70,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 42.1,
-        "text": "42.1 return trips Berlin to New York",
+        "value": 42.2,
+        "text": "42.2 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 21946,
+  "totalActivities": 21953,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 269126200,
-    "totalMovingTime": 76222067,
-    "totalElevation": 1978059.6
+    "totalDistance": 269235000,
+    "totalMovingTime": 76249967,
+    "totalElevation": 1979330.6
   },
   "monthStats": {
-    "totalDistance": 13126100,
-    "totalMovingTime": 3642240,
+    "totalDistance": 13234900,
+    "totalMovingTime": 3670140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13126100,
-    "totalMovingTime": 3642240,
-    "count": 1126
+    "totalDistance": 13234900,
+    "totalMovingTime": 3670140,
+    "count": 1133
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 253329.2,
+    "measuredDistanceKm": 253438,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "20908782723",
+        "name": "Shorty mit Ronja",
+        "date": "November 8, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "28:25",
+          "74 m"
+        ]
+      },
       {
         "athlete": "Britta Prasse",
         "athleteId": "200634990",
@@ -161,19 +174,6 @@
           "2:07:47",
           "138 m"
         ]
-      },
-      {
-        "athlete": "Andreas Glaser 🇩🇪🚲",
-        "athleteId": "3109388",
-        "activityId": "20907975268",
-        "name": "Mountainbike-Fahrt am Morgen",
-        "date": "November 8, 2026",
-        "distanceKm": 51.2,
-        "stats": [
-          "51.2 km",
-          "2:19:56",
-          "463 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 269126.2
+      "totalWithEstimatesKm": 269235
     }
   }
 }

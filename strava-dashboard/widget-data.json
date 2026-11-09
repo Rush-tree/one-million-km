@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-09T21:30:48.606Z",
+  "generatedAt": "2026-11-09T22:00:54.101Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-09T21:30:48.605Z",
+  "memberCountUpdatedAt": "2026-11-09T22:00:54.101Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 128,
-    "distanceKm": 1355.1,
+    "activities": 129,
+    "distanceKm": 1356.1,
     "elevationM": 10121,
-    "movingSeconds": 421440,
+    "movingSeconds": 423180,
     "raw": {
-      "activities": "128",
-      "distance": "1,355.1 km",
-      "time": "117 h 4 m",
+      "activities": "129",
+      "distance": "1,356.1 km",
+      "time": "117 h 33 m",
       "elevation": "10,121 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20925540408",
+      "name": "Night Walk",
+      "date": "November 9, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "30:19",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -69,19 +82,6 @@
         "6:03:25",
         "97 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20924463599",
-      "name": "Abendschwimmen",
-      "date": "November 9, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "39:42",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133064.2,
-  "totalDistanceKm": 256072.3,
+  "observedWeeksKm": 133065.2,
+  "totalDistanceKm": 256073.3,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 271869.3
+    "totalWithEstimatesKm": 271870.3
   }
 }

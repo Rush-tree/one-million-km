@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-11-09T13:00:59.434Z",
+  "generatedAt": "2026-11-09T13:30:46.574Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-09T13:00:59.434Z",
+  "memberCountUpdatedAt": "2026-11-09T13:30:46.574Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 42,
-    "distanceKm": 475.3,
-    "elevationM": 3691,
-    "movingSeconds": 147720,
+    "activities": 44,
+    "distanceKm": 496.9,
+    "elevationM": 3819,
+    "movingSeconds": 151740,
     "raw": {
-      "activities": "42",
-      "distance": "475.3 km",
-      "time": "41 h 2 m",
-      "elevation": "3,691 m"
+      "activities": "44",
+      "distance": "496.9 km",
+      "time": "42 h 9 m",
+      "elevation": "3,819 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "20919957668",
+      "name": "Spaziergang am Nachmittag",
+      "date": "November 9, 2026",
+      "distanceKm": 0.6,
+      "stats": [
+        "0.6 km",
+        "8:45",
+        "34 m"
+      ]
+    },
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20919826662",
+      "name": "20K 🥙 Lunch Ride 🚴‍♀️",
+      "date": "November 9, 2026",
+      "distanceKm": 20.8,
+      "stats": [
+        "20.8 km",
+        "1:22:25",
+        "94 m"
+      ]
+    },
     {
       "athlete": "Sascha Gebel",
       "athleteId": "19964716",
@@ -56,32 +82,6 @@
         "3:38:58",
         "87 m"
       ]
-    },
-    {
-      "athlete": "Birgit Marco",
-      "athleteId": "63425596",
-      "activityId": "20917925814",
-      "name": "Über den Wolken ☀️🥾🍁🫶",
-      "date": "November 9, 2026",
-      "distanceKm": 11.1,
-      "stats": [
-        "11.1 km",
-        "2:17:37",
-        "534 m"
-      ]
-    },
-    {
-      "athlete": "René Rosenberger",
-      "athleteId": "757098365",
-      "activityId": "20918974180",
-      "name": "Mittagslauf",
-      "date": "November 9, 2026",
-      "distanceKm": 10,
-      "stats": [
-        "10.0 km",
-        "48:41",
-        "25 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 132184.4,
-  "totalDistanceKm": 255192.5,
+  "observedWeeksKm": 132206,
+  "totalDistanceKm": 255214.1,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 270989.5
+    "totalWithEstimatesKm": 271011.1
   }
 }

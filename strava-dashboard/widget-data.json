@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-09T10:01:00.742Z",
+  "generatedAt": "2026-11-09T10:30:51.316Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-09T10:01:00.742Z",
+  "memberCountUpdatedAt": "2026-11-09T10:30:51.316Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 31,
-    "distanceKm": 343.2,
-    "elevationM": 2315,
-    "movingSeconds": 99840,
+    "activities": 33,
+    "distanceKm": 346.2,
+    "elevationM": 2390,
+    "movingSeconds": 103500,
     "raw": {
-      "activities": "31",
-      "distance": "343.2 km",
-      "time": "27 h 44 m",
-      "elevation": "2,315 m"
+      "activities": "33",
+      "distance": "346.2 km",
+      "time": "28 h 45 m",
+      "elevation": "2,390 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20917938418",
+      "name": "Morning Weight Training",
+      "date": "November 9, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "24:17",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Alfonso Contreras Calderón",
       "athleteId": "123434994",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Bärbel Unser",
-      "athleteId": "73612084",
-      "activityId": "20916726069",
-      "name": "Spaziergang am Morgen",
-      "date": "November 9, 2026",
-      "distanceKm": 0.8,
-      "stats": [
-        "0.8 km",
-        "10:15",
-        "10 m"
-      ]
-    },
-    {
       "athlete": "Ralf Rogall",
       "athleteId": "105597565",
       "activityId": "20917629380",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 132052.3,
-  "totalDistanceKm": 255060.4,
+  "observedWeeksKm": 132055.3,
+  "totalDistanceKm": 255063.4,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 270857.4
+    "totalWithEstimatesKm": 270860.4
   }
 }

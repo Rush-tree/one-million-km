@@ -1,34 +1,60 @@
 {
-  "generatedAt": "2026-11-09T04:30:45.784Z",
+  "generatedAt": "2026-11-09T05:00:56.837Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-09T04:30:45.784Z",
+  "memberCountUpdatedAt": "2026-11-09T05:00:56.836Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 3,
-    "distanceKm": 41.2,
-    "elevationM": 739,
-    "movingSeconds": 14760,
+    "activities": 5,
+    "distanceKm": 53.2,
+    "elevationM": 764,
+    "movingSeconds": 20760,
     "raw": {
-      "activities": "3",
-      "distance": "41.2 km",
-      "time": "4 h 6 m",
-      "elevation": "739 m"
+      "activities": "5",
+      "distance": "53.2 km",
+      "time": "5 h 46 m",
+      "elevation": "764 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Stefan Brueckmann",
+      "athleteId": "172247920",
+      "activityId": "20916088474",
+      "name": "Gewichtstraining am Morgen",
+      "date": "November 9, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "31:50",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20916026858",
-      "name": "Gravel",
+      "name": "Work",
       "date": "November 9, 2026",
       "distanceKm": 6.5,
       "stats": [
         "6.5 km",
         "16:45",
         "19 m"
+      ]
+    },
+    {
+      "athlete": "Amit Zadka",
+      "athleteId": "25927820",
+      "activityId": "20916054098",
+      "name": "Morning Run",
+      "date": "November 9, 2026",
+      "distanceKm": 12,
+      "stats": [
+        "12.0 km",
+        "1:15:41",
+        "25 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "36:47",
         "23 m"
       ]
-    },
-    {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20913719321",
-      "name": "Evening Walk",
-      "date": "November 8, 2026",
-      "distanceKm": 2.7,
-      "stats": [
-        "2.7 km",
-        "1:22:34",
-        "6 m"
-      ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20913404447",
-      "name": "Evening Run",
-      "date": "November 8, 2026",
-      "distanceKm": 12.2,
-      "stats": [
-        "12.2 km",
-        "1:02:23",
-        "71 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 131750.3,
-  "totalDistanceKm": 254758.4,
+  "observedWeeksKm": 131762.3,
+  "totalDistanceKm": 254770.4,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 270555.4
+    "totalWithEstimatesKm": 270567.4
   }
 }

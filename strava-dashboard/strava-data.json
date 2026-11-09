@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-08T22:30:50.520Z",
+  "generatedAt": "2026-11-09T00:00:56.874Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 729486,
+    "remainingKm": 729477,
     "percentComplete": 27.05,
-    "paceBasisWeeks": 7,
-    "avgWeekKm": 15874.2,
-    "avgDayKm": 2267.7,
+    "paceBasisWeeks": 8,
+    "avgWeekKm": 15704.2,
+    "avgDayKm": 2243.5,
     "weeksToGoal": 46,
-    "projectedDate": "2027-09-26",
-    "kmPerMemberWeek": 64.5,
-    "activitiesPerWeek": 1199,
-    "avgActivityKm": 13.2,
-    "thisWeekKm": 14514.1,
-    "thisWeekActivities": 1189,
-    "thisWeekHours": 1106,
-    "thisWeekElevationM": 106154,
+    "projectedDate": "2027-09-30",
+    "kmPerMemberWeek": 63.8,
+    "activitiesPerWeek": 1198,
+    "avgActivityKm": 13.1,
+    "thisWeekKm": 9.3,
+    "thisWeekActivities": 1,
+    "thisWeekHours": 3,
+    "thisWeekElevationM": 630,
     "timesAroundEarth": 6.75,
     "percentToMoon": 70.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22004,
+  "totalActivities": 22005,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 270514200,
-    "totalMovingTime": 76560047,
-    "totalElevation": 1987534.6
+    "totalDistance": 270523500,
+    "totalMovingTime": 76570187,
+    "totalElevation": 1988164.6
   },
   "monthStats": {
-    "totalDistance": 14514100,
-    "totalMovingTime": 3980220,
+    "totalDistance": 14523400,
+    "totalMovingTime": 3990360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 14514100,
-    "totalMovingTime": 3980220,
-    "count": 1189
+    "totalDistance": 9300,
+    "totalMovingTime": 10140,
+    "count": 1
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 254717.2,
+    "measuredDistanceKm": 254726.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20914838603",
+        "name": "Afternoon Walk",
+        "date": "November 8, 2026",
+        "distanceKm": 2.9,
+        "stats": [
+          "2.9 km",
+          "36:47",
+          "23 m"
+        ]
+      },
       {
         "athlete": "Cristian Stănciulescu",
         "athleteId": "67352997",
@@ -161,19 +174,6 @@
           "1:41:01",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20912605824",
-        "name": "Carrera de noche",
-        "date": "November 8, 2026",
-        "distanceKm": 11.4,
-        "stats": [
-          "11.4 km",
-          "1:05:26",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 270514.2
+      "totalWithEstimatesKm": 270523.5
     }
   }
 }

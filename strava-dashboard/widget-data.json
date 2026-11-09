@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-09T19:30:49.481Z",
+  "generatedAt": "2026-11-09T20:00:58.530Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-09T19:30:49.481Z",
+  "memberCountUpdatedAt": "2026-11-09T20:00:58.530Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 116,
-    "distanceKm": 1323,
+    "activities": 119,
+    "distanceKm": 1324,
     "elevationM": 9973,
-    "movingSeconds": 393540,
+    "movingSeconds": 398580,
     "raw": {
-      "activities": "116",
-      "distance": "1,323.0 km",
-      "time": "109 h 19 m",
+      "activities": "119",
+      "distance": "1,324.0 km",
+      "time": "110 h 43 m",
       "elevation": "9,973 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Shubham Kumar",
+      "athleteId": "161648421",
+      "activityId": "20924422785",
+      "name": "[Kniger] Evening HIIT",
+      "date": "November 9, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "54:44",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Martin Löser",
       "athleteId": "195854656",
@@ -58,28 +71,15 @@
       ]
     },
     {
-      "athlete": "Laura Oerter",
-      "athleteId": "166620468",
-      "activityId": "20923729796",
-      "name": "Hyrox Workout",
+      "athlete": "Nico Hoßfeld",
+      "athleteId": "177308499",
+      "activityId": "20924463599",
+      "name": "Abendschwimmen",
       "date": "November 9, 2026",
-      "distanceKm": 0,
+      "distanceKm": 1,
       "stats": [
-        "0 km",
-        "1:10:30",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20923779825",
-      "name": "Evening Bodyweight Training Freeletics",
-      "date": "November 9, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:24:09",
+        "1.0 km",
+        "39:42",
         "0 m"
       ]
     }
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133032.1,
-  "totalDistanceKm": 256040.2,
+  "observedWeeksKm": 133033.1,
+  "totalDistanceKm": 256041.2,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 271837.2
+    "totalWithEstimatesKm": 271838.2
   }
 }

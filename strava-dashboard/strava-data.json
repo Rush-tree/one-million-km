@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T05:00:56.837Z",
+  "generatedAt": "2026-11-09T05:30:56.369Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 729433,
+    "remainingKm": 729372,
     "percentComplete": 27.06,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 63.8,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 53.2,
-    "thisWeekActivities": 5,
-    "thisWeekHours": 6,
-    "thisWeekElevationM": 764,
+    "thisWeekKm": 114.2,
+    "thisWeekActivities": 7,
+    "thisWeekHours": 9,
+    "thisWeekElevationM": 1091,
     "timesAroundEarth": 6.75,
     "percentToMoon": 70.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22009,
+  "totalActivities": 22010,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 270567400,
-    "totalMovingTime": 76580807,
-    "totalElevation": 1988298.6
+    "totalDistance": 270628400,
+    "totalMovingTime": 76591907,
+    "totalElevation": 1988625.6
   },
   "monthStats": {
-    "totalDistance": 14567300,
-    "totalMovingTime": 4000980,
+    "totalDistance": 14628300,
+    "totalMovingTime": 4012080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 53200,
-    "totalMovingTime": 20760,
-    "count": 5
+    "totalDistance": 114200,
+    "totalMovingTime": 31860,
+    "count": 7
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 254770.4,
+    "measuredDistanceKm": 254831.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20916210753",
+        "name": "Morning HIIT",
+        "date": "November 9, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:50",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Stefan Brueckmann",
         "athleteId": "172247920",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20915481882",
-        "name": "Evening Walk",
-        "date": "November 8, 2026",
-        "distanceKm": 1.3,
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20916153644",
+        "name": "NOVEMBER MNG RIDE NO 9 🚵‍♂️",
+        "date": "November 9, 2026",
+        "distanceKm": 61,
         "stats": [
-          "1.3 km",
-          "11:45",
-          "10 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20914838603",
-        "name": "Afternoon Walk",
-        "date": "November 8, 2026",
-        "distanceKm": 2.9,
-        "stats": [
-          "2.9 km",
-          "36:47",
-          "23 m"
+          "61.0 km",
+          "3:02:04",
+          "327 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 270567.4
+      "totalWithEstimatesKm": 270628.4
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-09T06:02:01.605Z",
+  "generatedAt": "2026-11-09T06:30:50.070Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-09T06:02:01.605Z",
+  "memberCountUpdatedAt": "2026-11-09T06:30:50.070Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 12,
-    "distanceKm": 139.5,
-    "elevationM": 1434,
-    "movingSeconds": 49740,
+    "activities": 16,
+    "distanceKm": 181.3,
+    "elevationM": 1782,
+    "movingSeconds": 61980,
     "raw": {
-      "activities": "12",
-      "distance": "139.5 km",
-      "time": "13 h 49 m",
-      "elevation": "1,434 m"
+      "activities": "16",
+      "distance": "181.3 km",
+      "time": "17 h 13 m",
+      "elevation": "1,782 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "20916464565",
+      "name": "Spaziergang am Morgen",
+      "date": "November 9, 2026",
+      "distanceKm": 2.8,
+      "stats": [
+        "2.8 km",
+        "28:59",
+        "51 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -69,19 +82,6 @@
         "2:01:04",
         "265 m"
       ]
-    },
-    {
-      "athlete": "Louis Mwanja",
-      "athleteId": "14992965",
-      "activityId": "20916300792",
-      "name": "Morning Run",
-      "date": "November 9, 2026",
-      "distanceKm": 18.7,
-      "stats": [
-        "18.7 km",
-        "2:37:19",
-        "34 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 131848.6,
-  "totalDistanceKm": 254856.7,
+  "observedWeeksKm": 131890.4,
+  "totalDistanceKm": 254898.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 270653.7
+    "totalWithEstimatesKm": 270695.5
   }
 }

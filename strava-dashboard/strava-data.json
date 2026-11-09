@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T15:01:01.239Z",
+  "generatedAt": "2026-11-09T15:30:52.113Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 728872,
-    "percentComplete": 27.11,
+    "remainingKm": 728823,
+    "percentComplete": 27.12,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 63.8,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 613.7,
-    "thisWeekActivities": 58,
-    "thisWeekHours": 53,
-    "thisWeekElevationM": 4648,
+    "thisWeekKm": 663.1,
+    "thisWeekActivities": 63,
+    "thisWeekHours": 59,
+    "thisWeekElevationM": 5096,
     "timesAroundEarth": 6.77,
     "percentToMoon": 70.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22063,
+  "totalActivities": 22068,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 271127900,
-    "totalMovingTime": 76749707,
-    "totalElevation": 1992182.6
+    "totalDistance": 271177300,
+    "totalMovingTime": 76772627,
+    "totalElevation": 1992630.6
   },
   "monthStats": {
-    "totalDistance": 15127800,
-    "totalMovingTime": 4169880,
+    "totalDistance": 15177200,
+    "totalMovingTime": 4192800,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 613700,
-    "totalMovingTime": 189660,
-    "count": 58
+    "totalDistance": 663100,
+    "totalMovingTime": 212580,
+    "count": 63
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 255330.9,
+    "measuredDistanceKm": 255380.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "20921255985",
+        "name": "Me de benenwagen naar de winkel",
+        "date": "November 9, 2026",
+        "distanceKm": 4.3,
+        "stats": [
+          "4.3 km",
+          "46:48",
+          "22 m"
+        ]
+      },
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20921300081",
+        "name": "Fahrt am Nachmittag",
+        "date": "November 9, 2026",
+        "distanceKm": 14.1,
+        "stats": [
+          "14.1 km",
+          "57:54",
+          "128 m"
+        ]
+      },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
@@ -126,53 +152,27 @@
       {
         "athlete": "Ulf Nuglisch",
         "athleteId": "62746305",
-        "activityId": "20920599727",
-        "name": "Nachmittagstraining",
+        "activityId": "20921049629",
+        "name": "Lauf am Nachmittag",
         "date": "November 9, 2026",
-        "distanceKm": 0,
+        "distanceKm": 6.4,
         "stats": [
-          "0 km",
-          "20:31",
+          "6.4 km",
+          "40:07",
           "0 m"
         ]
       },
       {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20920763612",
-        "name": "Irgendwas zwischen Zone 2 und Überhaupt nicht erholt vom Wochenende 🥳😅🏃🏽‍♀️",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20921220760",
+        "name": "Afternoon Walk",
         "date": "November 9, 2026",
-        "distanceKm": 9.3,
+        "distanceKm": 5.6,
         "stats": [
-          "9.3 km",
-          "49:45",
+          "5.6 km",
+          "2:17:06",
           "31 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20920984615",
-        "name": "Gewichtstraining am Nachmittag",
-        "date": "November 9, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:41:56",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "20920618422",
-        "name": "Mittagspaziergang",
-        "date": "November 9, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "3:16:41",
-          "172 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 271127.9
+      "totalWithEstimatesKm": 271177.3
     }
   }
 }

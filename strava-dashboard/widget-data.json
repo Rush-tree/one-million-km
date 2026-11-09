@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-11-09T14:00:57.849Z",
+  "generatedAt": "2026-11-09T14:30:51.979Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-09T14:00:57.848Z",
+  "memberCountUpdatedAt": "2026-11-09T14:30:51.978Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 46,
-    "distanceKm": 540.9,
-    "elevationM": 3897,
-    "movingSeconds": 156180,
+    "activities": 52,
+    "distanceKm": 555.3,
+    "elevationM": 4144,
+    "movingSeconds": 170460,
     "raw": {
-      "activities": "46",
-      "distance": "540.9 km",
-      "time": "43 h 23 m",
-      "elevation": "3,897 m"
+      "activities": "52",
+      "distance": "555.3 km",
+      "time": "47 h 21 m",
+      "elevation": "4,144 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "20920599727",
+      "name": "Nachmittagstraining",
+      "date": "November 9, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "20:31",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20920418545",
-      "name": "Gravel",
+      "name": "Home",
       "date": "November 9, 2026",
       "distanceKm": 5.8,
       "stats": [
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "20919826662",
-      "name": "20K 🥙 Lunch Ride 🚴‍♀️",
+      "athlete": "Cathi Caesar",
+      "athleteId": "74482280",
+      "activityId": "20920618422",
+      "name": "Mittagspaziergang",
       "date": "November 9, 2026",
-      "distanceKm": 20.8,
+      "distanceKm": 5,
       "stats": [
-        "20.8 km",
-        "1:22:25",
-        "94 m"
-      ]
-    },
-    {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "20919296023",
-      "name": "Camminata mattutina",
-      "date": "November 9, 2026",
-      "distanceKm": 11,
-      "stats": [
-        "11.0 km",
-        "3:27:20",
-        "27 m"
+        "5.0 km",
+        "3:16:41",
+        "172 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 132250,
-  "totalDistanceKm": 255258.1,
+  "observedWeeksKm": 132264.4,
+  "totalDistanceKm": 255272.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 271055.1
+    "totalWithEstimatesKm": 271069.5
   }
 }

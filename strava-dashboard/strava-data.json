@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T18:01:01.915Z",
+  "generatedAt": "2026-11-09T18:30:52.309Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 728353,
-    "percentComplete": 27.16,
+    "remainingKm": 728310,
+    "percentComplete": 27.17,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 63.8,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 1132.9,
-    "thisWeekActivities": 96,
-    "thisWeekHours": 90,
-    "thisWeekElevationM": 8659,
+    "thisWeekKm": 1175.6,
+    "thisWeekActivities": 100,
+    "thisWeekHours": 92,
+    "thisWeekElevationM": 8878,
     "timesAroundEarth": 6.78,
     "percentToMoon": 70.7,
     "comparisons": [
@@ -40,14 +40,14 @@
       },
       {
         "key": "nile",
-        "value": 40.8,
-        "text": "40.8× the length of the Nile",
+        "value": 40.9,
+        "text": "40.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
         "key": "transatlantic",
-        "value": 42.5,
-        "text": "42.5 return trips Berlin to New York",
+        "value": 42.6,
+        "text": "42.6 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22101,
+  "totalActivities": 22105,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 271647100,
-    "totalMovingTime": 76882967,
-    "totalElevation": 1996193.6
+    "totalDistance": 271689800,
+    "totalMovingTime": 76890947,
+    "totalElevation": 1996412.6
   },
   "monthStats": {
-    "totalDistance": 15647000,
-    "totalMovingTime": 4303140,
+    "totalDistance": 15689700,
+    "totalMovingTime": 4311120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1132900,
-    "totalMovingTime": 322920,
-    "count": 96
+    "totalDistance": 1175600,
+    "totalMovingTime": 330900,
+    "count": 100
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 255850.1,
+    "measuredDistanceKm": 255892.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20923430862",
+        "name": "Sortie vélo en soirée",
+        "date": "November 9, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "21:09",
+          "44 m"
+        ]
+      },
       {
         "athlete": "Heiko Kraushaar",
         "athleteId": "78179687",
@@ -134,19 +147,6 @@
           "0 km",
           "37:58",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20922620305",
-        "name": "Commute #126/2026 🏡",
-        "date": "November 9, 2026",
-        "distanceKm": 8.7,
-        "stats": [
-          "8.7 km",
-          "21:01",
-          "71 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 271647.1
+      "totalWithEstimatesKm": 271689.8
     }
   }
 }

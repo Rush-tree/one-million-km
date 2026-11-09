@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-09T13:30:46.574Z",
+  "generatedAt": "2026-11-09T14:00:57.849Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 728989,
-    "percentComplete": 27.1,
+    "remainingKm": 728945,
+    "percentComplete": 27.11,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 63.8,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 496.9,
-    "thisWeekActivities": 44,
-    "thisWeekHours": 42,
-    "thisWeekElevationM": 3819,
+    "thisWeekKm": 540.9,
+    "thisWeekActivities": 46,
+    "thisWeekHours": 43,
+    "thisWeekElevationM": 3897,
     "timesAroundEarth": 6.76,
     "percentToMoon": 70.5,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 42.4,
-        "text": "42.4 return trips Berlin to New York",
+        "value": 42.5,
+        "text": "42.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22048,
+  "totalActivities": 22050,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 271011100,
-    "totalMovingTime": 76711787,
-    "totalElevation": 1991353.6
+    "totalDistance": 271055100,
+    "totalMovingTime": 76716227,
+    "totalElevation": 1991431.6
   },
   "monthStats": {
-    "totalDistance": 15011000,
-    "totalMovingTime": 4131960,
+    "totalDistance": 15055000,
+    "totalMovingTime": 4136400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 496900,
-    "totalMovingTime": 151740,
-    "count": 44
+    "totalDistance": 540900,
+    "totalMovingTime": 156180,
+    "count": 46
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 255214.1,
+    "measuredDistanceKm": 255258.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20920418545",
+        "name": "Gravel",
+        "date": "November 9, 2026",
+        "distanceKm": 5.8,
+        "stats": [
+          "5.8 km",
+          "18:38",
+          "24 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -121,6 +134,19 @@
           "0.6 km",
           "8:45",
           "34 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20920274023",
+        "name": "Zwift - Pacer Group Ride with Betty",
+        "date": "November 9, 2026",
+        "distanceKm": 38.1,
+        "stats": [
+          "38.1 km",
+          "1:00:17",
+          "54 m"
         ]
       },
       {
@@ -137,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20919001236",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "November 9, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "40:29",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Walter Donè",
         "athleteId": "31420262",
         "activityId": "20919296023",
@@ -160,19 +173,6 @@
           "11.0 km",
           "3:27:20",
           "27 m"
-        ]
-      },
-      {
-        "athlete": "Hanna Greß",
-        "athleteId": "75797079",
-        "activityId": "20919182035",
-        "name": "Spaziergang am Morgen",
-        "date": "November 9, 2026",
-        "distanceKm": 5.5,
-        "stats": [
-          "5.5 km",
-          "3:38:58",
-          "87 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 271011.1
+      "totalWithEstimatesKm": 271055.1
     }
   }
 }

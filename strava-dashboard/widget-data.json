@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-09T22:30:50.235Z",
+  "generatedAt": "2026-11-09T23:00:56.742Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-09T22:30:50.234Z",
+  "memberCountUpdatedAt": "2026-11-09T23:00:56.742Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 134,
-    "distanceKm": 1406.4,
-    "elevationM": 10591,
-    "movingSeconds": 438240,
+    "activities": 135,
+    "distanceKm": 1408.8,
+    "elevationM": 10654,
+    "movingSeconds": 440160,
     "raw": {
-      "activities": "134",
-      "distance": "1,406.4 km",
-      "time": "121 h 44 m",
-      "elevation": "10,591 m"
+      "activities": "135",
+      "distance": "1,408.8 km",
+      "time": "122 h 16 m",
+      "elevation": "10,654 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Henrique Juhas",
+      "athleteId": "118657757",
+      "activityId": "20926350343",
+      "name": "Corrida ao entardecer",
+      "date": "November 9, 2026",
+      "distanceKm": 2.4,
+      "stats": [
+        "2.4 km",
+        "33:36",
+        "63 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20925540408",
-      "name": "Night Walk",
-      "date": "November 9, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "30:19",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Domenic Winges",
       "athleteId": "179823094",
       "activityId": "20925801663",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133115.5,
-  "totalDistanceKm": 256123.6,
+  "observedWeeksKm": 133117.9,
+  "totalDistanceKm": 256126,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 271920.6
+    "totalWithEstimatesKm": 271923
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T12:30:50.629Z",
+  "generatedAt": "2026-11-10T13:01:00.229Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 727428,
+    "remainingKm": 727397,
     "percentComplete": 27.26,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 2057.7,
-    "thisWeekActivities": 207,
-    "thisWeekHours": 184,
-    "thisWeekElevationM": 14824,
+    "thisWeekKm": 2088.7,
+    "thisWeekActivities": 210,
+    "thisWeekHours": 186,
+    "thisWeekElevationM": 15014,
     "timesAroundEarth": 6.8,
     "percentToMoon": 70.9,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 20.6,
-        "text": "20.6× the German autobahn network",
+        "value": 20.7,
+        "text": "20.7× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22216,
+  "totalActivities": 22219,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 272571900,
-    "totalMovingTime": 77221007,
-    "totalElevation": 2002358.6
+    "totalDistance": 272602900,
+    "totalMovingTime": 77228867,
+    "totalElevation": 2002548.6
   },
   "monthStats": {
-    "totalDistance": 16571800,
-    "totalMovingTime": 4641180,
+    "totalDistance": 16602800,
+    "totalMovingTime": 4649040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2057700,
-    "totalMovingTime": 660960,
-    "count": 207
+    "totalDistance": 2088700,
+    "totalMovingTime": 668820,
+    "count": 210
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 256774.9,
+    "measuredDistanceKm": 256805.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -150,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20932508643",
+        "name": "Mittagslauf",
+        "date": "November 10, 2026",
+        "distanceKm": 18,
+        "stats": [
+          "18.0 km",
+          "1:25:18",
+          "137 m"
+        ]
+      },
+      {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
         "activityId": "20932136201",
@@ -160,19 +173,6 @@
           "39.0 km",
           "2:51:18",
           "69 m"
-        ]
-      },
-      {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20932166468",
-        "name": "Kleine Fitness Runde",
-        "date": "November 10, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "2:53:31",
-          "58 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 272571.9
+      "totalWithEstimatesKm": 272602.9
     }
   }
 }

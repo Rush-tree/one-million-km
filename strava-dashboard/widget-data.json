@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-10T21:00:56.049Z",
+  "generatedAt": "2026-11-10T21:30:45.952Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-10T21:00:56.049Z",
+  "memberCountUpdatedAt": "2026-11-10T21:30:45.952Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 312,
-    "distanceKm": 3230,
-    "elevationM": 23978,
-    "movingSeconds": 994140,
+    "activities": 316,
+    "distanceKm": 3238.3,
+    "elevationM": 24010,
+    "movingSeconds": 1003560,
     "raw": {
-      "activities": "312",
-      "distance": "3,230.0 km",
-      "time": "276 h 9 m",
-      "elevation": "23,978 m"
+      "activities": "316",
+      "distance": "3,238.3 km",
+      "time": "278 h 46 m",
+      "elevation": "24,010 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "20938788553",
+      "name": "Night Walk",
+      "date": "November 10, 2026",
+      "distanceKm": 0.9,
+      "stats": [
+        "0.9 km",
+        "27:23",
+        "2 m"
+      ]
+    },
     {
       "athlete": "Norick Maurer",
       "athleteId": "107445415",
@@ -42,19 +55,6 @@
         "0 km",
         "59:25",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Jasper Mermans",
-      "athleteId": "25786886",
-      "activityId": "20938023745",
-      "name": "Zwift - Race: De Benelux E-Race Clash (D)",
-      "date": "November 10, 2026",
-      "distanceKm": 34.2,
-      "stats": [
-        "34.2 km",
-        "1:04:23",
-        "260 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 134939.1,
-  "totalDistanceKm": 257947.2,
+  "observedWeeksKm": 134947.4,
+  "totalDistanceKm": 257955.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 273744.2
+    "totalWithEstimatesKm": 273752.5
   }
 }

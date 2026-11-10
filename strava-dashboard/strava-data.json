@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T14:00:57.863Z",
+  "generatedAt": "2026-11-10T14:30:48.605Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 727297,
+    "remainingKm": 727284,
     "percentComplete": 27.27,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 2189,
-    "thisWeekActivities": 223,
-    "thisWeekHours": 195,
-    "thisWeekElevationM": 15730,
-    "timesAroundEarth": 6.8,
+    "thisWeekKm": 2201.8,
+    "thisWeekActivities": 227,
+    "thisWeekHours": 198,
+    "thisWeekElevationM": 15763,
+    "timesAroundEarth": 6.81,
     "percentToMoon": 70.9,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22233,
+  "totalActivities": 22237,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 272703200,
-    "totalMovingTime": 77262527,
-    "totalElevation": 2003264.6
+    "totalDistance": 272716000,
+    "totalMovingTime": 77273507,
+    "totalElevation": 2003297.6
   },
   "monthStats": {
-    "totalDistance": 16703100,
-    "totalMovingTime": 4682700,
+    "totalDistance": 16715900,
+    "totalMovingTime": 4693680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2189000,
-    "totalMovingTime": 702480,
-    "count": 223
+    "totalDistance": 2201800,
+    "totalMovingTime": 713460,
+    "count": 227
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 256906.2,
+    "measuredDistanceKm": 256919,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20933703520",
+        "name": "Afternoon Swim",
+        "date": "November 10, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "16:22",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "20933532284",
-        "name": "Gravel",
+        "name": "Home",
         "date": "November 10, 2026",
         "distanceKm": 5.7,
         "stats": [
@@ -126,53 +139,40 @@
       {
         "athlete": "Nujaim Noorahdheen",
         "athleteId": "191343444",
-        "activityId": "20933110294",
-        "name": "Evening Walk",
+        "activityId": "20933573988",
+        "name": "Evening Run",
         "date": "November 10, 2026",
-        "distanceKm": 0.3,
+        "distanceKm": 3,
         "stats": [
-          "0.3 km",
-          "4:54",
-          "0 m"
+          "3.0 km",
+          "23:21",
+          "5 m"
         ]
       },
       {
-        "athlete": "Nathalie Reichard",
-        "athleteId": "129991187",
-        "activityId": "20932923110",
-        "name": "Langsam wieder reinkommen …",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20933724031",
+        "name": "Intersites 👔 <<< 🚴‍♀️>>>✈️ Ride",
         "date": "November 10, 2026",
-        "distanceKm": 6.8,
+        "distanceKm": 8.7,
         "stats": [
-          "6.8 km",
-          "38:18",
-          "90 m"
+          "8.7 km",
+          "1:18:25",
+          "28 m"
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20932180870",
-        "name": "Crossrope AMP Workout",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20933703782",
+        "name": "Lunch Workout",
         "date": "November 10, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "19:10",
+          "1:55:25",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "20932934156",
-        "name": "Afternoon Walk",
-        "date": "November 10, 2026",
-        "distanceKm": 2.1,
-        "stats": [
-          "2.1 km",
-          "57:57",
-          "5 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 272703.2
+      "totalWithEstimatesKm": 272716
     }
   }
 }

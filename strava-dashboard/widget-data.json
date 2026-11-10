@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-11-10T14:00:57.863Z",
+  "generatedAt": "2026-11-10T14:30:48.605Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-10T14:00:57.863Z",
+  "memberCountUpdatedAt": "2026-11-10T14:30:48.605Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 223,
-    "distanceKm": 2189,
-    "elevationM": 15730,
-    "movingSeconds": 702480,
+    "activities": 227,
+    "distanceKm": 2201.8,
+    "elevationM": 15763,
+    "movingSeconds": 713460,
     "raw": {
-      "activities": "223",
-      "distance": "2,189.0 km",
-      "time": "195 h 8 m",
-      "elevation": "15,730 m"
+      "activities": "227",
+      "distance": "2,201.8 km",
+      "time": "198 h 11 m",
+      "elevation": "15,763 m"
     }
   },
   "latestActivities": [
     {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20933703520",
+      "name": "Afternoon Swim",
+      "date": "November 10, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "16:22",
+        "0 m"
+      ]
+    },
+    {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20933532284",
-      "name": "Gravel",
+      "name": "Home",
       "date": "November 10, 2026",
       "distanceKm": 5.7,
       "stats": [
@@ -34,53 +47,40 @@
     {
       "athlete": "Nujaim Noorahdheen",
       "athleteId": "191343444",
-      "activityId": "20933110294",
-      "name": "Evening Walk",
+      "activityId": "20933573988",
+      "name": "Evening Run",
       "date": "November 10, 2026",
-      "distanceKm": 0.3,
+      "distanceKm": 3,
       "stats": [
-        "0.3 km",
-        "4:54",
-        "0 m"
+        "3.0 km",
+        "23:21",
+        "5 m"
       ]
     },
     {
-      "athlete": "Nathalie Reichard",
-      "athleteId": "129991187",
-      "activityId": "20932923110",
-      "name": "Langsam wieder reinkommen …",
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "20933724031",
+      "name": "Intersites 👔 <<< 🚴‍♀️>>>✈️ Ride",
       "date": "November 10, 2026",
-      "distanceKm": 6.8,
+      "distanceKm": 8.7,
       "stats": [
-        "6.8 km",
-        "38:18",
-        "90 m"
+        "8.7 km",
+        "1:18:25",
+        "28 m"
       ]
     },
     {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20932180870",
-      "name": "Crossrope AMP Workout",
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20933703782",
+      "name": "Lunch Workout",
       "date": "November 10, 2026",
       "distanceKm": 0,
       "stats": [
         "0 km",
-        "19:10",
+        "1:55:25",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "20932934156",
-      "name": "Afternoon Walk",
-      "date": "November 10, 2026",
-      "distanceKm": 2.1,
-      "stats": [
-        "2.1 km",
-        "57:57",
-        "5 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133898.1,
-  "totalDistanceKm": 256906.2,
+  "observedWeeksKm": 133910.9,
+  "totalDistanceKm": 256919,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 272703.2
+    "totalWithEstimatesKm": 272716
   }
 }

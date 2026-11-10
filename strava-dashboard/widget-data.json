@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-10T01:00:55.281Z",
+  "generatedAt": "2026-11-10T01:30:46.615Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-10T01:00:55.280Z",
+  "memberCountUpdatedAt": "2026-11-10T01:30:46.615Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 138,
-    "distanceKm": 1411.2,
+    "activities": 139,
+    "distanceKm": 1411.3,
     "elevationM": 10670,
     "movingSeconds": 449100,
     "raw": {
-      "activities": "138",
-      "distance": "1,411.2 km",
+      "activities": "139",
+      "distance": "1,411.3 km",
       "time": "124 h 45 m",
       "elevation": "10,670 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20927693750",
+      "name": "Evening Run",
+      "date": "November 9, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0.0 km",
+        "24:43",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20926069416",
-      "name": "Afternoon Walk",
-      "date": "November 9, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "52:16",
-        "6 m"
-      ]
-    },
-    {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
       "activityId": "20926691254",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133120.3,
-  "totalDistanceKm": 256128.4,
+  "observedWeeksKm": 133120.4,
+  "totalDistanceKm": 256128.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 271925.4
+    "totalWithEstimatesKm": 271925.5
   }
 }

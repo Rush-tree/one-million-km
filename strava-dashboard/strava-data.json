@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:00:55.281Z",
+  "generatedAt": "2026-11-10T01:30:46.615Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,8 +13,8 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 1411.2,
-    "thisWeekActivities": 138,
+    "thisWeekKm": 1411.3,
+    "thisWeekActivities": 139,
     "thisWeekHours": 125,
     "thisWeekElevationM": 10670,
     "timesAroundEarth": 6.79,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22145,
+  "totalActivities": 22146,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 271925400,
+    "totalDistance": 271925500,
     "totalMovingTime": 77009147,
     "totalElevation": 1998204.6
   },
   "monthStats": {
-    "totalDistance": 15925300,
+    "totalDistance": 15925400,
     "totalMovingTime": 4429320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1411200,
+    "totalDistance": 1411300,
     "totalMovingTime": 449100,
-    "count": 138
+    "count": 139
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 256128.4,
+    "measuredDistanceKm": 256128.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20927693750",
+        "name": "Evening Run",
+        "date": "November 9, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0.0 km",
+          "24:43",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20926069416",
-        "name": "Afternoon Walk",
-        "date": "November 9, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "52:16",
-          "6 m"
-        ]
-      },
-      {
         "athlete": "Manuel Zamora",
         "athleteId": "27178448",
         "activityId": "20926691254",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 271925.4
+      "totalWithEstimatesKm": 271925.5
     }
   }
 }

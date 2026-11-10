@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T06:30:48.988Z",
+  "generatedAt": "2026-11-10T07:00:58.474Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 727665,
-    "percentComplete": 27.23,
+    "remainingKm": 727633,
+    "percentComplete": 27.24,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 1820.9,
-    "thisWeekActivities": 166,
-    "thisWeekHours": 154,
-    "thisWeekElevationM": 12574,
+    "thisWeekKm": 1852.5,
+    "thisWeekActivities": 172,
+    "thisWeekHours": 156,
+    "thisWeekElevationM": 12780,
     "timesAroundEarth": 6.8,
-    "percentToMoon": 70.8,
+    "percentToMoon": 70.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 70.8,
-        "text": "70.8% of the way to the Moon",
+        "value": 70.9,
+        "text": "70.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22173,
+  "totalActivities": 22179,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 272335100,
-    "totalMovingTime": 77113007,
-    "totalElevation": 2000108.6
+    "totalDistance": 272366700,
+    "totalMovingTime": 77122367,
+    "totalElevation": 2000314.6
   },
   "monthStats": {
-    "totalDistance": 16335000,
-    "totalMovingTime": 4533180,
+    "totalDistance": 16366600,
+    "totalMovingTime": 4542540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1820900,
-    "totalMovingTime": 552960,
-    "count": 166
+    "totalDistance": 1852500,
+    "totalMovingTime": 562320,
+    "count": 172
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 256538.1,
+    "measuredDistanceKm": 256569.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20929134030",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "20929242614",
+        "name": "Morning Yoga 🌑",
         "date": "November 10, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "9:38",
+          "26:00",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20929240736",
+        "name": "Commute #129/2026 🏥🩺",
+        "date": "November 10, 2026",
+        "distanceKm": 9,
+        "stats": [
+          "9.0 km",
+          "21:24",
+          "29 m"
         ]
       },
       {
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20929134034",
-        "name": "Yoga am Morgen",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20929191131",
+        "name": "🌄 🚴‍♀️Cycle to Taf 👔",
         "date": "November 10, 2026",
-        "distanceKm": 0,
+        "distanceKm": 6.6,
         "stats": [
-          "0 km",
-          "16:36",
-          "0 m"
+          "6.6 km",
+          "39:26",
+          "11 m"
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "20929024711",
-        "name": "Sabah Yürüyüş",
+        "athlete": "Rareș Brânzoi",
+        "athleteId": "4792098",
+        "activityId": "20929207248",
+        "name": "Morning Run",
         "date": "November 10, 2026",
-        "distanceKm": 1.8,
+        "distanceKm": 9.1,
         "stats": [
-          "1.8 km",
-          "30:40",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "20928976769",
-        "name": "🌙 Gravel-Fahrt am Morgen",
-        "date": "November 10, 2026",
-        "distanceKm": 25.5,
-        "stats": [
-          "25.5 km",
-          "1:03:49",
-          "51 m"
+          "9.1 km",
+          "1:00:49",
+          "104 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 272335.1
+      "totalWithEstimatesKm": 272366.7
     }
   }
 }

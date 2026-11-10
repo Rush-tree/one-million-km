@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-10T22:30:45.659Z",
+  "generatedAt": "2026-11-10T23:00:57.053Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-10T22:30:45.659Z",
+  "memberCountUpdatedAt": "2026-11-10T23:00:57.053Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 317,
-    "distanceKm": 3238.3,
-    "elevationM": 24010,
-    "movingSeconds": 1012080,
+    "activities": 318,
+    "distanceKm": 3240.9,
+    "elevationM": 24077,
+    "movingSeconds": 1014060,
     "raw": {
-      "activities": "317",
-      "distance": "3,238.3 km",
-      "time": "281 h 8 m",
-      "elevation": "24,010 m"
+      "activities": "318",
+      "distance": "3,240.9 km",
+      "time": "281 h 41 m",
+      "elevation": "24,077 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Henrique Juhas",
+      "athleteId": "118657757",
+      "activityId": "20939524653",
+      "name": "Corrida ao entardecer",
+      "date": "November 10, 2026",
+      "distanceKm": 2.6,
+      "stats": [
+        "2.6 km",
+        "33:57",
+        "67 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -69,19 +82,6 @@
         "3:01:01",
         "672 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "20938122315",
-      "name": "Gewichtstraining am Abend",
-      "date": "November 10, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "40:03",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 134947.4,
-  "totalDistanceKm": 257955.5,
+  "observedWeeksKm": 134950,
+  "totalDistanceKm": 257958.1,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 273752.5
+    "totalWithEstimatesKm": 273755.1
   }
 }

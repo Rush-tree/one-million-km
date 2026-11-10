@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T20:30:46.721Z",
+  "generatedAt": "2026-11-10T21:00:56.049Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 726322,
+    "remainingKm": 726256,
     "percentComplete": 27.37,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 3163.4,
-    "thisWeekActivities": 307,
-    "thisWeekHours": 271,
-    "thisWeekElevationM": 23294,
+    "thisWeekKm": 3230,
+    "thisWeekActivities": 312,
+    "thisWeekHours": 276,
+    "thisWeekElevationM": 23978,
     "timesAroundEarth": 6.83,
     "percentToMoon": 71.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22318,
+  "totalActivities": 22323,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 273677600,
-    "totalMovingTime": 77534807,
-    "totalElevation": 2010828.6
+    "totalDistance": 273744200,
+    "totalMovingTime": 77554187,
+    "totalElevation": 2011512.6
   },
   "monthStats": {
-    "totalDistance": 17677500,
-    "totalMovingTime": 4954980,
+    "totalDistance": 17744100,
+    "totalMovingTime": 4974360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3163400,
-    "totalMovingTime": 974760,
-    "count": 307
+    "totalDistance": 3230000,
+    "totalMovingTime": 994140,
+    "count": 312
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 257880.6,
+    "measuredDistanceKm": 257947.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Norick Maurer",
+        "athleteId": "107445415",
+        "activityId": "20938433406",
+        "name": "Abendschwimmen",
+        "date": "November 10, 2026",
+        "distanceKm": 1.7,
+        "stats": [
+          "1.7 km",
+          "54:10",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Adriano Perri",
+        "athleteId": "99629318",
+        "activityId": "20938205164",
+        "name": "Back, Shoulders and Abs 🔥",
+        "date": "November 10, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "59:25",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "20937388335",
-        "name": "mrc night run ⭐️",
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20938242249",
+        "name": "Chunde ⛰️",
         "date": "November 10, 2026",
-        "distanceKm": 16.5,
+        "distanceKm": 58.1,
         "stats": [
-          "16.5 km",
-          "2:03:10",
-          "93 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20937675041",
-        "name": "Lunch Walk",
-        "date": "November 10, 2026",
-        "distanceKm": 5.8,
-        "stats": [
-          "5.8 km",
-          "3:16:10",
-          "34 m"
+          "58.1 km",
+          "3:01:01",
+          "672 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "0 km",
           "40:03",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20937300078",
-        "name": "Abendlauf",
-        "date": "November 10, 2026",
-        "distanceKm": 16,
-        "stats": [
-          "16.0 km",
-          "1:58:41",
-          "73 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 273677.6
+      "totalWithEstimatesKm": 273744.2
     }
   }
 }

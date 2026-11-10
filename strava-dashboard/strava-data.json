@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-10T18:01:42.183Z",
+  "generatedAt": "2026-11-10T18:31:31.571Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 726665,
-    "percentComplete": 27.33,
+    "remainingKm": 726453,
+    "percentComplete": 27.35,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 2821,
-    "thisWeekActivities": 274,
-    "thisWeekHours": 238,
-    "thisWeekElevationM": 18662,
-    "timesAroundEarth": 6.82,
-    "percentToMoon": 71.1,
+    "thisWeekKm": 3033.3,
+    "thisWeekActivities": 283,
+    "thisWeekHours": 250,
+    "thisWeekElevationM": 22155,
+    "timesAroundEarth": 6.83,
+    "percentToMoon": 71.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 71.1,
-        "text": "71.1% of the way to the Moon",
+        "value": 71.2,
+        "text": "71.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22284,
+  "totalActivities": 22292,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 273335200,
-    "totalMovingTime": 77415227,
-    "totalElevation": 2006196.6
+    "totalDistance": 273547500,
+    "totalMovingTime": 77459387,
+    "totalElevation": 2009689.6
   },
   "monthStats": {
-    "totalDistance": 17335100,
-    "totalMovingTime": 4835400,
+    "totalDistance": 17547400,
+    "totalMovingTime": 4879560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2821000,
-    "totalMovingTime": 855180,
-    "count": 274
+    "totalDistance": 3033300,
+    "totalMovingTime": 899340,
+    "count": 283
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,61 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 257538.2,
+    "measuredDistanceKm": 257750.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20936235252",
-        "name": "Abendspaziergang",
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20936680099",
+        "name": "Night Walk",
         "date": "November 10, 2026",
-        "distanceKm": 1.8,
+        "distanceKm": 1.3,
         "stats": [
-          "1.8 km",
-          "26:12",
-          "13 m"
+          "1.3 km",
+          "45:51",
+          "9 m"
         ]
       },
       {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20936131273",
-        "name": "Abendlauf",
-        "date": "November 10, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "31:52",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20935901786",
-        "name": "Zwift - Tick Tock in Watopia",
-        "date": "November 10, 2026",
-        "distanceKm": 17.3,
-        "stats": [
-          "17.3 km",
-          "39:43",
-          "51 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20936224735",
-        "name": "Güç",
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "20936600535",
+        "name": "Yoga am Nachmittag",
         "date": "November 10, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:28:05",
+          "1:41:22",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20936401146",
+        "name": "Zwift - Race: BST Mountaingoat iTT (D)",
+        "date": "November 10, 2026",
+        "distanceKm": 25.4,
+        "stats": [
+          "25.4 km",
+          "1:39:30",
+          "753 m"
+        ]
+      },
+      {
+        "athlete": "Jaron Saam",
+        "athleteId": "91151036",
+        "activityId": "20936627951",
+        "name": "Krafttraining",
+        "date": "November 10, 2026",
+        "distanceKm": 25.4,
+        "stats": [
+          "25.4 km",
+          "2:06:39",
+          "99 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 273335.2
+      "totalWithEstimatesKm": 273547.5
     }
   }
 }

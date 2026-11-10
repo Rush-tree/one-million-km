@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-10T02:30:43.786Z",
+  "generatedAt": "2026-11-10T03:00:59.242Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-10T02:30:43.786Z",
+  "memberCountUpdatedAt": "2026-11-10T03:00:59.242Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 139,
-    "distanceKm": 1411.3,
-    "elevationM": 10670,
-    "movingSeconds": 449100,
+    "activities": 141,
+    "distanceKm": 1466.3,
+    "elevationM": 10774,
+    "movingSeconds": 459000,
     "raw": {
-      "activities": "139",
-      "distance": "1,411.3 km",
-      "time": "124 h 45 m",
-      "elevation": "10,670 m"
+      "activities": "141",
+      "distance": "1,466.3 km",
+      "time": "127 h 30 m",
+      "elevation": "10,774 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "siavash Akbari",
+      "athleteId": "56213794",
+      "activityId": "20928187300",
+      "name": "Morning walk",
+      "date": "November 10, 2026",
+      "distanceKm": 0.8,
+      "stats": [
+        "0.8 km",
+        "9:06",
+        "11 m"
+      ]
+    },
     {
       "athlete": "Travis Woulfe",
       "athleteId": "24823170",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Henrique Juhas",
-      "athleteId": "118657757",
-      "activityId": "20926350343",
-      "name": "Corrida ao entardecer",
-      "date": "November 9, 2026",
-      "distanceKm": 2.4,
-      "stats": [
-        "2.4 km",
-        "33:36",
-        "63 m"
-      ]
-    },
-    {
       "athlete": "Manuel Zamora",
       "athleteId": "27178448",
       "activityId": "20926691254",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133120.4,
-  "totalDistanceKm": 256128.5,
+  "observedWeeksKm": 133175.4,
+  "totalDistanceKm": 256183.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 271925.5
+    "totalWithEstimatesKm": 271980.5
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-10T05:00:56.621Z",
+  "generatedAt": "2026-11-10T05:30:46.385Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-10T05:00:56.620Z",
+  "memberCountUpdatedAt": "2026-11-10T05:30:46.385Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 145,
-    "distanceKm": 1510.9,
-    "elevationM": 11057,
-    "movingSeconds": 471840,
+    "activities": 150,
+    "distanceKm": 1532.1,
+    "elevationM": 11149,
+    "movingSeconds": 489300,
     "raw": {
-      "activities": "145",
-      "distance": "1,510.9 km",
-      "time": "131 h 4 m",
-      "elevation": "11,057 m"
+      "activities": "150",
+      "distance": "1,532.1 km",
+      "time": "135 h 55 m",
+      "elevation": "11,149 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20928814760",
+      "name": "Morning Walk",
+      "date": "November 10, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "13:17",
+        "18 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -32,6 +45,32 @@
       ]
     },
     {
+      "athlete": "Justin Mwenda",
+      "athleteId": "160236798",
+      "activityId": "20928814762",
+      "name": "Morning Weight Training",
+      "date": "November 10, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:30:25",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Amit Zadka",
+      "athleteId": "25927820",
+      "activityId": "20928759849",
+      "name": "Morning Run",
+      "date": "November 10, 2026",
+      "distanceKm": 17.9,
+      "stats": [
+        "17.9 km",
+        "1:35:06",
+        "38 m"
+      ]
+    },
+    {
       "athlete": "Louis Mwanja",
       "athleteId": "14992965",
       "activityId": "20928675957",
@@ -43,45 +82,6 @@
         "1:11:51",
         "174 m"
       ]
-    },
-    {
-      "athlete": "siavash Akbari",
-      "athleteId": "56213794",
-      "activityId": "20928187300",
-      "name": "Walking - November 2026 - Enghelab complex 🌞🚶🕊",
-      "date": "November 10, 2026",
-      "distanceKm": 0.8,
-      "stats": [
-        "0.8 km",
-        "9:06",
-        "11 m"
-      ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20928405136",
-      "name": "Evening Walk",
-      "date": "November 9, 2026",
-      "distanceKm": 5.5,
-      "stats": [
-        "5.5 km",
-        "1:06:34",
-        "3 m"
-      ]
-    },
-    {
-      "athlete": "Travis Woulfe",
-      "athleteId": "24823170",
-      "activityId": "20927693750",
-      "name": "Evening Run",
-      "date": "November 9, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0.0 km",
-        "24:43",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 133220,
-  "totalDistanceKm": 256228.1,
+  "observedWeeksKm": 133241.2,
+  "totalDistanceKm": 256249.3,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 272025.1
+    "totalWithEstimatesKm": 272046.3
   }
 }

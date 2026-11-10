@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T05:00:56.621Z",
+  "generatedAt": "2026-11-10T05:30:46.385Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 727975,
+    "remainingKm": 727954,
     "percentComplete": 27.2,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 1510.9,
-    "thisWeekActivities": 145,
-    "thisWeekHours": 131,
-    "thisWeekElevationM": 11057,
+    "thisWeekKm": 1532.1,
+    "thisWeekActivities": 150,
+    "thisWeekHours": 136,
+    "thisWeekElevationM": 11149,
     "timesAroundEarth": 6.79,
     "percentToMoon": 70.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22152,
+  "totalActivities": 22157,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 272025100,
-    "totalMovingTime": 77031887,
-    "totalElevation": 1998591.6
+    "totalDistance": 272046300,
+    "totalMovingTime": 77049347,
+    "totalElevation": 1998683.6
   },
   "monthStats": {
-    "totalDistance": 16025000,
-    "totalMovingTime": 4452060,
+    "totalDistance": 16046200,
+    "totalMovingTime": 4469520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1510900,
-    "totalMovingTime": 471840,
-    "count": 145
+    "totalDistance": 1532100,
+    "totalMovingTime": 489300,
+    "count": 150
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 256228.1,
+    "measuredDistanceKm": 256249.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20928814760",
+        "name": "Morning Walk",
+        "date": "November 10, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "13:17",
+          "18 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,6 +137,32 @@
         ]
       },
       {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "20928814762",
+        "name": "Morning Weight Training",
+        "date": "November 10, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:30:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "20928759849",
+        "name": "Morning Run",
+        "date": "November 10, 2026",
+        "distanceKm": 17.9,
+        "stats": [
+          "17.9 km",
+          "1:35:06",
+          "38 m"
+        ]
+      },
+      {
         "athlete": "Louis Mwanja",
         "athleteId": "14992965",
         "activityId": "20928675957",
@@ -134,45 +173,6 @@
           "6.8 km",
           "1:11:51",
           "174 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20928187300",
-        "name": "Walking - November 2026 - Enghelab complex 🌞🚶🕊",
-        "date": "November 10, 2026",
-        "distanceKm": 0.8,
-        "stats": [
-          "0.8 km",
-          "9:06",
-          "11 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20928405136",
-        "name": "Evening Walk",
-        "date": "November 9, 2026",
-        "distanceKm": 5.5,
-        "stats": [
-          "5.5 km",
-          "1:06:34",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20927693750",
-        "name": "Evening Run",
-        "date": "November 9, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0.0 km",
-          "24:43",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 272025.1
+      "totalWithEstimatesKm": 272046.3
     }
   }
 }

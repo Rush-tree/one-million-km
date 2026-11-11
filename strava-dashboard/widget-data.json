@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-11T13:00:57.614Z",
+  "generatedAt": "2026-11-11T13:30:45.869Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-11T13:00:57.614Z",
+  "memberCountUpdatedAt": "2026-11-11T13:30:45.869Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 386,
-    "distanceKm": 4013.7,
-    "elevationM": 29585,
-    "movingSeconds": 1203480,
+    "activities": 389,
+    "distanceKm": 4071.4,
+    "elevationM": 29927,
+    "movingSeconds": 1211880,
     "raw": {
-      "activities": "386",
-      "distance": "4,013.7 km",
-      "time": "334 h 18 m",
-      "elevation": "29,585 m"
+      "activities": "389",
+      "distance": "4,071.4 km",
+      "time": "336 h 38 m",
+      "elevation": "29,927 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20946605287",
+      "name": "Home",
+      "date": "November 11, 2026",
+      "distanceKm": 3.2,
+      "stats": [
+        "3.2 km",
+        "9:47",
+        "52 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -69,19 +82,6 @@
         "1:37:31",
         "16 m"
       ]
-    },
-    {
-      "athlete": "Alex 3R",
-      "athleteId": "89054684",
-      "activityId": "20945691507",
-      "name": "Bahn, Berge, Ballern, Beine lockern",
-      "date": "November 11, 2026",
-      "distanceKm": 20.1,
-      "stats": [
-        "20.1 km",
-        "1:43:08",
-        "259 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 135722.8,
-  "totalDistanceKm": 258730.9,
+  "observedWeeksKm": 135780.5,
+  "totalDistanceKm": 258788.6,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 274527.9
+    "totalWithEstimatesKm": 274585.6
   }
 }

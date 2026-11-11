@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T19:30:50.899Z",
+  "generatedAt": "2026-11-11T20:00:53.240Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 724797,
-    "percentComplete": 27.52,
+    "remainingKm": 724684,
+    "percentComplete": 27.53,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 4689,
-    "thisWeekActivities": 453,
-    "thisWeekHours": 392,
-    "thisWeekElevationM": 33684,
+    "thisWeekKm": 4801.4,
+    "thisWeekActivities": 460,
+    "thisWeekHours": 400,
+    "thisWeekElevationM": 33888,
     "timesAroundEarth": 6.87,
     "percentToMoon": 71.6,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 20.8,
-        "text": "20.8× the German autobahn network",
+        "value": 20.9,
+        "text": "20.9× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22467,
+  "totalActivities": 22474,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 275203200,
-    "totalMovingTime": 77972747,
-    "totalElevation": 2021218.6
+    "totalDistance": 275315600,
+    "totalMovingTime": 78001427,
+    "totalElevation": 2021422.6
   },
   "monthStats": {
-    "totalDistance": 19203100,
-    "totalMovingTime": 5392920,
+    "totalDistance": 19315500,
+    "totalMovingTime": 5421600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4689000,
-    "totalMovingTime": 1412700,
-    "count": 453
+    "totalDistance": 4801400,
+    "totalMovingTime": 1441380,
+    "count": 460
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 259406.2,
+    "measuredDistanceKm": 259518.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20951454397",
+        "name": "Evening Workout",
+        "date": "November 11, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "18:35",
+          "0 m"
+        ]
+      },
       {
         "athlete": "conny tonder",
         "athleteId": "66434073",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20950889647",
-        "name": "Abendspaziergang",
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20951326222",
+        "name": "Zwift - GA",
         "date": "November 11, 2026",
-        "distanceKm": 1.4,
+        "distanceKm": 39.2,
         "stats": [
-          "1.4 km",
-          "19:32",
-          "25 m"
+          "39.2 km",
+          "1:05:56",
+          "59 m"
         ]
       },
       {
-        "athlete": "Norick Maurer",
-        "athleteId": "107445415",
-        "activityId": "20950559600",
-        "name": "Abendlauf",
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "20951514576",
+        "name": "Stabi + Upper",
         "date": "November 11, 2026",
-        "distanceKm": 3.7,
+        "distanceKm": 0,
         "stats": [
-          "3.7 km",
-          "30:25",
+          "0 km",
+          "1:40:45",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Elmar Höckensfeld 🇩🇪",
+        "athleteId": "18975420",
+        "activityId": "20951272828",
+        "name": "Abendradfahrt",
+        "date": "November 11, 2026",
+        "distanceKm": 43.5,
+        "stats": [
+          "43.5 km",
+          "1:55:10",
           "34 m"
-        ]
-      },
-      {
-        "athlete": "Heiko Kraushaar",
-        "athleteId": "78179687",
-        "activityId": "20950776646",
-        "name": "MyWhoosh - Aerobic Ramps",
-        "date": "November 11, 2026",
-        "distanceKm": 19.8,
-        "stats": [
-          "19.8 km",
-          "53:09",
-          "275 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20950555717",
-        "name": "Zwift - Lockere Rad-Ausdauer (Pwr) - #AerobicBase2",
-        "date": "November 11, 2026",
-        "distanceKm": 35.2,
-        "stats": [
-          "35.2 km",
-          "1:20:21",
-          "204 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 275203.2
+      "totalWithEstimatesKm": 275315.6
     }
   }
 }

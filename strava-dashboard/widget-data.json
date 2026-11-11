@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-11T19:30:50.899Z",
+  "generatedAt": "2026-11-11T20:00:53.240Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-11T19:30:50.899Z",
+  "memberCountUpdatedAt": "2026-11-11T20:00:53.239Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 453,
-    "distanceKm": 4689,
-    "elevationM": 33684,
-    "movingSeconds": 1412700,
+    "activities": 460,
+    "distanceKm": 4801.4,
+    "elevationM": 33888,
+    "movingSeconds": 1441380,
     "raw": {
-      "activities": "453",
-      "distance": "4,689.0 km",
-      "time": "392 h 25 m",
-      "elevation": "33,684 m"
+      "activities": "460",
+      "distance": "4,801.4 km",
+      "time": "400 h 23 m",
+      "elevation": "33,888 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "20951454397",
+      "name": "Evening Workout",
+      "date": "November 11, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "18:35",
+        "0 m"
+      ]
+    },
     {
       "athlete": "conny tonder",
       "athleteId": "66434073",
@@ -32,55 +45,42 @@
       ]
     },
     {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "20950889647",
-      "name": "Abendspaziergang",
+      "athlete": "Thomas Nanntt",
+      "athleteId": "15474485",
+      "activityId": "20951326222",
+      "name": "Zwift - GA",
       "date": "November 11, 2026",
-      "distanceKm": 1.4,
+      "distanceKm": 39.2,
       "stats": [
-        "1.4 km",
-        "19:32",
-        "25 m"
+        "39.2 km",
+        "1:05:56",
+        "59 m"
       ]
     },
     {
-      "athlete": "Norick Maurer",
-      "athleteId": "107445415",
-      "activityId": "20950559600",
-      "name": "Abendlauf",
+      "athlete": "Georg Weinig",
+      "athleteId": "166650923",
+      "activityId": "20951514576",
+      "name": "Stabi + Upper",
       "date": "November 11, 2026",
-      "distanceKm": 3.7,
+      "distanceKm": 0,
       "stats": [
-        "3.7 km",
-        "30:25",
+        "0 km",
+        "1:40:45",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Elmar Höckensfeld 🇩🇪",
+      "athleteId": "18975420",
+      "activityId": "20951272828",
+      "name": "Abendradfahrt",
+      "date": "November 11, 2026",
+      "distanceKm": 43.5,
+      "stats": [
+        "43.5 km",
+        "1:55:10",
         "34 m"
-      ]
-    },
-    {
-      "athlete": "Heiko Kraushaar",
-      "athleteId": "78179687",
-      "activityId": "20950776646",
-      "name": "MyWhoosh - Aerobic Ramps",
-      "date": "November 11, 2026",
-      "distanceKm": 19.8,
-      "stats": [
-        "19.8 km",
-        "53:09",
-        "275 m"
-      ]
-    },
-    {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "20950555717",
-      "name": "Zwift - Lockere Rad-Ausdauer (Pwr) - #AerobicBase2",
-      "date": "November 11, 2026",
-      "distanceKm": 35.2,
-      "stats": [
-        "35.2 km",
-        "1:20:21",
-        "204 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 136398.1,
-  "totalDistanceKm": 259406.2,
+  "observedWeeksKm": 136510.5,
+  "totalDistanceKm": 259518.6,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 275203.2
+    "totalWithEstimatesKm": 275315.6
   }
 }

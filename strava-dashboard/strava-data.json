@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T17:00:59.645Z",
+  "generatedAt": "2026-11-11T17:30:47.505Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 725145,
+    "remainingKm": 725083,
     "percentComplete": 27.49,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 4341.3,
-    "thisWeekActivities": 420,
-    "thisWeekHours": 365,
-    "thisWeekElevationM": 31231,
+    "thisWeekKm": 4402.5,
+    "thisWeekActivities": 429,
+    "thisWeekHours": 373,
+    "thisWeekElevationM": 31795,
     "timesAroundEarth": 6.86,
     "percentToMoon": 71.5,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 43,
-        "text": "43 return trips Berlin to New York",
+        "value": 43.1,
+        "text": "43.1 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22434,
+  "totalActivities": 22443,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 274855500,
-    "totalMovingTime": 77874587,
-    "totalElevation": 2018765.6
+    "totalDistance": 274916700,
+    "totalMovingTime": 77901287,
+    "totalElevation": 2019329.6
   },
   "monthStats": {
-    "totalDistance": 18855400,
-    "totalMovingTime": 5294760,
+    "totalDistance": 18916600,
+    "totalMovingTime": 5321460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4341300,
-    "totalMovingTime": 1314540,
-    "count": 420
+    "totalDistance": 4402500,
+    "totalMovingTime": 1341240,
+    "count": 429
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,73 +105,73 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 259058.5,
+    "measuredDistanceKm": 259119.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "20949041620",
-        "name": "Zwift - Crit Cross in Watopia",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20949508734",
+        "name": "Zwift -",
         "date": "November 11, 2026",
-        "distanceKm": 13.8,
+        "distanceKm": 10,
         "stats": [
-          "13.8 km",
-          "25:04",
-          "37 m"
+          "10.0 km",
+          "22:17",
+          "49 m"
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20948957338",
-        "name": "Zwift - Tempus Fugit in Watopia",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20949688816",
+        "name": "Afternoon Walk",
         "date": "November 11, 2026",
-        "distanceKm": 19.4,
+        "distanceKm": 5.4,
         "stats": [
-          "19.4 km",
-          "34:34",
-          "32 m"
+          "5.4 km",
+          "1:29:46",
+          "33 m"
         ]
       },
       {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20948657748",
-        "name": "Lower A (Strength)",
+        "athlete": "Laura Oerter",
+        "athleteId": "166620468",
+        "activityId": "20949655010",
+        "name": "Lauf am Nachmittag",
         "date": "November 11, 2026",
-        "distanceKm": 0,
+        "distanceKm": 11.4,
         "stats": [
-          "0 km",
-          "49:18",
+          "11.4 km",
+          "1:19:17",
+          "11 m"
+        ]
+      },
+      {
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20949370284",
+        "name": "Schwimmen am Nachmittag",
+        "date": "November 11, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "36:37",
           "0 m"
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20948668851",
-        "name": "Intervalle 12x200m @ 3:25 mit 200m Pause",
-        "date": "November 11, 2026",
-        "distanceKm": 10.3,
-        "stats": [
-          "10.3 km",
-          "49:33",
-          "8 m"
-        ]
-      },
-      {
-        "athlete": "Biken Ginayatova",
-        "athleteId": "92872558",
-        "activityId": "20948721726",
-        "name": "Evening Weight Training",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20949588132",
+        "name": "Güç",
         "date": "November 11, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:18:49",
+          "1:23:51",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 274855.5
+      "totalWithEstimatesKm": 274916.7
     }
   }
 }

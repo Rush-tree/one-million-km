@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T20:00:53.240Z",
+  "generatedAt": "2026-11-11T21:00:54.848Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 724684,
+    "remainingKm": 724654,
     "percentComplete": 27.53,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 4801.4,
-    "thisWeekActivities": 460,
-    "thisWeekHours": 400,
-    "thisWeekElevationM": 33888,
+    "thisWeekKm": 4832.2,
+    "thisWeekActivities": 471,
+    "thisWeekHours": 411,
+    "thisWeekElevationM": 34208,
     "timesAroundEarth": 6.87,
     "percentToMoon": 71.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22474,
+  "totalActivities": 22486,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 275315600,
-    "totalMovingTime": 78001427,
-    "totalElevation": 2021422.6
+    "totalDistance": 275346400,
+    "totalMovingTime": 78038267,
+    "totalElevation": 2021742.6
   },
   "monthStats": {
-    "totalDistance": 19315500,
-    "totalMovingTime": 5421600,
+    "totalDistance": 19346300,
+    "totalMovingTime": 5458440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4801400,
-    "totalMovingTime": 1441380,
-    "count": 460
+    "totalDistance": 4832200,
+    "totalMovingTime": 1478220,
+    "count": 471
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,48 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 259518.6,
+    "measuredDistanceKm": 259549.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20952017786",
+        "name": "🌛 Ride to Renfo 🚴",
+        "date": "November 11, 2026",
+        "distanceKm": 2.6,
+        "stats": [
+          "2.6 km",
+          "7:26",
+          "8 m"
+        ]
+      },
+      {
         "athlete": "John Spence",
         "athleteId": "97189936",
-        "activityId": "20951454397",
-        "name": "Evening Workout",
+        "activityId": "20952121339",
+        "name": "Evening Weight Training",
         "date": "November 11, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "18:35",
+          "1:03:16",
           "0 m"
         ]
       },
       {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "20951170795",
-        "name": "Zwift - Tempus Fugit in Watopia",
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20951583647",
+        "name": "Abendlauf",
         "date": "November 11, 2026",
-        "distanceKm": 19.9,
+        "distanceKm": 5.2,
         "stats": [
-          "19.9 km",
-          "37:31",
-          "32 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "20951326222",
-        "name": "Zwift - GA",
-        "date": "November 11, 2026",
-        "distanceKm": 39.2,
-        "stats": [
-          "39.2 km",
-          "1:05:56",
-          "59 m"
+          "5.2 km",
+          "32:24",
+          "66 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Elmar Höckensfeld 🇩🇪",
-        "athleteId": "18975420",
-        "activityId": "20951272828",
-        "name": "Abendradfahrt",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20951949947",
+        "name": "Morning Walk",
         "date": "November 11, 2026",
-        "distanceKm": 43.5,
+        "distanceKm": 9.1,
         "stats": [
-          "43.5 km",
-          "1:55:10",
-          "34 m"
+          "9.1 km",
+          "5:41:39",
+          "65 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 275315.6
+      "totalWithEstimatesKm": 275346.4
     }
   }
 }

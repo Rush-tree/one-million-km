@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-11T09:01:00.636Z",
+  "generatedAt": "2026-11-11T09:30:48.031Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 725833,
-    "percentComplete": 27.42,
+    "remainingKm": 725718,
+    "percentComplete": 27.43,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
     "weeksToGoal": 46,
-    "projectedDate": "2027-10-01",
+    "projectedDate": "2027-09-30",
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 3652.7,
-    "thisWeekActivities": 359,
-    "thisWeekHours": 311,
-    "thisWeekElevationM": 26551,
+    "thisWeekKm": 3768,
+    "thisWeekActivities": 362,
+    "thisWeekHours": 316,
+    "thisWeekElevationM": 27397,
     "timesAroundEarth": 6.84,
-    "percentToMoon": 71.3,
+    "percentToMoon": 71.4,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 71.3,
-        "text": "71.3% of the way to the Moon",
+        "value": 71.4,
+        "text": "71.4% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 42.9,
-        "text": "42.9 return trips Berlin to New York",
+        "value": 43,
+        "text": "43 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22372,
+  "totalActivities": 22374,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 274166900,
-    "totalMovingTime": 77680967,
-    "totalElevation": 2014085.6
+    "totalDistance": 274282200,
+    "totalMovingTime": 77696207,
+    "totalElevation": 2014931.6
   },
   "monthStats": {
-    "totalDistance": 18166800,
-    "totalMovingTime": 5101140,
+    "totalDistance": 18282100,
+    "totalMovingTime": 5116380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3652700,
-    "totalMovingTime": 1120920,
-    "count": 359
+    "totalDistance": 3768000,
+    "totalMovingTime": 1136160,
+    "count": 362
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 258369.9,
+    "measuredDistanceKm": 258485.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20943738936",
+        "name": "Zwift - Pacer Group Ride with Dani",
+        "date": "November 11, 2026",
+        "distanceKm": 12.1,
+        "stats": [
+          "12.1 km",
+          "22:41",
+          "48 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20943598442",
+        "name": "Zwift - Crit Cross in Watopia",
+        "date": "November 11, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "8:04",
+          "10 m"
+        ]
+      },
       {
         "athlete": "Flávio Pecorari Júnior .'.",
         "athleteId": "6261934",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "20942513658",
-        "name": "Yoga am Morgen",
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "20943733164",
+        "name": "Fahrt am Morgen",
         "date": "November 11, 2026",
-        "distanceKm": 0,
+        "distanceKm": 100,
         "stats": [
-          "0 km",
-          "23:06",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20942563754",
-        "name": "Lauf am Morgen",
-        "date": "November 11, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "46:36",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20942550705",
-        "name": "Lauf am Morgen",
-        "date": "November 11, 2026",
-        "distanceKm": 9.2,
-        "stats": [
-          "9.2 km",
-          "45:34",
-          "59 m"
+          "100.0 km",
+          "5:08:10",
+          "788 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 274166.9
+      "totalWithEstimatesKm": 274282.2
     }
   }
 }

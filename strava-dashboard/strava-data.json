@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T10:30:47.779Z",
+  "generatedAt": "2026-11-11T12:00:54.476Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 725623,
+    "remainingKm": 725607,
     "percentComplete": 27.44,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 3862.7,
-    "thisWeekActivities": 372,
-    "thisWeekHours": 322,
-    "thisWeekElevationM": 27883,
+    "thisWeekKm": 3878.8,
+    "thisWeekActivities": 376,
+    "thisWeekHours": 325,
+    "thisWeekElevationM": 28178,
     "timesAroundEarth": 6.85,
     "percentToMoon": 71.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22384,
+  "totalActivities": 22389,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 274376900,
-    "totalMovingTime": 77719307,
-    "totalElevation": 2015417.6
+    "totalDistance": 274393000,
+    "totalMovingTime": 77729087,
+    "totalElevation": 2015712.6
   },
   "monthStats": {
-    "totalDistance": 18376800,
-    "totalMovingTime": 5139480,
+    "totalDistance": 18392900,
+    "totalMovingTime": 5149260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3862700,
-    "totalMovingTime": 1159260,
-    "count": 372
+    "totalDistance": 3878800,
+    "totalMovingTime": 1169040,
+    "count": 376
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 258579.9,
+    "measuredDistanceKm": 258596,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Stefan Brueckmann",
+        "athleteId": "172247920",
+        "activityId": "20945531641",
+        "name": "Mittagsradfahrt",
+        "date": "November 11, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "39:08",
+          "37 m"
+        ]
+      },
+      {
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "20945365682",
+        "name": "Gewichtstraining zur Mittagszeit",
+        "date": "November 11, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "40:55",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20944027277",
-        "name": "Morning Walk",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20945469679",
+        "name": "Ciclismo mattutino",
         "date": "November 11, 2026",
-        "distanceKm": 1.6,
+        "distanceKm": 19,
         "stats": [
-          "1.6 km",
-          "20:05",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20944062806",
-        "name": "Zwift - Race: Stage 1 - ZRacing - Watopia Islands - Loopipelago (E)",
-        "date": "November 11, 2026",
-        "distanceKm": 22,
-        "stats": [
-          "22.0 km",
-          "44:21",
-          "49 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20944339711",
-        "name": "Fahrt am Morgen",
-        "date": "November 11, 2026",
-        "distanceKm": 33.1,
-        "stats": [
-          "33.1 km",
-          "1:16:33",
-          "0 m"
+          "19.0 km",
+          "2:45:00",
+          "25 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 274376.9
+      "totalWithEstimatesKm": 274393
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-11T14:00:57.118Z",
+  "generatedAt": "2026-11-11T14:30:50.362Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-11T14:00:57.118Z",
+  "memberCountUpdatedAt": "2026-11-11T14:30:50.362Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 392,
-    "distanceKm": 4092,
-    "elevationM": 30311,
-    "movingSeconds": 1228680,
+    "activities": 396,
+    "distanceKm": 4155.4,
+    "elevationM": 30364,
+    "movingSeconds": 1240320,
     "raw": {
-      "activities": "392",
-      "distance": "4,092.0 km",
-      "time": "341 h 18 m",
-      "elevation": "30,311 m"
+      "activities": "396",
+      "distance": "4,155.4 km",
+      "time": "344 h 32 m",
+      "elevation": "30,364 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "20947195698",
+      "name": "Cardio Erwärmung",
+      "date": "November 11, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "20:10",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Herbert Tüns",
       "athleteId": "42803858",
@@ -32,6 +45,19 @@
       ]
     },
     {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "20947233072",
+      "name": "☀️ Wednesday Evening Walk",
+      "date": "November 11, 2026",
+      "distanceKm": 1.3,
+      "stats": [
+        "1.3 km",
+        "54:55",
+        "21 m"
+      ]
+    },
+    {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
       "activityId": "20946605287",
@@ -42,32 +68,6 @@
         "3.2 km",
         "9:47",
         "52 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20945794672",
-      "name": "Crossrope AMP Workout",
-      "date": "November 11, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "13:30",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "20945989538",
-      "name": "Afternoon Workout",
-      "date": "November 11, 2026",
-      "distanceKm": 2,
-      "stats": [
-        "2.0 km",
-        "18:36",
-        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 135801.1,
-  "totalDistanceKm": 258809.2,
+  "observedWeeksKm": 135864.5,
+  "totalDistanceKm": 258872.6,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 274606.2
+    "totalWithEstimatesKm": 274669.6
   }
 }

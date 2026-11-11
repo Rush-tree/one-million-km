@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T14:00:57.118Z",
+  "generatedAt": "2026-11-11T14:30:50.362Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 725394,
-    "percentComplete": 27.46,
+    "remainingKm": 725330,
+    "percentComplete": 27.47,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 4092,
-    "thisWeekActivities": 392,
-    "thisWeekHours": 341,
-    "thisWeekElevationM": 30311,
+    "thisWeekKm": 4155.4,
+    "thisWeekActivities": 396,
+    "thisWeekHours": 345,
+    "thisWeekElevationM": 30364,
     "timesAroundEarth": 6.85,
-    "percentToMoon": 71.4,
+    "percentToMoon": 71.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 71.4,
-        "text": "71.4% of the way to the Moon",
+        "value": 71.5,
+        "text": "71.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22405,
+  "totalActivities": 22408,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 274606200,
-    "totalMovingTime": 77788727,
-    "totalElevation": 2017845.6
+    "totalDistance": 274669600,
+    "totalMovingTime": 77800367,
+    "totalElevation": 2017898.6
   },
   "monthStats": {
-    "totalDistance": 18606100,
-    "totalMovingTime": 5208900,
+    "totalDistance": 18669500,
+    "totalMovingTime": 5220540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4092000,
-    "totalMovingTime": 1228680,
-    "count": 392
+    "totalDistance": 4155400,
+    "totalMovingTime": 1240320,
+    "count": 396
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 258809.2,
+    "measuredDistanceKm": 258872.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20947195698",
+        "name": "Cardio Erwärmung",
+        "date": "November 11, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "20:10",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Herbert Tüns",
         "athleteId": "42803858",
@@ -124,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20947233072",
+        "name": "☀️ Wednesday Evening Walk",
+        "date": "November 11, 2026",
+        "distanceKm": 1.3,
+        "stats": [
+          "1.3 km",
+          "54:55",
+          "21 m"
+        ]
+      },
+      {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "20946605287",
@@ -134,32 +160,6 @@
           "3.2 km",
           "9:47",
           "52 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20945794672",
-        "name": "Crossrope AMP Workout",
-        "date": "November 11, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "13:30",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20945989538",
-        "name": "Afternoon Workout",
-        "date": "November 11, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "18:36",
-          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 274606.2
+      "totalWithEstimatesKm": 274669.6
     }
   }
 }

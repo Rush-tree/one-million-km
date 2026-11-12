@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T10:00:57.291Z",
+  "generatedAt": "2026-11-12T10:30:51.447Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 724179,
-    "percentComplete": 27.58,
+    "remainingKm": 724150,
+    "percentComplete": 27.59,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 5306.4,
-    "thisWeekActivities": 517,
-    "thisWeekHours": 451,
-    "thisWeekElevationM": 36845,
+    "thisWeekKm": 5336,
+    "thisWeekActivities": 520,
+    "thisWeekHours": 454,
+    "thisWeekElevationM": 37049,
     "timesAroundEarth": 6.88,
     "percentToMoon": 71.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22533,
+  "totalActivities": 22536,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 275820600,
-    "totalMovingTime": 78182567,
-    "totalElevation": 2024379.6
+    "totalDistance": 275850200,
+    "totalMovingTime": 78193067,
+    "totalElevation": 2024583.6
   },
   "monthStats": {
-    "totalDistance": 19820500,
-    "totalMovingTime": 5602740,
+    "totalDistance": 19850100,
+    "totalMovingTime": 5613240,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5306400,
-    "totalMovingTime": 1622520,
-    "count": 517
+    "totalDistance": 5336000,
+    "totalMovingTime": 1633020,
+    "count": 520
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 260023.6,
+    "measuredDistanceKm": 260053.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20957721281",
+        "name": "Morning Walk",
+        "date": "November 12, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "37:00",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Andreas Glaser 🇩🇪🚲",
+        "athleteId": "3109388",
+        "activityId": "20957601038",
+        "name": "Zwift - 2x15 FTP Intervals",
+        "date": "November 12, 2026",
+        "distanceKm": 26.7,
+        "stats": [
+          "26.7 km",
+          "56:03",
+          "198 m"
+        ]
+      },
       {
         "athlete": "Roland Baumann",
         "athleteId": "87457914",
@@ -124,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20956505425",
-        "name": "Course à pied le matin",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20957721243",
+        "name": "Morning Workout",
         "date": "November 12, 2026",
-        "distanceKm": 11.2,
+        "distanceKm": 0,
         "stats": [
-          "11.2 km",
-          "1:00:01",
-          "131 m"
+          "0 km",
+          "1:12:21",
+          "0 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "55.0 km",
           "2:00:07",
           "219 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20956216080",
-        "name": "Spaziergang am Morgen",
-        "date": "November 12, 2026",
-        "distanceKm": 3.7,
-        "stats": [
-          "3.7 km",
-          "50:39",
-          "79 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "20956258657",
-        "name": "635/730 gün koşusu",
-        "date": "November 12, 2026",
-        "distanceKm": 11.8,
-        "stats": [
-          "11.8 km",
-          "52:57",
-          "5 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 275820.6
+      "totalWithEstimatesKm": 275850.2
     }
   }
 }

@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-11-12T20:13:27.154Z",
+  "generatedAt": "2026-11-12T20:30:49.732Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-12T20:13:27.154Z",
+  "memberCountUpdatedAt": "2026-11-12T20:30:49.732Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 606,
-    "distanceKm": 6300.3,
-    "elevationM": 43279,
-    "movingSeconds": 1924980,
+    "activities": 612,
+    "distanceKm": 6324.9,
+    "elevationM": 43360,
+    "movingSeconds": 1938420,
     "raw": {
-      "activities": "606",
-      "distance": "6,300.3 km",
-      "time": "534 h 43 m",
-      "elevation": "43,279 m"
+      "activities": "612",
+      "distance": "6,324.9 km",
+      "time": "538 h 27 m",
+      "elevation": "43,360 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Flávio Pecorari Júnior .'.",
+      "athleteId": "6261934",
+      "activityId": "20964348768",
+      "name": "Pedalada vespertina",
+      "date": "November 12, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "42:43",
+        "78 m"
+      ]
+    },
+    {
+      "athlete": "Vincent Glößner",
+      "athleteId": "60518823",
+      "activityId": "20964256120",
+      "name": "NGD Track",
+      "date": "November 12, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "31:57",
+        "4 m"
+      ]
+    },
     {
       "athlete": "Maximilian Stelzer",
       "athleteId": "20640429",
@@ -45,32 +71,6 @@
       ]
     },
     {
-      "athlete": "Johannes Tangel",
-      "athleteId": "127575472",
-      "activityId": "20963528185",
-      "name": "Intervalle NGD 200,400,600,600,400,200",
-      "date": "November 12, 2026",
-      "distanceKm": 8.3,
-      "stats": [
-        "8.3 km",
-        "1:14:14",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "René Rosenberger",
-      "athleteId": "757098365",
-      "activityId": "20963195465",
-      "name": "Lauf am Nachmittag",
-      "date": "November 12, 2026",
-      "distanceKm": 18,
-      "stats": [
-        "18.0 km",
-        "1:56:04",
-        "37 m"
-      ]
-    },
-    {
       "athlete": "Nico Hoßfeld",
       "athleteId": "177308499",
       "activityId": "20963983011",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 138009.4,
-  "totalDistanceKm": 261017.5,
+  "observedWeeksKm": 138034,
+  "totalDistanceKm": 261042.1,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 276814.5
+    "totalWithEstimatesKm": 276839.1
   }
 }

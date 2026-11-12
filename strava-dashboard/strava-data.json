@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T04:00:52.523Z",
+  "generatedAt": "2026-11-12T04:30:49.425Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 724579,
-    "percentComplete": 27.54,
+    "remainingKm": 724542,
+    "percentComplete": 27.55,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 4907.2,
-    "thisWeekActivities": 482,
-    "thisWeekHours": 421,
-    "thisWeekElevationM": 34512,
+    "thisWeekKm": 4944.1,
+    "thisWeekActivities": 484,
+    "thisWeekHours": 423,
+    "thisWeekElevationM": 34571,
     "timesAroundEarth": 6.87,
-    "percentToMoon": 71.6,
+    "percentToMoon": 71.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 71.6,
-        "text": "71.6% of the way to the Moon",
+        "value": 71.7,
+        "text": "71.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22498,
+  "totalActivities": 22499,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 275421400,
-    "totalMovingTime": 78075587,
-    "totalElevation": 2022046.6
+    "totalDistance": 275458300,
+    "totalMovingTime": 78084107,
+    "totalElevation": 2022105.6
   },
   "monthStats": {
-    "totalDistance": 19421300,
-    "totalMovingTime": 5495760,
+    "totalDistance": 19458200,
+    "totalMovingTime": 5504280,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4907200,
-    "totalMovingTime": 1515540,
-    "count": 482
+    "totalDistance": 4944100,
+    "totalMovingTime": 1524060,
+    "count": 484
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 259624.4,
+    "measuredDistanceKm": 259661.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20955479015",
+        "name": "Work",
+        "date": "November 12, 2026",
+        "distanceKm": 6.1,
+        "stats": [
+          "6.1 km",
+          "15:06",
+          "16 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "20955464009",
+        "name": "Cycling legend Satish Sir's Birthday Celebration Ride to NCPA",
+        "date": "November 12, 2026",
+        "distanceKm": 30.6,
+        "stats": [
+          "30.6 km",
+          "3:22:33",
+          "43 m"
+        ]
+      },
       {
         "athlete": "Henrique Juhas",
         "athleteId": "118657757",
@@ -121,19 +147,6 @@
           "2.5 km",
           "31:12",
           "68 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20952524051",
-        "name": "Retour Renfo 🚴‍♀️",
-        "date": "November 11, 2026",
-        "distanceKm": 5.4,
-        "stats": [
-          "5.4 km",
-          "14:02",
-          "9 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "50:05",
           "124 m"
         ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "20952356383",
-        "name": "Renfo 🦵🍫💪 de nuit ✨",
-        "date": "November 11, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "34:18",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 275421.4
+      "totalWithEstimatesKm": 275458.3
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-12T11:30:48.912Z",
+  "generatedAt": "2026-11-12T11:36:37.561Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-12T11:30:48.912Z",
+  "memberCountUpdatedAt": "2026-11-12T11:36:37.561Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 526,
-    "distanceKm": 5425.5,
-    "elevationM": 37364,
-    "movingSeconds": 1649820,
+    "activities": 527,
+    "distanceKm": 5431.1,
+    "elevationM": 37387,
+    "movingSeconds": 1650660,
     "raw": {
-      "activities": "526",
-      "distance": "5,425.5 km",
-      "time": "458 h 17 m",
-      "elevation": "37,364 m"
+      "activities": "527",
+      "distance": "5,431.1 km",
+      "time": "458 h 31 m",
+      "elevation": "37,387 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20958412335",
+      "name": "Gravel",
+      "date": "November 12, 2026",
+      "distanceKm": 5.6,
+      "stats": [
+        "5.6 km",
+        "17:06",
+        "23 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -42,19 +55,6 @@
         "26.7 km",
         "56:03",
         "198 m"
-      ]
-    },
-    {
-      "athlete": "Roland Baumann",
-      "athleteId": "87457914",
-      "activityId": "20957298641",
-      "name": "Lauf am Morgen",
-      "date": "November 12, 2026",
-      "distanceKm": 3.7,
-      "stats": [
-        "3.7 km",
-        "57:52",
-        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 137134.6,
-  "totalDistanceKm": 260142.7,
+  "observedWeeksKm": 137140.2,
+  "totalDistanceKm": 260148.3,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 275939.7
+    "totalWithEstimatesKm": 275945.3
   }
 }

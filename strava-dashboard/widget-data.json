@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-12T22:00:53.723Z",
+  "generatedAt": "2026-11-12T22:30:49.334Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-12T22:00:53.723Z",
+  "memberCountUpdatedAt": "2026-11-12T22:30:49.334Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 619,
-    "distanceKm": 6363.9,
-    "elevationM": 43729,
-    "movingSeconds": 1954980,
+    "activities": 621,
+    "distanceKm": 6375.3,
+    "elevationM": 43932,
+    "movingSeconds": 1960320,
     "raw": {
-      "activities": "619",
-      "distance": "6,363.9 km",
-      "time": "543 h 3 m",
-      "elevation": "43,729 m"
+      "activities": "621",
+      "distance": "6,375.3 km",
+      "time": "544 h 32 m",
+      "elevation": "43,932 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Travis Woulfe",
+      "athleteId": "24823170",
+      "activityId": "20965203757",
+      "name": "Afternoon Walk",
+      "date": "November 12, 2026",
+      "distanceKm": 2.3,
+      "stats": [
+        "2.3 km",
+        "25:17",
+        "4 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -48,7 +61,7 @@
       "athlete": "Domenic Winges",
       "athleteId": "179823094",
       "activityId": "20964897544",
-      "name": "Tempor Run - Laufband",
+      "name": "Tempo Run - Laufband",
       "date": "November 12, 2026",
       "distanceKm": 8.5,
       "stats": [
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "20964348768",
-      "name": "Pedalada vespertina",
+      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+      "athleteId": "47897742",
+      "activityId": "20965241463",
+      "name": "Gece Koşu",
       "date": "November 12, 2026",
-      "distanceKm": 10,
+      "distanceKm": 9,
       "stats": [
-        "10.0 km",
-        "42:43",
-        "78 m"
-      ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "20964423745",
-      "name": "Sykkeltur på kvelden",
-      "date": "November 12, 2026",
-      "distanceKm": 19.9,
-      "stats": [
-        "19.9 km",
-        "57:54",
-        "296 m"
+        "9.0 km",
+        "1:18:54",
+        "199 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 138073,
-  "totalDistanceKm": 261081.1,
+  "observedWeeksKm": 138084.4,
+  "totalDistanceKm": 261092.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 276878.1
+    "totalWithEstimatesKm": 276889.5
   }
 }

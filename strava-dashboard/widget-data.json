@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-12T11:36:37.561Z",
+  "generatedAt": "2026-11-12T12:01:00.900Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-12T11:36:37.561Z",
+  "memberCountUpdatedAt": "2026-11-12T12:01:00.900Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 527,
-    "distanceKm": 5431.1,
-    "elevationM": 37387,
-    "movingSeconds": 1650660,
+    "activities": 530,
+    "distanceKm": 5438.7,
+    "elevationM": 37440,
+    "movingSeconds": 1658280,
     "raw": {
-      "activities": "527",
-      "distance": "5,431.1 km",
-      "time": "458 h 31 m",
-      "elevation": "37,387 m"
+      "activities": "530",
+      "distance": "5,438.7 km",
+      "time": "460 h 38 m",
+      "elevation": "37,440 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "20958723845",
+      "name": "Natación a la hora del almuerzo",
+      "date": "November 12, 2026",
+      "distanceKm": 2,
+      "stats": [
+        "2.0 km",
+        "42:09",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -32,6 +45,19 @@
       ]
     },
     {
+      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+      "athleteId": "47897742",
+      "activityId": "20958661993",
+      "name": "Öğleden Sonra Koşu",
+      "date": "November 12, 2026",
+      "distanceKm": 5.5,
+      "stats": [
+        "5.5 km",
+        "43:24",
+        "53 m"
+      ]
+    },
+    {
       "athlete": "John Spence",
       "athleteId": "97189936",
       "activityId": "20957721281",
@@ -41,32 +67,6 @@
       "stats": [
         "2.0 km",
         "37:00",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Andreas Glaser 🇩🇪🚲",
-      "athleteId": "3109388",
-      "activityId": "20957601038",
-      "name": "Zwift - 2x15 FTP Intervals",
-      "date": "November 12, 2026",
-      "distanceKm": 26.7,
-      "stats": [
-        "26.7 km",
-        "56:03",
-        "198 m"
-      ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "20957721243",
-      "name": "Morning Workout",
-      "date": "November 12, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:12:21",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 137140.2,
-  "totalDistanceKm": 260148.3,
+  "observedWeeksKm": 137147.8,
+  "totalDistanceKm": 260155.9,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 275945.3
+    "totalWithEstimatesKm": 275952.9
   }
 }

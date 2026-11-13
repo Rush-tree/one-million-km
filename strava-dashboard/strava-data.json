@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T07:30:46.386Z",
+  "generatedAt": "2026-11-13T08:00:56.582Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722751,
-    "percentComplete": 27.72,
+    "remainingKm": 722700,
+    "percentComplete": 27.73,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6734.8,
-    "thisWeekActivities": 652,
-    "thisWeekHours": 577,
-    "thisWeekElevationM": 45735,
+    "thisWeekKm": 6785.6,
+    "thisWeekActivities": 653,
+    "thisWeekHours": 579,
+    "thisWeekElevationM": 45924,
     "timesAroundEarth": 6.92,
     "percentToMoon": 72.1,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277249000,
-    "totalMovingTime": 78636767,
-    "totalElevation": 2033269.6
+    "totalDistance": 277299800,
+    "totalMovingTime": 78642707,
+    "totalElevation": 2033458.6
   },
   "monthStats": {
-    "totalDistance": 21248900,
-    "totalMovingTime": 6056940,
+    "totalDistance": 21299700,
+    "totalMovingTime": 6062880,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6734800,
-    "totalMovingTime": 2076720,
-    "count": 652
+    "totalDistance": 6785600,
+    "totalMovingTime": 2082660,
+    "count": 653
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261452,
+    "measuredDistanceKm": 261502.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277249
+      "totalWithEstimatesKm": 277299.8
     }
   }
 }

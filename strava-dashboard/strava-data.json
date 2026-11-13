@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T14:00:53.198Z",
+  "generatedAt": "2026-11-13T14:30:47.657Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722423,
-    "percentComplete": 27.76,
+    "remainingKm": 722270,
+    "percentComplete": 27.77,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 7062.9,
-    "thisWeekActivities": 696,
-    "thisWeekHours": 611,
-    "thisWeekElevationM": 49968,
+    "thisWeekKm": 7215.8,
+    "thisWeekActivities": 704,
+    "thisWeekHours": 619,
+    "thisWeekElevationM": 50668,
     "timesAroundEarth": 6.93,
-    "percentToMoon": 72.2,
+    "percentToMoon": 72.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 72.2,
-        "text": "72.2% of the way to the Moon",
+        "value": 72.3,
+        "text": "72.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 41.7,
-        "text": "41.7× the length of the Nile",
+        "value": 41.8,
+        "text": "41.8× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22717,
+  "totalActivities": 22724,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277577100,
-    "totalMovingTime": 78760547,
-    "totalElevation": 2037502.6
+    "totalDistance": 277730000,
+    "totalMovingTime": 78788747,
+    "totalElevation": 2038202.6
   },
   "monthStats": {
-    "totalDistance": 21577000,
-    "totalMovingTime": 6180720,
+    "totalDistance": 21729900,
+    "totalMovingTime": 6208920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7062900,
-    "totalMovingTime": 2200500,
-    "count": 696
+    "totalDistance": 7215800,
+    "totalMovingTime": 2228700,
+    "count": 704
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261780.1,
+    "measuredDistanceKm": 261933,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20971396145",
-        "name": "Commute #129/2026 🏡",
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20972526265",
+        "name": "Zwift - Seafoam Circuit in Watopia",
         "date": "November 13, 2026",
-        "distanceKm": 8.6,
+        "distanceKm": 5.1,
         "stats": [
-          "8.6 km",
-          "19:45",
-          "124 m"
+          "5.1 km",
+          "9:20",
+          "20 m"
         ]
       },
       {
-        "athlete": "Brad Miyasato",
-        "athleteId": "53406668",
-        "activityId": "20971723859",
-        "name": "Early Morning Run in the rain",
+        "athlete": "Susanne Liepert",
+        "athleteId": "28515644",
+        "activityId": "20972425938",
+        "name": "Zwift - Tempus Fugit in Watopia",
         "date": "November 13, 2026",
-        "distanceKm": 6.5,
+        "distanceKm": 20,
         "stats": [
-          "6.5 km",
-          "39:22",
-          "4 m"
+          "20.0 km",
+          "37:20",
+          "33 m"
+        ]
+      },
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20972481773",
+        "name": "Zwift - Jon's Mix",
+        "date": "November 13, 2026",
+        "distanceKm": 51.3,
+        "stats": [
+          "51.3 km",
+          "1:20:22",
+          "79 m"
         ]
       },
       {
@@ -147,19 +160,6 @@
           "1.0 km",
           "1:32:46",
           "8 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20971495776",
-        "name": "Afternoon Weight Training",
-        "date": "November 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:21:22",
-          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277577.1
+      "totalWithEstimatesKm": 277730
     }
   }
 }

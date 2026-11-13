@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-13T19:00:55.204Z",
+  "generatedAt": "2026-11-13T19:30:47.648Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 721374,
-    "percentComplete": 27.86,
+    "remainingKm": 721166,
+    "percentComplete": 27.88,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
     "weeksToGoal": 46,
-    "projectedDate": "2027-10-01",
+    "projectedDate": "2027-09-30",
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 8111.7,
-    "thisWeekActivities": 762,
-    "thisWeekHours": 679,
-    "thisWeekElevationM": 56574,
-    "timesAroundEarth": 6.95,
+    "thisWeekKm": 8319.8,
+    "thisWeekActivities": 768,
+    "thisWeekHours": 689,
+    "thisWeekElevationM": 57549,
+    "timesAroundEarth": 6.96,
     "percentToMoon": 72.5,
     "comparisons": [
       {
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 13.1,
-        "text": "13.1× the Great Wall of China",
+        "value": 13.2,
+        "text": "13.2× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 43.6,
-        "text": "43.6 return trips Berlin to New York",
+        "value": 43.7,
+        "text": "43.7 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22781,
+  "totalActivities": 22786,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 278625900,
-    "totalMovingTime": 79004327,
-    "totalElevation": 2044108.6
+    "totalDistance": 278834000,
+    "totalMovingTime": 79039427,
+    "totalElevation": 2045083.6
   },
   "monthStats": {
-    "totalDistance": 22625800,
-    "totalMovingTime": 6424500,
+    "totalDistance": 22833900,
+    "totalMovingTime": 6459600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8111700,
-    "totalMovingTime": 2444280,
-    "count": 762
+    "totalDistance": 8319800,
+    "totalMovingTime": 2479380,
+    "count": 768
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 262828.9,
+    "measuredDistanceKm": 263037,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Marcel Gehrer",
+        "athleteId": "135991683",
+        "activityId": "20975533591",
+        "name": "Abendlauf",
+        "date": "November 13, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "30:21",
+          "50 m"
+        ]
+      },
       {
         "athlete": "Nico Deckarm",
         "athleteId": "74766538",
@@ -124,54 +137,41 @@
         ]
       },
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20975248484",
-        "name": "Lunch Run",
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "20975407136",
+        "name": "Fußball am Abend",
         "date": "November 13, 2026",
-        "distanceKm": 5.1,
+        "distanceKm": 1.8,
         "stats": [
-          "5.1 km",
-          "26:46",
-          "10 m"
+          "1.8 km",
+          "1:18:44",
+          "5 m"
         ]
       },
       {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20975213604",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20975573808",
+        "name": "Evening Hike",
+        "date": "November 13, 2026",
+        "distanceKm": 6,
+        "stats": [
+          "6.0 km",
+          "1:41:53",
+          "544 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20975615260",
         "name": "Zwift - The Watopia 150! in Watopia",
         "date": "November 13, 2026",
-        "distanceKm": 34.8,
+        "distanceKm": 171.1,
         "stats": [
-          "34.8 km",
-          "1:03:05",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20975246134",
-        "name": "Fahrt am Nachmittag",
-        "date": "November 13, 2026",
-        "distanceKm": 50,
-        "stats": [
-          "50.0 km",
-          "1:54:06",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20975236284",
-        "name": "Fahrt am Nachmittag",
-        "date": "November 13, 2026",
-        "distanceKm": 48.8,
-        "stats": [
-          "48.8 km",
-          "1:54:42",
+          "171.1 km",
+          "5:24:34",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 278625.9
+      "totalWithEstimatesKm": 278834
     }
   }
 }

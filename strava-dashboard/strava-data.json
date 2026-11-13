@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T18:31:02.288Z",
+  "generatedAt": "2026-11-13T19:00:55.204Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 721537,
-    "percentComplete": 27.85,
+    "remainingKm": 721374,
+    "percentComplete": 27.86,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,23 +13,23 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 7949.3,
-    "thisWeekActivities": 754,
-    "thisWeekHours": 671,
-    "thisWeekElevationM": 56346,
+    "thisWeekKm": 8111.7,
+    "thisWeekActivities": 762,
+    "thisWeekHours": 679,
+    "thisWeekElevationM": 56574,
     "timesAroundEarth": 6.95,
-    "percentToMoon": 72.4,
+    "percentToMoon": 72.5,
     "comparisons": [
       {
         "key": "equator",
-        "value": 6.9,
-        "text": "6.9× around the equator",
+        "value": 7,
+        "text": "7× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
         "key": "moon",
-        "value": 72.4,
-        "text": "72.4% of the way to the Moon",
+        "value": 72.5,
+        "text": "72.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22774,
+  "totalActivities": 22781,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 278463500,
-    "totalMovingTime": 78974987,
-    "totalElevation": 2043880.6
+    "totalDistance": 278625900,
+    "totalMovingTime": 79004327,
+    "totalElevation": 2044108.6
   },
   "monthStats": {
-    "totalDistance": 22463400,
-    "totalMovingTime": 6395160,
+    "totalDistance": 22625800,
+    "totalMovingTime": 6424500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7949300,
-    "totalMovingTime": 2414940,
-    "count": 754
+    "totalDistance": 8111700,
+    "totalMovingTime": 2444280,
+    "count": 762
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,74 +105,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 262666.5,
+    "measuredDistanceKm": 262828.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20975376780",
+        "name": "Abendschwimmen",
+        "date": "November 13, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "37:29",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20975248484",
+        "name": "Lunch Run",
+        "date": "November 13, 2026",
+        "distanceKm": 5.1,
+        "stats": [
+          "5.1 km",
+          "26:46",
+          "10 m"
+        ]
+      },
+      {
         "athlete": "Jürgen Bootsmann",
         "athleteId": "30645305",
-        "activityId": "20974586592",
-        "name": "Zwift - Caldera Coaster in Watopia",
+        "activityId": "20975213604",
+        "name": "Zwift - The Watopia 150! in Watopia",
         "date": "November 13, 2026",
-        "distanceKm": 4.2,
+        "distanceKm": 34.8,
         "stats": [
-          "4.2 km",
-          "7:46",
-          "12 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "20975027492",
-        "name": "Wieczorny trening siłowy",
-        "date": "November 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:18:04",
+          "34.8 km",
+          "1:03:05",
           "0 m"
         ]
       },
       {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20974629405",
-        "name": "Oberkörper",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20975246134",
+        "name": "Fahrt am Nachmittag",
         "date": "November 13, 2026",
-        "distanceKm": 0,
+        "distanceKm": 50,
         "stats": [
-          "0 km",
-          "1:00:08",
+          "50.0 km",
+          "1:54:06",
           "0 m"
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20974873295",
-        "name": "Schwimmen am Nachmittag",
+        "athlete": "Jürgen Bootsmann",
+        "athleteId": "30645305",
+        "activityId": "20975236284",
+        "name": "Fahrt am Nachmittag",
         "date": "November 13, 2026",
-        "distanceKm": 2,
+        "distanceKm": 48.8,
         "stats": [
-          "2.0 km",
-          "1:01:49",
+          "48.8 km",
+          "1:54:42",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "20974610133",
-        "name": "11km Dauerlauf",
-        "date": "November 13, 2026",
-        "distanceKm": 11,
-        "stats": [
-          "11.0 km",
-          "1:04:19",
-          "110 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 278463.5
+      "totalWithEstimatesKm": 278625.9
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T15:31:06.254Z",
+  "generatedAt": "2026-11-13T16:00:54.413Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722106,
+    "remainingKm": 722051,
     "percentComplete": 27.79,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 7380,
-    "thisWeekActivities": 710,
-    "thisWeekHours": 629,
-    "thisWeekElevationM": 51833,
-    "timesAroundEarth": 6.93,
+    "thisWeekKm": 7435.2,
+    "thisWeekActivities": 716,
+    "thisWeekHours": 634,
+    "thisWeekElevationM": 52239,
+    "timesAroundEarth": 6.94,
     "percentToMoon": 72.3,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22730,
+  "totalActivities": 22736,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277894200,
-    "totalMovingTime": 78825227,
-    "totalElevation": 2039367.6
+    "totalDistance": 277949400,
+    "totalMovingTime": 78842147,
+    "totalElevation": 2039773.6
   },
   "monthStats": {
-    "totalDistance": 21894100,
-    "totalMovingTime": 6245400,
+    "totalDistance": 21949300,
+    "totalMovingTime": 6262320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7380000,
-    "totalMovingTime": 2265180,
-    "count": 710
+    "totalDistance": 7435200,
+    "totalMovingTime": 2282100,
+    "count": 716
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,61 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 262097.2,
+    "measuredDistanceKm": 262152.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "20972526265",
-        "name": "Zwift - Seafoam Circuit in Watopia",
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20973479837",
+        "name": "Ettermiddag med sykkeltur",
         "date": "November 13, 2026",
-        "distanceKm": 5.1,
+        "distanceKm": 4.4,
         "stats": [
-          "5.1 km",
-          "9:20",
-          "20 m"
+          "4.4 km",
+          "31:02",
+          "54 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20973379004",
+        "name": "Camminata pomeridiana",
+        "date": "November 13, 2026",
+        "distanceKm": 3.5,
+        "stats": [
+          "3.5 km",
+          "40:18",
+          "3 m"
+        ]
+      },
+      {
+        "athlete": "Werner Hunold",
+        "athleteId": "372952540",
+        "activityId": "20973368648",
+        "name": "Lauf am Nachmittag",
+        "date": "November 13, 2026",
+        "distanceKm": 6.6,
+        "stats": [
+          "6.6 km",
+          "38:21",
+          "21 m"
         ]
       },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
         "activityId": "20973091065",
-        "name": "Lauf am Nachmittag",
+        "name": "Grundlage",
         "date": "November 13, 2026",
         "distanceKm": 13.3,
         "stats": [
           "13.3 km",
           "1:11:22",
           "127 m"
-        ]
-      },
-      {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20973190642",
-        "name": "Lauf am Nachmittag",
-        "date": "November 13, 2026",
-        "distanceKm": 16.8,
-        "stats": [
-          "16.8 km",
-          "1:39:29",
-          "145 m"
-        ]
-      },
-      {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "20972481773",
-        "name": "Zwift - Jon's Mix",
-        "date": "November 13, 2026",
-        "distanceKm": 51.3,
-        "stats": [
-          "51.3 km",
-          "1:20:22",
-          "79 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277894.2
+      "totalWithEstimatesKm": 277949.4
     }
   }
 }

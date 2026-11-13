@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-11-13T08:00:56.582Z",
+  "generatedAt": "2026-11-13T08:21:47.113Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-13T08:00:56.582Z",
+  "memberCountUpdatedAt": "2026-11-13T08:21:47.113Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 653,
-    "distanceKm": 6785.6,
-    "elevationM": 45924,
-    "movingSeconds": 2082660,
+    "activities": 656,
+    "distanceKm": 6792.6,
+    "elevationM": 45944,
+    "movingSeconds": 2090340,
     "raw": {
-      "activities": "653",
-      "distance": "6,785.6 km",
-      "time": "578 h 31 m",
-      "elevation": "45,924 m"
+      "activities": "656",
+      "distance": "6,792.6 km",
+      "time": "580 h 39 m",
+      "elevation": "45,944 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Susi Wong",
+      "athleteId": "44756315",
+      "activityId": "20968953313",
+      "name": "Gewichtstraining am Morgen",
+      "date": "November 13, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "7:28",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Fabrice Clausse",
+      "athleteId": "162101062",
+      "activityId": "20968933330",
+      "name": "Course à pied le matin",
+      "date": "November 13, 2026",
+      "distanceKm": 7,
+      "stats": [
+        "7.0 km",
+        "39:01",
+        "20 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -45,32 +71,6 @@
       ]
     },
     {
-      "athlete": "Falko Frese",
-      "athleteId": "11833410",
-      "activityId": "20968367826",
-      "name": "Commute #131/2026 🏥🩺",
-      "date": "November 13, 2026",
-      "distanceKm": 8.2,
-      "stats": [
-        "8.2 km",
-        "20:51",
-        "57 m"
-      ]
-    },
-    {
-      "athlete": "Mangala Pai",
-      "athleteId": "118301293",
-      "activityId": "20968338446",
-      "name": "Morning ride to NCPA",
-      "date": "November 13, 2026",
-      "distanceKm": 36,
-      "stats": [
-        "36.0 km",
-        "5:50:40",
-        "30 m"
-      ]
-    },
-    {
       "athlete": "# MarshmallowBen",
       "athleteId": "114783849",
       "activityId": "20968580547",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 138494.7,
-  "totalDistanceKm": 261502.8,
+  "observedWeeksKm": 138501.7,
+  "totalDistanceKm": 261509.8,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 277299.8
+    "totalWithEstimatesKm": 277306.8
   }
 }

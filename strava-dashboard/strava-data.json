@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T08:21:47.113Z",
+  "generatedAt": "2026-11-13T09:30:48.500Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722693,
+    "remainingKm": 722690,
     "percentComplete": 27.73,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6792.6,
-    "thisWeekActivities": 656,
-    "thisWeekHours": 581,
-    "thisWeekElevationM": 45944,
+    "thisWeekKm": 6796.2,
+    "thisWeekActivities": 662,
+    "thisWeekHours": 585,
+    "thisWeekElevationM": 46590,
     "timesAroundEarth": 6.92,
     "percentToMoon": 72.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22675,
+  "totalActivities": 22681,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277306800,
-    "totalMovingTime": 78650387,
-    "totalElevation": 2033478.6
+    "totalDistance": 277310400,
+    "totalMovingTime": 78664367,
+    "totalElevation": 2034124.6
   },
   "monthStats": {
-    "totalDistance": 21306700,
-    "totalMovingTime": 6070560,
+    "totalDistance": 21310300,
+    "totalMovingTime": 6084540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6792600,
-    "totalMovingTime": 2090340,
-    "count": 656
+    "totalDistance": 6796200,
+    "totalMovingTime": 2104320,
+    "count": 662
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261509.8,
+    "measuredDistanceKm": 261513.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "20968953313",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Alfonso Contreras Calderón",
+        "athleteId": "123434994",
+        "activityId": "20969210992",
+        "name": "Natación de mañana",
         "date": "November 13, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1.2,
         "stats": [
-          "0 km",
-          "7:28",
+          "1.2 km",
+          "24:29",
           "0 m"
+        ]
+      },
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "20969320527",
+        "name": "Lauf am Morgen",
+        "date": "November 13, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "44:46",
+          "69 m"
+        ]
+      },
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "20969209973",
+        "name": "Pedalada matinal",
+        "date": "November 13, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "36:41",
+          "113 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20968520039",
-        "name": "Sykkeltur om morgenen",
+        "athlete": "siavash Akbari",
+        "athleteId": "56213794",
+        "activityId": "20969178054",
+        "name": "Morning walk",
         "date": "November 13, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 17.6,
         "stats": [
-          "4.4 km",
-          "18:40",
-          "54 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "20968367062",
-        "name": "Friday Lunch HIIT",
-        "date": "November 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "21:26",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "20968580547",
-        "name": "Morgenausfahrt",
-        "date": "November 13, 2026",
-        "distanceKm": 16.8,
-        "stats": [
-          "16.8 km",
-          "41:02",
-          "18 m"
+          "17.6 km",
+          "4:21:58",
+          "350 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277306.8
+      "totalWithEstimatesKm": 277310.4
     }
   }
 }

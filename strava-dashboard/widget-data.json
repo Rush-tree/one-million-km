@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-13T21:00:54.462Z",
+  "generatedAt": "2026-11-13T21:30:46.397Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-13T21:00:54.462Z",
+  "memberCountUpdatedAt": "2026-11-13T21:30:46.397Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 774,
-    "distanceKm": 8480.8,
-    "elevationM": 57866,
-    "movingSeconds": 2509680,
+    "activities": 775,
+    "distanceKm": 8495.8,
+    "elevationM": 57924,
+    "movingSeconds": 2512200,
     "raw": {
-      "activities": "774",
-      "distance": "8,480.8 km",
-      "time": "697 h 8 m",
-      "elevation": "57,866 m"
+      "activities": "775",
+      "distance": "8,495.8 km",
+      "time": "697 h 50 m",
+      "elevation": "57,924 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Goro Shigeno",
+      "athleteId": "37029557",
+      "activityId": "20976348659",
+      "name": "Night Ride",
+      "date": "November 14, 2026",
+      "distanceKm": 15,
+      "stats": [
+        "15.0 km",
+        "1:24:37",
+        "59 m"
+      ]
+    },
     {
       "athlete": "Georg Weinig",
       "athleteId": "166650923",
@@ -42,19 +55,6 @@
         "7.4 km",
         "44:52",
         "102 m"
-      ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "20975573808",
-      "name": "E1 Treffen: Tag 1🤩",
-      "date": "November 13, 2026",
-      "distanceKm": 6,
-      "stats": [
-        "6.0 km",
-        "1:41:53",
-        "544 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 140189.9,
-  "totalDistanceKm": 263198,
+  "observedWeeksKm": 140204.9,
+  "totalDistanceKm": 263213,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 278995
+    "totalWithEstimatesKm": 279010
   }
 }

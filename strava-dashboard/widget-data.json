@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-13T04:00:53.095Z",
+  "generatedAt": "2026-11-13T04:30:46.744Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-13T04:00:53.095Z",
+  "memberCountUpdatedAt": "2026-11-13T04:30:46.744Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 629,
-    "distanceKm": 6422.9,
-    "elevationM": 44073,
-    "movingSeconds": 1992180,
+    "activities": 630,
+    "distanceKm": 6429.3,
+    "elevationM": 44088,
+    "movingSeconds": 1993140,
     "raw": {
-      "activities": "629",
-      "distance": "6,422.9 km",
-      "time": "553 h 23 m",
-      "elevation": "44,073 m"
+      "activities": "630",
+      "distance": "6,429.3 km",
+      "time": "553 h 39 m",
+      "elevation": "44,088 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "20967738619",
+      "name": "Work",
+      "date": "November 13, 2026",
+      "distanceKm": 6.3,
+      "stats": [
+        "6.3 km",
+        "15:40",
+        "15 m"
+      ]
+    },
     {
       "athlete": "Meenu Nagori",
       "athleteId": "69685863",
@@ -69,19 +82,6 @@
         "3:30:29",
         "117 m"
       ]
-    },
-    {
-      "athlete": "Nujaim Noorahdheen",
-      "athleteId": "191343444",
-      "activityId": "20966836048",
-      "name": "Morning Run",
-      "date": "November 13, 2026",
-      "distanceKm": 9,
-      "stats": [
-        "9.0 km",
-        "1:08:07",
-        "12 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 138132,
-  "totalDistanceKm": 261140.1,
+  "observedWeeksKm": 138138.4,
+  "totalDistanceKm": 261146.5,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 276937.1
+    "totalWithEstimatesKm": 276943.5
   }
 }

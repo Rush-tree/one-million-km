@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T12:30:49.977Z",
+  "generatedAt": "2026-11-13T13:00:58.021Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722512,
+    "remainingKm": 722493,
     "percentComplete": 27.75,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6973.6,
-    "thisWeekActivities": 685,
-    "thisWeekHours": 602,
-    "thisWeekElevationM": 48870,
+    "thisWeekKm": 6992.9,
+    "thisWeekActivities": 688,
+    "thisWeekHours": 604,
+    "thisWeekElevationM": 49074,
     "timesAroundEarth": 6.92,
     "percentToMoon": 72.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22705,
+  "totalActivities": 22709,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277487800,
-    "totalMovingTime": 78725987,
-    "totalElevation": 2036404.6
+    "totalDistance": 277507100,
+    "totalMovingTime": 78735227,
+    "totalElevation": 2036608.6
   },
   "monthStats": {
-    "totalDistance": 21487700,
-    "totalMovingTime": 6146160,
+    "totalDistance": 21507000,
+    "totalMovingTime": 6155400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6973600,
-    "totalMovingTime": 2165940,
-    "count": 685
+    "totalDistance": 6992900,
+    "totalMovingTime": 2175180,
+    "count": 688
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261690.8,
+    "measuredDistanceKm": 261710.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20971396145",
+        "name": "Commute #129/2026 🏡",
+        "date": "November 13, 2026",
+        "distanceKm": 8.6,
+        "stats": [
+          "8.6 km",
+          "19:45",
+          "124 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20971495776",
+        "name": "Afternoon Weight Training",
+        "date": "November 13, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:21:22",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Sascha Gebel",
         "athleteId": "19964716",
@@ -148,32 +174,6 @@
           "1:28:39",
           "338 m"
         ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20970440115",
-        "name": "Lunch Walk",
-        "date": "November 13, 2026",
-        "distanceKm": 1.1,
-        "stats": [
-          "1.1 km",
-          "41:57",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Karl W.",
-        "athleteId": "90473145",
-        "activityId": "20970313533",
-        "name": "Zwift - Downtown Titans in Watopia",
-        "date": "November 13, 2026",
-        "distanceKm": 24.8,
-        "stats": [
-          "24.8 km",
-          "57:13",
-          "291 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277487.8
+      "totalWithEstimatesKm": 277507.1
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-13T20:00:55.874Z",
+  "generatedAt": "2026-11-13T20:30:47.181Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-13T20:00:55.873Z",
+  "memberCountUpdatedAt": "2026-11-13T20:30:47.180Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 771,
-    "distanceKm": 8468.8,
-    "elevationM": 57669,
-    "movingSeconds": 2500800,
+    "activities": 774,
+    "distanceKm": 8480.8,
+    "elevationM": 57866,
+    "movingSeconds": 2509680,
     "raw": {
-      "activities": "771",
-      "distance": "8,468.8 km",
-      "time": "694 h 40 m",
-      "elevation": "57,669 m"
+      "activities": "774",
+      "distance": "8,480.8 km",
+      "time": "697 h 8 m",
+      "elevation": "57,866 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Georg Weinig",
+      "athleteId": "166650923",
+      "activityId": "20975913912",
+      "name": "Abendlauf",
+      "date": "November 13, 2026",
+      "distanceKm": 10.2,
+      "stats": [
+        "10.2 km",
+        "58:43",
+        "163 m"
+      ]
+    },
     {
       "athlete": "Hanna Greß",
       "athleteId": "75797079",
@@ -29,19 +42,6 @@
         "7.4 km",
         "44:52",
         "102 m"
-      ]
-    },
-    {
-      "athlete": "Marcel Gehrer",
-      "athleteId": "135991683",
-      "activityId": "20975533591",
-      "name": "Abendlauf",
-      "date": "November 13, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "30:21",
-        "50 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 140177.9,
-  "totalDistanceKm": 263186,
+  "observedWeeksKm": 140189.9,
+  "totalDistanceKm": 263198,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 278983
+    "totalWithEstimatesKm": 278995
   }
 }

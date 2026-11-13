@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T09:30:48.500Z",
+  "generatedAt": "2026-11-13T10:00:55.451Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722690,
-    "percentComplete": 27.73,
+    "remainingKm": 722635,
+    "percentComplete": 27.74,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6796.2,
-    "thisWeekActivities": 662,
-    "thisWeekHours": 585,
-    "thisWeekElevationM": 46590,
+    "thisWeekKm": 6850.8,
+    "thisWeekActivities": 667,
+    "thisWeekHours": 588,
+    "thisWeekElevationM": 47534,
     "timesAroundEarth": 6.92,
-    "percentToMoon": 72.1,
+    "percentToMoon": 72.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 72.1,
-        "text": "72.1% of the way to the Moon",
+        "value": 72.2,
+        "text": "72.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22681,
+  "totalActivities": 22686,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277310400,
-    "totalMovingTime": 78664367,
-    "totalElevation": 2034124.6
+    "totalDistance": 277365000,
+    "totalMovingTime": 78677447,
+    "totalElevation": 2035068.6
   },
   "monthStats": {
-    "totalDistance": 21310300,
-    "totalMovingTime": 6084540,
+    "totalDistance": 21364900,
+    "totalMovingTime": 6097620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6796200,
-    "totalMovingTime": 2104320,
-    "count": 662
+    "totalDistance": 6850800,
+    "totalMovingTime": 2117400,
+    "count": 667
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261513.4,
+    "measuredDistanceKm": 261568,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20969652968",
+        "name": "Fahrt am Morgen",
+        "date": "November 13, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "48:33",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Alfonso Contreras Calderón",
         "athleteId": "123434994",
@@ -150,23 +163,10 @@
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20968933330",
-        "name": "Course à pied le matin",
-        "date": "November 13, 2026",
-        "distanceKm": 7,
-        "stats": [
-          "7.0 km",
-          "39:01",
-          "20 m"
-        ]
-      },
-      {
         "athlete": "siavash Akbari",
         "athleteId": "56213794",
         "activityId": "20969178054",
-        "name": "Morning walk",
+        "name": "Walking - November 2026 - Vanak - Tajrish - Jordan 🌞🚶🕊",
         "date": "November 13, 2026",
         "distanceKm": 17.6,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277310.4
+      "totalWithEstimatesKm": 277365
     }
   }
 }

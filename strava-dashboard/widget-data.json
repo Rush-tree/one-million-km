@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-13T19:30:47.648Z",
+  "generatedAt": "2026-11-13T20:00:55.874Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-13T19:30:47.648Z",
+  "memberCountUpdatedAt": "2026-11-13T20:00:55.873Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 768,
-    "distanceKm": 8319.8,
-    "elevationM": 57549,
-    "movingSeconds": 2479380,
+    "activities": 771,
+    "distanceKm": 8468.8,
+    "elevationM": 57669,
+    "movingSeconds": 2500800,
     "raw": {
-      "activities": "768",
-      "distance": "8,319.8 km",
-      "time": "688 h 43 m",
-      "elevation": "57,549 m"
+      "activities": "771",
+      "distance": "8,468.8 km",
+      "time": "694 h 40 m",
+      "elevation": "57,669 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Hanna Greß",
+      "athleteId": "75797079",
+      "activityId": "20975801163",
+      "name": "Abendlauf",
+      "date": "November 13, 2026",
+      "distanceKm": 7.4,
+      "stats": [
+        "7.4 km",
+        "44:52",
+        "102 m"
+      ]
+    },
     {
       "athlete": "Marcel Gehrer",
       "athleteId": "135991683",
@@ -32,32 +45,6 @@
       ]
     },
     {
-      "athlete": "Nico Deckarm",
-      "athleteId": "74766538",
-      "activityId": "20975376780",
-      "name": "Abendschwimmen",
-      "date": "November 13, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "37:29",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Jürgen Föll",
-      "athleteId": "41355823",
-      "activityId": "20975407136",
-      "name": "Fußball am Abend",
-      "date": "November 13, 2026",
-      "distanceKm": 1.8,
-      "stats": [
-        "1.8 km",
-        "1:18:44",
-        "5 m"
-      ]
-    },
-    {
       "athlete": "Tim Siber",
       "athleteId": "91630363",
       "activityId": "20975573808",
@@ -68,6 +55,19 @@
         "6.0 km",
         "1:41:53",
         "544 m"
+      ]
+    },
+    {
+      "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+      "athleteId": "4351490",
+      "activityId": "20975644487",
+      "name": "Fahrt am Nachmittag",
+      "date": "November 13, 2026",
+      "distanceKm": 140.1,
+      "stats": [
+        "140.1 km",
+        "5:25:13",
+        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 140028.9,
-  "totalDistanceKm": 263037,
+  "observedWeeksKm": 140177.9,
+  "totalDistanceKm": 263186,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 278834
+    "totalWithEstimatesKm": 278983
   }
 }

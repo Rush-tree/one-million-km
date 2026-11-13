@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T19:30:47.648Z",
+  "generatedAt": "2026-11-13T20:00:55.874Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 721166,
-    "percentComplete": 27.88,
+    "remainingKm": 721017,
+    "percentComplete": 27.9,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 8319.8,
-    "thisWeekActivities": 768,
-    "thisWeekHours": 689,
-    "thisWeekElevationM": 57549,
+    "thisWeekKm": 8468.8,
+    "thisWeekActivities": 771,
+    "thisWeekHours": 695,
+    "thisWeekElevationM": 57669,
     "timesAroundEarth": 6.96,
-    "percentToMoon": 72.5,
+    "percentToMoon": 72.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 72.5,
-        "text": "72.5% of the way to the Moon",
+        "value": 72.6,
+        "text": "72.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 41.9,
-        "text": "41.9× the length of the Nile",
+        "value": 42,
+        "text": "42× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22786,
+  "totalActivities": 22788,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 278834000,
-    "totalMovingTime": 79039427,
-    "totalElevation": 2045083.6
+    "totalDistance": 278983000,
+    "totalMovingTime": 79060847,
+    "totalElevation": 2045203.6
   },
   "monthStats": {
-    "totalDistance": 22833900,
-    "totalMovingTime": 6459600,
+    "totalDistance": 22982900,
+    "totalMovingTime": 6481020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8319800,
-    "totalMovingTime": 2479380,
-    "count": 768
+    "totalDistance": 8468800,
+    "totalMovingTime": 2500800,
+    "count": 771
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 263037,
+    "measuredDistanceKm": 263186,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20975801163",
+        "name": "Abendlauf",
+        "date": "November 13, 2026",
+        "distanceKm": 7.4,
+        "stats": [
+          "7.4 km",
+          "44:52",
+          "102 m"
+        ]
+      },
       {
         "athlete": "Marcel Gehrer",
         "athleteId": "135991683",
@@ -124,32 +137,6 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20975376780",
-        "name": "Abendschwimmen",
-        "date": "November 13, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "37:29",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "20975407136",
-        "name": "Fußball am Abend",
-        "date": "November 13, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "1:18:44",
-          "5 m"
-        ]
-      },
-      {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
         "activityId": "20975573808",
@@ -160,6 +147,19 @@
           "6.0 km",
           "1:41:53",
           "544 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20975644487",
+        "name": "Fahrt am Nachmittag",
+        "date": "November 13, 2026",
+        "distanceKm": 140.1,
+        "stats": [
+          "140.1 km",
+          "5:25:13",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 278834
+      "totalWithEstimatesKm": 278983
     }
   }
 }

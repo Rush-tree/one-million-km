@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T13:00:58.021Z",
+  "generatedAt": "2026-11-13T13:30:45.264Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722493,
+    "remainingKm": 722471,
     "percentComplete": 27.75,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6992.9,
-    "thisWeekActivities": 688,
-    "thisWeekHours": 604,
-    "thisWeekElevationM": 49074,
-    "timesAroundEarth": 6.92,
+    "thisWeekKm": 7015.3,
+    "thisWeekActivities": 693,
+    "thisWeekHours": 607,
+    "thisWeekElevationM": 49462,
+    "timesAroundEarth": 6.93,
     "percentToMoon": 72.2,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22709,
+  "totalActivities": 22714,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277507100,
-    "totalMovingTime": 78735227,
-    "totalElevation": 2036608.6
+    "totalDistance": 277529500,
+    "totalMovingTime": 78746507,
+    "totalElevation": 2036996.6
   },
   "monthStats": {
-    "totalDistance": 21507000,
-    "totalMovingTime": 6155400,
+    "totalDistance": 21529400,
+    "totalMovingTime": 6166680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6992900,
-    "totalMovingTime": 2175180,
-    "count": 688
+    "totalDistance": 7015300,
+    "totalMovingTime": 2186460,
+    "count": 693
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261710.1,
+    "measuredDistanceKm": 261732.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,32 @@
         ]
       },
       {
+        "athlete": "Brad Miyasato",
+        "athleteId": "53406668",
+        "activityId": "20971723859",
+        "name": "Night Run",
+        "date": "November 13, 2026",
+        "distanceKm": 6.5,
+        "stats": [
+          "6.5 km",
+          "39:22",
+          "4 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "20971777018",
+        "name": "Marche le midi 🔴⚫",
+        "date": "November 13, 2026",
+        "distanceKm": 1,
+        "stats": [
+          "1.0 km",
+          "1:32:46",
+          "8 m"
+        ]
+      },
+      {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
         "activityId": "20971495776",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Sascha Gebel",
-        "athleteId": "19964716",
-        "activityId": "20970927861",
-        "name": "Gewichtstraining zur Mittagszeit",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "20971781309",
+        "name": "Kleine Runde um den Block",
         "date": "November 13, 2026",
-        "distanceKm": 0,
+        "distanceKm": 1.9,
         "stats": [
-          "0 km",
-          "50:39",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "20970722154",
-        "name": "Mittagsradfahrt",
-        "date": "November 13, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "38:44",
-          "34 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "20970825029",
-        "name": "Standortnachteil ausgleichen ⛰️🏃🏻‍♀️❤️‍🔥",
-        "date": "November 13, 2026",
-        "distanceKm": 16,
-        "stats": [
-          "16.0 km",
-          "1:28:39",
-          "338 m"
+          "1.9 km",
+          "3:05:21",
+          "63 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277507.1
+      "totalWithEstimatesKm": 277529.5
     }
   }
 }

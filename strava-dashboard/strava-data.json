@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T11:00:59.657Z",
+  "generatedAt": "2026-11-13T11:30:47.725Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722593,
+    "remainingKm": 722567,
     "percentComplete": 27.74,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6892.6,
-    "thisWeekActivities": 672,
-    "thisWeekHours": 593,
-    "thisWeekElevationM": 47913,
+    "thisWeekKm": 6918.5,
+    "thisWeekActivities": 674,
+    "thisWeekHours": 594,
+    "thisWeekElevationM": 48211,
     "timesAroundEarth": 6.92,
     "percentToMoon": 72.2,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 43.4,
-        "text": "43.4 return trips Berlin to New York",
+        "value": 43.5,
+        "text": "43.5 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22692,
+  "totalActivities": 22694,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277406800,
-    "totalMovingTime": 78693527,
-    "totalElevation": 2035447.6
+    "totalDistance": 277432700,
+    "totalMovingTime": 78698867,
+    "totalElevation": 2035745.6
   },
   "monthStats": {
-    "totalDistance": 21406700,
-    "totalMovingTime": 6113700,
+    "totalDistance": 21432600,
+    "totalMovingTime": 6119040,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6892600,
-    "totalMovingTime": 2133480,
-    "count": 672
+    "totalDistance": 6918500,
+    "totalMovingTime": 2138820,
+    "count": 674
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261609.8,
+    "measuredDistanceKm": 261635.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "20970440115",
+        "name": "Lunch Walk",
+        "date": "November 13, 2026",
+        "distanceKm": 1.1,
+        "stats": [
+          "1.1 km",
+          "41:57",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Karl W.",
+        "athleteId": "90473145",
+        "activityId": "20970313533",
+        "name": "Zwift - Downtown Titans in Watopia",
+        "date": "November 13, 2026",
+        "distanceKm": 24.8,
+        "stats": [
+          "24.8 km",
+          "57:13",
+          "291 m"
+        ]
+      },
       {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
@@ -137,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20969652968",
-        "name": "Fahrt am Morgen",
-        "date": "November 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "48:33",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Furansuwa B.",
         "athleteId": "94754434",
         "activityId": "20970076581",
@@ -160,19 +173,6 @@
           "21.5 km",
           "2:04:10",
           "166 m"
-        ]
-      },
-      {
-        "athlete": "Gilbert Schwartmann",
-        "athleteId": "147030966",
-        "activityId": "20969841221",
-        "name": "Goldener Herbst",
-        "date": "November 13, 2026",
-        "distanceKm": 10.5,
-        "stats": [
-          "10.5 km",
-          "1:01:55",
-          "177 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277406.8
+      "totalWithEstimatesKm": 277432.7
     }
   }
 }

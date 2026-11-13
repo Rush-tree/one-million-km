@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T10:30:49.275Z",
+  "generatedAt": "2026-11-13T11:00:59.657Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 722628,
+    "remainingKm": 722593,
     "percentComplete": 27.74,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 6857.7,
-    "thisWeekActivities": 669,
-    "thisWeekHours": 589,
-    "thisWeekElevationM": 47559,
+    "thisWeekKm": 6892.6,
+    "thisWeekActivities": 672,
+    "thisWeekHours": 593,
+    "thisWeekElevationM": 47913,
     "timesAroundEarth": 6.92,
     "percentToMoon": 72.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22689,
+  "totalActivities": 22692,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 277371900,
-    "totalMovingTime": 78681467,
-    "totalElevation": 2035093.6
+    "totalDistance": 277406800,
+    "totalMovingTime": 78693527,
+    "totalElevation": 2035447.6
   },
   "monthStats": {
-    "totalDistance": 21371800,
-    "totalMovingTime": 6101640,
+    "totalDistance": 21406700,
+    "totalMovingTime": 6113700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6857700,
-    "totalMovingTime": 2121420,
-    "count": 669
+    "totalDistance": 6892600,
+    "totalMovingTime": 2133480,
+    "count": 672
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 261574.9,
+    "measuredDistanceKm": 261609.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "20970008858",
+        "name": "Camminata mattutina",
+        "date": "November 13, 2026",
+        "distanceKm": 2.8,
+        "stats": [
+          "2.8 km",
+          "52:15",
+          "11 m"
+        ]
+      },
+      {
         "athlete": "Nico Deckarm",
         "athleteId": "74766538",
         "activityId": "20969652968",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "20969210992",
-        "name": "Natación de mañana",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "20970076581",
+        "name": "Course à pied le matin",
         "date": "November 13, 2026",
-        "distanceKm": 1.2,
+        "distanceKm": 21.5,
         "stats": [
-          "1.2 km",
-          "24:29",
-          "0 m"
+          "21.5 km",
+          "2:04:10",
+          "166 m"
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20969320527",
-        "name": "Lauf am Morgen",
+        "athlete": "Gilbert Schwartmann",
+        "athleteId": "147030966",
+        "activityId": "20969841221",
+        "name": "Goldener Herbst",
         "date": "November 13, 2026",
-        "distanceKm": 7,
+        "distanceKm": 10.5,
         "stats": [
-          "7.0 km",
-          "44:46",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "20969178054",
-        "name": "Walking - November 2026 - Vanak - Tajrish - Jordan 🌞🚶🕊",
-        "date": "November 13, 2026",
-        "distanceKm": 17.6,
-        "stats": [
-          "17.6 km",
-          "4:21:58",
-          "350 m"
+          "10.5 km",
+          "1:01:55",
+          "177 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 277371.9
+      "totalWithEstimatesKm": 277406.8
     }
   }
 }

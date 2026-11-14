@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T17:00:56.669Z",
+  "generatedAt": "2026-11-14T17:14:27.079Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 719335,
+    "remainingKm": 719253,
     "percentComplete": 28.07,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 10150.6,
-    "thisWeekActivities": 903,
-    "thisWeekHours": 837,
-    "thisWeekElevationM": 74744,
-    "timesAroundEarth": 7,
+    "thisWeekKm": 10232.9,
+    "thisWeekActivities": 906,
+    "thisWeekHours": 847,
+    "thisWeekElevationM": 75990,
+    "timesAroundEarth": 7.01,
     "percentToMoon": 73,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22920,
+  "totalActivities": 22923,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 280664800,
-    "totalMovingTime": 79573247,
-    "totalElevation": 2062278.6
+    "totalDistance": 280747100,
+    "totalMovingTime": 79609487,
+    "totalElevation": 2063524.6
   },
   "monthStats": {
-    "totalDistance": 24664700,
-    "totalMovingTime": 6993420,
+    "totalDistance": 24747000,
+    "totalMovingTime": 7029660,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10150600,
-    "totalMovingTime": 3013200,
-    "count": 903
+    "totalDistance": 10232900,
+    "totalMovingTime": 3049440,
+    "count": 906
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 264867.8,
+    "measuredDistanceKm": 264950.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "20987369231",
+        "name": "Zwift - Z2 / Z3",
+        "date": "November 14, 2026",
+        "distanceKm": 46,
+        "stats": [
+          "46.0 km",
+          "1:15:54",
+          "73 m"
+        ]
+      },
+      {
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
         "activityId": "20987132682",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "20986897300",
-        "name": "Afternoon Walk",
+        "athlete": "Hans-Georg Acker ♣",
+        "athleteId": "34456629",
+        "activityId": "20987412881",
+        "name": "Rasenmähen und deswegen nicht auf aufs Rad 🤢😡",
         "date": "November 14, 2026",
-        "distanceKm": 5.9,
+        "distanceKm": 7.1,
         "stats": [
-          "5.9 km",
-          "1:19:12",
-          "9 m"
+          "7.1 km",
+          "6:26:19",
+          "2 m"
         ]
       },
       {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "20986385555",
-        "name": "RSC Training Gravel",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "20987398185",
+        "name": "Morning Hike",
         "date": "November 14, 2026",
-        "distanceKm": 65,
+        "distanceKm": 29,
         "stats": [
-          "65.0 km",
-          "3:24:47",
-          "725 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20986869888",
-        "name": "Schwimmen am Nachmittag",
-        "date": "November 14, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "55:04",
-          "0 m"
+          "29.0 km",
+          "9:15:21",
+          "1,171 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 280664.8
+      "totalWithEstimatesKm": 280747.1
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T04:30:47.146Z",
+  "generatedAt": "2026-11-14T05:00:52.122Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 720941,
+    "remainingKm": 720923,
     "percentComplete": 27.91,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 8545.1,
-    "thisWeekActivities": 787,
-    "thisWeekHours": 707,
-    "thisWeekElevationM": 59598,
+    "thisWeekKm": 8562.4,
+    "thisWeekActivities": 790,
+    "thisWeekHours": 709,
+    "thisWeekElevationM": 59634,
     "timesAroundEarth": 6.96,
     "percentToMoon": 72.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22805,
+  "totalActivities": 22808,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 279059300,
-    "totalMovingTime": 79106807,
-    "totalElevation": 2047132.6
+    "totalDistance": 279076600,
+    "totalMovingTime": 79112507,
+    "totalElevation": 2047168.6
   },
   "monthStats": {
-    "totalDistance": 23059200,
-    "totalMovingTime": 6526980,
+    "totalDistance": 23076500,
+    "totalMovingTime": 6532680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8545100,
-    "totalMovingTime": 2546760,
-    "count": 787
+    "totalDistance": 8562400,
+    "totalMovingTime": 2552460,
+    "count": 790
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,21 +105,34 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 263262.3,
+    "measuredDistanceKm": 263279.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Meenu Nagori",
-        "athleteId": "69685863",
-        "activityId": "20979114528",
-        "name": "Full body workout",
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "20979340585",
+        "name": "Gravel",
+        "date": "November 14, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "15:19",
+          "17 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "20979347787",
+        "name": "Morning HIIT",
         "date": "November 14, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:10:47",
+          "23:45",
           "0 m"
         ]
       },
@@ -127,7 +140,7 @@
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "20979271703",
-        "name": "Morning Ride",
+        "name": "🌥️ Saturday Morning Ride",
         "date": "November 14, 2026",
         "distanceKm": 60.1,
         "stats": [
@@ -140,7 +153,7 @@
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "20979270423",
-        "name": "Morning Ride",
+        "name": "🌥️ Saturday Morning Ride",
         "date": "November 14, 2026",
         "distanceKm": 60.1,
         "stats": [
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "20978536589",
-        "name": "Morning Ride",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "20979279056",
+        "name": "637/730 gün koşusu (İnterval day)☠️",
         "date": "November 14, 2026",
-        "distanceKm": 13.9,
+        "distanceKm": 11,
         "stats": [
-          "13.9 km",
-          "57:23",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "Josué González",
-        "athleteId": "178408867",
-        "activityId": "20978404272",
-        "name": "OTF LOWER BODY WEIGHTS WORKOUT 🏋️‍♂️",
-        "date": "November 13, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "50:28",
-          "0 m"
+          "11.0 km",
+          "56:36",
+          "19 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 279059.3
+      "totalWithEstimatesKm": 279076.6
     }
   }
 }

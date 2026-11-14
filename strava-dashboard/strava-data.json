@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T15:30:46.208Z",
+  "generatedAt": "2026-11-14T16:00:52.822Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 719506,
-    "percentComplete": 28.05,
+    "remainingKm": 719378,
+    "percentComplete": 28.06,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 9979.6,
-    "thisWeekActivities": 890,
-    "thisWeekHours": 821,
-    "thisWeekElevationM": 73083,
+    "thisWeekKm": 10108.2,
+    "thisWeekActivities": 893,
+    "thisWeekHours": 829,
+    "thisWeekElevationM": 74451,
     "timesAroundEarth": 7,
     "percentToMoon": 73,
     "comparisons": [
@@ -46,21 +46,21 @@
       },
       {
         "key": "transatlantic",
-        "value": 43.9,
-        "text": "43.9 return trips Berlin to New York",
+        "value": 44,
+        "text": "44 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
         "key": "autobahn",
-        "value": 21.2,
-        "text": "21.2× the German autobahn network",
+        "value": 21.3,
+        "text": "21.3× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22907,
+  "totalActivities": 22909,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 280493800,
-    "totalMovingTime": 79516667,
-    "totalElevation": 2060617.6
+    "totalDistance": 280622400,
+    "totalMovingTime": 79543787,
+    "totalElevation": 2061985.6
   },
   "monthStats": {
-    "totalDistance": 24493700,
-    "totalMovingTime": 6936840,
+    "totalDistance": 24622300,
+    "totalMovingTime": 6963960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9979600,
-    "totalMovingTime": 2956620,
-    "count": 890
+    "totalDistance": 10108200,
+    "totalMovingTime": 2983740,
+    "count": 893
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 264696.8,
+    "measuredDistanceKm": 264825.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,16 +124,29 @@
         ]
       },
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "20985800226",
-        "name": "Gravel-Fahrt über Stein und Brambacherhof nach Bad Wimpfen und zurück mit Did 🍂🌞",
+        "athlete": "Louis Mwanja",
+        "athleteId": "14992965",
+        "activityId": "20986469129",
+        "name": "Afternoon Swim",
         "date": "November 14, 2026",
-        "distanceKm": 40,
+        "distanceKm": 1.9,
         "stats": [
-          "40.0 km",
-          "2:00:32",
-          "326 m"
+          "1.9 km",
+          "1:41:09",
+          "51 m"
+        ]
+      },
+      {
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "20986385555",
+        "name": "Gravel-Fahrt am Nachmittag",
+        "date": "November 14, 2026",
+        "distanceKm": 65,
+        "stats": [
+          "65.0 km",
+          "3:24:47",
+          "725 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "3:27:27",
           "287 m"
         ]
-      },
-      {
-        "athlete": "Maximilian Stelzer",
-        "athleteId": "20640429",
-        "activityId": "20985615886",
-        "name": "Samstagsausfahrt",
-        "date": "November 14, 2026",
-        "distanceKm": 40.6,
-        "stats": [
-          "40.6 km",
-          "3:05:20",
-          "646 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 280493.8
+      "totalWithEstimatesKm": 280622.4
     }
   }
 }

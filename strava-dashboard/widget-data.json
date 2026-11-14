@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-14T19:30:47.098Z",
+  "generatedAt": "2026-11-14T20:00:54.918Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-14T19:30:47.098Z",
+  "memberCountUpdatedAt": "2026-11-14T20:00:54.918Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 919,
-    "distanceKm": 10324.1,
-    "elevationM": 76619,
-    "movingSeconds": 3086880,
+    "activities": 920,
+    "distanceKm": 10334.1,
+    "elevationM": 76685,
+    "movingSeconds": 3088080,
     "raw": {
-      "activities": "919",
-      "distance": "10,324.1 km",
-      "time": "857 h 28 m",
-      "elevation": "76,619 m"
+      "activities": "920",
+      "distance": "10,334.1 km",
+      "time": "857 h 48 m",
+      "elevation": "76,685 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "20988947466",
+      "name": "Sykkeltur på kvelden",
+      "date": "November 14, 2026",
+      "distanceKm": 9.9,
+      "stats": [
+        "9.9 km",
+        "19:38",
+        "66 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -41,19 +54,6 @@
       "stats": [
         "0 km",
         "11:44",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Jürgen Bootsmann",
-      "athleteId": "30645305",
-      "activityId": "20988275958",
-      "name": "Radfahrt am Abend",
-      "date": "November 14, 2026",
-      "distanceKm": 0.5,
-      "stats": [
-        "0.5 km",
-        "4:25",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 142033.2,
-  "totalDistanceKm": 265041.3,
+  "observedWeeksKm": 142043.2,
+  "totalDistanceKm": 265051.3,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 280838.3
+    "totalWithEstimatesKm": 280848.3
   }
 }

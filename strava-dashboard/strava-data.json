@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T19:30:47.098Z",
+  "generatedAt": "2026-11-14T20:00:54.918Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 719162,
+    "remainingKm": 719152,
     "percentComplete": 28.08,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 10324.1,
-    "thisWeekActivities": 919,
-    "thisWeekHours": 857,
-    "thisWeekElevationM": 76619,
+    "thisWeekKm": 10334.1,
+    "thisWeekActivities": 920,
+    "thisWeekHours": 858,
+    "thisWeekElevationM": 76685,
     "timesAroundEarth": 7.01,
     "percentToMoon": 73.1,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 13.2,
-        "text": "13.2× the Great Wall of China",
+        "value": 13.3,
+        "text": "13.3× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22936,
+  "totalActivities": 22937,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 280838300,
-    "totalMovingTime": 79646927,
-    "totalElevation": 2064153.6
+    "totalDistance": 280848300,
+    "totalMovingTime": 79648127,
+    "totalElevation": 2064219.6
   },
   "monthStats": {
-    "totalDistance": 24838200,
-    "totalMovingTime": 7067100,
+    "totalDistance": 24848200,
+    "totalMovingTime": 7068300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10324100,
-    "totalMovingTime": 3086880,
-    "count": 919
+    "totalDistance": 10334100,
+    "totalMovingTime": 3088080,
+    "count": 920
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 265041.3,
+    "measuredDistanceKm": 265051.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "20988947466",
+        "name": "Sykkeltur på kvelden",
+        "date": "November 14, 2026",
+        "distanceKm": 9.9,
+        "stats": [
+          "9.9 km",
+          "19:38",
+          "66 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -133,19 +146,6 @@
         "stats": [
           "0 km",
           "11:44",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Bootsmann",
-        "athleteId": "30645305",
-        "activityId": "20988275958",
-        "name": "Radfahrt am Abend",
-        "date": "November 14, 2026",
-        "distanceKm": 0.5,
-        "stats": [
-          "0.5 km",
-          "4:25",
           "0 m"
         ]
       },
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 280838.3
+      "totalWithEstimatesKm": 280848.3
     }
   }
 }

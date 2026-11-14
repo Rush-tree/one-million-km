@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T10:00:56.618Z",
+  "generatedAt": "2026-11-14T10:30:46.698Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 720793,
-    "percentComplete": 27.92,
+    "remainingKm": 720717,
+    "percentComplete": 27.93,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 8693.2,
-    "thisWeekActivities": 812,
-    "thisWeekHours": 724,
-    "thisWeekElevationM": 61354,
+    "thisWeekKm": 8768.4,
+    "thisWeekActivities": 818,
+    "thisWeekHours": 728,
+    "thisWeekElevationM": 61869,
     "timesAroundEarth": 6.97,
-    "percentToMoon": 72.6,
+    "percentToMoon": 72.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 72.6,
-        "text": "72.6% of the way to the Moon",
+        "value": 72.7,
+        "text": "72.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22831,
+  "totalActivities": 22838,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 279207400,
-    "totalMovingTime": 79165247,
-    "totalElevation": 2048888.6
+    "totalDistance": 279282600,
+    "totalMovingTime": 79181087,
+    "totalElevation": 2049403.6
   },
   "monthStats": {
-    "totalDistance": 23207300,
-    "totalMovingTime": 6585420,
+    "totalDistance": 23282500,
+    "totalMovingTime": 6601260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8693200,
-    "totalMovingTime": 2605200,
-    "count": 812
+    "totalDistance": 8768400,
+    "totalMovingTime": 2621040,
+    "count": 818
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 263410.4,
+    "measuredDistanceKm": 263485.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20981786268",
+        "name": "Zwift - Race: Tiny Race (2 of 4) by Zwift Insider",
+        "date": "November 14, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "12:31",
+          "40 m"
+        ]
+      },
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20981578741",
+        "name": "Zwift - Race: Tiny Race (1 of 4) by Zwift Insider",
+        "date": "November 14, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "14:36",
+          "12 m"
+        ]
+      },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
@@ -124,23 +150,10 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20981319972",
-        "name": "Zwift - Beach Island Loop in Watopia",
-        "date": "November 14, 2026",
-        "distanceKm": 4.2,
-        "stats": [
-          "4.2 km",
-          "12:01",
-          "16 m"
-        ]
-      },
-      {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
         "activityId": "20981318863",
-        "name": "Lauf am Morgen",
+        "name": "Intervalle 3x800@4:00",
         "date": "November 14, 2026",
         "distanceKm": 5.6,
         "stats": [
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "20981319361",
-        "name": "Lauf am Morgen",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "20981519013",
+        "name": "Zwift - California Dreamin' in Watopia",
         "date": "November 14, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 32.3,
         "stats": [
-          "4.4 km",
-          "23:14",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Reynaldo Guerra",
-        "athleteId": "59804669",
-        "activityId": "20981013778",
-        "name": "Pedalada matinal",
-        "date": "November 14, 2026",
-        "distanceKm": 8.6,
-        "stats": [
-          "8.6 km",
-          "46:20",
-          "68 m"
+          "32.3 km",
+          "1:06:45",
+          "162 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 279207.4
+      "totalWithEstimatesKm": 279282.6
     }
   }
 }

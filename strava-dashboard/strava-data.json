@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T16:00:52.822Z",
+  "generatedAt": "2026-11-14T16:30:50.565Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 719378,
-    "percentComplete": 28.06,
+    "remainingKm": 719346,
+    "percentComplete": 28.07,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 10108.2,
-    "thisWeekActivities": 893,
-    "thisWeekHours": 829,
-    "thisWeekElevationM": 74451,
+    "thisWeekKm": 10139.4,
+    "thisWeekActivities": 900,
+    "thisWeekHours": 834,
+    "thisWeekElevationM": 74592,
     "timesAroundEarth": 7,
     "percentToMoon": 73,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22909,
+  "totalActivities": 22917,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 280622400,
-    "totalMovingTime": 79543787,
-    "totalElevation": 2061985.6
+    "totalDistance": 280653600,
+    "totalMovingTime": 79561907,
+    "totalElevation": 2062126.6
   },
   "monthStats": {
-    "totalDistance": 24622300,
-    "totalMovingTime": 6963960,
+    "totalDistance": 24653500,
+    "totalMovingTime": 6982080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10108200,
-    "totalMovingTime": 2983740,
-    "count": 893
+    "totalDistance": 10139400,
+    "totalMovingTime": 3001860,
+    "count": 900
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 264825.4,
+    "measuredDistanceKm": 264856.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Hannah-Malin Henigin",
-        "athleteId": "162779271",
-        "activityId": "20985821521",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Manuel Zamora",
+        "athleteId": "27178448",
+        "activityId": "20986919210",
+        "name": "Footing 🏃🏽",
         "date": "November 14, 2026",
-        "distanceKm": 5,
+        "distanceKm": 4.4,
         "stats": [
-          "5.0 km",
-          "31:14",
-          "17 m"
+          "4.4 km",
+          "35:34",
+          "42 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "20986897300",
+        "name": "Afternoon Walk",
+        "date": "November 14, 2026",
+        "distanceKm": 5.9,
+        "stats": [
+          "5.9 km",
+          "1:19:12",
+          "9 m"
         ]
       },
       {
@@ -140,7 +153,7 @@
         "athlete": "Gisbert Drumm",
         "athleteId": "10905376",
         "activityId": "20986385555",
-        "name": "Gravel-Fahrt am Nachmittag",
+        "name": "RSC Training Gravel",
         "date": "November 14, 2026",
         "distanceKm": 65,
         "stats": [
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "20985888534",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "20986869888",
+        "name": "Schwimmen am Nachmittag",
         "date": "November 14, 2026",
-        "distanceKm": 76.7,
+        "distanceKm": 2,
         "stats": [
-          "76.7 km",
-          "3:08:49",
-          "625 m"
-        ]
-      },
-      {
-        "athlete": "Frederik Schäfer",
-        "athleteId": "135167529",
-        "activityId": "20986001549",
-        "name": "2026-11-14Ride",
-        "date": "November 14, 2026",
-        "distanceKm": 99.5,
-        "stats": [
-          "99.5 km",
-          "3:27:27",
-          "287 m"
+          "2.0 km",
+          "55:04",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 280622.4
+      "totalWithEstimatesKm": 280653.6
     }
   }
 }

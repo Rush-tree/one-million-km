@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T14:00:53.251Z",
+  "generatedAt": "2026-11-14T14:30:44.083Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 720036,
-    "percentComplete": 28,
+    "remainingKm": 719935,
+    "percentComplete": 28.01,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 9450,
-    "thisWeekActivities": 867,
-    "thisWeekHours": 784,
-    "thisWeekElevationM": 67228,
+    "thisWeekKm": 9550.5,
+    "thisWeekActivities": 872,
+    "thisWeekHours": 791,
+    "thisWeekElevationM": 67934,
     "timesAroundEarth": 6.99,
-    "percentToMoon": 72.8,
+    "percentToMoon": 72.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 72.8,
-        "text": "72.8% of the way to the Moon",
+        "value": 72.9,
+        "text": "72.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 43.8,
-        "text": "43.8 return trips Berlin to New York",
+        "value": 43.9,
+        "text": "43.9 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22886,
+  "totalActivities": 22891,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 279964200,
-    "totalMovingTime": 79381787,
-    "totalElevation": 2054762.6
+    "totalDistance": 280064700,
+    "totalMovingTime": 79407947,
+    "totalElevation": 2055468.6
   },
   "monthStats": {
-    "totalDistance": 23964100,
-    "totalMovingTime": 6801960,
+    "totalDistance": 24064600,
+    "totalMovingTime": 6828120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9450000,
-    "totalMovingTime": 2821740,
-    "count": 867
+    "totalDistance": 9550500,
+    "totalMovingTime": 2847900,
+    "count": 872
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 264167.2,
+    "measuredDistanceKm": 264267.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Pirmin Pascal Braun",
+        "athleteId": "706432",
+        "activityId": "20984967761",
+        "name": "um den Flugplatz",
+        "date": "November 14, 2026",
+        "distanceKm": 9.5,
+        "stats": [
+          "9.5 km",
+          "47:00",
+          "20 m"
+        ]
+      },
+      {
         "athlete": "Louis Mwanja",
         "athleteId": "14992965",
         "activityId": "20984613345",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "20984524282",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Aparna Rajeev Thekke Kurungott",
+        "athleteId": "1791686294",
+        "activityId": "20984993264",
+        "name": "Afternoon Walk",
         "date": "November 14, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 3,
         "stats": [
-          "4.4 km",
-          "1:29:14",
-          "43 m"
+          "3.0 km",
+          "1:52:57",
+          "31 m"
         ]
       },
       {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "20984496840",
-        "name": "KDK Rundclub",
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "20984877679",
+        "name": "Traillauf zur Mittagszeit",
         "date": "November 14, 2026",
-        "distanceKm": 6.3,
+        "distanceKm": 30.1,
         "stats": [
-          "6.3 km",
-          "1:43:50",
-          "26 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20984532607",
-        "name": "Spaziergang",
-        "date": "November 14, 2026",
-        "distanceKm": 4.8,
-        "stats": [
-          "4.8 km",
-          "1:50:17",
-          "56 m"
+          "30.1 km",
+          "3:23:08",
+          "298 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 279964.2
+      "totalWithEstimatesKm": 280064.7
     }
   }
 }

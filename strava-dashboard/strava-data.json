@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-14T14:30:44.083Z",
+  "generatedAt": "2026-11-14T15:00:52.215Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 719935,
-    "percentComplete": 28.01,
+    "remainingKm": 719736,
+    "percentComplete": 28.03,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 9550.5,
-    "thisWeekActivities": 872,
-    "thisWeekHours": 791,
-    "thisWeekElevationM": 67934,
+    "thisWeekKm": 9749.4,
+    "thisWeekActivities": 883,
+    "thisWeekHours": 807,
+    "thisWeekElevationM": 71361,
     "timesAroundEarth": 6.99,
     "percentToMoon": 72.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22891,
+  "totalActivities": 22901,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 280064700,
-    "totalMovingTime": 79407947,
-    "totalElevation": 2055468.6
+    "totalDistance": 280263600,
+    "totalMovingTime": 79466567,
+    "totalElevation": 2058895.6
   },
   "monthStats": {
-    "totalDistance": 24064600,
-    "totalMovingTime": 6828120,
+    "totalDistance": 24263500,
+    "totalMovingTime": 6886740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9550500,
-    "totalMovingTime": 2847900,
-    "count": 872
+    "totalDistance": 9749400,
+    "totalMovingTime": 2906520,
+    "count": 883
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 264267.7,
+    "measuredDistanceKm": 264466.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "20984711980",
-        "name": "Morning Run",
+        "athlete": "Domenic Winges",
+        "athleteId": "179823094",
+        "activityId": "20985417823",
+        "name": "Plyometrics",
         "date": "November 14, 2026",
-        "distanceKm": 5.4,
+        "distanceKm": 0,
         "stats": [
-          "5.4 km",
-          "28:19",
-          "7 m"
+          "0 km",
+          "10:15",
+          "0 m"
         ]
       },
       {
@@ -137,16 +137,29 @@
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "20984613345",
-        "name": "Afternoon Swim",
+        "athlete": "Hanna Greß",
+        "athleteId": "75797079",
+        "activityId": "20985506658",
+        "name": "Spaziergang am Nachmittag",
         "date": "November 14, 2026",
-        "distanceKm": 2,
+        "distanceKm": 4.1,
         "stats": [
-          "2.0 km",
-          "59:31",
-          "0 m"
+          "4.1 km",
+          "58:02",
+          "47 m"
+        ]
+      },
+      {
+        "athlete": "Irene Adkins",
+        "athleteId": "51333291",
+        "activityId": "20985287236",
+        "name": "Wunderschönes Sonnenläufle 😎 🏃🏻‍♀️🏃🏻‍♀️",
+        "date": "November 14, 2026",
+        "distanceKm": 7,
+        "stats": [
+          "7.0 km",
+          "1:20:30",
+          "20 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "3.0 km",
           "1:52:57",
           "31 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "20984877679",
-        "name": "Traillauf zur Mittagszeit",
-        "date": "November 14, 2026",
-        "distanceKm": 30.1,
-        "stats": [
-          "30.1 km",
-          "3:23:08",
-          "298 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 280064.7
+      "totalWithEstimatesKm": 280263.6
     }
   }
 }

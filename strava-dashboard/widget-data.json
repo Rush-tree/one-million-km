@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-14T21:30:44.431Z",
+  "generatedAt": "2026-11-14T21:37:30.656Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-14T21:30:44.431Z",
+  "memberCountUpdatedAt": "2026-11-14T21:37:30.656Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 920,
-    "distanceKm": 10334.1,
-    "elevationM": 76685,
-    "movingSeconds": 3088080,
+    "activities": 921,
+    "distanceKm": 10336.4,
+    "elevationM": 76708,
+    "movingSeconds": 3089400,
     "raw": {
-      "activities": "920",
-      "distance": "10,334.1 km",
-      "time": "857 h 48 m",
-      "elevation": "76,685 m"
+      "activities": "921",
+      "distance": "10,336.4 km",
+      "time": "858 h 10 m",
+      "elevation": "76,708 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "20989615445",
+      "name": "Nachtspaziergang",
+      "date": "November 14, 2026",
+      "distanceKm": 2.3,
+      "stats": [
+        "2.3 km",
+        "54:27",
+        "23 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -69,19 +82,6 @@
         "44:10",
         "15 m"
       ]
-    },
-    {
-      "athlete": "Anja Habermeier",
-      "athleteId": "80382525",
-      "activityId": "20987997733",
-      "name": "Spaziergang am Nachmittag",
-      "date": "November 14, 2026",
-      "distanceKm": 6,
-      "stats": [
-        "6.0 km",
-        "1:42:40",
-        "38 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 142043.2,
-  "totalDistanceKm": 265051.3,
+  "observedWeeksKm": 142045.5,
+  "totalDistanceKm": 265053.6,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 280848.3
+    "totalWithEstimatesKm": 280850.6
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T11:00:54.488Z",
+  "generatedAt": "2026-11-15T11:30:47.161Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 718379,
-    "percentComplete": 28.16,
+    "remainingKm": 718256,
+    "percentComplete": 28.17,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 11106.8,
-    "thisWeekActivities": 984,
-    "thisWeekHours": 915,
-    "thisWeekElevationM": 81217,
+    "thisWeekKm": 11229.4,
+    "thisWeekActivities": 991,
+    "thisWeekHours": 922,
+    "thisWeekElevationM": 81984,
     "timesAroundEarth": 7.03,
     "percentToMoon": 73.3,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 42.3,
-        "text": "42.3× the length of the Nile",
+        "value": 42.4,
+        "text": "42.4× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23002,
+  "totalActivities": 23008,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 281621000,
-    "totalMovingTime": 79855067,
-    "totalElevation": 2068751.6
+    "totalDistance": 281743600,
+    "totalMovingTime": 79880687,
+    "totalElevation": 2069518.6
   },
   "monthStats": {
-    "totalDistance": 25620900,
-    "totalMovingTime": 7275240,
+    "totalDistance": 25743500,
+    "totalMovingTime": 7300860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11106800,
-    "totalMovingTime": 3295020,
-    "count": 984
+    "totalDistance": 11229400,
+    "totalMovingTime": 3320640,
+    "count": 991
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 265824,
+    "measuredDistanceKm": 265946.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "20995350952",
+        "name": "Zwift - The Classic in Watopia",
+        "date": "November 15, 2026",
+        "distanceKm": 4.9,
+        "stats": [
+          "4.9 km",
+          "12:04",
+          "48 m"
+        ]
+      },
       {
         "athlete": "Ulf Nuglisch",
         "athleteId": "62746305",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "20994688290",
-        "name": "Stand-up-Paddeln am Morgen",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "20995554889",
+        "name": "Bahntraining",
         "date": "November 15, 2026",
-        "distanceKm": 3.4,
+        "distanceKm": 12,
         "stats": [
-          "3.4 km",
-          "32:44",
+          "12.0 km",
+          "54:50",
           "0 m"
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "20994743763",
-        "name": "Zwift - Laps, Camera, Traction in Watopia",
+        "athlete": "Andreas Glaser 🇩🇪🚲",
+        "athleteId": "3109388",
+        "activityId": "20995605091",
+        "name": "Sonntagsintervalle 📈📉🚴‍♂️",
         "date": "November 15, 2026",
-        "distanceKm": 26,
+        "distanceKm": 47.5,
         "stats": [
-          "26.0 km",
-          "53:31",
-          "204 m"
-        ]
-      },
-      {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "20994873776",
-        "name": "Morning Ride",
-        "date": "November 15, 2026",
-        "distanceKm": 28.4,
-        "stats": [
-          "28.4 km",
-          "1:00:02",
-          "545 m"
+          "47.5 km",
+          "1:56:07",
+          "439 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 281621
+      "totalWithEstimatesKm": 281743.6
     }
   }
 }

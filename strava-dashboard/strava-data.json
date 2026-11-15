@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T13:00:52.790Z",
+  "generatedAt": "2026-11-15T13:30:44.811Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 717860,
-    "percentComplete": 28.21,
+    "remainingKm": 717798,
+    "percentComplete": 28.22,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 11626.3,
-    "thisWeekActivities": 1014,
-    "thisWeekHours": 950,
-    "thisWeekElevationM": 84228,
+    "thisWeekKm": 11688,
+    "thisWeekActivities": 1020,
+    "thisWeekHours": 956,
+    "thisWeekElevationM": 84565,
     "timesAroundEarth": 7.04,
     "percentToMoon": 73.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23030,
+  "totalActivities": 23037,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 282140500,
-    "totalMovingTime": 79978247,
-    "totalElevation": 2071762.6
+    "totalDistance": 282202200,
+    "totalMovingTime": 80001947,
+    "totalElevation": 2072099.6
   },
   "monthStats": {
-    "totalDistance": 26140400,
-    "totalMovingTime": 7398420,
+    "totalDistance": 26202100,
+    "totalMovingTime": 7422120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11626300,
-    "totalMovingTime": 3418200,
-    "count": 1014
+    "totalDistance": 11688000,
+    "totalMovingTime": 3441900,
+    "count": 1020
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 266343.5,
+    "measuredDistanceKm": 266405.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,10 +124,23 @@
         ]
       },
       {
+        "athlete": "Maximilian Stelzer",
+        "athleteId": "20640429",
+        "activityId": "20997391889",
+        "name": "Lauf am Nachmittag",
+        "date": "November 15, 2026",
+        "distanceKm": 6.3,
+        "stats": [
+          "6.3 km",
+          "38:04",
+          "51 m"
+        ]
+      },
+      {
         "athlete": "Britta Prasse",
         "athleteId": "200634990",
         "activityId": "20997008832",
-        "name": "Lauf am Nachmittag",
+        "name": "1pm Club 🫶🏻",
         "date": "November 15, 2026",
         "distanceKm": 6.4,
         "stats": [
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Martin Löser",
-        "athleteId": "195854656",
-        "activityId": "20996916336",
-        "name": "Mittagslauf",
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "20997325327",
+        "name": "Wanderung am Mittag",
         "date": "November 15, 2026",
-        "distanceKm": 7,
+        "distanceKm": 5.1,
         "stats": [
-          "7.0 km",
-          "49:18",
-          "15 m"
+          "5.1 km",
+          "1:13:12",
+          "29 m"
         ]
       },
       {
-        "athlete": "Manfred H",
-        "athleteId": "85517467",
-        "activityId": "20996603033",
-        "name": "Longrun",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "20997370673",
+        "name": "Morning Walk",
         "date": "November 15, 2026",
-        "distanceKm": 25.8,
+        "distanceKm": 6.4,
         "stats": [
-          "25.8 km",
-          "2:30:00",
-          "104 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "20996228006",
-        "name": "Ciclismo mattutino",
-        "date": "November 15, 2026",
-        "distanceKm": 13.1,
-        "stats": [
-          "13.1 km",
-          "2:59:51",
-          "27 m"
+          "6.4 km",
+          "3:55:40",
+          "62 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 282140.5
+      "totalWithEstimatesKm": 282202.2
     }
   }
 }

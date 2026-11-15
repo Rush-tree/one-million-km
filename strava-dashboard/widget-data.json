@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-15T18:30:47.436Z",
+  "generatedAt": "2026-11-15T19:00:55.832Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-15T18:30:47.436Z",
+  "memberCountUpdatedAt": "2026-11-15T19:00:55.831Z",
   "currentWeek": {
     "week": "Nov 9, 2026 - Nov 15, 2026",
-    "activities": 1085,
-    "distanceKm": 13038.4,
-    "elevationM": 94856,
-    "movingSeconds": 3750120,
+    "activities": 1089,
+    "distanceKm": 13048.8,
+    "elevationM": 94901,
+    "movingSeconds": 3757680,
     "raw": {
-      "activities": "1085",
-      "distance": "13,038.4 km",
-      "time": "1,041 h 42 m",
-      "elevation": "94,856 m"
+      "activities": "1089",
+      "distance": "13,048.8 km",
+      "time": "1,043 h 48 m",
+      "elevation": "94,901 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "21001286405",
+      "name": "Stretching 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
+      "date": "November 15, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "38:39",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -29,19 +42,6 @@
         "20.2 km",
         "37:38",
         "32 m"
-      ]
-    },
-    {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "21000482629",
-      "name": "Evening Ride",
-      "date": "November 15, 2026",
-      "distanceKm": 5.9,
-      "stats": [
-        "5.9 km",
-        "22:46",
-        "0 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 144747.5,
-  "totalDistanceKm": 267755.6,
+  "observedWeeksKm": 144757.9,
+  "totalDistanceKm": 267766,
   "weeksTracked": 10,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 283552.6
+    "totalWithEstimatesKm": 283563
   }
 }

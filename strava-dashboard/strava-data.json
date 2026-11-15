@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T17:00:57.002Z",
+  "generatedAt": "2026-11-15T17:18:41.844Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 716667,
-    "percentComplete": 28.33,
+    "remainingKm": 716650,
+    "percentComplete": 28.34,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 12819.3,
-    "thisWeekActivities": 1078,
-    "thisWeekHours": 1029,
-    "thisWeekElevationM": 93324,
+    "thisWeekKm": 12836,
+    "thisWeekActivities": 1080,
+    "thisWeekHours": 1030,
+    "thisWeekElevationM": 93382,
     "timesAroundEarth": 7.07,
     "percentToMoon": 73.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23091,
+  "totalActivities": 23093,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 283333500,
-    "totalMovingTime": 80264027,
-    "totalElevation": 2080858.6
+    "totalDistance": 283350200,
+    "totalMovingTime": 80266727,
+    "totalElevation": 2080916.6
   },
   "monthStats": {
-    "totalDistance": 27333400,
-    "totalMovingTime": 7684200,
+    "totalDistance": 27350100,
+    "totalMovingTime": 7686900,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12819300,
-    "totalMovingTime": 3703980,
-    "count": 1078
+    "totalDistance": 12836000,
+    "totalMovingTime": 3706680,
+    "count": 1080
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 267536.5,
+    "measuredDistanceKm": 267553.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21000482629",
+        "name": "Evening Ride",
+        "date": "November 15, 2026",
+        "distanceKm": 5.9,
+        "stats": [
+          "5.9 km",
+          "22:46",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21000445650",
+        "name": "Kinomap - ☀️🚴🌳Hills to San Luis reservoir",
+        "date": "November 15, 2026",
+        "distanceKm": 10.8,
+        "stats": [
+          "10.8 km",
+          "22:20",
+          "59 m"
+        ]
+      },
       {
         "athlete": "René Sauer",
         "athleteId": "190842154",
@@ -148,32 +174,6 @@
           "41:11",
           "84 m"
         ]
-      },
-      {
-        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
-        "athleteId": "28746307",
-        "activityId": "20999526674",
-        "name": "Afternoon Swim",
-        "date": "November 15, 2026",
-        "distanceKm": 0.1,
-        "stats": [
-          "0.1 km",
-          "6:20",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "20999864625",
-        "name": "Schwimmen am Nachmittag",
-        "date": "November 15, 2026",
-        "distanceKm": 1.1,
-        "stats": [
-          "1.1 km",
-          "34:00",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 283333.5
+      "totalWithEstimatesKm": 283350.2
     }
   }
 }

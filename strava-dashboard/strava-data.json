@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T09:30:49.015Z",
+  "generatedAt": "2026-11-15T09:41:18.516Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 718628,
+    "remainingKm": 718627,
     "percentComplete": 28.14,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 10857.5,
+    "thisWeekKm": 10858.5,
     "thisWeekActivities": 967,
-    "thisWeekHours": 901,
-    "thisWeekElevationM": 79703,
+    "thisWeekHours": 900,
+    "thisWeekElevationM": 79512,
     "timesAroundEarth": 7.02,
     "percentToMoon": 73.2,
     "comparisons": [
@@ -70,18 +70,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 281371700,
-    "totalMovingTime": 79803827,
-    "totalElevation": 2067237.6
+    "totalDistance": 281372700,
+    "totalMovingTime": 79800947,
+    "totalElevation": 2067046.6
   },
   "monthStats": {
-    "totalDistance": 25371600,
-    "totalMovingTime": 7224000,
+    "totalDistance": 25372600,
+    "totalMovingTime": 7221120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10857500,
-    "totalMovingTime": 3243780,
+    "totalDistance": 10858500,
+    "totalMovingTime": 3240900,
     "count": 967
   },
   "lastWeekStats": {
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 265574.7,
+    "measuredDistanceKm": 265575.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,16 +124,16 @@
         ]
       },
       {
-        "athlete": "Birgit Marco",
-        "athleteId": "63425596",
-        "activityId": "20993753773",
-        "name": "Lauf am Morgen",
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "20993826131",
+        "name": "Zwift - Tick Tock in Watopia",
         "date": "November 15, 2026",
-        "distanceKm": 13.1,
+        "distanceKm": 14.1,
         "stats": [
-          "13.1 km",
-          "1:22:51",
-          "225 m"
+          "14.1 km",
+          "28:31",
+          "33 m"
         ]
       },
       {
@@ -166,7 +166,7 @@
         "athlete": "Tim Siber",
         "athleteId": "91630363",
         "activityId": "20993666562",
-        "name": "Morning Hike",
+        "name": "E1 Treffen: Tag 3",
         "date": "November 15, 2026",
         "distanceKm": 8.1,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 281371.7
+      "totalWithEstimatesKm": 281372.7
     }
   }
 }

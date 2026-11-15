@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T17:30:50.372Z",
+  "generatedAt": "2026-11-15T18:00:57.431Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 716650,
-    "percentComplete": 28.34,
+    "remainingKm": 716537,
+    "percentComplete": 28.35,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 12836,
-    "thisWeekActivities": 1080,
-    "thisWeekHours": 1030,
-    "thisWeekElevationM": 93382,
+    "thisWeekKm": 12949.1,
+    "thisWeekActivities": 1083,
+    "thisWeekHours": 1035,
+    "thisWeekElevationM": 94371,
     "timesAroundEarth": 7.07,
     "percentToMoon": 73.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23093,
+  "totalActivities": 23096,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 283350200,
-    "totalMovingTime": 80266727,
-    "totalElevation": 2080916.6
+    "totalDistance": 283463300,
+    "totalMovingTime": 80287667,
+    "totalElevation": 2081905.6
   },
   "monthStats": {
-    "totalDistance": 27350100,
-    "totalMovingTime": 7686900,
+    "totalDistance": 27463200,
+    "totalMovingTime": 7707840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12836000,
-    "totalMovingTime": 3706680,
-    "count": 1080
+    "totalDistance": 12949100,
+    "totalMovingTime": 3727620,
+    "count": 1083
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 267553.2,
+    "measuredDistanceKm": 267666.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "21000844257",
+        "name": "Zwift - Tempus Fugit in Watopia",
+        "date": "November 15, 2026",
+        "distanceKm": 20.2,
+        "stats": [
+          "20.2 km",
+          "37:38",
+          "32 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "21000136047",
-        "name": "Afternoon Ride",
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21000706093",
+        "name": "Ettermiddag med sykkeltur",
         "date": "November 15, 2026",
-        "distanceKm": 17,
+        "distanceKm": 92.7,
         "stats": [
-          "17.0 km",
-          "44:09",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "21000081197",
-        "name": "Kinomap - [FM144] Gambarie d'Aspromonte to Scilla descent | Calabria",
-        "date": "November 15, 2026",
-        "distanceKm": 30.3,
-        "stats": [
-          "30.3 km",
-          "41:11",
-          "84 m"
+          "92.7 km",
+          "4:39:55",
+          "957 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 283350.2
+      "totalWithEstimatesKm": 283463.3
     }
   }
 }

@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-15T04:00:53.834Z",
+  "generatedAt": "2026-11-15T04:30:47.738Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 719147,
-    "percentComplete": 28.09,
+    "remainingKm": 719027,
+    "percentComplete": 28.1,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
     "avgDayKm": 2243.5,
     "weeksToGoal": 46,
-    "projectedDate": "2027-10-02",
+    "projectedDate": "2027-10-01",
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 10339.2,
-    "thisWeekActivities": 924,
-    "thisWeekHours": 860,
-    "thisWeekElevationM": 76742,
+    "thisWeekKm": 10458.5,
+    "thisWeekActivities": 927,
+    "thisWeekHours": 866,
+    "thisWeekElevationM": 77235,
     "timesAroundEarth": 7.01,
     "percentToMoon": 73.1,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 42.2,
-        "text": "42.2× the length of the Nile",
+        "value": 42.3,
+        "text": "42.3× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22942,
+  "totalActivities": 22944,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 280853400,
-    "totalMovingTime": 79657607,
-    "totalElevation": 2064276.6
+    "totalDistance": 280972700,
+    "totalMovingTime": 79678607,
+    "totalElevation": 2064769.6
   },
   "monthStats": {
-    "totalDistance": 24853300,
-    "totalMovingTime": 7077780,
+    "totalDistance": 24972600,
+    "totalMovingTime": 7098780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10339200,
-    "totalMovingTime": 3097560,
-    "count": 924
+    "totalDistance": 10458500,
+    "totalMovingTime": 3118560,
+    "count": 927
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 265056.4,
+    "measuredDistanceKm": 265175.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Goro Shigeno",
+        "athleteId": "37029557",
+        "activityId": "20992209669",
+        "name": "Morning Ride",
+        "date": "November 15, 2026",
+        "distanceKm": 3.9,
+        "stats": [
+          "3.9 km",
+          "44:44",
+          "25 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "20988947466",
-        "name": "Sykkeltur på kvelden",
-        "date": "November 14, 2026",
-        "distanceKm": 9.9,
+        "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+        "athleteId": "72351185",
+        "activityId": "20992180290",
+        "name": "Sunday Morning Gran Fondo Ride",
+        "date": "November 15, 2026",
+        "distanceKm": 100.8,
         "stats": [
-          "9.9 km",
-          "19:38",
-          "66 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "20988532828",
-        "name": "Crossrope AMP Workout",
-        "date": "November 14, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "28:10",
-          "0 m"
+          "100.8 km",
+          "4:29:11",
+          "458 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 280853.4
+      "totalWithEstimatesKm": 280972.7
     }
   }
 }

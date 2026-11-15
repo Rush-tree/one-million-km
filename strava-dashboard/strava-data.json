@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T09:41:18.516Z",
+  "generatedAt": "2026-11-15T10:00:59.907Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 718627,
+    "remainingKm": 718591,
     "percentComplete": 28.14,
     "paceBasisWeeks": 8,
     "avgWeekKm": 15704.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 64.1,
     "activitiesPerWeek": 1198,
     "avgActivityKm": 13.1,
-    "thisWeekKm": 10858.5,
-    "thisWeekActivities": 967,
-    "thisWeekHours": 900,
-    "thisWeekElevationM": 79512,
+    "thisWeekKm": 10895,
+    "thisWeekActivities": 969,
+    "thisWeekHours": 901,
+    "thisWeekElevationM": 79707,
     "timesAroundEarth": 7.02,
     "percentToMoon": 73.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 22985,
+  "totalActivities": 22987,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 281372700,
-    "totalMovingTime": 79800947,
-    "totalElevation": 2067046.6
+    "totalDistance": 281409200,
+    "totalMovingTime": 79804667,
+    "totalElevation": 2067241.6
   },
   "monthStats": {
-    "totalDistance": 25372600,
-    "totalMovingTime": 7221120,
+    "totalDistance": 25409100,
+    "totalMovingTime": 7224840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10858500,
-    "totalMovingTime": 3240900,
-    "count": 967
+    "totalDistance": 10895000,
+    "totalMovingTime": 3244620,
+    "count": 969
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 265575.7,
+    "measuredDistanceKm": 265612.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "20994011543",
+        "name": "Zwift - Race: Women's Mini Races || p/b FemmeCycle Collab (D)",
+        "date": "November 15, 2026",
+        "distanceKm": 7.6,
+        "stats": [
+          "7.6 km",
+          "18:06",
+          "111 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -137,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "20993644210",
-        "name": "Zwift - Steady State Cruise",
+        "athlete": "Falko Frese",
+        "athleteId": "11833410",
+        "activityId": "20993950239",
+        "name": "Zwift - Group Ride: Short - Stage 2 - Tour of Watopia 2026",
         "date": "November 15, 2026",
-        "distanceKm": 43.6,
+        "distanceKm": 28.8,
         "stats": [
-          "43.6 km",
-          "1:35:35",
-          "172 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "20993662452",
-        "name": "Course à pied le matin",
-        "date": "November 15, 2026",
-        "distanceKm": 18.1,
-        "stats": [
-          "18.1 km",
-          "1:40:34",
-          "186 m"
+          "28.8 km",
+          "43:39",
+          "84 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 281372.7
+      "totalWithEstimatesKm": 281409.2
     }
   }
 }

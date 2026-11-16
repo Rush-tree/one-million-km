@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T16:01:00.919Z",
+  "generatedAt": "2026-11-16T16:31:06.126Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 715693,
+    "remainingKm": 715676,
     "percentComplete": 28.43,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 725.8,
-    "thisWeekActivities": 72,
-    "thisWeekHours": 64,
-    "thisWeekElevationM": 4173,
+    "thisWeekKm": 742.4,
+    "thisWeekActivities": 78,
+    "thisWeekHours": 67,
+    "thisWeekElevationM": 4429,
     "timesAroundEarth": 7.09,
     "percentToMoon": 74,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23182,
+  "totalActivities": 23188,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 284307200,
-    "totalMovingTime": 80578727,
-    "totalElevation": 2086694.6
+    "totalDistance": 284323800,
+    "totalMovingTime": 80591567,
+    "totalElevation": 2086950.6
   },
   "monthStats": {
-    "totalDistance": 28307100,
-    "totalMovingTime": 7998900,
+    "totalDistance": 28323700,
+    "totalMovingTime": 8011740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 725800,
-    "totalMovingTime": 228720,
-    "count": 72
+    "totalDistance": 742400,
+    "totalMovingTime": 241560,
+    "count": 78
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,61 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 268510.2,
+    "measuredDistanceKm": 268526.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21009873314",
-        "name": "Sauna",
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "21010293425",
+        "name": "Stabi",
         "date": "November 16, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "10:00",
+          "20:39",
           "0 m"
         ]
       },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
-        "activityId": "21009873307",
-        "name": "Afternoon Swim",
+        "activityId": "21010290804",
+        "name": "Afternoon Walk",
         "date": "November 16, 2026",
-        "distanceKm": 0.6,
+        "distanceKm": 1,
         "stats": [
-          "0.6 km",
-          "10:07",
+          "1.0 km",
+          "21:13",
           "0 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21009873304",
-        "name": "Sauna",
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "21010182094",
+        "name": "Popołudniowe bieganie",
+        "date": "November 16, 2026",
+        "distanceKm": 8,
+        "stats": [
+          "8.0 km",
+          "51:38",
+          "60 m"
+        ]
+      },
+      {
+        "athlete": "Christopher Griebenouw 🇿🇦🏃🏻‍♂️👟🏌🏻⛳",
+        "athleteId": "28746307",
+        "activityId": "21010227035",
+        "name": "Afternoon Weight Training",
         "date": "November 16, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "15:01",
+          "1:11:05",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "21009937451",
-        "name": "Fahrt am Nachmittag",
-        "date": "November 16, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "50:03",
-          "131 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 284307.2
+      "totalWithEstimatesKm": 284323.8
     }
   }
 }

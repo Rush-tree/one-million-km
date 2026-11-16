@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-16T04:00:52.786Z",
+  "generatedAt": "2026-11-16T04:30:44.239Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-16T04:00:52.786Z",
+  "memberCountUpdatedAt": "2026-11-16T04:30:44.239Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 3,
-    "distanceKm": 43.2,
-    "elevationM": 39,
-    "movingSeconds": 16260,
+    "activities": 5,
+    "distanceKm": 63.3,
+    "elevationM": 129,
+    "movingSeconds": 26760,
     "raw": {
-      "activities": "3",
-      "distance": "43.2 km",
-      "time": "4 h 31 m",
-      "elevation": "39 m"
+      "activities": "5",
+      "distance": "63.3 km",
+      "time": "7 h 26 m",
+      "elevation": "129 m"
     }
   },
   "latestActivities": [
@@ -45,6 +45,19 @@
       ]
     },
     {
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "21004566164",
+      "name": "Açık alanda koşu",
+      "date": "November 16, 2026",
+      "distanceKm": 20,
+      "stats": [
+        "20.0 km",
+        "1:40:02",
+        "90 m"
+      ]
+    },
+    {
       "athlete": "Cristian Stănciulescu",
       "athleteId": "67352997",
       "activityId": "21002913823",
@@ -69,19 +82,6 @@
         "38:39",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Ricardo Ferre",
-      "athleteId": "45223374",
-      "activityId": "21002113890",
-      "name": "Basketball refereeing",
-      "date": "November 15, 2026",
-      "distanceKm": 9.1,
-      "stats": [
-        "9.1 km",
-        "4:16:04",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 144819.5,
-  "totalDistanceKm": 267827.6,
+  "observedWeeksKm": 144839.6,
+  "totalDistanceKm": 267847.7,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 283624.6
+    "totalWithEstimatesKm": 283644.7
   }
 }

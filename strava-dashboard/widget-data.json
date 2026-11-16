@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-16T05:00:54.375Z",
+  "generatedAt": "2026-11-16T05:30:45.551Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-16T05:00:54.375Z",
+  "memberCountUpdatedAt": "2026-11-16T05:30:45.551Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 13,
-    "distanceKm": 204.9,
-    "elevationM": 641,
-    "movingSeconds": 59100,
+    "activities": 15,
+    "distanceKm": 210.2,
+    "elevationM": 667,
+    "movingSeconds": 62100,
     "raw": {
-      "activities": "13",
-      "distance": "204.9 km",
-      "time": "16 h 25 m",
-      "elevation": "641 m"
+      "activities": "15",
+      "distance": "210.2 km",
+      "time": "17 h 15 m",
+      "elevation": "667 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Kathi Anil Kumar🇮🇳",
+      "athleteId": "71379636",
+      "activityId": "21004755169",
+      "name": "Morning HIIT",
+      "date": "November 16, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "22:49",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -60,19 +73,6 @@
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
-      "activityId": "21004683839",
-      "name": "⛅ Monday Morning Ride",
-      "date": "November 16, 2026",
-      "distanceKm": 61.1,
-      "stats": [
-        "61.1 km",
-        "3:22:54",
-        "211 m"
-      ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
       "activityId": "21004684483",
       "name": "⛅ Morning Ride",
       "date": "November 16, 2026",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 144981.2,
-  "totalDistanceKm": 267989.3,
+  "observedWeeksKm": 144986.5,
+  "totalDistanceKm": 267994.6,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 283786.3
+    "totalWithEstimatesKm": 283791.6
   }
 }

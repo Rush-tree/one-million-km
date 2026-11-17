@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T02:00:55.894Z",
+  "generatedAt": "2026-11-17T02:30:46.059Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T02:00:55.894Z",
+  "memberCountUpdatedAt": "2026-11-17T02:30:46.059Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 141,
-    "distanceKm": 1347.5,
-    "elevationM": 8797,
-    "movingSeconds": 424260,
+    "activities": 142,
+    "distanceKm": 1369.9,
+    "elevationM": 8850,
+    "movingSeconds": 427800,
     "raw": {
-      "activities": "141",
-      "distance": "1,347.5 km",
-      "time": "117 h 51 m",
-      "elevation": "8,797 m"
+      "activities": "142",
+      "distance": "1,369.9 km",
+      "time": "118 h 50 m",
+      "elevation": "8,850 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "André Brune",
+      "athleteId": "4536289",
+      "activityId": "21016490249",
+      "name": "☁ Gravel-Fahrt in der Nacht",
+      "date": "November 17, 2026",
+      "distanceKm": 22.4,
+      "stats": [
+        "22.4 km",
+        "1:01:18",
+        "53 m"
+      ]
+    },
     {
       "athlete": "Biken Ginayatova",
       "athleteId": "92872558",
@@ -69,19 +82,6 @@
         "2:26:46",
         "441 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "21013057707",
-      "name": "Abendschwimmen",
-      "date": "November 16, 2026",
-      "distanceKm": 1.6,
-      "stats": [
-        "1.6 km",
-        "50:54",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146123.8,
-  "totalDistanceKm": 269131.9,
+  "observedWeeksKm": 146146.2,
+  "totalDistanceKm": 269154.3,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 284928.9
+    "totalWithEstimatesKm": 284951.3
   }
 }

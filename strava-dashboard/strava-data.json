@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T03:30:50.178Z",
+  "generatedAt": "2026-11-17T04:01:00.398Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 715047,
+    "remainingKm": 715036,
     "percentComplete": 28.5,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 1371.5,
-    "thisWeekActivities": 144,
-    "thisWeekHours": 121,
-    "thisWeekElevationM": 8878,
+    "thisWeekKm": 1382.5,
+    "thisWeekActivities": 146,
+    "thisWeekHours": 122,
+    "thisWeekElevationM": 8880,
     "timesAroundEarth": 7.11,
     "percentToMoon": 74.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23256,
+  "totalActivities": 23258,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 284952900,
-    "totalMovingTime": 80783807,
-    "totalElevation": 2091399.6
+    "totalDistance": 284963900,
+    "totalMovingTime": 80790827,
+    "totalElevation": 2091401.6
   },
   "monthStats": {
-    "totalDistance": 28952800,
-    "totalMovingTime": 8203980,
+    "totalDistance": 28963800,
+    "totalMovingTime": 8211000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1371500,
-    "totalMovingTime": 433800,
-    "count": 144
+    "totalDistance": 1382500,
+    "totalMovingTime": 440820,
+    "count": 146
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 269155.9,
+    "measuredDistanceKm": 269166.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Meenu Nagori",
+        "athleteId": "69685863",
+        "activityId": "21016881475",
+        "name": "Gym workout",
+        "date": "November 17, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:09:47",
+          "0 m"
+        ]
+      },
       {
         "athlete": "André Brune",
         "athleteId": "4536289",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21014280607",
-        "name": "Zwift - Race Simulation",
-        "date": "November 16, 2026",
-        "distanceKm": 27.1,
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "21016922644",
+        "name": "Açık alanda koşu",
+        "date": "November 17, 2026",
+        "distanceKm": 10.9,
         "stats": [
-          "27.1 km",
-          "59:29",
-          "144 m"
-        ]
-      },
-      {
-        "athlete": "Manuel Zamora",
-        "athleteId": "27178448",
-        "activityId": "21013368540",
-        "name": "Las ánimas - ojo de agua de Mezquite 🚴🏽",
-        "date": "November 16, 2026",
-        "distanceKm": 49.2,
-        "stats": [
-          "49.2 km",
-          "2:26:46",
-          "441 m"
+          "10.9 km",
+          "47:47",
+          "2 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 284952.9
+      "totalWithEstimatesKm": 284963.9
     }
   }
 }

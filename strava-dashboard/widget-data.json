@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T03:30:50.178Z",
+  "generatedAt": "2026-11-17T04:01:00.398Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T03:30:50.178Z",
+  "memberCountUpdatedAt": "2026-11-17T04:01:00.398Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 144,
-    "distanceKm": 1371.5,
-    "elevationM": 8878,
-    "movingSeconds": 433800,
+    "activities": 146,
+    "distanceKm": 1382.5,
+    "elevationM": 8880,
+    "movingSeconds": 440820,
     "raw": {
-      "activities": "144",
-      "distance": "1,371.5 km",
-      "time": "120 h 30 m",
-      "elevation": "8,878 m"
+      "activities": "146",
+      "distance": "1,382.5 km",
+      "time": "122 h 27 m",
+      "elevation": "8,880 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Meenu Nagori",
+      "athleteId": "69685863",
+      "activityId": "21016881475",
+      "name": "Gym workout",
+      "date": "November 17, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "1:09:47",
+        "0 m"
+      ]
+    },
     {
       "athlete": "André Brune",
       "athleteId": "4536289",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "21014280607",
-      "name": "Zwift - Race Simulation",
-      "date": "November 16, 2026",
-      "distanceKm": 27.1,
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "21016922644",
+      "name": "Açık alanda koşu",
+      "date": "November 17, 2026",
+      "distanceKm": 10.9,
       "stats": [
-        "27.1 km",
-        "59:29",
-        "144 m"
-      ]
-    },
-    {
-      "athlete": "Manuel Zamora",
-      "athleteId": "27178448",
-      "activityId": "21013368540",
-      "name": "Las ánimas - ojo de agua de Mezquite 🚴🏽",
-      "date": "November 16, 2026",
-      "distanceKm": 49.2,
-      "stats": [
-        "49.2 km",
-        "2:26:46",
-        "441 m"
+        "10.9 km",
+        "47:47",
+        "2 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146147.8,
-  "totalDistanceKm": 269155.9,
+  "observedWeeksKm": 146158.8,
+  "totalDistanceKm": 269166.9,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 284952.9
+    "totalWithEstimatesKm": 284963.9
   }
 }

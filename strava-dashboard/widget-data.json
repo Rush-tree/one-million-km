@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T13:00:59.400Z",
+  "generatedAt": "2026-11-17T13:30:54.194Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T13:00:59.400Z",
+  "memberCountUpdatedAt": "2026-11-17T13:30:54.194Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 202,
-    "distanceKm": 2055,
-    "elevationM": 14591,
-    "movingSeconds": 596100,
+    "activities": 204,
+    "distanceKm": 2098,
+    "elevationM": 14891,
+    "movingSeconds": 601620,
     "raw": {
-      "activities": "202",
-      "distance": "2,055.0 km",
-      "time": "165 h 35 m",
-      "elevation": "14,591 m"
+      "activities": "204",
+      "distance": "2,098.0 km",
+      "time": "167 h 7 m",
+      "elevation": "14,891 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "21021235897",
+      "name": "Zwift - Bergintervalle (Pwr) - #Threshold",
+      "date": "November 17, 2026",
+      "distanceKm": 31.5,
+      "stats": [
+        "31.5 km",
+        "1:10:05",
+        "265 m"
+      ]
+    },
     {
       "athlete": "Alex 3R",
       "athleteId": "89054684",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Alfonso Contreras Calderón",
-      "athleteId": "123434994",
-      "activityId": "21019239431",
-      "name": "Entrenamiento con pesas matutino",
-      "date": "November 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "45:50",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Walter Donè",
       "athleteId": "31420262",
       "activityId": "21020488088",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146831.3,
-  "totalDistanceKm": 269839.4,
+  "observedWeeksKm": 146874.3,
+  "totalDistanceKm": 269882.4,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 285636.4
+    "totalWithEstimatesKm": 285679.4
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T16:01:03.073Z",
+  "generatedAt": "2026-11-17T16:30:51.412Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T16:01:03.073Z",
+  "memberCountUpdatedAt": "2026-11-17T16:30:51.411Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 220,
-    "distanceKm": 2253.2,
-    "elevationM": 15792,
-    "movingSeconds": 640800,
+    "activities": 227,
+    "distanceKm": 2295.2,
+    "elevationM": 16326,
+    "movingSeconds": 661620,
     "raw": {
-      "activities": "220",
-      "distance": "2,253.2 km",
-      "time": "178 h 0 m",
-      "elevation": "15,792 m"
+      "activities": "227",
+      "distance": "2,295.2 km",
+      "time": "183 h 47 m",
+      "elevation": "16,326 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21023061614",
+      "name": "Ettermiddag med sykkeltur",
+      "date": "November 17, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "15:49",
+        "54 m"
+      ]
+    },
     {
       "athlete": "Muhammed Edip KARABACAK 🇹🇷",
       "athleteId": "47897742",
@@ -45,6 +58,19 @@
       ]
     },
     {
+      "athlete": "René Rosenberger",
+      "athleteId": "757098365",
+      "activityId": "21022980317",
+      "name": "Traillauf am Nachmittag",
+      "date": "November 17, 2026",
+      "distanceKm": 11.5,
+      "stats": [
+        "11.5 km",
+        "1:03:15",
+        "339 m"
+      ]
+    },
+    {
       "athlete": "Amit Zadka",
       "athleteId": "25927820",
       "activityId": "21022804018",
@@ -56,32 +82,6 @@
         "56:14",
         "23 m"
       ]
-    },
-    {
-      "athlete": "Ulf Nuglisch",
-      "athleteId": "62746305",
-      "activityId": "21022494224",
-      "name": "Spaziergang am Nachmittag",
-      "date": "November 17, 2026",
-      "distanceKm": 2.1,
-      "stats": [
-        "2.1 km",
-        "2:26:32",
-        "26 m"
-      ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "21022538628",
-      "name": "Fahrt am Nachmittag",
-      "date": "November 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:12:01",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 147029.5,
-  "totalDistanceKm": 270037.6,
+  "observedWeeksKm": 147071.5,
+  "totalDistanceKm": 270079.6,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 285834.6
+    "totalWithEstimatesKm": 285876.6
   }
 }

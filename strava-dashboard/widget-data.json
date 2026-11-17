@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T04:01:00.398Z",
+  "generatedAt": "2026-11-17T04:02:58.936Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T04:01:00.398Z",
+  "memberCountUpdatedAt": "2026-11-17T04:02:58.936Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 146,
-    "distanceKm": 1382.5,
-    "elevationM": 8880,
-    "movingSeconds": 440820,
+    "activities": 147,
+    "distanceKm": 1386.6,
+    "elevationM": 8894,
+    "movingSeconds": 441960,
     "raw": {
-      "activities": "146",
-      "distance": "1,382.5 km",
-      "time": "122 h 27 m",
-      "elevation": "8,880 m"
+      "activities": "147",
+      "distance": "1,386.6 km",
+      "time": "122 h 46 m",
+      "elevation": "8,894 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Mangala Pai",
+      "athleteId": "118301293",
+      "activityId": "21016926371",
+      "name": "Short ride to teach cycling to kids",
+      "date": "November 17, 2026",
+      "distanceKm": 4,
+      "stats": [
+        "4.0 km",
+        "23:02",
+        "14 m"
+      ]
+    },
     {
       "athlete": "Meenu Nagori",
       "athleteId": "69685863",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Fabio Martins Queiroga",
-      "athleteId": "108341050",
-      "activityId": "21015448289",
-      "name": "BV Ipanguaçu",
-      "date": "November 16, 2026",
-      "distanceKm": 50.3,
-      "stats": [
-        "50.3 km",
-        "2:05:36",
-        "242 m"
-      ]
-    },
-    {
       "athlete": "Bülent Sevil",
       "athleteId": "156559910",
       "activityId": "21016922644",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146158.8,
-  "totalDistanceKm": 269166.9,
+  "observedWeeksKm": 146162.9,
+  "totalDistanceKm": 269171,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 284963.9
+    "totalWithEstimatesKm": 284968
   }
 }

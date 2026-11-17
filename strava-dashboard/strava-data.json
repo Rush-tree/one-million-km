@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T14:30:50.487Z",
+  "generatedAt": "2026-11-17T15:01:10.702Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 714198,
+    "remainingKm": 714193,
     "percentComplete": 28.58,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 2220.5,
-    "thisWeekActivities": 213,
+    "thisWeekKm": 2225.9,
+    "thisWeekActivities": 214,
     "thisWeekHours": 173,
-    "thisWeekElevationM": 15550,
+    "thisWeekElevationM": 15713,
     "timesAroundEarth": 7.13,
     "percentToMoon": 74.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23325,
+  "totalActivities": 23326,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 285801900,
-    "totalMovingTime": 80971967,
-    "totalElevation": 2098071.6
+    "totalDistance": 285807300,
+    "totalMovingTime": 80973167,
+    "totalElevation": 2098234.6
   },
   "monthStats": {
-    "totalDistance": 29801800,
-    "totalMovingTime": 8392140,
+    "totalDistance": 29807200,
+    "totalMovingTime": 8393340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2220500,
-    "totalMovingTime": 621960,
-    "count": 213
+    "totalDistance": 2225900,
+    "totalMovingTime": 623160,
+    "count": 214
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 270004.9,
+    "measuredDistanceKm": 270010.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "21022177868",
+        "name": "Zwift - Climb Portal: Côte de la Redoute at 100% Elevation in France",
+        "date": "November 17, 2026",
+        "distanceKm": 5.4,
+        "stats": [
+          "5.4 km",
+          "19:37",
+          "163 m"
+        ]
+      },
       {
         "athlete": "conny tonder",
         "athleteId": "66434073",
@@ -161,19 +174,6 @@
           "19:29",
           "8 m"
         ]
-      },
-      {
-        "athlete": "Frederik Schäfer",
-        "athleteId": "135167529",
-        "activityId": "21021514751",
-        "name": "2026-11-17Ride",
-        "date": "November 17, 2026",
-        "distanceKm": 72.2,
-        "stats": [
-          "72.2 km",
-          "2:23:27",
-          "223 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 285801.9
+      "totalWithEstimatesKm": 285807.3
     }
   }
 }

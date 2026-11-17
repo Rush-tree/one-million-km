@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T13:41:51.475Z",
+  "generatedAt": "2026-11-17T14:01:00.364Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T13:41:51.475Z",
+  "memberCountUpdatedAt": "2026-11-17T14:01:00.364Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 206,
-    "distanceKm": 2114.1,
-    "elevationM": 14991,
-    "movingSeconds": 604320,
+    "activities": 207,
+    "distanceKm": 2115.1,
+    "elevationM": 14999,
+    "movingSeconds": 605160,
     "raw": {
-      "activities": "206",
-      "distance": "2,114.1 km",
-      "time": "167 h 52 m",
-      "elevation": "14,991 m"
+      "activities": "207",
+      "distance": "2,115.1 km",
+      "time": "168 h 6 m",
+      "elevation": "14,999 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "21021558519",
+      "name": "Afternoon Walk",
+      "date": "November 17, 2026",
+      "distanceKm": 0.9,
+      "stats": [
+        "0.9 km",
+        "19:29",
+        "8 m"
+      ]
+    },
     {
       "athlete": "Jasper Mermans",
       "athleteId": "25786886",
@@ -35,7 +48,7 @@
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
       "activityId": "21021410033",
-      "name": "Sortie vélo dans l'après-midi",
+      "name": "🚴 Lunch Ride 🥗",
       "date": "November 17, 2026",
       "distanceKm": 6.7,
       "stats": [
@@ -63,24 +76,11 @@
       "activityId": "21021514751",
       "name": "2026-11-17Ride",
       "date": "November 17, 2026",
-      "distanceKm": 81.3,
+      "distanceKm": 79.7,
       "stats": [
-        "81.3 km",
-        "2:38:30",
+        "79.7 km",
+        "2:35:29",
         "244 m"
-      ]
-    },
-    {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "21020488088",
-      "name": "Ciclismo mattutino",
-      "date": "November 17, 2026",
-      "distanceKm": 13.5,
-      "stats": [
-        "13.5 km",
-        "3:35:59",
-        "23 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146890.4,
-  "totalDistanceKm": 269898.5,
+  "observedWeeksKm": 146891.4,
+  "totalDistanceKm": 269899.5,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 285695.5
+    "totalWithEstimatesKm": 285696.5
   }
 }

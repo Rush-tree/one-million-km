@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-17T19:30:48.621Z",
+  "generatedAt": "2026-11-17T20:00:57.409Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 713567,
-    "percentComplete": 28.64,
+    "remainingKm": 713543,
+    "percentComplete": 28.65,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 2851.9,
-    "thisWeekActivities": 290,
-    "thisWeekHours": 232,
-    "thisWeekElevationM": 20320,
+    "thisWeekKm": 2876,
+    "thisWeekActivities": 295,
+    "thisWeekHours": 237,
+    "thisWeekElevationM": 20515,
     "timesAroundEarth": 7.15,
     "percentToMoon": 74.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23405,
+  "totalActivities": 23411,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 286433300,
-    "totalMovingTime": 81184307,
-    "totalElevation": 2102841.6
+    "totalDistance": 286457400,
+    "totalMovingTime": 81202787,
+    "totalElevation": 2103036.6
   },
   "monthStats": {
-    "totalDistance": 30433200,
-    "totalMovingTime": 8604480,
+    "totalDistance": 30457300,
+    "totalMovingTime": 8622960,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2851900,
-    "totalMovingTime": 834300,
-    "count": 290
+    "totalDistance": 2876000,
+    "totalMovingTime": 852780,
+    "count": 295
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 270636.3,
+    "measuredDistanceKm": 270660.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,42 +137,42 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "21025170896",
-        "name": "Abendradfahrt",
+        "athlete": "Gilbert Schwartmann",
+        "athleteId": "147030966",
+        "activityId": "21025514346",
+        "name": "Bessunger Runde",
         "date": "November 17, 2026",
-        "distanceKm": 13.8,
+        "distanceKm": 9.3,
         "stats": [
-          "13.8 km",
-          "48:22",
+          "9.3 km",
+          "59:48",
+          "91 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "21025683573",
+        "name": "Torspieler Training FCO Aktive",
+        "date": "November 17, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "1:36:22",
+          "6 m"
+        ]
+      },
+      {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "21025757997",
+        "name": "Basketball",
+        "date": "November 17, 2026",
+        "distanceKm": 1.4,
+        "stats": [
+          "1.4 km",
+          "2:08:59",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Kupfer Hardy",
-        "athleteId": "19034101",
-        "activityId": "21025282972",
-        "name": "Abendlauf",
-        "date": "November 17, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "1:03:02",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "21025261182",
-        "name": "Abendlauf",
-        "date": "November 17, 2026",
-        "distanceKm": 14.5,
-        "stats": [
-          "14.5 km",
-          "1:45:33",
-          "62 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 286433.3
+      "totalWithEstimatesKm": 286457.4
     }
   }
 }

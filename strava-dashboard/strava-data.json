@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T13:30:54.194Z",
+  "generatedAt": "2026-11-17T13:41:51.475Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 714321,
+    "remainingKm": 714305,
     "percentComplete": 28.57,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 2098,
-    "thisWeekActivities": 204,
-    "thisWeekHours": 167,
-    "thisWeekElevationM": 14891,
+    "thisWeekKm": 2114.1,
+    "thisWeekActivities": 206,
+    "thisWeekHours": 168,
+    "thisWeekElevationM": 14991,
     "timesAroundEarth": 7.13,
     "percentToMoon": 74.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23316,
+  "totalActivities": 23319,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 285679400,
-    "totalMovingTime": 80951627,
-    "totalElevation": 2097412.6
+    "totalDistance": 285695500,
+    "totalMovingTime": 80954327,
+    "totalElevation": 2097512.6
   },
   "monthStats": {
-    "totalDistance": 29679300,
-    "totalMovingTime": 8371800,
+    "totalDistance": 29695400,
+    "totalMovingTime": 8374500,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2098000,
-    "totalMovingTime": 601620,
-    "count": 204
+    "totalDistance": 2114100,
+    "totalMovingTime": 604320,
+    "count": 206
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 269882.4,
+    "measuredDistanceKm": 269898.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "21021446142",
+        "name": "Heftig windje",
+        "date": "November 17, 2026",
+        "distanceKm": 9.4,
+        "stats": [
+          "9.4 km",
+          "28:25",
+          "59 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "21021410033",
+        "name": "Sortie vélo dans l'après-midi",
+        "date": "November 17, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "19:08",
+          "41 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -124,42 +150,16 @@
         ]
       },
       {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21020490390",
-        "name": "Traillauf zur Mittagszeit",
+        "athlete": "Frederik Schäfer",
+        "athleteId": "135167529",
+        "activityId": "21021514751",
+        "name": "2026-11-17Ride",
         "date": "November 17, 2026",
-        "distanceKm": 13.7,
+        "distanceKm": 81.3,
         "stats": [
-          "13.7 km",
-          "1:40:04",
-          "678 m"
-        ]
-      },
-      {
-        "athlete": "Johannes Tangel",
-        "athleteId": "127575472",
-        "activityId": "21020284484",
-        "name": "Mittagslauf",
-        "date": "November 17, 2026",
-        "distanceKm": 5.1,
-        "stats": [
-          "5.1 km",
-          "44:07",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "21019308497",
-        "name": "Zwift - Watopia",
-        "date": "November 17, 2026",
-        "distanceKm": 23.8,
-        "stats": [
-          "23.8 km",
-          "40:08",
-          "93 m"
+          "81.3 km",
+          "2:38:30",
+          "244 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 285679.4
+      "totalWithEstimatesKm": 285695.5
     }
   }
 }

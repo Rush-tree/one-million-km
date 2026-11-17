@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T16:30:51.412Z",
+  "generatedAt": "2026-11-17T17:00:58.968Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 714123,
+    "remainingKm": 714091,
     "percentComplete": 28.59,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 2295.2,
-    "thisWeekActivities": 227,
-    "thisWeekHours": 184,
-    "thisWeekElevationM": 16326,
+    "thisWeekKm": 2327.6,
+    "thisWeekActivities": 232,
+    "thisWeekHours": 187,
+    "thisWeekElevationM": 16490,
     "timesAroundEarth": 7.13,
     "percentToMoon": 74.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23340,
+  "totalActivities": 23346,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 285876600,
-    "totalMovingTime": 81011627,
-    "totalElevation": 2098847.6
+    "totalDistance": 285909000,
+    "totalMovingTime": 81023987,
+    "totalElevation": 2099011.6
   },
   "monthStats": {
-    "totalDistance": 29876500,
-    "totalMovingTime": 8431800,
+    "totalDistance": 29908900,
+    "totalMovingTime": 8444160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 2295200,
-    "totalMovingTime": 661620,
-    "count": 227
+    "totalDistance": 2327600,
+    "totalMovingTime": 673980,
+    "count": 232
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 270079.6,
+    "measuredDistanceKm": 270112,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice Clausse",
+        "athleteId": "162101062",
+        "activityId": "21023421423",
+        "name": "Course à pied dans l'après-midi",
+        "date": "November 17, 2026",
+        "distanceKm": 9.3,
+        "stats": [
+          "9.3 km",
+          "46:57",
+          "99 m"
+        ]
+      },
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "21023381767",
+        "name": "Akşam Koşu",
+        "date": "November 17, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "44:07",
+          "10 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -124,29 +150,16 @@
         ]
       },
       {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "21022852312",
-        "name": "Akşam Koşu",
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "21023324981",
+        "name": "Lauf am Nachmittag",
         "date": "November 17, 2026",
-        "distanceKm": 3.4,
+        "distanceKm": 10,
         "stats": [
-          "3.4 km",
-          "16:19",
-          "8 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "21022859324",
-        "name": "Spaziergang am Nachmittag",
-        "date": "November 17, 2026",
-        "distanceKm": 2.7,
-        "stats": [
-          "2.7 km",
-          "28:22",
-          "2 m"
+          "10.0 km",
+          "1:00:04",
+          "0 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "11.5 km",
           "1:03:15",
           "339 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "21022804018",
-        "name": "Afternoon Run",
-        "date": "November 17, 2026",
-        "distanceKm": 9.9,
-        "stats": [
-          "9.9 km",
-          "56:14",
-          "23 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 285876.6
+      "totalWithEstimatesKm": 285909
     }
   }
 }

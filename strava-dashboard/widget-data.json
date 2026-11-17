@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T07:30:52.406Z",
+  "generatedAt": "2026-11-17T08:01:04.140Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T07:30:52.406Z",
+  "memberCountUpdatedAt": "2026-11-17T08:01:04.140Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 177,
-    "distanceKm": 1699.1,
-    "elevationM": 10242,
-    "movingSeconds": 517620,
+    "activities": 181,
+    "distanceKm": 1729.5,
+    "elevationM": 10396,
+    "movingSeconds": 529200,
     "raw": {
-      "activities": "177",
-      "distance": "1,699.1 km",
-      "time": "143 h 47 m",
-      "elevation": "10,242 m"
+      "activities": "181",
+      "distance": "1,729.5 km",
+      "time": "147 h 0 m",
+      "elevation": "10,396 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21017998827",
+      "name": "Sykkeltur om morgenen",
+      "date": "November 17, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "16:57",
+        "53 m"
+      ]
+    },
     {
       "athlete": "Tim Siber",
       "athleteId": "91630363",
@@ -29,32 +42,6 @@
         "6.2 km",
         "20:29",
         "59 m"
-      ]
-    },
-    {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "21017683052",
-      "name": "🌄🌦️Cycl⚙️Taf 🚴",
-      "date": "November 17, 2026",
-      "distanceKm": 5,
-      "stats": [
-        "5.0 km",
-        "20:08",
-        "8 m"
-      ]
-    },
-    {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "21017635201",
-      "name": "Morning Yoga 🌓",
-      "date": "November 17, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "26:38",
-        "0 m"
       ]
     },
     {
@@ -82,6 +69,19 @@
         "1:53:30",
         "16 m"
       ]
+    },
+    {
+      "athlete": "# MarshmallowBen",
+      "athleteId": "114783849",
+      "activityId": "21018074802",
+      "name": "Morgenausfahrt",
+      "date": "November 17, 2026",
+      "distanceKm": 21.9,
+      "stats": [
+        "21.9 km",
+        "50:29",
+        "38 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146475.4,
-  "totalDistanceKm": 269483.5,
+  "observedWeeksKm": 146505.8,
+  "totalDistanceKm": 269513.9,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 285280.5
+    "totalWithEstimatesKm": 285310.9
   }
 }

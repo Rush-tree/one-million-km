@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T07:30:52.406Z",
+  "generatedAt": "2026-11-17T08:01:04.140Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 714720,
+    "remainingKm": 714689,
     "percentComplete": 28.53,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 1699.1,
-    "thisWeekActivities": 177,
-    "thisWeekHours": 144,
-    "thisWeekElevationM": 10242,
+    "thisWeekKm": 1729.5,
+    "thisWeekActivities": 181,
+    "thisWeekHours": 147,
+    "thisWeekElevationM": 10396,
     "timesAroundEarth": 7.12,
     "percentToMoon": 74.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23290,
+  "totalActivities": 23294,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 285280500,
-    "totalMovingTime": 80867627,
-    "totalElevation": 2092763.6
+    "totalDistance": 285310900,
+    "totalMovingTime": 80879207,
+    "totalElevation": 2092917.6
   },
   "monthStats": {
-    "totalDistance": 29280400,
-    "totalMovingTime": 8287800,
+    "totalDistance": 29310800,
+    "totalMovingTime": 8299380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1699100,
-    "totalMovingTime": 517620,
-    "count": 177
+    "totalDistance": 1729500,
+    "totalMovingTime": 529200,
+    "count": 181
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 269483.5,
+    "measuredDistanceKm": 269513.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21017998827",
+        "name": "Sykkeltur om morgenen",
+        "date": "November 17, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "16:57",
+          "53 m"
+        ]
+      },
       {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
@@ -121,32 +134,6 @@
           "6.2 km",
           "20:29",
           "59 m"
-        ]
-      },
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "21017683052",
-        "name": "🌄🌦️Cycl⚙️Taf 🚴",
-        "date": "November 17, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "20:08",
-          "8 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "21017635201",
-        "name": "Morning Yoga 🌓",
-        "date": "November 17, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "26:38",
-          "0 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "1:53:30",
           "16 m"
         ]
+      },
+      {
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "21018074802",
+        "name": "Morgenausfahrt",
+        "date": "November 17, 2026",
+        "distanceKm": 21.9,
+        "stats": [
+          "21.9 km",
+          "50:29",
+          "38 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 285280.5
+      "totalWithEstimatesKm": 285310.9
     }
   }
 }

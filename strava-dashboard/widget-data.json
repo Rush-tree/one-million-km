@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-17T00:30:49.858Z",
+  "generatedAt": "2026-11-17T01:00:53.275Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-17T00:30:49.858Z",
+  "memberCountUpdatedAt": "2026-11-17T01:00:53.275Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 139,
-    "distanceKm": 1340.1,
+    "activities": 140,
+    "distanceKm": 1345.1,
     "elevationM": 8796,
-    "movingSeconds": 420360,
+    "movingSeconds": 422760,
     "raw": {
-      "activities": "139",
-      "distance": "1,340.1 km",
-      "time": "116 h 46 m",
+      "activities": "140",
+      "distance": "1,345.1 km",
+      "time": "117 h 26 m",
       "elevation": "8,796 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Biken Ginayatova",
+      "athleteId": "92872558",
+      "activityId": "21015705366",
+      "name": "Tuesday Morning Run",
+      "date": "November 17, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "41:12",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Fabio Martins Queiroga",
       "athleteId": "108341050",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Ricardo Ferre",
-      "athleteId": "45223374",
-      "activityId": "21012509196",
-      "name": "Zwift - Steady Zone 2 Block",
-      "date": "November 16, 2026",
-      "distanceKm": 35.5,
-      "stats": [
-        "35.5 km",
-        "1:15:43",
-        "103 m"
-      ]
-    },
-    {
       "athlete": "Nico Hoßfeld",
       "athleteId": "177308499",
       "activityId": "21013057707",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 146116.4,
-  "totalDistanceKm": 269124.5,
+  "observedWeeksKm": 146121.4,
+  "totalDistanceKm": 269129.5,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 284921.5
+    "totalWithEstimatesKm": 284926.5
   }
 }

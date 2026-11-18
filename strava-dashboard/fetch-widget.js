@@ -236,13 +236,26 @@ async function main() {
   const key = weekly.week || new Date().toISOString().slice(0, 10);
   const prev = history.weeks[key];
 
-  // A week's figure only ever grows. If the widget reports LESS than we already
-  // recorded for this week, something is wrong (wrong club, a partial render, a
-  // reset) and overwriting would silently shrink the cumulative total.
+  // A week's figure can shrink legitimately: a member deletes an activity, makes
+  // it private, or leaves the club. Small drops are taken over (Strava is the
+  // source of truth) with a warning. Only a large drop points to a broken
+  // fetch (wrong club, partial render, reset) and is refused, so the cumulative
+  // total never collapses. Before 2026-11-18 every drop was refused, which
+  // stalled the dashboard for hours and could freeze a week at a too-high value
+  // if the drop happened on Sunday evening.
+  const MAX_WEEKLY_DROP = 0.10;
   if (prev && weekly.distanceKm < prev.distanceKm - 0.05) {
-    throw new Error(
-      `Refusing to overwrite week "${key}": widget reports ${weekly.distanceKm} km ` +
-      `but ${prev.distanceKm} km was already recorded. A week total cannot shrink.`
+    const drop = (prev.distanceKm - weekly.distanceKm) / prev.distanceKm;
+    if (drop > MAX_WEEKLY_DROP) {
+      throw new Error(
+        `Refusing to overwrite week "${key}": widget reports ${weekly.distanceKm} km ` +
+        `but ${prev.distanceKm} km was already recorded (-${(drop * 100).toFixed(1)} %, ` +
+        `limit ${MAX_WEEKLY_DROP * 100} %).`
+      );
+    }
+    console.warn(
+      `::warning::Week "${key}" shrank from ${prev.distanceKm} km to ${weekly.distanceKm} km ` +
+      `(-${(drop * 100).toFixed(1)} %), probably a deleted or private activity. Taking the new figure.`
     );
   }
 

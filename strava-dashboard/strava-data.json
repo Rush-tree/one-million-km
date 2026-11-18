@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T18:31:02.876Z",
+  "generatedAt": "2026-11-18T19:01:01.312Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 712029,
+    "remainingKm": 711997,
     "percentComplete": 28.8,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 4390,
-    "thisWeekActivities": 436,
-    "thisWeekHours": 354,
-    "thisWeekElevationM": 30915,
+    "thisWeekKm": 4421.3,
+    "thisWeekActivities": 444,
+    "thisWeekHours": 362,
+    "thisWeekElevationM": 31094,
     "timesAroundEarth": 7.19,
     "percentToMoon": 74.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23554,
+  "totalActivities": 23563,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 287971400,
-    "totalMovingTime": 81625547,
-    "totalElevation": 2113436.6
+    "totalDistance": 288002700,
+    "totalMovingTime": 81652967,
+    "totalElevation": 2113615.6
   },
   "monthStats": {
-    "totalDistance": 31971300,
-    "totalMovingTime": 9045720,
+    "totalDistance": 32002600,
+    "totalMovingTime": 9073140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4390000,
-    "totalMovingTime": 1275540,
-    "count": 436
+    "totalDistance": 4421300,
+    "totalMovingTime": 1302960,
+    "count": 444
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,34 +105,47 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 272174.4,
+    "measuredDistanceKm": 272205.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "21037669366",
-        "name": "Abendlauf",
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "21038015528",
+        "name": "Gewichtstraining am Abend",
         "date": "November 18, 2026",
-        "distanceKm": 5.4,
+        "distanceKm": 0,
         "stats": [
-          "5.4 km",
-          "41:58",
-          "11 m"
+          "0 km",
+          "30:07",
+          "0 m"
         ]
       },
       {
         "athlete": "Adriano Perri",
         "athleteId": "99629318",
-        "activityId": "21037237941",
-        "name": "Treadmill Warm Up 🏃🏻",
+        "activityId": "21037851171",
+        "name": "Legs and Core 🔥",
         "date": "November 18, 2026",
-        "distanceKm": 4.2,
+        "distanceKm": 0,
         "stats": [
-          "4.2 km",
-          "20:30",
+          "0 km",
+          "41:22",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "21037944391",
+        "name": "Turne bis zur Urne",
+        "date": "November 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:11:02",
           "0 m"
         ]
       },
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "21037568304",
-        "name": "Zwift - Dieter Renner's Meetup on Casse-Pattes in France",
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "21037786712",
+        "name": "Lauf am Nachmittag",
         "date": "November 18, 2026",
-        "distanceKm": 28.6,
+        "distanceKm": 17.3,
         "stats": [
-          "28.6 km",
-          "1:00:25",
-          "157 m"
-        ]
-      },
-      {
-        "athlete": "Jules Göpel",
-        "athleteId": "150874653",
-        "activityId": "21037202139",
-        "name": "Easy",
-        "date": "November 18, 2026",
-        "distanceKm": 51.7,
-        "stats": [
-          "51.7 km",
-          "2:04:23",
-          "0 m"
+          "17.3 km",
+          "1:43:02",
+          "60 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 287971.4
+      "totalWithEstimatesKm": 288002.7
     }
   }
 }

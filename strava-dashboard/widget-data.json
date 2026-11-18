@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-18T07:00:55.921Z",
+  "generatedAt": "2026-11-18T07:30:52.819Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-18T07:00:55.921Z",
+  "memberCountUpdatedAt": "2026-11-18T07:30:52.818Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 332,
-    "distanceKm": 3091.4,
-    "elevationM": 22106,
-    "movingSeconds": 955560,
+    "activities": 335,
+    "distanceKm": 3097.3,
+    "elevationM": 22179,
+    "movingSeconds": 961620,
     "raw": {
-      "activities": "332",
-      "distance": "3,091.4 km",
-      "time": "265 h 26 m",
-      "elevation": "22,106 m"
+      "activities": "335",
+      "distance": "3,097.3 km",
+      "time": "267 h 7 m",
+      "elevation": "22,179 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nico Deckarm",
+      "athleteId": "74766538",
+      "activityId": "21030805224",
+      "name": "Traillauf am Morgen",
+      "date": "November 18, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "28:24",
+        "66 m"
+      ]
+    },
     {
       "athlete": "Lara WSM",
       "athleteId": "143255915",
@@ -47,7 +60,7 @@
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
       "activityId": "21030448782",
-      "name": "Yoga am Morgen",
+      "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
       "date": "November 18, 2026",
       "distanceKm": 0,
       "stats": [
@@ -68,19 +81,6 @@
         "48:40",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "21030521156",
-      "name": "Wednesday Morning HIIT",
-      "date": "November 18, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "14:42",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -89,8 +89,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 147867.7,
-  "totalDistanceKm": 270875.8,
+  "observedWeeksKm": 147873.6,
+  "totalDistanceKm": 270881.7,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -110,6 +110,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 286672.8
+    "totalWithEstimatesKm": 286678.7
   }
 }

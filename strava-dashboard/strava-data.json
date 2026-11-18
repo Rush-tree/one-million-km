@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T12:00:59.977Z",
+  "generatedAt": "2026-11-18T12:30:50.919Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 712759,
-    "percentComplete": 28.72,
+    "remainingKm": 712742,
+    "percentComplete": 28.73,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 3659.6,
-    "thisWeekActivities": 362,
-    "thisWeekHours": 298,
-    "thisWeekElevationM": 26537,
+    "thisWeekKm": 3676.5,
+    "thisWeekActivities": 367,
+    "thisWeekHours": 301,
+    "thisWeekElevationM": 26738,
     "timesAroundEarth": 7.17,
     "percentToMoon": 74.7,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23478,
+  "totalActivities": 23484,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 287241000,
-    "totalMovingTime": 81422627,
-    "totalElevation": 2109058.6
+    "totalDistance": 287257900,
+    "totalMovingTime": 81433307,
+    "totalElevation": 2109259.6
   },
   "monthStats": {
-    "totalDistance": 31240900,
-    "totalMovingTime": 8842800,
+    "totalDistance": 31257800,
+    "totalMovingTime": 8853480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3659600,
-    "totalMovingTime": 1072620,
-    "count": 362
+    "totalDistance": 3676500,
+    "totalMovingTime": 1083300,
+    "count": 367
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 271444,
+    "measuredDistanceKm": 271460.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "21033665904",
+        "name": "Lunch Run",
+        "date": "November 18, 2026",
+        "distanceKm": 9.9,
+        "stats": [
+          "9.9 km",
+          "53:29",
+          "67 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -137,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "21032319097",
-        "name": "Zwift - Downtown Eruption in Watopia",
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21033519389",
+        "name": "Lunch Walk",
         "date": "November 18, 2026",
-        "distanceKm": 22.1,
+        "distanceKm": 1,
         "stats": [
-          "22.1 km",
-          "49:27",
-          "285 m"
+          "1.0 km",
+          "32:28",
+          "6 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "53.8 km",
           "2:11:17",
           "389 m"
-        ]
-      },
-      {
-        "athlete": "Roland Baumann",
-        "athleteId": "87457914",
-        "activityId": "21032163926",
-        "name": "Lauf am Morgen",
-        "date": "November 18, 2026",
-        "distanceKm": 3.7,
-        "stats": [
-          "3.7 km",
-          "1:08:44",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 287241
+      "totalWithEstimatesKm": 287257.9
     }
   }
 }

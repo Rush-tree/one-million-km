@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-18T08:00:58.753Z",
+  "generatedAt": "2026-11-18T08:30:49.961Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-18T08:00:58.753Z",
+  "memberCountUpdatedAt": "2026-11-18T08:30:49.961Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 339,
-    "distanceKm": 3131.3,
-    "elevationM": 22298,
-    "movingSeconds": 971280,
+    "activities": 342,
+    "distanceKm": 3185.8,
+    "elevationM": 22723,
+    "movingSeconds": 985320,
     "raw": {
-      "activities": "339",
-      "distance": "3,131.3 km",
-      "time": "269 h 48 m",
-      "elevation": "22,298 m"
+      "activities": "342",
+      "distance": "3,185.8 km",
+      "time": "273 h 42 m",
+      "elevation": "22,723 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Bärbel Unser",
+      "athleteId": "73612084",
+      "activityId": "21031227386",
+      "name": "Lauf am Morgen",
+      "date": "November 18, 2026",
+      "distanceKm": 9,
+      "stats": [
+        "9.0 km",
+        "1:01:47",
+        "84 m"
+      ]
+    },
     {
       "athlete": "Nathalie Reichard",
       "athleteId": "129991187",
@@ -45,28 +58,16 @@
       ]
     },
     {
-      "athlete": "Lara WSM",
-      "athleteId": "143255915",
-      "activityId": "21030595931",
-      "name": "Morning mini meditation 🌓",
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21031187510",
+      "name": "Sykkeltur om morgenen",
       "date": "November 18, 2026",
-      "distanceKm": 0,
+      "distanceKm": 31.3,
       "stats": [
-        "0 km",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "21030574971",
-      "name": "Spaziergang am Morgen",
-      "date": "November 18, 2026",
-      "distanceKm": 2.8,
-      "stats": [
-        "2.8 km",
-        "29:14",
-        "50 m"
+        "31.3 km",
+        "2:17:13",
+        "268 m"
       ]
     },
     {
@@ -89,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 147907.6,
-  "totalDistanceKm": 270915.7,
+  "observedWeeksKm": 147962.1,
+  "totalDistanceKm": 270970.2,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -110,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 286712.7
+    "totalWithEstimatesKm": 286767.2
   }
 }

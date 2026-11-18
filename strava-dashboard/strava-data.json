@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T09:30:49.330Z",
+  "generatedAt": "2026-11-18T10:01:04.615Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 713206,
-    "percentComplete": 28.68,
+    "remainingKm": 713035,
+    "percentComplete": 28.7,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.9,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 3212.5,
-    "thisWeekActivities": 346,
-    "thisWeekHours": 276,
-    "thisWeekElevationM": 22872,
+    "thisWeekKm": 3383.5,
+    "thisWeekActivities": 351,
+    "thisWeekHours": 285,
+    "thisWeekElevationM": 24372,
     "timesAroundEarth": 7.16,
-    "percentToMoon": 74.6,
+    "percentToMoon": 74.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 74.6,
-        "text": "74.6% of the way to the Moon",
+        "value": 74.7,
+        "text": "74.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 43.1,
-        "text": "43.1× the length of the Nile",
+        "value": 43.2,
+        "text": "43.2× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23464,
+  "totalActivities": 23468,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 286793900,
-    "totalMovingTime": 81343727,
-    "totalElevation": 2105393.6
+    "totalDistance": 286964900,
+    "totalMovingTime": 81374207,
+    "totalElevation": 2106893.6
   },
   "monthStats": {
-    "totalDistance": 30793800,
-    "totalMovingTime": 8763900,
+    "totalDistance": 30964800,
+    "totalMovingTime": 8794380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3212500,
-    "totalMovingTime": 993720,
-    "count": 346
+    "totalDistance": 3383500,
+    "totalMovingTime": 1024200,
+    "count": 351
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,77 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 270996.9,
+    "measuredDistanceKm": 271167.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
-    "latestActivities": [],
+    "latestActivities": [
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "21031761352",
+        "name": "Morning Weight Training",
+        "date": "November 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "25:17",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "21031772882",
+        "name": "Zwift - Zwift Pro Training Camp: Movistar | Sara Martin",
+        "date": "November 18, 2026",
+        "distanceKm": 25.2,
+        "stats": [
+          "25.2 km",
+          "48:48",
+          "131 m"
+        ]
+      },
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "21031851845",
+        "name": "Zwift - Watts the Limit in New York",
+        "date": "November 18, 2026",
+        "distanceKm": 30.1,
+        "stats": [
+          "30.1 km",
+          "1:00:27",
+          "204 m"
+        ]
+      },
+      {
+        "athlete": "Marisa Funk",
+        "athleteId": "157343980",
+        "activityId": "21031851225",
+        "name": "Insellauf 🌞",
+        "date": "November 18, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:02:37",
+          "169 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "21031558783",
+        "name": "Morning Workout",
+        "date": "November 18, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "43:40",
+          "0 m"
+        ]
+      }
+    ],
     "dataQuality": {
       "truncatedWeeks": [
         {
@@ -128,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 286793.9
+      "totalWithEstimatesKm": 286964.9
     }
   }
 }

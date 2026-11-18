@@ -1,31 +1,97 @@
 {
-  "generatedAt": "2026-11-18T09:30:49.330Z",
+  "generatedAt": "2026-11-18T10:01:04.615Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-18T09:30:49.330Z",
+  "memberCountUpdatedAt": "2026-11-18T10:01:04.615Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 346,
-    "distanceKm": 3212.5,
-    "elevationM": 22872,
-    "movingSeconds": 993720,
+    "activities": 351,
+    "distanceKm": 3383.5,
+    "elevationM": 24372,
+    "movingSeconds": 1024200,
     "raw": {
-      "activities": "346",
-      "distance": "3,212.5 km",
-      "time": "276 h 2 m",
-      "elevation": "22,872 m"
+      "activities": "351",
+      "distance": "3,383.5 km",
+      "time": "284 h 30 m",
+      "elevation": "24,372 m"
     }
   },
-  "latestActivities": [],
+  "latestActivities": [
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "21031761352",
+      "name": "Morning Weight Training",
+      "date": "November 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "25:17",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "21031772882",
+      "name": "Zwift - Zwift Pro Training Camp: Movistar | Sara Martin",
+      "date": "November 18, 2026",
+      "distanceKm": 25.2,
+      "stats": [
+        "25.2 km",
+        "48:48",
+        "131 m"
+      ]
+    },
+    {
+      "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+      "athleteId": "4351490",
+      "activityId": "21031851845",
+      "name": "Zwift - Watts the Limit in New York",
+      "date": "November 18, 2026",
+      "distanceKm": 30.1,
+      "stats": [
+        "30.1 km",
+        "1:00:27",
+        "204 m"
+      ]
+    },
+    {
+      "athlete": "Marisa Funk",
+      "athleteId": "157343980",
+      "activityId": "21031851225",
+      "name": "Insellauf 🌞",
+      "date": "November 18, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:02:37",
+        "169 m"
+      ]
+    },
+    {
+      "athlete": "John Spence",
+      "athleteId": "97189936",
+      "activityId": "21031558783",
+      "name": "Morning Workout",
+      "date": "November 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "43:40",
+        "0 m"
+      ]
+    }
+  ],
   "baseline": {
     "distanceKm": 123008.1,
     "note": "Last figure from the v3 API before the club endpoints were removed",
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 147988.8,
-  "totalDistanceKm": 270996.9,
+  "observedWeeksKm": 148159.8,
+  "totalDistanceKm": 271167.9,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -45,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 286793.9
+    "totalWithEstimatesKm": 286964.9
   }
 }

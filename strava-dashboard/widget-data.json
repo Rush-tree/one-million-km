@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-18T20:30:53.645Z",
+  "generatedAt": "2026-11-18T21:00:59.703Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-18T20:30:53.645Z",
+  "memberCountUpdatedAt": "2026-11-18T21:00:59.703Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 459,
-    "distanceKm": 4581.2,
+    "activities": 462,
+    "distanceKm": 4584.3,
     "elevationM": 31725,
-    "movingSeconds": 1331940,
+    "movingSeconds": 1338000,
     "raw": {
-      "activities": "459",
-      "distance": "4,581.2 km",
-      "time": "369 h 59 m",
+      "activities": "462",
+      "distance": "4,584.3 km",
+      "time": "371 h 40 m",
       "elevation": "31,725 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Laurent ROBERT",
+      "athleteId": "139535489",
+      "activityId": "21039475584",
+      "name": "🏋️ Entraînement aux poids 🍗 de nuit 🌛",
+      "date": "November 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "34:04",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -69,19 +82,6 @@
         "51:40",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "21038567685",
-      "name": "Evening Ride",
-      "date": "November 18, 2026",
-      "distanceKm": 6,
-      "stats": [
-        "6.0 km",
-        "19:28",
-        "42 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 149357.5,
-  "totalDistanceKm": 272365.6,
+  "observedWeeksKm": 149360.6,
+  "totalDistanceKm": 272368.7,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 288162.6
+    "totalWithEstimatesKm": 288165.7
   }
 }

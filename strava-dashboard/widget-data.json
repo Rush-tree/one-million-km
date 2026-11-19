@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-19T01:00:59.394Z",
+  "generatedAt": "2026-11-19T01:30:48.968Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-19T01:00:59.394Z",
+  "memberCountUpdatedAt": "2026-11-19T01:30:48.968Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 468,
-    "distanceKm": 4619.4,
+    "activities": 484,
+    "distanceKm": 4719.2,
     "elevationM": 32496,
-    "movingSeconds": 1361520,
+    "movingSeconds": 1404720,
     "raw": {
-      "activities": "468",
-      "distance": "4,619.4 km",
-      "time": "378 h 12 m",
+      "activities": "484",
+      "distance": "4,719.2 km",
+      "time": "390 h 12 m",
       "elevation": "32,496 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21041035519",
+      "name": "30 min Total Strength with Andy Speer",
+      "date": "November 18, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "30:02",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
@@ -69,19 +82,6 @@
         "34:04",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "21039137967",
-      "name": "🚴 Ride to Renfo, go !",
-      "date": "November 18, 2026",
-      "distanceKm": 2.5,
-      "stats": [
-        "2.5 km",
-        "7:26",
-        "5 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 149395.7,
-  "totalDistanceKm": 272403.8,
+  "observedWeeksKm": 149495.5,
+  "totalDistanceKm": 272503.6,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 288200.8
+    "totalWithEstimatesKm": 288300.6
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T07:01:06.043Z",
+  "generatedAt": "2026-11-19T07:30:51.386Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 711451,
-    "percentComplete": 28.85,
+    "remainingKm": 711328,
+    "percentComplete": 28.87,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 4967.5,
-    "thisWeekActivities": 513,
-    "thisWeekHours": 417,
-    "thisWeekElevationM": 33631,
+    "thisWeekKm": 5090.8,
+    "thisWeekActivities": 516,
+    "thisWeekHours": 422,
+    "thisWeekElevationM": 34149,
     "timesAroundEarth": 7.2,
     "percentToMoon": 75.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23634,
+  "totalActivities": 23637,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 288548900,
-    "totalMovingTime": 81849707,
-    "totalElevation": 2116152.6
+    "totalDistance": 288672200,
+    "totalMovingTime": 81868847,
+    "totalElevation": 2116670.6
   },
   "monthStats": {
-    "totalDistance": 32548800,
-    "totalMovingTime": 9269880,
+    "totalDistance": 32672100,
+    "totalMovingTime": 9289020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4967500,
-    "totalMovingTime": 1499700,
-    "count": 513
+    "totalDistance": 5090800,
+    "totalMovingTime": 1518840,
+    "count": 516
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 272751.9,
+    "measuredDistanceKm": 272875.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Falko Frese",
-        "athleteId": "11833410",
-        "activityId": "21043243476",
-        "name": "Commute #133/2026 🏥🩺",
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21043365234",
+        "name": "Sykkeltur om morgenen",
         "date": "November 19, 2026",
-        "distanceKm": 9,
+        "distanceKm": 4.4,
         "stats": [
-          "9.0 km",
-          "21:55",
-          "21 m"
+          "4.4 km",
+          "16:23",
+          "56 m"
         ]
       },
       {
@@ -137,29 +137,16 @@
         ]
       },
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "21043121529",
-        "name": "Fahrt am Morgen",
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "21043447135",
+        "name": "Lauf am Morgen",
         "date": "November 19, 2026",
-        "distanceKm": 19.1,
+        "distanceKm": 13,
         "stats": [
-          "19.1 km",
-          "32:13",
+          "13.0 km",
+          "50:34",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "21043188701",
-        "name": "Sabah Sürüş",
-        "date": "November 19, 2026",
-        "distanceKm": 11.4,
-        "stats": [
-          "11.4 km",
-          "1:04:23",
-          "81 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "7.2 km",
           "1:28:31",
           "72 m"
+        ]
+      },
+      {
+        "athlete": "Ralf Rogall",
+        "athleteId": "105597565",
+        "activityId": "21043418385",
+        "name": "Fahrt am Morgen",
+        "date": "November 19, 2026",
+        "distanceKm": 105.7,
+        "stats": [
+          "105.7 km",
+          "5:59:31",
+          "462 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 288548.9
+      "totalWithEstimatesKm": 288672.2
     }
   }
 }

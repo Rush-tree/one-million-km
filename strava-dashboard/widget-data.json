@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-19T05:30:50.819Z",
+  "generatedAt": "2026-11-19T06:00:59.084Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-19T05:30:50.819Z",
+  "memberCountUpdatedAt": "2026-11-19T06:00:59.084Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 496,
-    "distanceKm": 4889,
-    "elevationM": 33280,
-    "movingSeconds": 1455960,
+    "activities": 499,
+    "distanceKm": 4903.2,
+    "elevationM": 33314,
+    "movingSeconds": 1462800,
     "raw": {
-      "activities": "496",
-      "distance": "4,889.0 km",
-      "time": "404 h 26 m",
-      "elevation": "33,280 m"
+      "activities": "499",
+      "distance": "4,903.2 km",
+      "time": "406 h 20 m",
+      "elevation": "33,314 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "21042961936",
+      "name": "Yoga am Morgen",
+      "date": "November 19, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "23:01",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Susi Wong",
       "athleteId": "44756315",
@@ -32,16 +45,16 @@
       ]
     },
     {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "21042799662",
-      "name": "Yoga am Morgen",
+      "athlete": "Silvio Lazzarin",
+      "athleteId": "139275594",
+      "activityId": "21042948256",
+      "name": "Corsa mattutina",
       "date": "November 19, 2026",
-      "distanceKm": 0,
+      "distanceKm": 14.1,
       "stats": [
-        "0 km",
-        "16:42",
-        "0 m"
+        "14.1 km",
+        "1:15:36",
+        "34 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "2:11:24",
         "237 m"
       ]
-    },
-    {
-      "athlete": "Mangala Pai",
-      "athleteId": "118301293",
-      "activityId": "21042732461",
-      "name": "Lovely Ride to Versova and Juhu Beach",
-      "date": "November 19, 2026",
-      "distanceKm": 27.1,
-      "stats": [
-        "27.1 km",
-        "3:40:20",
-        "42 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 149665.3,
-  "totalDistanceKm": 272673.4,
+  "observedWeeksKm": 149679.5,
+  "totalDistanceKm": 272687.6,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 288470.4
+    "totalWithEstimatesKm": 288484.6
   }
 }

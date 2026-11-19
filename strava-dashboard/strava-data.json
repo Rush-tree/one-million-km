@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T19:00:58.286Z",
+  "generatedAt": "2026-11-19T19:30:55.600Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 710247,
+    "remainingKm": 710173,
     "percentComplete": 28.98,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 6171.5,
-    "thisWeekActivities": 624,
-    "thisWeekHours": 513,
-    "thisWeekElevationM": 40766,
+    "thisWeekKm": 6245.3,
+    "thisWeekActivities": 633,
+    "thisWeekHours": 520,
+    "thisWeekElevationM": 41135,
     "timesAroundEarth": 7.23,
     "percentToMoon": 75.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23747,
+  "totalActivities": 23756,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 289752900,
-    "totalMovingTime": 82197887,
-    "totalElevation": 2123287.6
+    "totalDistance": 289826700,
+    "totalMovingTime": 82221947,
+    "totalElevation": 2123656.6
   },
   "monthStats": {
-    "totalDistance": 33752800,
-    "totalMovingTime": 9618060,
+    "totalDistance": 33826600,
+    "totalMovingTime": 9642120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6171500,
-    "totalMovingTime": 1847880,
-    "count": 624
+    "totalDistance": 6245300,
+    "totalMovingTime": 1871940,
+    "count": 633
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 273955.9,
+    "measuredDistanceKm": 274029.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Birgit Marco",
+        "athleteId": "63425596",
+        "activityId": "21050589092",
+        "name": "Deutschland - Augsburg - Dinkelscherben",
+        "date": "November 19, 2026",
+        "distanceKm": 20.2,
+        "stats": [
+          "20.2 km",
+          "41:56",
+          "83 m"
+        ]
+      },
+      {
+        "athlete": "Irene Adkins",
+        "athleteId": "51333291",
+        "activityId": "21050372979",
+        "name": "Abendlauf",
+        "date": "November 19, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "27:39",
+          "53 m"
+        ]
+      },
       {
         "athlete": "Justin Mwenda",
         "athleteId": "160236798",
@@ -124,42 +150,16 @@
         ]
       },
       {
-        "athlete": "Vincent Glößner",
-        "athleteId": "60518823",
-        "activityId": "21050154574",
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "21050437057",
         "name": "Abendlauf",
         "date": "November 19, 2026",
-        "distanceKm": 5.4,
+        "distanceKm": 10,
         "stats": [
-          "5.4 km",
-          "27:38",
-          "4 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "21050093082",
-        "name": "Abendlauf",
-        "date": "November 19, 2026",
-        "distanceKm": 11.4,
-        "stats": [
-          "11.4 km",
-          "44:58",
-          "20 m"
-        ]
-      },
-      {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "21050001812",
-        "name": "Zwift - Downtown Eruption in Watopia",
-        "date": "November 19, 2026",
-        "distanceKm": 29.8,
-        "stats": [
-          "29.8 km",
-          "1:06:57",
-          "366 m"
+          "10.0 km",
+          "46:21",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 289752.9
+      "totalWithEstimatesKm": 289826.7
     }
   }
 }

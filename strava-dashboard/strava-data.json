@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T06:00:59.084Z",
+  "generatedAt": "2026-11-19T06:30:55.141Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 711515,
+    "remainingKm": 711486,
     "percentComplete": 28.85,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 4903.2,
-    "thisWeekActivities": 499,
-    "thisWeekHours": 406,
-    "thisWeekElevationM": 33314,
+    "thisWeekKm": 4932.3,
+    "thisWeekActivities": 503,
+    "thisWeekHours": 409,
+    "thisWeekElevationM": 33365,
     "timesAroundEarth": 7.2,
-    "percentToMoon": 75,
+    "percentToMoon": 75.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 75,
-        "text": "75% of the way to the Moon",
+        "value": 75.1,
+        "text": "75.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23619,
+  "totalActivities": 23624,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 288484600,
-    "totalMovingTime": 81812807,
-    "totalElevation": 2115835.6
+    "totalDistance": 288513700,
+    "totalMovingTime": 81822587,
+    "totalElevation": 2115886.6
   },
   "monthStats": {
-    "totalDistance": 32484500,
-    "totalMovingTime": 9232980,
+    "totalDistance": 32513600,
+    "totalMovingTime": 9242760,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4903200,
-    "totalMovingTime": 1462800,
-    "count": 499
+    "totalDistance": 4932300,
+    "totalMovingTime": 1472580,
+    "count": 503
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 272687.6,
+    "measuredDistanceKm": 272716.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "21043064514",
+        "name": "Allenamento mattutino",
+        "date": "November 19, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "17:31",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "21043121529",
+        "name": "Fahrt am Morgen",
+        "date": "November 19, 2026",
+        "distanceKm": 19.1,
+        "stats": [
+          "19.1 km",
+          "32:13",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -124,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "21042799894",
-        "name": "Gewichtstraining am Morgen",
+        "athlete": "Rareș Brânzoi",
+        "athleteId": "4792098",
+        "activityId": "21043057728",
+        "name": "Morning Run",
         "date": "November 19, 2026",
-        "distanceKm": 0,
+        "distanceKm": 10,
         "stats": [
-          "0 km",
-          "8:47",
-          "0 m"
+          "10.0 km",
+          "1:00:51",
+          "51 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "14.1 km",
           "1:15:36",
           "34 m"
-        ]
-      },
-      {
-        "athlete": "Amit Zadka",
-        "athleteId": "25927820",
-        "activityId": "21042818649",
-        "name": "Morning Run",
-        "date": "November 19, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "51:03",
-          "24 m"
-        ]
-      },
-      {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "21042802777",
-        "name": "Morning Run",
-        "date": "November 19, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "2:11:24",
-          "237 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 288484.6
+      "totalWithEstimatesKm": 288513.7
     }
   }
 }

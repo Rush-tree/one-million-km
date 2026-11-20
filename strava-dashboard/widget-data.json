@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-20T00:30:49.535Z",
+  "generatedAt": "2026-11-20T01:01:00.209Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-20T00:30:49.535Z",
+  "memberCountUpdatedAt": "2026-11-20T01:01:00.208Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 647,
-    "distanceKm": 6350.5,
+    "activities": 648,
+    "distanceKm": 6361.4,
     "elevationM": 42273,
-    "movingSeconds": 1911720,
+    "movingSeconds": 1913520,
     "raw": {
-      "activities": "647",
-      "distance": "6,350.5 km",
-      "time": "531 h 2 m",
+      "activities": "648",
+      "distance": "6,361.4 km",
+      "time": "531 h 32 m",
       "elevation": "42,273 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21053515131",
+      "name": "30 min Hip Hop Ride with Robin Arzón",
+      "date": "November 20, 2026",
+      "distanceKm": 10.9,
+      "stats": [
+        "10.9 km",
+        "30:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Flávio Pecorari Júnior .'.",
       "athleteId": "6261934",
@@ -69,19 +82,6 @@
         "35:06",
         "0 m"
       ]
-    },
-    {
-      "athlete": "# MarshmallowBen",
-      "athleteId": "114783849",
-      "activityId": "21050987395",
-      "name": "MyWhoosh - MyWhoosh FTP Test",
-      "date": "November 19, 2026",
-      "distanceKm": 17.8,
-      "stats": [
-        "17.8 km",
-        "40:28",
-        "240 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 151126.8,
-  "totalDistanceKm": 274134.9,
+  "observedWeeksKm": 151137.7,
+  "totalDistanceKm": 274145.8,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 289931.9
+    "totalWithEstimatesKm": 289942.8
   }
 }

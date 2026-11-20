@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T06:30:50.291Z",
+  "generatedAt": "2026-11-20T07:00:58.179Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 709725,
+    "remainingKm": 709715,
     "percentComplete": 29.03,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 6693.9,
-    "thisWeekActivities": 675,
-    "thisWeekHours": 555,
-    "thisWeekElevationM": 43935,
+    "thisWeekKm": 6703.3,
+    "thisWeekActivities": 680,
+    "thisWeekHours": 557,
+    "thisWeekElevationM": 44041,
     "timesAroundEarth": 7.24,
     "percentToMoon": 75.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23799,
+  "totalActivities": 23805,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 290275300,
-    "totalMovingTime": 82347647,
-    "totalElevation": 2126456.6
+    "totalDistance": 290284700,
+    "totalMovingTime": 82355987,
+    "totalElevation": 2126562.6
   },
   "monthStats": {
-    "totalDistance": 34275200,
-    "totalMovingTime": 9767820,
+    "totalDistance": 34284600,
+    "totalMovingTime": 9776160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6693900,
-    "totalMovingTime": 1997640,
-    "count": 675
+    "totalDistance": 6703300,
+    "totalMovingTime": 2005980,
+    "count": 680
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 274478.3,
+    "measuredDistanceKm": 274487.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "21055102687",
+        "name": "Swim Drills",
+        "date": "November 20, 2026",
+        "distanceKm": 0.2,
+        "stats": [
+          "0.2 km",
+          "4:10",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21055144283",
+        "name": "Sykkeltur om morgenen",
+        "date": "November 20, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "16:36",
+          "54 m"
+        ]
+      },
       {
         "athlete": "Lara WSM",
         "athleteId": "143255915",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21054821426",
-        "name": "Yoga am Morgen",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "21055035455",
+        "name": "Spaziergang am Morgen",
         "date": "November 20, 2026",
-        "distanceKm": 0,
+        "distanceKm": 2.8,
         "stats": [
-          "0 km",
-          "16:34",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "21054801806",
-        "name": "Fahrt am Morgen",
-        "date": "November 20, 2026",
-        "distanceKm": 14,
-        "stats": [
-          "14.0 km",
-          "42:34",
-          "63 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "21054646342",
-        "name": "Walking - November 2026 - Enghelab complex 🌞🚶🕊",
-        "date": "November 20, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "1:06:17",
-          "44 m"
+          "2.8 km",
+          "29:49",
+          "51 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 290275.3
+      "totalWithEstimatesKm": 290284.7
     }
   }
 }

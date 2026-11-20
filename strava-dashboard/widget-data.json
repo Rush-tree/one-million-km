@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-20T08:01:02.394Z",
+  "generatedAt": "2026-11-20T08:30:53.041Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-20T08:01:02.394Z",
+  "memberCountUpdatedAt": "2026-11-20T08:30:53.041Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 685,
-    "distanceKm": 6769.4,
-    "elevationM": 44296,
-    "movingSeconds": 2018520,
+    "activities": 688,
+    "distanceKm": 6948.7,
+    "elevationM": 46297,
+    "movingSeconds": 2044440,
     "raw": {
-      "activities": "685",
-      "distance": "6,769.4 km",
-      "time": "560 h 42 m",
-      "elevation": "44,296 m"
+      "activities": "688",
+      "distance": "6,948.7 km",
+      "time": "567 h 54 m",
+      "elevation": "46,297 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cathi Caesar",
+      "athleteId": "74482280",
+      "activityId": "21055659751",
+      "name": "Lauf am Morgen",
+      "date": "November 20, 2026",
+      "distanceKm": 4,
+      "stats": [
+        "4.0 km",
+        "23:06",
+        "19 m"
+      ]
+    },
     {
       "athlete": "Cathi Caesar",
       "athleteId": "74482280",
@@ -32,32 +45,6 @@
       ]
     },
     {
-      "athlete": "Cosima Renner",
-      "athleteId": "32997490",
-      "activityId": "21055102687",
-      "name": "Swim Drills",
-      "date": "November 20, 2026",
-      "distanceKm": 0.2,
-      "stats": [
-        "0.2 km",
-        "4:10",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "21055144283",
-      "name": "Sykkeltur om morgenen",
-      "date": "November 20, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "16:36",
-        "54 m"
-      ]
-    },
-    {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
       "activityId": "21055417121",
@@ -68,6 +55,19 @@
         "9.0 km",
         "1:29:37",
         "58 m"
+      ]
+    },
+    {
+      "athlete": "David Frerichs",
+      "athleteId": "41924749",
+      "activityId": "21055567395",
+      "name": "Fahrt am Morgen",
+      "date": "November 20, 2026",
+      "distanceKm": 107.8,
+      "stats": [
+        "107.8 km",
+        "5:10:44",
+        "1,109 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 151545.7,
-  "totalDistanceKm": 274553.8,
+  "observedWeeksKm": 151725,
+  "totalDistanceKm": 274733.1,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 290350.8
+    "totalWithEstimatesKm": 290530.1
   }
 }

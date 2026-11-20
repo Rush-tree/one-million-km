@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T08:01:02.394Z",
+  "generatedAt": "2026-11-20T08:30:53.041Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 709649,
-    "percentComplete": 29.04,
+    "remainingKm": 709470,
+    "percentComplete": 29.05,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 6769.4,
-    "thisWeekActivities": 685,
-    "thisWeekHours": 561,
-    "thisWeekElevationM": 44296,
+    "thisWeekKm": 6948.7,
+    "thisWeekActivities": 688,
+    "thisWeekHours": 568,
+    "thisWeekElevationM": 46297,
     "timesAroundEarth": 7.25,
-    "percentToMoon": 75.5,
+    "percentToMoon": 75.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 75.5,
-        "text": "75.5% of the way to the Moon",
+        "value": 75.6,
+        "text": "75.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23810,
+  "totalActivities": 23811,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 290350800,
-    "totalMovingTime": 82368527,
-    "totalElevation": 2126817.6
+    "totalDistance": 290530100,
+    "totalMovingTime": 82394447,
+    "totalElevation": 2128818.6
   },
   "monthStats": {
-    "totalDistance": 34350700,
-    "totalMovingTime": 9788700,
+    "totalDistance": 34530000,
+    "totalMovingTime": 9814620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6769400,
-    "totalMovingTime": 2018520,
-    "count": 685
+    "totalDistance": 6948700,
+    "totalMovingTime": 2044440,
+    "count": 688
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 274553.8,
+    "measuredDistanceKm": 274733.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "21055659751",
+        "name": "Lauf am Morgen",
+        "date": "November 20, 2026",
+        "distanceKm": 4,
+        "stats": [
+          "4.0 km",
+          "23:06",
+          "19 m"
+        ]
+      },
       {
         "athlete": "Cathi Caesar",
         "athleteId": "74482280",
@@ -124,32 +137,6 @@
         ]
       },
       {
-        "athlete": "Cosima Renner",
-        "athleteId": "32997490",
-        "activityId": "21055102687",
-        "name": "Swim Drills",
-        "date": "November 20, 2026",
-        "distanceKm": 0.2,
-        "stats": [
-          "0.2 km",
-          "4:10",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21055144283",
-        "name": "Sykkeltur om morgenen",
-        "date": "November 20, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "16:36",
-          "54 m"
-        ]
-      },
-      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "21055417121",
@@ -160,6 +147,19 @@
           "9.0 km",
           "1:29:37",
           "58 m"
+        ]
+      },
+      {
+        "athlete": "David Frerichs",
+        "athleteId": "41924749",
+        "activityId": "21055567395",
+        "name": "Fahrt am Morgen",
+        "date": "November 20, 2026",
+        "distanceKm": 107.8,
+        "stats": [
+          "107.8 km",
+          "5:10:44",
+          "1,109 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 290350.8
+      "totalWithEstimatesKm": 290530.1
     }
   }
 }

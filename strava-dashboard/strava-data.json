@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T16:00:57.410Z",
+  "generatedAt": "2026-11-20T16:30:48.076Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 708495,
-    "percentComplete": 29.15,
+    "remainingKm": 708388,
+    "percentComplete": 29.16,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 7923.3,
-    "thisWeekActivities": 744,
-    "thisWeekHours": 630,
-    "thisWeekElevationM": 52135,
-    "timesAroundEarth": 7.27,
-    "percentToMoon": 75.8,
+    "thisWeekKm": 8031.1,
+    "thisWeekActivities": 750,
+    "thisWeekHours": 636,
+    "thisWeekElevationM": 52767,
+    "timesAroundEarth": 7.28,
+    "percentToMoon": 75.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 75.8,
-        "text": "75.8% of the way to the Moon",
+        "value": 75.9,
+        "text": "75.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 43.8,
-        "text": "43.8× the length of the Nile",
+        "value": 43.9,
+        "text": "43.9× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23865,
+  "totalActivities": 23871,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 291504700,
-    "totalMovingTime": 82619207,
-    "totalElevation": 2134656.6
+    "totalDistance": 291612500,
+    "totalMovingTime": 82639007,
+    "totalElevation": 2135288.6
   },
   "monthStats": {
-    "totalDistance": 35504600,
-    "totalMovingTime": 10039380,
+    "totalDistance": 35612400,
+    "totalMovingTime": 10059180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7923300,
-    "totalMovingTime": 2269200,
-    "count": 744
+    "totalDistance": 8031100,
+    "totalMovingTime": 2289000,
+    "count": 750
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 275707.7,
+    "measuredDistanceKm": 275815.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "21060476568",
+        "name": "Afternoon Run",
+        "date": "November 20, 2026",
+        "distanceKm": 5.8,
+        "stats": [
+          "5.8 km",
+          "31:53",
+          "26 m"
+        ]
+      },
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21060376071",
+        "name": "Ettermiddag med sykkeltur",
+        "date": "November 20, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "32:57",
+          "55 m"
+        ]
+      },
       {
         "athlete": "Jenny Heitschötter",
         "athleteId": "769523801",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Stefan Brueckmann",
-        "athleteId": "172247920",
-        "activityId": "21059778274",
-        "name": "Fahrt am Nachmittag",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "21060461491",
+        "name": "Marche dans l'après-midi",
         "date": "November 20, 2026",
-        "distanceKm": 14,
+        "distanceKm": 4,
         "stats": [
-          "14.0 km",
-          "52:10",
-          "130 m"
+          "4.0 km",
+          "53:06",
+          "46 m"
         ]
       },
       {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "21059840430",
-        "name": "Pyramidenintervalle",
+        "athlete": "Jaron Saam",
+        "athleteId": "91151036",
+        "activityId": "21060357537",
+        "name": "Kalte Freitagsrunde",
         "date": "November 20, 2026",
-        "distanceKm": 9.5,
+        "distanceKm": 41.6,
         "stats": [
-          "9.5 km",
-          "1:00:28",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "21059929308",
-        "name": "Zwift - Coast Crusher in Watopia",
-        "date": "November 20, 2026",
-        "distanceKm": 42.6,
-        "stats": [
-          "42.6 km",
-          "1:19:14",
-          "209 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21059963124",
-        "name": "Lockere zweite Runde",
-        "date": "November 20, 2026",
-        "distanceKm": 15.3,
-        "stats": [
-          "15.3 km",
-          "1:23:31",
-          "30 m"
+          "41.6 km",
+          "1:41:46",
+          "88 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 291504.7
+      "totalWithEstimatesKm": 291612.5
     }
   }
 }

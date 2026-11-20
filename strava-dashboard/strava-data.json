@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T17:01:04.191Z",
+  "generatedAt": "2026-11-20T17:30:49.810Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 708335,
+    "remainingKm": 708319,
     "percentComplete": 29.17,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 8083.3,
-    "thisWeekActivities": 756,
-    "thisWeekHours": 642,
-    "thisWeekElevationM": 53465,
+    "thisWeekKm": 8099.8,
+    "thisWeekActivities": 760,
+    "thisWeekHours": 647,
+    "thisWeekElevationM": 53606,
     "timesAroundEarth": 7.28,
     "percentToMoon": 75.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23877,
+  "totalActivities": 23881,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 291664700,
-    "totalMovingTime": 82662107,
-    "totalElevation": 2135986.6
+    "totalDistance": 291681200,
+    "totalMovingTime": 82680527,
+    "totalElevation": 2136127.6
   },
   "monthStats": {
-    "totalDistance": 35664600,
-    "totalMovingTime": 10082280,
+    "totalDistance": 35681100,
+    "totalMovingTime": 10100700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8083300,
-    "totalMovingTime": 2312100,
-    "count": 756
+    "totalDistance": 8099800,
+    "totalMovingTime": 2330520,
+    "count": 760
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 275867.7,
+    "measuredDistanceKm": 275884.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "21061053112",
+        "name": "LIT 45 Zone Basis",
+        "date": "November 20, 2026",
+        "distanceKm": 7.6,
+        "stats": [
+          "7.6 km",
+          "49:17",
+          "57 m"
+        ]
+      },
+      {
+        "athlete": "Britta Prasse",
+        "athleteId": "200634990",
+        "activityId": "21061051571",
+        "name": "Lauf am Nachmittag",
+        "date": "November 20, 2026",
+        "distanceKm": 8.7,
+        "stats": [
+          "8.7 km",
+          "57:16",
+          "84 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -121,32 +147,6 @@
           "14.3 km",
           "33:36",
           "161 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21060778451",
-        "name": "Spaziergang am Nachmittag",
-        "date": "November 20, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "51:23",
-          "12 m"
-        ]
-      },
-      {
-        "athlete": "Domenic Winges",
-        "athleteId": "179823094",
-        "activityId": "21060567480",
-        "name": "Schwellenlauf auf Laufband",
-        "date": "November 20, 2026",
-        "distanceKm": 12,
-        "stats": [
-          "12.0 km",
-          "59:48",
-          "0 m"
         ]
       },
       {
@@ -163,16 +163,16 @@
         ]
       },
       {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "21060610118",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "21061060126",
+        "name": "Güç",
         "date": "November 20, 2026",
-        "distanceKm": 7.7,
+        "distanceKm": 0,
         "stats": [
-          "7.7 km",
-          "47:56",
-          "21 m"
+          "0 km",
+          "1:33:40",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 291664.7
+      "totalWithEstimatesKm": 291681.2
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-20T15:30:50.418Z",
+  "generatedAt": "2026-11-20T16:00:57.410Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-20T15:30:50.417Z",
+  "memberCountUpdatedAt": "2026-11-20T16:00:57.410Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 739,
-    "distanceKm": 7853.7,
-    "elevationM": 51787,
-    "movingSeconds": 2255280,
+    "activities": 744,
+    "distanceKm": 7923.3,
+    "elevationM": 52135,
+    "movingSeconds": 2269200,
     "raw": {
-      "activities": "739",
-      "distance": "7,853.7 km",
-      "time": "626 h 28 m",
-      "elevation": "51,787 m"
+      "activities": "744",
+      "distance": "7,923.3 km",
+      "time": "630 h 20 m",
+      "elevation": "52,135 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Jenny Heitschötter",
+      "athleteId": "769523801",
+      "activityId": "21060173401",
+      "name": "Lauf am Nachmittag",
+      "date": "November 20, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "28:23",
+        "26 m"
+      ]
+    },
     {
       "athlete": "Stefan Brueckmann",
       "athleteId": "172247920",
@@ -35,7 +48,7 @@
       "athlete": "Julian Klaas",
       "athleteId": "157058434",
       "activityId": "21059840430",
-      "name": "Lauf am Nachmittag",
+      "name": "Pyramidenintervalle",
       "date": "November 20, 2026",
       "distanceKm": 9.5,
       "stats": [
@@ -45,42 +58,29 @@
       ]
     },
     {
-      "athlete": "Maximilian Stelzer",
-      "athleteId": "20640429",
-      "activityId": "21059699315",
-      "name": "Gewichtstraining am Nachmittag",
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "21059929308",
+      "name": "Zwift - Coast Crusher in Watopia",
       "date": "November 20, 2026",
-      "distanceKm": 0,
+      "distanceKm": 42.6,
       "stats": [
-        "0 km",
-        "30:19",
-        "0 m"
+        "42.6 km",
+        "1:19:14",
+        "209 m"
       ]
     },
     {
-      "athlete": "Walter Donè",
-      "athleteId": "31420262",
-      "activityId": "21059586677",
-      "name": "Ciclismo mattutino",
+      "athlete": "Alex 3R",
+      "athleteId": "89054684",
+      "activityId": "21059963124",
+      "name": "Lockere zweite Runde",
       "date": "November 20, 2026",
-      "distanceKm": 23.7,
+      "distanceKm": 15.3,
       "stats": [
-        "23.7 km",
-        "5:54:21",
-        "33 m"
-      ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "21059651520",
-      "name": "Lauf am Nachmittag",
-      "date": "November 20, 2026",
-      "distanceKm": 21.4,
-      "stats": [
-        "21.4 km",
-        "1:36:01",
-        "56 m"
+        "15.3 km",
+        "1:23:31",
+        "30 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 152630,
-  "totalDistanceKm": 275638.1,
+  "observedWeeksKm": 152699.6,
+  "totalDistanceKm": 275707.7,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 291435.1
+    "totalWithEstimatesKm": 291504.7
   }
 }

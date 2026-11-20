@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T12:01:02.903Z",
+  "generatedAt": "2026-11-20T12:30:54.065Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 709229,
+    "remainingKm": 709161,
     "percentComplete": 29.08,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 7189.4,
-    "thisWeekActivities": 707,
-    "thisWeekHours": 585,
-    "thisWeekElevationM": 47681,
+    "thisWeekKm": 7257.5,
+    "thisWeekActivities": 710,
+    "thisWeekHours": 590,
+    "thisWeekElevationM": 48332,
     "timesAroundEarth": 7.26,
-    "percentToMoon": 75.6,
+    "percentToMoon": 75.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 75.6,
-        "text": "75.6% of the way to the Moon",
+        "value": 75.7,
+        "text": "75.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 45.5,
-        "text": "45.5 return trips Berlin to New York",
+        "value": 45.6,
+        "text": "45.6 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23830,
+  "totalActivities": 23833,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 290770800,
-    "totalMovingTime": 82455647,
-    "totalElevation": 2130202.6
+    "totalDistance": 290838900,
+    "totalMovingTime": 82472747,
+    "totalElevation": 2130853.6
   },
   "monthStats": {
-    "totalDistance": 34770700,
-    "totalMovingTime": 9875820,
+    "totalDistance": 34838800,
+    "totalMovingTime": 9892920,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7189400,
-    "totalMovingTime": 2105640,
-    "count": 707
+    "totalDistance": 7257500,
+    "totalMovingTime": 2122740,
+    "count": 710
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,21 +105,34 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 274973.8,
+    "measuredDistanceKm": 275041.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "21057741238",
+        "name": "Mittagsradfahrt",
+        "date": "November 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "20:54",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "James White",
         "athleteId": "81513205",
-        "activityId": "21057207434",
-        "name": "20 min HIIT & Hills Ride with Ally Love",
+        "activityId": "21057632458",
+        "name": "Morning Ride",
         "date": "November 20, 2026",
-        "distanceKm": 7.3,
+        "distanceKm": 0,
         "stats": [
-          "7.3 km",
-          "20:00",
+          "0 km",
+          "56:54",
           "0 m"
         ]
       },
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "21057052222",
-        "name": "Zwift - Race: Stage 2 - ZRacing - Watopia Islands - The Classic (E)",
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "21057757527",
+        "name": "Pedalada matinal",
         "date": "November 20, 2026",
-        "distanceKm": 26.4,
+        "distanceKm": 68,
         "stats": [
-          "26.4 km",
-          "1:01:35",
-          "235 m"
-        ]
-      },
-      {
-        "athlete": "Cathi Caesar",
-        "athleteId": "74482280",
-        "activityId": "21057325376",
-        "name": "Mittagspaziergang",
-        "date": "November 20, 2026",
-        "distanceKm": 6.2,
-        "stats": [
-          "6.2 km",
-          "1:33:41",
-          "64 m"
+          "68.0 km",
+          "3:47:29",
+          "651 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 290770.8
+      "totalWithEstimatesKm": 290838.9
     }
   }
 }

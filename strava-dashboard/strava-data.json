@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T07:30:52.787Z",
+  "generatedAt": "2026-11-20T08:01:02.394Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 709690,
-    "percentComplete": 29.03,
+    "remainingKm": 709649,
+    "percentComplete": 29.04,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 6728.5,
-    "thisWeekActivities": 681,
-    "thisWeekHours": 558,
-    "thisWeekElevationM": 44172,
-    "timesAroundEarth": 7.24,
+    "thisWeekKm": 6769.4,
+    "thisWeekActivities": 685,
+    "thisWeekHours": 561,
+    "thisWeekElevationM": 44296,
+    "timesAroundEarth": 7.25,
     "percentToMoon": 75.5,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23805,
+  "totalActivities": 23810,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 290309900,
-    "totalMovingTime": 82358747,
-    "totalElevation": 2126693.6
+    "totalDistance": 290350800,
+    "totalMovingTime": 82368527,
+    "totalElevation": 2126817.6
   },
   "monthStats": {
-    "totalDistance": 34309800,
-    "totalMovingTime": 9778920,
+    "totalDistance": 34350700,
+    "totalMovingTime": 9788700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6728500,
-    "totalMovingTime": 2008740,
-    "count": 681
+    "totalDistance": 6769400,
+    "totalMovingTime": 2018520,
+    "count": 685
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 274512.9,
+    "measuredDistanceKm": 274553.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "21055502017",
+        "name": "Crosstrainer-Einheit am Morgen",
+        "date": "November 20, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "36:16",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Cosima Renner",
         "athleteId": "32997490",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "21054964597",
-        "name": "Breath work 🙏",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "21055417121",
+        "name": "Course à pied le matin",
         "date": "November 20, 2026",
-        "distanceKm": 0,
+        "distanceKm": 9,
         "stats": [
-          "0 km",
-          "10:00",
-          "0 m"
+          "9.0 km",
+          "1:29:37",
+          "58 m"
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "21054946541",
-        "name": "FR-Frühstücksservice",
+        "athlete": "# MarshmallowBen",
+        "athleteId": "114783849",
+        "activityId": "21055481676",
+        "name": "Morgenausfahrt",
         "date": "November 20, 2026",
-        "distanceKm": 3.8,
+        "distanceKm": 21.8,
         "stats": [
-          "3.8 km",
-          "13:50",
-          "32 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "21055035455",
-        "name": "Spaziergang am Morgen",
-        "date": "November 20, 2026",
-        "distanceKm": 2.8,
-        "stats": [
-          "2.8 km",
-          "29:49",
-          "51 m"
+          "21.8 km",
+          "50:10",
+          "24 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 290309.9
+      "totalWithEstimatesKm": 290350.8
     }
   }
 }

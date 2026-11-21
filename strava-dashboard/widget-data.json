@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-21T09:30:57.389Z",
+  "generatedAt": "2026-11-21T10:00:52.896Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-21T09:30:57.389Z",
+  "memberCountUpdatedAt": "2026-11-21T10:00:52.896Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 820,
-    "distanceKm": 8844.5,
-    "elevationM": 58270,
-    "movingSeconds": 2532360,
+    "activities": 823,
+    "distanceKm": 8860.7,
+    "elevationM": 58324,
+    "movingSeconds": 2537760,
     "raw": {
-      "activities": "820",
-      "distance": "8,844.5 km",
-      "time": "703 h 26 m",
-      "elevation": "58,270 m"
+      "activities": "823",
+      "distance": "8,860.7 km",
+      "time": "704 h 56 m",
+      "elevation": "58,324 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "21067823943",
+      "name": "Lauf am Morgen",
+      "date": "November 21, 2026",
+      "distanceKm": 4,
+      "stats": [
+        "4.0 km",
+        "19:54",
+        "5 m"
+      ]
+    },
     {
       "athlete": "Adriano Perri",
       "athleteId": "99629318",
@@ -28,6 +41,19 @@
       "stats": [
         "5.0 km",
         "24:47",
+        "47 m"
+      ]
+    },
+    {
+      "athlete": "Cathi Caesar",
+      "athleteId": "74482280",
+      "activityId": "21067881056",
+      "name": "Lauf am Morgen",
+      "date": "November 21, 2026",
+      "distanceKm": 9.7,
+      "stats": [
+        "9.7 km",
+        "1:09:18",
         "47 m"
       ]
     },
@@ -56,32 +82,6 @@
         "46:30",
         "70 m"
       ]
-    },
-    {
-      "athlete": "Furansuwa B.",
-      "athleteId": "94754434",
-      "activityId": "21067042776",
-      "name": "Course à pied le matin",
-      "date": "November 21, 2026",
-      "distanceKm": 10.3,
-      "stats": [
-        "10.3 km",
-        "55:32",
-        "76 m"
-      ]
-    },
-    {
-      "athlete": "Daniel Stodden",
-      "athleteId": "23274828",
-      "activityId": "21067490639",
-      "name": "Fahrt am Morgen",
-      "date": "November 21, 2026",
-      "distanceKm": 45.9,
-      "stats": [
-        "45.9 km",
-        "1:23:06",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 153620.8,
-  "totalDistanceKm": 276628.9,
+  "observedWeeksKm": 153637,
+  "totalDistanceKm": 276645.1,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 292425.9
+    "totalWithEstimatesKm": 292442.1
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-21T15:30:52.483Z",
+  "generatedAt": "2026-11-21T16:00:54.675Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 706155,
-    "percentComplete": 29.38,
+    "remainingKm": 706063,
+    "percentComplete": 29.39,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 10263.5,
-    "thisWeekActivities": 905,
-    "thisWeekHours": 791,
-    "thisWeekElevationM": 69215,
+    "thisWeekKm": 10356.1,
+    "thisWeekActivities": 913,
+    "thisWeekHours": 801,
+    "thisWeekElevationM": 69895,
     "timesAroundEarth": 7.33,
-    "percentToMoon": 76.4,
+    "percentToMoon": 76.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 76.4,
-        "text": "76.4% of the way to the Moon",
+        "value": 76.5,
+        "text": "76.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24024,
+  "totalActivities": 24032,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 293844900,
-    "totalMovingTime": 83195927,
-    "totalElevation": 2151736.6
+    "totalDistance": 293937500,
+    "totalMovingTime": 83232047,
+    "totalElevation": 2152416.6
   },
   "monthStats": {
-    "totalDistance": 37844800,
-    "totalMovingTime": 10616100,
+    "totalDistance": 37937400,
+    "totalMovingTime": 10652220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 10263500,
-    "totalMovingTime": 2845920,
-    "count": 905
+    "totalDistance": 10356100,
+    "totalMovingTime": 2882040,
+    "count": 913
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 278047.9,
+    "measuredDistanceKm": 278140.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,19 +124,6 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "21072311002",
-        "name": "5K 🚴 Sortie vél⚙️ dans l'après-midi",
-        "date": "November 21, 2026",
-        "distanceKm": 5.2,
-        "stats": [
-          "5.2 km",
-          "16:43",
-          "11 m"
-        ]
-      },
-      {
         "athlete": "David Rondon",
         "athleteId": "1002628",
         "activityId": "21072271037",
@@ -150,29 +137,42 @@
         ]
       },
       {
-        "athlete": "Nujaim Noorahdheen",
-        "athleteId": "191343444",
-        "activityId": "21071975782",
-        "name": "Evening Run",
+        "athlete": "James White",
+        "athleteId": "81513205",
+        "activityId": "21072713563",
+        "name": "Morning Ride",
         "date": "November 21, 2026",
-        "distanceKm": 5,
+        "distanceKm": 0,
         "stats": [
-          "5.0 km",
-          "34:24",
-          "5 m"
+          "0 km",
+          "2:07:18",
+          "0 m"
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21072001258",
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "21072502744",
         "name": "Mountainbike-Fahrt am Nachmittag",
         "date": "November 21, 2026",
-        "distanceKm": 26.7,
+        "distanceKm": 57,
         "stats": [
-          "26.7 km",
-          "2:33:23",
-          "510 m"
+          "57.0 km",
+          "3:08:02",
+          "457 m"
+        ]
+      },
+      {
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "21072895832",
+        "name": "Schwimmen am Nachmittag",
+        "date": "November 21, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "1:25:14",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 293844.9
+      "totalWithEstimatesKm": 293937.5
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-21T12:00:55.622Z",
+  "generatedAt": "2026-11-21T12:30:48.238Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 706938,
+    "remainingKm": 706870,
     "percentComplete": 29.31,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 9480.8,
-    "thisWeekActivities": 856,
-    "thisWeekHours": 738,
-    "thisWeekElevationM": 63341,
+    "thisWeekKm": 9548.9,
+    "thisWeekActivities": 861,
+    "thisWeekHours": 745,
+    "thisWeekElevationM": 63825,
     "timesAroundEarth": 7.31,
-    "percentToMoon": 76.2,
+    "percentToMoon": 76.3,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 76.2,
-        "text": "76.2% of the way to the Moon",
+        "value": 76.3,
+        "text": "76.3% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 23976,
+  "totalActivities": 23981,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 293062200,
-    "totalMovingTime": 83006147,
-    "totalElevation": 2145862.6
+    "totalDistance": 293130300,
+    "totalMovingTime": 83030687,
+    "totalElevation": 2146346.6
   },
   "monthStats": {
-    "totalDistance": 37062100,
-    "totalMovingTime": 10426320,
+    "totalDistance": 37130200,
+    "totalMovingTime": 10450860,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 9480800,
-    "totalMovingTime": 2656140,
-    "count": 856
+    "totalDistance": 9548900,
+    "totalMovingTime": 2680680,
+    "count": 861
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 277265.2,
+    "measuredDistanceKm": 277333.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "21069818556",
+        "name": "LIT 55Zone Basis",
+        "date": "November 21, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:02:20",
+          "88 m"
+        ]
+      },
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "21069802029",
+        "name": "Late morning walk 🌤️☀️🌤️",
+        "date": "November 21, 2026",
+        "distanceKm": 5.2,
+        "stats": [
+          "5.2 km",
+          "1:05:20",
+          "37 m"
+        ]
+      },
       {
         "athlete": "Biken Ginayatova",
         "athleteId": "92872558",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "21069073514",
-        "name": "Zwift - Race: Tiny Race (4 of 4) by Zwift Insider (E)",
-        "date": "November 21, 2026",
-        "distanceKm": 10.3,
-        "stats": [
-          "10.3 km",
-          "29:58",
-          "112 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "21069126421",
-        "name": "Kilometer für das nächste Gravel Bike update 2",
-        "date": "November 21, 2026",
-        "distanceKm": 26,
-        "stats": [
-          "26.0 km",
-          "54:31",
-          "225 m"
-        ]
-      },
-      {
-        "athlete": "René Rosenberger",
-        "athleteId": "757098365",
-        "activityId": "21069372395",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "21069968902",
         "name": "Lauf am Morgen",
         "date": "November 21, 2026",
-        "distanceKm": 17.5,
+        "distanceKm": 21.1,
         "stats": [
-          "17.5 km",
-          "1:40:02",
-          "34 m"
+          "21.1 km",
+          "3:15:18",
+          "61 m"
         ]
       },
       {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "21069138787",
-        "name": "Ciclismo mattutino",
+        "athlete": "Nico Hoßfeld",
+        "athleteId": "177308499",
+        "activityId": "21069935914",
+        "name": "Mittagsradfahrt",
         "date": "November 21, 2026",
-        "distanceKm": 13,
+        "distanceKm": 0,
         "stats": [
-          "13.0 km",
-          "2:03:06",
-          "6 m"
+          "0 km",
+          "45:00",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 293062.2
+      "totalWithEstimatesKm": 293130.3
     }
   }
 }

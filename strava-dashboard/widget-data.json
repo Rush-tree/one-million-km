@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-21T07:00:55.918Z",
+  "generatedAt": "2026-11-21T07:30:50.758Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-21T07:00:55.918Z",
+  "memberCountUpdatedAt": "2026-11-21T07:30:50.758Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 799,
-    "distanceKm": 8614.3,
-    "elevationM": 57269,
-    "movingSeconds": 2471580,
+    "activities": 804,
+    "distanceKm": 8635.7,
+    "elevationM": 57335,
+    "movingSeconds": 2487180,
     "raw": {
-      "activities": "799",
-      "distance": "8,614.3 km",
-      "time": "686 h 33 m",
-      "elevation": "57,269 m"
+      "activities": "804",
+      "distance": "8,635.7 km",
+      "time": "690 h 53 m",
+      "elevation": "57,335 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Rareș Brânzoi",
+      "athleteId": "4792098",
+      "activityId": "21066467770",
+      "name": "Morning Run",
+      "date": "November 21, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:01:41",
+        "18 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -45,32 +58,6 @@
       ]
     },
     {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "21066187115",
-      "name": "Morning Walk",
-      "date": "November 21, 2026",
-      "distanceKm": 10.1,
-      "stats": [
-        "10.1 km",
-        "1:51:13",
-        "89 m"
-      ]
-    },
-    {
-      "athlete": "Goro Shigeno",
-      "athleteId": "37029557",
-      "activityId": "21065956522",
-      "name": "Lunch Ride",
-      "date": "November 21, 2026",
-      "distanceKm": 10.8,
-      "stats": [
-        "10.8 km",
-        "1:16:00",
-        "56 m"
-      ]
-    },
-    {
       "athlete": "Ralf Rogall",
       "athleteId": "105597565",
       "activityId": "21066332540",
@@ -82,6 +69,19 @@
         "5:35:10",
         "440 m"
       ]
+    },
+    {
+      "athlete": "Chirag Shah | Cyclopreneur | GreenRider",
+      "athleteId": "72351185",
+      "activityId": "21066498799",
+      "name": "Weekend Green Kitli Ride",
+      "date": "November 21, 2026",
+      "distanceKm": 101.8,
+      "stats": [
+        "101.8 km",
+        "7:17:11",
+        "307 m"
+      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 153390.6,
-  "totalDistanceKm": 276398.7,
+  "observedWeeksKm": 153412,
+  "totalDistanceKm": 276420.1,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 292195.7
+    "totalWithEstimatesKm": 292217.1
   }
 }

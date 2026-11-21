@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-21T22:00:54.725Z",
+  "generatedAt": "2026-11-21T22:30:46.605Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-21T22:00:54.725Z",
+  "memberCountUpdatedAt": "2026-11-21T22:30:46.605Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 942,
-    "distanceKm": 10886.3,
-    "elevationM": 74349,
-    "movingSeconds": 3032040,
+    "activities": 943,
+    "distanceKm": 10887.3,
+    "elevationM": 74357,
+    "movingSeconds": 3032820,
     "raw": {
-      "activities": "942",
-      "distance": "10,886.3 km",
-      "time": "842 h 14 m",
-      "elevation": "74,349 m"
+      "activities": "943",
+      "distance": "10,887.3 km",
+      "time": "842 h 27 m",
+      "elevation": "74,357 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ricardo Ferre",
+      "athleteId": "45223374",
+      "activityId": "21076412332",
+      "name": "Night Walk",
+      "date": "November 21, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "1:15:09",
+        "8 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -69,19 +82,6 @@
         "34:37",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Cosima Renner",
-      "athleteId": "32997490",
-      "activityId": "21074733435",
-      "name": "Yoga am Abend",
-      "date": "November 21, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "36:05",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 155662.6,
-  "totalDistanceKm": 278670.7,
+  "observedWeeksKm": 155663.6,
+  "totalDistanceKm": 278671.7,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 294467.7
+    "totalWithEstimatesKm": 294468.7
   }
 }

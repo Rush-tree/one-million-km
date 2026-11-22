@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-22T20:00:53.682Z",
+  "generatedAt": "2026-11-22T20:30:50.103Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-22T20:00:53.682Z",
+  "memberCountUpdatedAt": "2026-11-22T20:30:50.103Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 1106,
-    "distanceKm": 13640.5,
-    "elevationM": 96267,
-    "movingSeconds": 3766860,
+    "activities": 1109,
+    "distanceKm": 13658.6,
+    "elevationM": 96328,
+    "movingSeconds": 3772980,
     "raw": {
-      "activities": "1106",
-      "distance": "13,640.5 km",
-      "time": "1,046 h 21 m",
-      "elevation": "96,267 m"
+      "activities": "1109",
+      "distance": "13,658.6 km",
+      "time": "1,048 h 3 m",
+      "elevation": "96,328 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "21088250313",
+      "name": "Abendspaziergang",
+      "date": "November 22, 2026",
+      "distanceKm": 2.3,
+      "stats": [
+        "2.3 km",
+        "31:49",
+        "11 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -42,19 +55,6 @@
         "25.0 km",
         "2:17:09",
         "51 m"
-      ]
-    },
-    {
-      "athlete": "Hannah-Malin Henigin",
-      "athleteId": "162779271",
-      "activityId": "21086896864",
-      "name": "Abendlauf mit Papa ❄️💫",
-      "date": "November 22, 2026",
-      "distanceKm": 10,
-      "stats": [
-        "10.0 km",
-        "58:31",
-        "14 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 158416.8,
-  "totalDistanceKm": 281424.9,
+  "observedWeeksKm": 158434.9,
+  "totalDistanceKm": 281443,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 297221.9
+    "totalWithEstimatesKm": 297240
   }
 }

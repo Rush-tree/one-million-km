@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T16:30:46.017Z",
+  "generatedAt": "2026-11-22T17:00:54.849Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 703172,
+    "remainingKm": 703177,
     "percentComplete": 29.68,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 13246.5,
-    "thisWeekActivities": 1082,
-    "thisWeekHours": 1017,
-    "thisWeekElevationM": 93304,
+    "thisWeekKm": 13242,
+    "thisWeekActivities": 1087,
+    "thisWeekHours": 1020,
+    "thisWeekElevationM": 93492,
     "timesAroundEarth": 7.41,
     "percentToMoon": 77.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24195,
+  "totalActivities": 24201,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 296827900,
-    "totalMovingTime": 84011507,
-    "totalElevation": 2175825.6
+    "totalDistance": 296823400,
+    "totalMovingTime": 84020567,
+    "totalElevation": 2176013.6
   },
   "monthStats": {
-    "totalDistance": 40827800,
-    "totalMovingTime": 11431680,
+    "totalDistance": 40823300,
+    "totalMovingTime": 11440740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13246500,
-    "totalMovingTime": 3661500,
-    "count": 1082
+    "totalDistance": 13242000,
+    "totalMovingTime": 3670560,
+    "count": 1087
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 281030.9,
+    "measuredDistanceKm": 281026.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "21086145600",
+        "name": "Zwift - Race: Women's Mini Races || p/b FemmeCycle Collab (D)",
+        "date": "November 22, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "14:29",
+          "53 m"
+        ]
+      },
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "21086281310",
+        "name": "🚴 Ride back from Renfo",
+        "date": "November 22, 2026",
+        "distanceKm": 5.2,
+        "stats": [
+          "5.2 km",
+          "17:06",
+          "12 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -124,23 +150,10 @@
         ]
       },
       {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "21085633643",
-        "name": "Zwift - Pacer Group Ride with Mochi",
-        "date": "November 22, 2026",
-        "distanceKm": 2.2,
-        "stats": [
-          "2.2 km",
-          "4:47",
-          "8 m"
-        ]
-      },
-      {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
         "activityId": "21085941662",
-        "name": "Entraînement aux poids dans l'après-midi",
+        "name": "Renfo 🏋️ 🍗 dans l'après-midi",
         "date": "November 22, 2026",
         "distanceKm": 0,
         "stats": [
@@ -150,23 +163,10 @@
         ]
       },
       {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "21085703904",
-        "name": "Spaziergang am Nachmittag",
-        "date": "November 22, 2026",
-        "distanceKm": 7.7,
-        "stats": [
-          "7.7 km",
-          "2:18:55",
-          "151 m"
-        ]
-      },
-      {
         "athlete": "Hans-Georg Acker ♣",
         "athleteId": "34456629",
         "activityId": "21085870299",
-        "name": "CX Filzencrossing 🍁♣️☁️😍",
+        "name": "CX Filzencrossing 🍁♣️☁️😍 ...",
         "date": "November 22, 2026",
         "distanceKm": 46,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 296827.9
+      "totalWithEstimatesKm": 296823.4
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-22T13:30:47.746Z",
+  "generatedAt": "2026-11-22T14:00:52.210Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-22T13:30:47.746Z",
+  "memberCountUpdatedAt": "2026-11-22T14:00:52.210Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 1044,
-    "distanceKm": 12742.9,
-    "elevationM": 88957,
-    "movingSeconds": 3491340,
+    "activities": 1051,
+    "distanceKm": 12861.8,
+    "elevationM": 90284,
+    "movingSeconds": 3531000,
     "raw": {
-      "activities": "1044",
-      "distance": "12,742.9 km",
-      "time": "969 h 49 m",
-      "elevation": "88,957 m"
+      "activities": "1051",
+      "distance": "12,861.8 km",
+      "time": "980 h 50 m",
+      "elevation": "90,284 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nils Werthebach",
+      "athleteId": "62336173",
+      "activityId": "21083986504",
+      "name": "Spaziergang am Nachmittag",
+      "date": "November 22, 2026",
+      "distanceKm": 1.4,
+      "stats": [
+        "1.4 km",
+        "23:08",
+        "54 m"
+      ]
+    },
     {
       "athlete": "James White",
       "athleteId": "81513205",
@@ -32,29 +45,29 @@
       ]
     },
     {
-      "athlete": "Anja Habermeier",
-      "athleteId": "80382525",
-      "activityId": "21083736849",
+      "athlete": "Maximilian Stelzer",
+      "athleteId": "20640429",
+      "activityId": "21084124846",
       "name": "Spaziergang am Nachmittag",
       "date": "November 22, 2026",
-      "distanceKm": 3.3,
+      "distanceKm": 5.4,
       "stats": [
-        "3.3 km",
-        "41:43",
-        "81 m"
+        "5.4 km",
+        "1:29:04",
+        "157 m"
       ]
     },
     {
-      "athlete": "Thomas Nanntt",
-      "athleteId": "15474485",
-      "activityId": "21083548359",
-      "name": "Zwift - GA",
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21083975183",
+      "name": "Ettermiddag med sykkeltur",
       "date": "November 22, 2026",
-      "distanceKm": 35.9,
+      "distanceKm": 30.3,
       "stats": [
-        "35.9 km",
-        "1:05:37",
-        "198 m"
+        "30.3 km",
+        "1:30:02",
+        "511 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "1:36:04",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Georg Weinig",
-      "athleteId": "166650923",
-      "activityId": "21083410551",
-      "name": "Pace verfehlt. Trotzdem genug schmerzen gehabt",
-      "date": "November 22, 2026",
-      "distanceKm": 56.6,
-      "stats": [
-        "56.6 km",
-        "5:59:17",
-        "1,309 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 157519.2,
-  "totalDistanceKm": 280527.3,
+  "observedWeeksKm": 157638.1,
+  "totalDistanceKm": 280646.2,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 296324.3
+    "totalWithEstimatesKm": 296443.2
   }
 }

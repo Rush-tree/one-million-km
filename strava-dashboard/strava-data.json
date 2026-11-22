@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T07:30:45.803Z",
+  "generatedAt": "2026-11-22T08:00:55.851Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 705284,
-    "percentComplete": 29.47,
+    "remainingKm": 705241,
+    "percentComplete": 29.48,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 11135.1,
-    "thisWeekActivities": 957,
-    "thisWeekHours": 864,
-    "thisWeekElevationM": 75728,
-    "timesAroundEarth": 7.35,
+    "thisWeekKm": 11178.1,
+    "thisWeekActivities": 961,
+    "thisWeekHours": 866,
+    "thisWeekElevationM": 76198,
+    "timesAroundEarth": 7.36,
     "percentToMoon": 76.7,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24074,
+  "totalActivities": 24078,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 294716500,
-    "totalMovingTime": 83459447,
-    "totalElevation": 2158249.6
+    "totalDistance": 294759500,
+    "totalMovingTime": 83466827,
+    "totalElevation": 2158719.6
   },
   "monthStats": {
-    "totalDistance": 38716400,
-    "totalMovingTime": 10879620,
+    "totalDistance": 38759400,
+    "totalMovingTime": 10887000,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11135100,
-    "totalMovingTime": 3109440,
-    "count": 957
+    "totalDistance": 11178100,
+    "totalMovingTime": 3116820,
+    "count": 961
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 278919.5,
+    "measuredDistanceKm": 278962.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "21079283798",
+        "name": "Spaziergang am Morgen",
+        "date": "November 22, 2026",
+        "distanceKm": 2.3,
+        "stats": [
+          "2.3 km",
+          "24:30",
+          "5 m"
+        ]
+      },
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "21079331852",
+        "name": "Zwift - Downtown Eruption in Watopia",
+        "date": "November 22, 2026",
+        "distanceKm": 20.5,
+        "stats": [
+          "20.5 km",
+          "48:24",
+          "280 m"
+        ]
+      },
       {
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
@@ -134,32 +160,6 @@
           "0 km",
           "28:56",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Justin Mwenda",
-        "athleteId": "160236798",
-        "activityId": "21078773860",
-        "name": "Morning Run",
-        "date": "November 22, 2026",
-        "distanceKm": 15.2,
-        "stats": [
-          "15.2 km",
-          "1:34:00",
-          "144 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "21078870104",
-        "name": "645/730 gün koşusu",
-        "date": "November 22, 2026",
-        "distanceKm": 30.3,
-        "stats": [
-          "30.3 km",
-          "3:37:05",
-          "705 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 294716.5
+      "totalWithEstimatesKm": 294759.5
     }
   }
 }

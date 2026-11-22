@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T10:00:58.213Z",
+  "generatedAt": "2026-11-22T10:30:46.754Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 704882,
-    "percentComplete": 29.51,
+    "remainingKm": 704806,
+    "percentComplete": 29.52,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 11536.7,
-    "thisWeekActivities": 988,
-    "thisWeekHours": 892,
-    "thisWeekElevationM": 78724,
-    "timesAroundEarth": 7.36,
+    "thisWeekKm": 11612.7,
+    "thisWeekActivities": 997,
+    "thisWeekHours": 900,
+    "thisWeekElevationM": 79164,
+    "timesAroundEarth": 7.37,
     "percentToMoon": 76.8,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24105,
+  "totalActivities": 24114,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 295118100,
-    "totalMovingTime": 83562767,
-    "totalElevation": 2161245.6
+    "totalDistance": 295194100,
+    "totalMovingTime": 83589647,
+    "totalElevation": 2161685.6
   },
   "monthStats": {
-    "totalDistance": 39118000,
-    "totalMovingTime": 10982940,
+    "totalDistance": 39194000,
+    "totalMovingTime": 11009820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11536700,
-    "totalMovingTime": 3212760,
-    "count": 988
+    "totalDistance": 11612700,
+    "totalMovingTime": 3239640,
+    "count": 997
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,24 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 279321.1,
+    "measuredDistanceKm": 279397.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "21080503886",
-        "name": "Zwift - Pacer Group Ride with Mochi",
-        "date": "November 22, 2026",
-        "distanceKm": 3.1,
-        "stats": [
-          "3.1 km",
-          "7:20",
-          "28 m"
-        ]
-      },
       {
         "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
         "athleteId": "10923773",
@@ -134,6 +121,19 @@
           "5.0 km",
           "10:10",
           "20 m"
+        ]
+      },
+      {
+        "athlete": "Vincent Glößner",
+        "athleteId": "60518823",
+        "activityId": "21080644076",
+        "name": "Lauf am Morgen",
+        "date": "November 22, 2026",
+        "distanceKm": 6.7,
+        "stats": [
+          "6.7 km",
+          "49:53",
+          "119 m"
         ]
       },
       {
@@ -150,16 +150,16 @@
         ]
       },
       {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21080525639",
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "21080751842",
         "name": "Lauf am Morgen",
         "date": "November 22, 2026",
-        "distanceKm": 12.6,
+        "distanceKm": 8,
         "stats": [
-          "12.6 km",
-          "1:01:00",
-          "45 m"
+          "8.0 km",
+          "1:06:35",
+          "155 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 295118.1
+      "totalWithEstimatesKm": 295194.1
     }
   }
 }

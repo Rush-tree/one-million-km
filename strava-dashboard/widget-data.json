@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-22T16:00:57.255Z",
+  "generatedAt": "2026-11-22T16:30:12.318Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-22T16:00:57.255Z",
+  "memberCountUpdatedAt": "2026-11-22T16:30:12.318Z",
   "currentWeek": {
     "week": "Nov 16, 2026 - Nov 22, 2026",
-    "activities": 1076,
-    "distanceKm": 13102.1,
-    "elevationM": 92214,
-    "movingSeconds": 3628200,
+    "activities": 1081,
+    "distanceKm": 13200.5,
+    "elevationM": 92749,
+    "movingSeconds": 3651660,
     "raw": {
-      "activities": "1076",
-      "distance": "13,102.1 km",
-      "time": "1,007 h 50 m",
-      "elevation": "92,214 m"
+      "activities": "1081",
+      "distance": "13,200.5 km",
+      "time": "1,014 h 21 m",
+      "elevation": "92,749 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+      "athleteId": "9696032",
+      "activityId": "21085945085",
+      "name": "Zwift - Race: Women's Mini Races || p/b FemmeCycle Collab (D)",
+      "date": "November 22, 2026",
+      "distanceKm": 7.6,
+      "stats": [
+        "7.6 km",
+        "17:44",
+        "110 m"
+      ]
+    },
     {
       "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
       "athleteId": "9696032",
@@ -34,14 +47,27 @@
     {
       "athlete": "Laurent ROBERT",
       "athleteId": "139535489",
-      "activityId": "21085513614",
-      "name": "🚴Ride to Renfo",
+      "activityId": "21085941662",
+      "name": "Entraînement aux poids dans l'après-midi",
       "date": "November 22, 2026",
-      "distanceKm": 2.5,
+      "distanceKm": 0,
       "stats": [
-        "2.5 km",
-        "10:52",
-        "7 m"
+        "0 km",
+        "32:30",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Mangala Pai",
+      "athleteId": "118301293",
+      "activityId": "21085726269",
+      "name": "Leisure rideq",
+      "date": "November 22, 2026",
+      "distanceKm": 6.2,
+      "stats": [
+        "6.2 km",
+        "40:17",
+        "13 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "2:18:55",
         "151 m"
       ]
-    },
-    {
-      "athlete": "Gilbert Schwartmann",
-      "athleteId": "147030966",
-      "activityId": "21085289718",
-      "name": "Oberfeld Deluxe",
-      "date": "November 22, 2026",
-      "distanceKm": 21.2,
-      "stats": [
-        "21.2 km",
-        "2:25:25",
-        "220 m"
-      ]
-    },
-    {
-      "athlete": "Tim Siber",
-      "athleteId": "91630363",
-      "activityId": "21085480321",
-      "name": "Afternoon Hike",
-      "date": "November 22, 2026",
-      "distanceKm": 5.3,
-      "stats": [
-        "5.3 km",
-        "3:14:29",
-        "58 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 157878.4,
-  "totalDistanceKm": 280886.5,
+  "observedWeeksKm": 157976.8,
+  "totalDistanceKm": 280984.9,
   "weeksTracked": 11,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 296683.5
+    "totalWithEstimatesKm": 296781.9
   }
 }

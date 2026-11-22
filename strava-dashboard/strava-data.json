@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T16:00:57.255Z",
+  "generatedAt": "2026-11-22T16:30:12.318Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 703317,
-    "percentComplete": 29.67,
+    "remainingKm": 703218,
+    "percentComplete": 29.68,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 13102.1,
-    "thisWeekActivities": 1076,
-    "thisWeekHours": 1008,
-    "thisWeekElevationM": 92214,
-    "timesAroundEarth": 7.4,
+    "thisWeekKm": 13200.5,
+    "thisWeekActivities": 1081,
+    "thisWeekHours": 1014,
+    "thisWeekElevationM": 92749,
+    "timesAroundEarth": 7.41,
     "percentToMoon": 77.2,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24190,
+  "totalActivities": 24194,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 296683500,
-    "totalMovingTime": 83978207,
-    "totalElevation": 2174735.6
+    "totalDistance": 296781900,
+    "totalMovingTime": 84001667,
+    "totalElevation": 2175270.6
   },
   "monthStats": {
-    "totalDistance": 40683400,
-    "totalMovingTime": 11398380,
+    "totalDistance": 40781800,
+    "totalMovingTime": 11421840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13102100,
-    "totalMovingTime": 3628200,
-    "count": 1076
+    "totalDistance": 13200500,
+    "totalMovingTime": 3651660,
+    "count": 1081
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 280886.5,
+    "measuredDistanceKm": 280984.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "21085945085",
+        "name": "Zwift - Race: Women's Mini Races || p/b FemmeCycle Collab (D)",
+        "date": "November 22, 2026",
+        "distanceKm": 7.6,
+        "stats": [
+          "7.6 km",
+          "17:44",
+          "110 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -126,14 +139,27 @@
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
-        "activityId": "21085513614",
-        "name": "🚴Ride to Renfo",
+        "activityId": "21085941662",
+        "name": "Entraînement aux poids dans l'après-midi",
         "date": "November 22, 2026",
-        "distanceKm": 2.5,
+        "distanceKm": 0,
         "stats": [
-          "2.5 km",
-          "10:52",
-          "7 m"
+          "0 km",
+          "32:30",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "21085726269",
+        "name": "Leisure rideq",
+        "date": "November 22, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "40:17",
+          "13 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "7.7 km",
           "2:18:55",
           "151 m"
-        ]
-      },
-      {
-        "athlete": "Gilbert Schwartmann",
-        "athleteId": "147030966",
-        "activityId": "21085289718",
-        "name": "Oberfeld Deluxe",
-        "date": "November 22, 2026",
-        "distanceKm": 21.2,
-        "stats": [
-          "21.2 km",
-          "2:25:25",
-          "220 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "21085480321",
-        "name": "Afternoon Hike",
-        "date": "November 22, 2026",
-        "distanceKm": 5.3,
-        "stats": [
-          "5.3 km",
-          "3:14:29",
-          "58 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 296683.5
+      "totalWithEstimatesKm": 296781.9
     }
   }
 }

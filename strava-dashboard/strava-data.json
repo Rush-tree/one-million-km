@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T14:00:52.210Z",
+  "generatedAt": "2026-11-22T14:30:45.745Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 703557,
-    "percentComplete": 29.64,
+    "remainingKm": 703431,
+    "percentComplete": 29.66,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 12861.8,
-    "thisWeekActivities": 1051,
-    "thisWeekHours": 981,
-    "thisWeekElevationM": 90284,
+    "thisWeekKm": 12987.2,
+    "thisWeekActivities": 1056,
+    "thisWeekHours": 990,
+    "thisWeekElevationM": 91056,
     "timesAroundEarth": 7.4,
-    "percentToMoon": 77.1,
+    "percentToMoon": 77.2,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 77.1,
-        "text": "77.1% of the way to the Moon",
+        "value": 77.2,
+        "text": "77.2% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24164,
+  "totalActivities": 24169,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 296443200,
-    "totalMovingTime": 83881007,
-    "totalElevation": 2172805.6
+    "totalDistance": 296568600,
+    "totalMovingTime": 83913407,
+    "totalElevation": 2173577.6
   },
   "monthStats": {
-    "totalDistance": 40443100,
-    "totalMovingTime": 11301180,
+    "totalDistance": 40568500,
+    "totalMovingTime": 11333580,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 12861800,
-    "totalMovingTime": 3531000,
-    "count": 1051
+    "totalDistance": 12987200,
+    "totalMovingTime": 3563400,
+    "count": 1056
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,34 +105,47 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 280646.2,
+    "measuredDistanceKm": 280771.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Nils Werthebach",
-        "athleteId": "62336173",
-        "activityId": "21083986504",
-        "name": "Spaziergang am Nachmittag",
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21084296763",
+        "name": "Afternoon Weight Training",
         "date": "November 22, 2026",
-        "distanceKm": 1.4,
+        "distanceKm": 0,
         "stats": [
-          "1.4 km",
-          "23:08",
-          "54 m"
+          "0 km",
+          "53:50",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jürgen Föll",
+        "athleteId": "41355823",
+        "activityId": "21084466852",
+        "name": "Lauf am Nachmittag",
+        "date": "November 22, 2026",
+        "distanceKm": 14.8,
+        "stats": [
+          "14.8 km",
+          "1:35:28",
+          "301 m"
         ]
       },
       {
         "athlete": "James White",
         "athleteId": "81513205",
-        "activityId": "21083657149",
-        "name": "30 min Full Body Strength with Matty Maggiacomo",
+        "activityId": "21084442855",
+        "name": "Morning Weight Training",
         "date": "November 22, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "30:02",
+          "1:43:07",
           "0 m"
         ]
       },
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21083975183",
-        "name": "Ettermiddag med sykkeltur",
+        "athlete": "Jules Göpel",
+        "athleteId": "150874653",
+        "activityId": "21084475270",
+        "name": "Erst Gruppe dann alleine",
         "date": "November 22, 2026",
-        "distanceKm": 30.3,
+        "distanceKm": 106.3,
         "stats": [
-          "30.3 km",
-          "1:30:02",
-          "511 m"
-        ]
-      },
-      {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "21083701500",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "November 22, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:36:04",
-          "0 m"
+          "106.3 km",
+          "4:49:44",
+          "436 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 296443.2
+      "totalWithEstimatesKm": 296568.6
     }
   }
 }

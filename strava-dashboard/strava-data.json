@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-22T15:00:54.023Z",
+  "generatedAt": "2026-11-22T15:30:47.598Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 703399,
+    "remainingKm": 703359,
     "percentComplete": 29.66,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 13019.5,
-    "thisWeekActivities": 1063,
-    "thisWeekHours": 995,
-    "thisWeekElevationM": 91324,
+    "thisWeekKm": 13059.5,
+    "thisWeekActivities": 1069,
+    "thisWeekHours": 1000,
+    "thisWeekElevationM": 91723,
     "timesAroundEarth": 7.4,
     "percentToMoon": 77.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24176,
+  "totalActivities": 24182,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 296600900,
-    "totalMovingTime": 83933267,
-    "totalElevation": 2173845.6
+    "totalDistance": 296640900,
+    "totalMovingTime": 83948267,
+    "totalElevation": 2174244.6
   },
   "monthStats": {
-    "totalDistance": 40600800,
-    "totalMovingTime": 11353440,
+    "totalDistance": 40640800,
+    "totalMovingTime": 11368440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 13019500,
-    "totalMovingTime": 3583260,
-    "count": 1063
+    "totalDistance": 13059500,
+    "totalMovingTime": 3598260,
+    "count": 1069
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 280803.9,
+    "measuredDistanceKm": 280843.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "21085191491",
+        "name": "Spaziergang am Nachmittag",
+        "date": "November 22, 2026",
+        "distanceKm": 4.1,
+        "stats": [
+          "4.1 km",
+          "1:04:13",
+          "60 m"
+        ]
+      },
+      {
+        "athlete": "Marcel Gehrer",
+        "athleteId": "135991683",
+        "activityId": "21085221162",
+        "name": "Lauf am Nachmittag",
+        "date": "November 22, 2026",
+        "distanceKm": 9,
+        "stats": [
+          "9.0 km",
+          "1:00:32",
+          "17 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "21084994182",
+        "name": "Evening Walk",
+        "date": "November 22, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "1:15:42",
+          "5 m"
+        ]
+      },
       {
         "athlete": "Dirk Mang",
         "athleteId": "60711719",
@@ -121,45 +160,6 @@
           "12.1 km",
           "1:20:24",
           "145 m"
-        ]
-      },
-      {
-        "athlete": "Susi Wong",
-        "athleteId": "44756315",
-        "activityId": "21084894275",
-        "name": "Spaziergang am Nachmittag",
-        "date": "November 22, 2026",
-        "distanceKm": 6.3,
-        "stats": [
-          "6.3 km",
-          "1:52:05",
-          "44 m"
-        ]
-      },
-      {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "21084786884",
-        "name": "Lunch Walk",
-        "date": "November 22, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "1:49:19",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Jules Göpel",
-        "athleteId": "150874653",
-        "activityId": "21084475270",
-        "name": "Erst Gruppe dann alleine",
-        "date": "November 22, 2026",
-        "distanceKm": 106.3,
-        "stats": [
-          "106.3 km",
-          "4:49:44",
-          "436 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 296600.9
+      "totalWithEstimatesKm": 296640.9
     }
   }
 }

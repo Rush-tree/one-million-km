@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T06:00:52.591Z",
+  "generatedAt": "2026-11-22T06:30:46.035Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 705384,
-    "percentComplete": 29.46,
+    "remainingKm": 705222,
+    "percentComplete": 29.48,
     "paceBasisWeeks": 9,
     "avgWeekKm": 15411.2,
     "avgDayKm": 2201.6,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.6,
     "activitiesPerWeek": 1186,
     "avgActivityKm": 13,
-    "thisWeekKm": 11034.5,
-    "thisWeekActivities": 953,
-    "thisWeekHours": 858,
-    "thisWeekElevationM": 75492,
-    "timesAroundEarth": 7.35,
-    "percentToMoon": 76.6,
+    "thisWeekKm": 11196.7,
+    "thisWeekActivities": 955,
+    "thisWeekHours": 867,
+    "thisWeekElevationM": 75783,
+    "timesAroundEarth": 7.36,
+    "percentToMoon": 76.7,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 76.6,
-        "text": "76.6% of the way to the Moon",
+        "value": 76.7,
+        "text": "76.7% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 46.1,
-        "text": "46.1 return trips Berlin to New York",
+        "value": 46.2,
+        "text": "46.2 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24071,
+  "totalActivities": 24072,
   "memberCount": 246,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 294615900,
-    "totalMovingTime": 83439107,
-    "totalElevation": 2158013.6
+    "totalDistance": 294778100,
+    "totalMovingTime": 83472167,
+    "totalElevation": 2158304.6
   },
   "monthStats": {
-    "totalDistance": 38615800,
-    "totalMovingTime": 10859280,
+    "totalDistance": 38778000,
+    "totalMovingTime": 10892340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 11034500,
-    "totalMovingTime": 3089100,
-    "count": 953
+    "totalDistance": 11196700,
+    "totalMovingTime": 3122160,
+    "count": 955
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 278818.9,
+    "measuredDistanceKm": 278981.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,19 +137,6 @@
         ]
       },
       {
-        "athlete": "Meenu Nagori",
-        "athleteId": "69685863",
-        "activityId": "21078618841",
-        "name": "Morning Run",
-        "date": "November 22, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "1:38:34",
-          "66 m"
-        ]
-      },
-      {
         "athlete": "Bülent Sevil",
         "athleteId": "156559910",
         "activityId": "21078870104",
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "21078400596",
-        "name": "Morning Ride",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21078969543",
+        "name": "Sunday Morning Ride",
         "date": "November 22, 2026",
-        "distanceKm": 15.1,
+        "distanceKm": 80,
         "stats": [
-          "15.1 km",
-          "5:38:15",
-          "60 m"
+          "80.0 km",
+          "6:20:09",
+          "126 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21078970276",
+        "name": "Sunday Morning Ride",
+        "date": "November 22, 2026",
+        "distanceKm": 82.1,
+        "stats": [
+          "82.1 km",
+          "6:20:51",
+          "165 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 294615.9
+      "totalWithEstimatesKm": 294778.1
     }
   }
 }

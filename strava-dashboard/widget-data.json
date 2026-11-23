@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-23T10:00:55.598Z",
+  "generatedAt": "2026-11-23T10:30:49.275Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-23T10:00:55.598Z",
+  "memberCountUpdatedAt": "2026-11-23T10:30:49.275Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 35,
-    "distanceKm": 213,
-    "elevationM": 1126,
-    "movingSeconds": 83580,
+    "activities": 38,
+    "distanceKm": 220.2,
+    "elevationM": 1522,
+    "movingSeconds": 87120,
     "raw": {
-      "activities": "35",
-      "distance": "213.0 km",
-      "time": "23 h 13 m",
-      "elevation": "1,126 m"
+      "activities": "38",
+      "distance": "220.2 km",
+      "time": "24 h 12 m",
+      "elevation": "1,522 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "21092623806",
+      "name": "Lunch Walk",
+      "date": "November 23, 2026",
+      "distanceKm": 1.1,
+      "stats": [
+        "1.1 km",
+        "42:00",
+        "19 m"
+      ]
+    },
     {
       "athlete": "John Spence",
       "athleteId": "97189936",
@@ -69,19 +82,6 @@
         "12:39",
         "10 m"
       ]
-    },
-    {
-      "athlete": "David Rondon",
-      "athleteId": "1002628",
-      "activityId": "21091453752",
-      "name": "Sykkeltur om morgenen",
-      "date": "November 23, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "18:10",
-        "52 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 158672.8,
-  "totalDistanceKm": 281680.9,
+  "observedWeeksKm": 158680,
+  "totalDistanceKm": 281688.1,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 297477.9
+    "totalWithEstimatesKm": 297485.1
   }
 }

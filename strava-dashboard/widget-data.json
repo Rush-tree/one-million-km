@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-23T11:01:05.387Z",
+  "generatedAt": "2026-11-23T11:30:51.510Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-23T11:01:05.386Z",
+  "memberCountUpdatedAt": "2026-11-23T11:30:51.510Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 44,
-    "distanceKm": 301.3,
-    "elevationM": 1654,
-    "movingSeconds": 106080,
+    "activities": 48,
+    "distanceKm": 378.5,
+    "elevationM": 1710,
+    "movingSeconds": 121560,
     "raw": {
-      "activities": "44",
-      "distance": "301.3 km",
-      "time": "29 h 28 m",
-      "elevation": "1,654 m"
+      "activities": "48",
+      "distance": "378.5 km",
+      "time": "33 h 46 m",
+      "elevation": "1,710 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21093396571",
+      "name": "45 min Power Zone Endurance 90s Ride with Ben Alldis",
+      "date": "November 23, 2026",
+      "distanceKm": 22.8,
+      "stats": [
+        "22.8 km",
+        "45:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "James White",
       "athleteId": "81513205",
@@ -58,29 +71,16 @@
       ]
     },
     {
-      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-      "athleteId": "40311376",
-      "activityId": "21092623806",
-      "name": "Lunch Walk",
+      "athlete": "Hanna Greß",
+      "athleteId": "75797079",
+      "activityId": "21093420394",
+      "name": "Spaziergang am Morgen",
       "date": "November 23, 2026",
-      "distanceKm": 1.1,
+      "distanceKm": 4.3,
       "stats": [
-        "1.1 km",
-        "42:00",
-        "19 m"
-      ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "21092383185",
-      "name": "Morning Workout",
-      "date": "November 23, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:06:31",
-        "0 m"
+        "4.3 km",
+        "3:13:05",
+        "56 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 158761.1,
-  "totalDistanceKm": 281769.2,
+  "observedWeeksKm": 158838.3,
+  "totalDistanceKm": 281846.4,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 297566.2
+    "totalWithEstimatesKm": 297643.4
   }
 }

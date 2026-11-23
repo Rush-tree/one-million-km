@@ -1,23 +1,62 @@
 {
-  "generatedAt": "2026-11-23T16:00:55.401Z",
+  "generatedAt": "2026-11-23T16:30:59.962Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-23T16:00:55.401Z",
+  "memberCountUpdatedAt": "2026-11-23T16:30:59.962Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 78,
-    "distanceKm": 581.4,
-    "elevationM": 3094,
-    "movingSeconds": 207240,
+    "activities": 84,
+    "distanceKm": 609.1,
+    "elevationM": 3237,
+    "movingSeconds": 220860,
     "raw": {
-      "activities": "78",
-      "distance": "581.4 km",
-      "time": "57 h 34 m",
-      "elevation": "3,094 m"
+      "activities": "84",
+      "distance": "609.1 km",
+      "time": "61 h 21 m",
+      "elevation": "3,237 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Ulf Nuglisch",
+      "athleteId": "62746305",
+      "activityId": "21096453968",
+      "name": "Nachmittagstraining",
+      "date": "November 23, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "20:05",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21096260811",
+      "name": "Ettermiddag med sykkeltur",
+      "date": "November 23, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "16:45",
+        "54 m"
+      ]
+    },
+    {
+      "athlete": "Walter Donè",
+      "athleteId": "31420262",
+      "activityId": "21096515377",
+      "name": "Camminata pomeridiana",
+      "date": "November 23, 2026",
+      "distanceKm": 2.4,
+      "stats": [
+        "2.4 km",
+        "59:43",
+        "2 m"
+      ]
+    },
     {
       "athlete": "Irene Adkins",
       "athleteId": "51333291",
@@ -32,32 +71,6 @@
       ]
     },
     {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "21095794327",
-      "name": "Afternoon Walk",
-      "date": "November 23, 2026",
-      "distanceKm": 0.9,
-      "stats": [
-        "0.9 km",
-        "18:03",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "John Spence",
-      "athleteId": "97189936",
-      "activityId": "21095603276",
-      "name": "Sauna",
-      "date": "November 23, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "28:30",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Bärbel Unser",
       "athleteId": "73612084",
       "activityId": "21096121756",
@@ -69,19 +82,6 @@
         "1:37:32",
         "176 m"
       ]
-    },
-    {
-      "athlete": "Gisbert Drumm",
-      "athleteId": "10905376",
-      "activityId": "21095742132",
-      "name": "Gravel-Fahrt zur Mittagszeit. Kalt🥶🥶🥶",
-      "date": "November 23, 2026",
-      "distanceKm": 62.9,
-      "stats": [
-        "62.9 km",
-        "3:06:41",
-        "559 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159041.2,
-  "totalDistanceKm": 282049.3,
+  "observedWeeksKm": 159068.9,
+  "totalDistanceKm": 282077,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 297846.3
+    "totalWithEstimatesKm": 297874
   }
 }

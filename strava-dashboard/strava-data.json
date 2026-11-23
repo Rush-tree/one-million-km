@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T16:00:55.401Z",
+  "generatedAt": "2026-11-23T16:30:59.962Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 702154,
-    "percentComplete": 29.78,
+    "remainingKm": 702126,
+    "percentComplete": 29.79,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 581.4,
-    "thisWeekActivities": 78,
-    "thisWeekHours": 58,
-    "thisWeekElevationM": 3094,
+    "thisWeekKm": 609.1,
+    "thisWeekActivities": 84,
+    "thisWeekHours": 61,
+    "thisWeekElevationM": 3237,
     "timesAroundEarth": 7.43,
     "percentToMoon": 77.5,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 46.6,
-        "text": "46.6 return trips Berlin to New York",
+        "value": 46.7,
+        "text": "46.7 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24309,
+  "totalActivities": 24316,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 297846300,
-    "totalMovingTime": 84345347,
-    "totalElevation": 2182042.6
+    "totalDistance": 297874000,
+    "totalMovingTime": 84358967,
+    "totalElevation": 2182185.6
   },
   "monthStats": {
-    "totalDistance": 41846200,
-    "totalMovingTime": 11765520,
+    "totalDistance": 41873900,
+    "totalMovingTime": 11779140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 581400,
-    "totalMovingTime": 207240,
-    "count": 78
+    "totalDistance": 609100,
+    "totalMovingTime": 220860,
+    "count": 84
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 282049.3,
+    "measuredDistanceKm": 282077,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "21096453968",
+        "name": "Nachmittagstraining",
+        "date": "November 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "20:05",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21096260811",
+        "name": "Ettermiddag med sykkeltur",
+        "date": "November 23, 2026",
+        "distanceKm": 4.4,
+        "stats": [
+          "4.4 km",
+          "16:45",
+          "54 m"
+        ]
+      },
+      {
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "21096515377",
+        "name": "Camminata pomeridiana",
+        "date": "November 23, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "59:43",
+          "2 m"
+        ]
+      },
       {
         "athlete": "Irene Adkins",
         "athleteId": "51333291",
@@ -124,32 +163,6 @@
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21095794327",
-        "name": "Afternoon Walk",
-        "date": "November 23, 2026",
-        "distanceKm": 0.9,
-        "stats": [
-          "0.9 km",
-          "18:03",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21095603276",
-        "name": "Sauna",
-        "date": "November 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "28:30",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
         "activityId": "21096121756",
@@ -160,19 +173,6 @@
           "45.2 km",
           "1:37:32",
           "176 m"
-        ]
-      },
-      {
-        "athlete": "Gisbert Drumm",
-        "athleteId": "10905376",
-        "activityId": "21095742132",
-        "name": "Gravel-Fahrt zur Mittagszeit. Kalt🥶🥶🥶",
-        "date": "November 23, 2026",
-        "distanceKm": 62.9,
-        "stats": [
-          "62.9 km",
-          "3:06:41",
-          "559 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 297846.3
+      "totalWithEstimatesKm": 297874
     }
   }
 }

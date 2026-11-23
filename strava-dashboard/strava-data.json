@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-23T19:00:56.595Z",
+  "generatedAt": "2026-11-23T19:30:51.179Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 701660,
-    "percentComplete": 29.83,
+    "remainingKm": 701647,
+    "percentComplete": 29.84,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 1075.5,
-    "thisWeekActivities": 120,
-    "thisWeekHours": 94,
-    "thisWeekElevationM": 7175,
+    "thisWeekKm": 1088.5,
+    "thisWeekActivities": 125,
+    "thisWeekHours": 97,
+    "thisWeekElevationM": 7211,
     "timesAroundEarth": 7.44,
     "percentToMoon": 77.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24352,
+  "totalActivities": 24357,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 298340400,
-    "totalMovingTime": 84476087,
-    "totalElevation": 2186123.6
+    "totalDistance": 298353400,
+    "totalMovingTime": 84488027,
+    "totalElevation": 2186159.6
   },
   "monthStats": {
-    "totalDistance": 42340300,
-    "totalMovingTime": 11896260,
+    "totalDistance": 42353300,
+    "totalMovingTime": 11908200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1075500,
-    "totalMovingTime": 337980,
-    "count": 120
+    "totalDistance": 1088500,
+    "totalMovingTime": 349920,
+    "count": 125
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 282543.4,
+    "measuredDistanceKm": 282556.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21098520339",
+        "name": "Crossrope AMP Workout",
+        "date": "November 23, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "23:15",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21098734499",
+        "name": "Evening Workout",
+        "date": "November 23, 2026",
+        "distanceKm": 2.4,
+        "stats": [
+          "2.4 km",
+          "30:20",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Tim Siber",
         "athleteId": "91630363",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "André Brune",
-        "athleteId": "4536289",
-        "activityId": "21098196943",
-        "name": "☁ Gravel-Fahrt am Abend",
+        "athlete": "Martin Schwarz",
+        "athleteId": "20102625",
+        "activityId": "21098712073",
+        "name": "Abendschwimmen",
         "date": "November 23, 2026",
-        "distanceKm": 22.7,
+        "distanceKm": 1.5,
         "stats": [
-          "22.7 km",
-          "55:45",
-          "59 m"
-        ]
-      },
-      {
-        "athlete": "Laura Oerter",
-        "athleteId": "166620468",
-        "activityId": "21098134109",
-        "name": "Abendtraining",
-        "date": "November 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:01:16",
+          "1.5 km",
+          "54:39",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "21098030445",
-        "name": "Zwift - Group Ride: Rebellunas Banded Ride (D)",
-        "date": "November 23, 2026",
-        "distanceKm": 37.4,
-        "stats": [
-          "37.4 km",
-          "1:16:36",
-          "243 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 298340.4
+      "totalWithEstimatesKm": 298353.4
     }
   }
 }

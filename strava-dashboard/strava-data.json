@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T15:30:56.208Z",
+  "generatedAt": "2026-11-23T16:00:55.401Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 702224,
+    "remainingKm": 702154,
     "percentComplete": 29.78,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 511.3,
-    "thisWeekActivities": 72,
-    "thisWeekHours": 53,
-    "thisWeekElevationM": 2711,
+    "thisWeekKm": 581.4,
+    "thisWeekActivities": 78,
+    "thisWeekHours": 58,
+    "thisWeekElevationM": 3094,
     "timesAroundEarth": 7.43,
     "percentToMoon": 77.5,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 14,
-        "text": "14× the Great Wall of China",
+        "value": 14.1,
+        "text": "14.1× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24303,
+  "totalActivities": 24309,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 297776200,
-    "totalMovingTime": 84327227,
-    "totalElevation": 2181659.6
+    "totalDistance": 297846300,
+    "totalMovingTime": 84345347,
+    "totalElevation": 2182042.6
   },
   "monthStats": {
-    "totalDistance": 41776100,
-    "totalMovingTime": 11747400,
+    "totalDistance": 41846200,
+    "totalMovingTime": 11765520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 511300,
-    "totalMovingTime": 189120,
-    "count": 72
+    "totalDistance": 581400,
+    "totalMovingTime": 207240,
+    "count": 78
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 281979.2,
+    "measuredDistanceKm": 282049.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Irene Adkins",
+        "athleteId": "51333291",
+        "activityId": "21096128964",
+        "name": "Fahrt am Nachmittag",
+        "date": "November 23, 2026",
+        "distanceKm": 10.7,
+        "stats": [
+          "10.7 km",
+          "38:08",
+          "95 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -127,7 +140,7 @@
         "athlete": "John Spence",
         "athleteId": "97189936",
         "activityId": "21095603276",
-        "name": "Afternoon Workout",
+        "name": "Sauna",
         "date": "November 23, 2026",
         "distanceKm": 0,
         "stats": [
@@ -137,36 +150,23 @@
         ]
       },
       {
-        "athlete": "Maximilian Stelzer",
-        "athleteId": "20640429",
-        "activityId": "21095397138",
-        "name": "Lauf am Nachmittag",
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "21096121756",
+        "name": "Zwift - Pacer Group Ride with Cruz",
         "date": "November 23, 2026",
-        "distanceKm": 5.3,
+        "distanceKm": 45.2,
         "stats": [
-          "5.3 km",
-          "29:40",
-          "41 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "21095589615",
-        "name": "Gewichtstraining am Nachmittag",
-        "date": "November 23, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:49:54",
-          "0 m"
+          "45.2 km",
+          "1:37:32",
+          "176 m"
         ]
       },
       {
         "athlete": "Gisbert Drumm",
         "athleteId": "10905376",
         "activityId": "21095742132",
-        "name": "Gravel-Fahrt zur Mittagszeit",
+        "name": "Gravel-Fahrt zur Mittagszeit. Kalt🥶🥶🥶",
         "date": "November 23, 2026",
         "distanceKm": 62.9,
         "stats": [
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 297776.2
+      "totalWithEstimatesKm": 297846.3
     }
   }
 }

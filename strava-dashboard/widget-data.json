@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-23T00:30:46.076Z",
+  "generatedAt": "2026-11-23T01:00:55.619Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 246,
-  "memberCountUpdatedAt": "2026-11-23T00:30:46.076Z",
+  "memberCountUpdatedAt": "2026-11-23T01:00:55.619Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 0,
-    "distanceKm": 0,
+    "activities": 1,
+    "distanceKm": 14.3,
     "elevationM": 0,
-    "movingSeconds": 0,
+    "movingSeconds": 1800,
     "raw": {
-      "activities": "0",
-      "distance": "0 km",
-      "time": "0 h 0 m",
+      "activities": "1",
+      "distance": "14.3 km",
+      "time": "0 h 30 m",
       "elevation": "0 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21089869229",
+      "name": "30 min Power Zone Ride with Tunde Oyeneyin",
+      "date": "November 23, 2026",
+      "distanceKm": 14.3,
+      "stats": [
+        "14.3 km",
+        "30:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
       "athleteId": "40311376",
@@ -69,19 +82,6 @@
         "31:49",
         "11 m"
       ]
-    },
-    {
-      "athlete": "Domenic Winges",
-      "athleteId": "179823094",
-      "activityId": "21087704856",
-      "name": "Schwellenlauf",
-      "date": "November 22, 2026",
-      "distanceKm": 25,
-      "stats": [
-        "25.0 km",
-        "2:17:09",
-        "51 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 158459.8,
-  "totalDistanceKm": 281467.9,
+  "observedWeeksKm": 158474.1,
+  "totalDistanceKm": 281482.2,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 297264.9
+    "totalWithEstimatesKm": 297279.2
   }
 }

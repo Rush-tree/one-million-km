@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-23T20:30:47.256Z",
+  "generatedAt": "2026-11-23T21:00:56.744Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 701646,
+    "remainingKm": 701557,
     "percentComplete": 29.84,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 1089.2,
-    "thisWeekActivities": 128,
-    "thisWeekHours": 101,
-    "thisWeekElevationM": 7211,
-    "timesAroundEarth": 7.44,
+    "thisWeekKm": 1177.8,
+    "thisWeekActivities": 132,
+    "thisWeekHours": 107,
+    "thisWeekElevationM": 7878,
+    "timesAroundEarth": 7.45,
     "percentToMoon": 77.6,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24360,
+  "totalActivities": 24364,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 298354100,
-    "totalMovingTime": 84502307,
-    "totalElevation": 2186159.6
+    "totalDistance": 298442700,
+    "totalMovingTime": 84523427,
+    "totalElevation": 2186826.6
   },
   "monthStats": {
-    "totalDistance": 42354000,
-    "totalMovingTime": 11922480,
+    "totalDistance": 42442600,
+    "totalMovingTime": 11943600,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1089200,
-    "totalMovingTime": 364200,
-    "count": 128
+    "totalDistance": 1177800,
+    "totalMovingTime": 385320,
+    "count": 132
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 282557.1,
+    "measuredDistanceKm": 282645.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "21099599289",
+        "name": "🌧🌧🌧🌧🌧🌧",
+        "date": "November 23, 2026",
+        "distanceKm": 2.8,
+        "stats": [
+          "2.8 km",
+          "8:18",
+          "28 m"
+        ]
+      },
+      {
+        "athlete": "Anja Habermeier",
+        "athleteId": "80382525",
+        "activityId": "21099725022",
+        "name": "Radfahrt am Abend",
+        "date": "November 23, 2026",
+        "distanceKm": 28.2,
+        "stats": [
+          "28.2 km",
+          "1:00:32",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "21098734499",
-        "name": "Evening Workout",
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "21099724457",
+        "name": "Akşam Koşu",
         "date": "November 23, 2026",
-        "distanceKm": 2.4,
+        "distanceKm": 42.4,
         "stats": [
-          "2.4 km",
-          "30:20",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "21098343053",
-        "name": "Grundlage",
-        "date": "November 23, 2026",
-        "distanceKm": 10.6,
-        "stats": [
-          "10.6 km",
-          "53:16",
-          "3 m"
-        ]
-      },
-      {
-        "athlete": "Martin Schwarz",
-        "athleteId": "20102625",
-        "activityId": "21098712073",
-        "name": "Abendschwimmen",
-        "date": "November 23, 2026",
-        "distanceKm": 1.5,
-        "stats": [
-          "1.5 km",
-          "54:39",
-          "0 m"
+          "42.4 km",
+          "4:24:03",
+          "469 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 298354.1
+      "totalWithEstimatesKm": 298442.7
     }
   }
 }

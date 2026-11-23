@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-23T23:00:55.557Z",
+  "generatedAt": "2026-11-23T23:30:48.608Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-23T23:00:55.556Z",
+  "memberCountUpdatedAt": "2026-11-23T23:30:48.608Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 136,
-    "distanceKm": 1192.3,
-    "elevationM": 8074,
-    "movingSeconds": 408360,
+    "activities": 137,
+    "distanceKm": 1194.1,
+    "elevationM": 8107,
+    "movingSeconds": 409920,
     "raw": {
-      "activities": "136",
-      "distance": "1,192.3 km",
-      "time": "113 h 26 m",
-      "elevation": "8,074 m"
+      "activities": "137",
+      "distance": "1,194.1 km",
+      "time": "113 h 52 m",
+      "elevation": "8,107 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Henrique Juhas",
+      "athleteId": "118657757",
+      "activityId": "21101064565",
+      "name": "Corrida ao entardecer",
+      "date": "November 23, 2026",
+      "distanceKm": 1.7,
+      "stats": [
+        "1.7 km",
+        "26:24",
+        "33 m"
+      ]
+    },
     {
       "athlete": "Henrique Juhas",
       "athleteId": "118657757",
@@ -42,19 +55,6 @@
         "0 km",
         "35:46",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Flávio Pecorari Júnior .'.",
-      "athleteId": "6261934",
-      "activityId": "21099599289",
-      "name": "🌧🌧🌧🌧🌧🌧",
-      "date": "November 23, 2026",
-      "distanceKm": 2.8,
-      "stats": [
-        "2.8 km",
-        "8:18",
-        "28 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159652.1,
-  "totalDistanceKm": 282660.2,
+  "observedWeeksKm": 159653.9,
+  "totalDistanceKm": 282662,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298457.2
+    "totalWithEstimatesKm": 298459
   }
 }

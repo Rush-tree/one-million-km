@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-23T18:00:59.037Z",
+  "generatedAt": "2026-11-23T18:30:51.671Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-23T18:00:59.037Z",
+  "memberCountUpdatedAt": "2026-11-23T18:30:51.671Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 107,
-    "distanceKm": 846.3,
-    "elevationM": 4916,
-    "movingSeconds": 283080,
+    "activities": 111,
+    "distanceKm": 988.1,
+    "elevationM": 6731,
+    "movingSeconds": 310440,
     "raw": {
-      "activities": "107",
-      "distance": "846.3 km",
-      "time": "78 h 38 m",
-      "elevation": "4,916 m"
+      "activities": "111",
+      "distance": "988.1 km",
+      "time": "86 h 14 m",
+      "elevation": "6,731 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+      "athleteId": "10923773",
+      "activityId": "21097825137",
+      "name": "Zwift - Group Ride: Rebellunas Banded Ride (D)",
+      "date": "November 23, 2026",
+      "distanceKm": 28.9,
+      "stats": [
+        "28.9 km",
+        "1:01:19",
+        "219 m"
+      ]
+    },
     {
       "athlete": "Werner Hunold",
       "athleteId": "372952540",
@@ -29,19 +42,6 @@
         "6.0 km",
         "30:10",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Falko Frese",
-      "athleteId": "11833410",
-      "activityId": "21097253436",
-      "name": "Abendradfahrt",
-      "date": "November 23, 2026",
-      "distanceKm": 8.8,
-      "stats": [
-        "8.8 km",
-        "22:17",
-        "73 m"
       ]
     },
     {
@@ -71,16 +71,16 @@
       ]
     },
     {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "21097175379",
-      "name": "Afternoon Run",
+      "athlete": "Ricardo Ferre",
+      "athleteId": "45223374",
+      "activityId": "21097838530",
+      "name": "Spaziergang am Nachmittag",
       "date": "November 23, 2026",
-      "distanceKm": 9.3,
+      "distanceKm": 4.7,
       "stats": [
-        "9.3 km",
-        "58:59",
-        "31 m"
+        "4.7 km",
+        "3:01:31",
+        "63 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159306.1,
-  "totalDistanceKm": 282314.2,
+  "observedWeeksKm": 159447.9,
+  "totalDistanceKm": 282456,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298111.2
+    "totalWithEstimatesKm": 298253
   }
 }

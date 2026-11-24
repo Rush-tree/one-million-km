@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T11:30:51.057Z",
+  "generatedAt": "2026-11-24T12:01:02.723Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 701128,
+    "remainingKm": 701077,
     "percentComplete": 29.89,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 1607.6,
-    "thisWeekActivities": 189,
-    "thisWeekHours": 154,
-    "thisWeekElevationM": 10402,
+    "thisWeekKm": 1657.9,
+    "thisWeekActivities": 191,
+    "thisWeekHours": 157,
+    "thisWeekElevationM": 10454,
     "timesAroundEarth": 7.46,
     "percentToMoon": 77.8,
     "comparisons": [
@@ -40,8 +40,8 @@
       },
       {
         "key": "nile",
-        "value": 44.9,
-        "text": "44.9× the length of the Nile",
+        "value": 45,
+        "text": "45× the length of the Nile",
         "detail": "6,650 km from source to sea."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24423,
+  "totalActivities": 24425,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 298872500,
-    "totalMovingTime": 84694127,
-    "totalElevation": 2189350.6
+    "totalDistance": 298922800,
+    "totalMovingTime": 84702467,
+    "totalElevation": 2189402.6
   },
   "monthStats": {
-    "totalDistance": 42872400,
-    "totalMovingTime": 12114300,
+    "totalDistance": 42922700,
+    "totalMovingTime": 12122640,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1607600,
-    "totalMovingTime": 556020,
-    "count": 189
+    "totalDistance": 1657900,
+    "totalMovingTime": 564360,
+    "count": 191
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 283075.5,
+    "measuredDistanceKm": 283125.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "James White",
+        "athleteId": "81513205",
+        "activityId": "21105918013",
+        "name": "20 min 2000s Ride with Jenn Sherman",
+        "date": "November 24, 2026",
+        "distanceKm": 8.2,
+        "stats": [
+          "8.2 km",
+          "20:00",
+          "0 m"
+        ]
+      },
       {
         "athlete": "James White",
         "athleteId": "81513205",
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Alfonso Contreras Calderón",
-        "athleteId": "123434994",
-        "activityId": "21105186282",
-        "name": "Entrenamiento con pesas matutino",
+        "athlete": "Walter Donè",
+        "athleteId": "31420262",
+        "activityId": "21106142392",
+        "name": "Ciclismo mattutino",
         "date": "November 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 42,
         "stats": [
-          "0 km",
-          "40:43",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "21104900764",
-        "name": "Fahrt am Morgen",
-        "date": "November 24, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "51:15",
-          "0 m"
+          "42.0 km",
+          "4:00:56",
+          "51 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 298872.5
+      "totalWithEstimatesKm": 298922.8
     }
   }
 }

@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T16:30:50.167Z",
+  "generatedAt": "2026-11-24T17:01:04.762Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T16:30:50.167Z",
+  "memberCountUpdatedAt": "2026-11-24T17:01:04.762Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 233,
-    "distanceKm": 2209.4,
-    "elevationM": 14205,
-    "movingSeconds": 729240,
+    "activities": 236,
+    "distanceKm": 2287,
+    "elevationM": 15414,
+    "movingSeconds": 744300,
     "raw": {
-      "activities": "233",
-      "distance": "2,209.4 km",
-      "time": "202 h 34 m",
-      "elevation": "14,205 m"
+      "activities": "236",
+      "distance": "2,287.0 km",
+      "time": "206 h 45 m",
+      "elevation": "15,414 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Johannes Tangel",
+      "athleteId": "127575472",
+      "activityId": "21109369186",
+      "name": "30 min Lockere Runde",
+      "date": "November 24, 2026",
+      "distanceKm": 5.6,
+      "stats": [
+        "5.6 km",
+        "32:41",
+        "67 m"
+      ]
+    },
     {
       "athlete": "René Rosenberger",
       "athleteId": "757098365",
@@ -32,16 +45,16 @@
       ]
     },
     {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "21108872147",
-      "name": "Spaziergang am Nachmittag",
+      "athlete": "Birgit Marco",
+      "athleteId": "63425596",
+      "activityId": "21109463589",
+      "name": "Zirkeltraining",
       "date": "November 24, 2026",
-      "distanceKm": 1.9,
+      "distanceKm": 0,
       "stats": [
-        "1.9 km",
-        "23:29",
-        "9 m"
+        "0 km",
+        "1:06:04",
+        "0 m"
       ]
     },
     {
@@ -69,19 +82,6 @@
         "1:10:14",
         "119 m"
       ]
-    },
-    {
-      "athlete": "Nico Hoßfeld",
-      "athleteId": "177308499",
-      "activityId": "21108978314",
-      "name": "Lauf am Nachmittag",
-      "date": "November 24, 2026",
-      "distanceKm": 13.5,
-      "stats": [
-        "13.5 km",
-        "1:06:14",
-        "92 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 160669.2,
-  "totalDistanceKm": 283677.3,
+  "observedWeeksKm": 160746.8,
+  "totalDistanceKm": 283754.9,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 299474.3
+    "totalWithEstimatesKm": 299551.9
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T12:46:04.809Z",
+  "generatedAt": "2026-11-24T13:00:55.892Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 701036,
+    "remainingKm": 701011,
     "percentComplete": 29.9,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 1699.1,
-    "thisWeekActivities": 197,
-    "thisWeekHours": 164,
-    "thisWeekElevationM": 11036,
+    "thisWeekKm": 1723.8,
+    "thisWeekActivities": 201,
+    "thisWeekHours": 168,
+    "thisWeekElevationM": 11179,
     "timesAroundEarth": 7.46,
     "percentToMoon": 77.8,
     "comparisons": [
@@ -52,15 +52,15 @@
       },
       {
         "key": "autobahn",
-        "value": 22.6,
-        "text": "22.6× the German autobahn network",
+        "value": 22.7,
+        "text": "22.7× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24431,
+  "totalActivities": 24436,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 298964000,
-    "totalMovingTime": 84729707,
-    "totalElevation": 2189984.6
+    "totalDistance": 298988700,
+    "totalMovingTime": 84742907,
+    "totalElevation": 2190127.6
   },
   "monthStats": {
-    "totalDistance": 42963900,
-    "totalMovingTime": 12149880,
+    "totalDistance": 42988600,
+    "totalMovingTime": 12163080,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1699100,
-    "totalMovingTime": 591600,
-    "count": 197
+    "totalDistance": 1723800,
+    "totalMovingTime": 604800,
+    "count": 201
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 283167,
+    "measuredDistanceKm": 283191.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "21106891992",
+        "name": "Afternoon Walk",
+        "date": "November 24, 2026",
+        "distanceKm": 1.7,
+        "stats": [
+          "1.7 km",
+          "43:04",
+          "7 m"
+        ]
+      },
+      {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "21106935376",
+        "name": "Middagloop",
+        "date": "November 24, 2026",
+        "distanceKm": 8.8,
+        "stats": [
+          "8.8 km",
+          "1:00:01",
+          "38 m"
+        ]
+      },
       {
         "athlete": "Thomas Nanntt",
         "athleteId": "15474485",
@@ -124,55 +150,29 @@
         ]
       },
       {
-        "athlete": "James White",
-        "athleteId": "81513205",
-        "activityId": "21105918013",
-        "name": "20 min 2000s Ride with Jenn Sherman",
+        "athlete": "Rashed Hasan",
+        "athleteId": "1762057357",
+        "activityId": "21106886307",
+        "name": "Cold run 🥶",
         "date": "November 24, 2026",
-        "distanceKm": 8.2,
+        "distanceKm": 10.1,
         "stats": [
-          "8.2 km",
-          "20:00",
-          "0 m"
+          "10.1 km",
+          "1:00:15",
+          "76 m"
         ]
       },
       {
-        "athlete": "James White",
-        "athleteId": "81513205",
-        "activityId": "21106438836",
-        "name": "Morning Ride",
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "21106921248",
+        "name": "Lunch Walk",
         "date": "November 24, 2026",
-        "distanceKm": 0,
+        "distanceKm": 3.9,
         "stats": [
-          "0 km",
-          "1:55:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "21106529192",
-        "name": "Afternoon Run",
-        "date": "November 24, 2026",
-        "distanceKm": 19.4,
-        "stats": [
-          "19.4 km",
-          "2:59:07",
-          "172 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "21106142392",
-        "name": "Ciclismo mattutino",
-        "date": "November 24, 2026",
-        "distanceKm": 42,
-        "stats": [
-          "42.0 km",
-          "4:00:56",
-          "51 m"
+          "3.9 km",
+          "1:47:22",
+          "22 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 298964
+      "totalWithEstimatesKm": 298988.7
     }
   }
 }

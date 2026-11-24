@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T09:00:59.925Z",
+  "generatedAt": "2026-11-24T09:30:54.638Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T09:00:59.925Z",
+  "memberCountUpdatedAt": "2026-11-24T09:30:54.638Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 176,
-    "distanceKm": 1568.9,
-    "elevationM": 10004,
-    "movingSeconds": 525780,
+    "activities": 178,
+    "distanceKm": 1574.1,
+    "elevationM": 10075,
+    "movingSeconds": 528660,
     "raw": {
-      "activities": "176",
-      "distance": "1,568.9 km",
-      "time": "146 h 3 m",
-      "elevation": "10,004 m"
+      "activities": "178",
+      "distance": "1,574.1 km",
+      "time": "146 h 51 m",
+      "elevation": "10,075 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Roland Baumann",
+      "athleteId": "87457914",
+      "activityId": "21104591205",
+      "name": "Lauf am Morgen",
+      "date": "November 24, 2026",
+      "distanceKm": 2.4,
+      "stats": [
+        "2.4 km",
+        "17:48",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Ricardo Ferre",
       "athleteId": "45223374",
@@ -69,19 +82,6 @@
         "1:05:37",
         "137 m"
       ]
-    },
-    {
-      "athlete": "# MarshmallowBen",
-      "athleteId": "114783849",
-      "activityId": "21103830601",
-      "name": "Morgenausfahrt",
-      "date": "November 24, 2026",
-      "distanceKm": 16.8,
-      "stats": [
-        "16.8 km",
-        "39:26",
-        "18 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 160028.7,
-  "totalDistanceKm": 283036.8,
+  "observedWeeksKm": 160033.9,
+  "totalDistanceKm": 283042,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298833.8
+    "totalWithEstimatesKm": 298839
   }
 }

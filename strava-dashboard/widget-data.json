@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T04:00:58.542Z",
+  "generatedAt": "2026-11-24T04:30:45.695Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T04:00:58.542Z",
+  "memberCountUpdatedAt": "2026-11-24T04:30:45.695Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 148,
-    "distanceKm": 1367.6,
-    "elevationM": 8534,
-    "movingSeconds": 453660,
+    "activities": 150,
+    "distanceKm": 1373.6,
+    "elevationM": 8550,
+    "movingSeconds": 460080,
     "raw": {
-      "activities": "148",
-      "distance": "1,367.6 km",
-      "time": "126 h 1 m",
-      "elevation": "8,534 m"
+      "activities": "150",
+      "distance": "1,373.6 km",
+      "time": "127 h 48 m",
+      "elevation": "8,550 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Benny Pos",
+      "athleteId": "85148884",
+      "activityId": "21102894171",
+      "name": "Work",
+      "date": "November 24, 2026",
+      "distanceKm": 6,
+      "stats": [
+        "6.0 km",
+        "15:15",
+        "16 m"
+      ]
+    },
     {
       "athlete": "Kathi Anil Kumar🇮🇳",
       "athleteId": "71379636",
@@ -42,19 +55,6 @@
         "0 km",
         "1:22:30",
         "0 m"
-      ]
-    },
-    {
-      "athlete": "Nujaim Noorahdheen",
-      "athleteId": "191343444",
-      "activityId": "21102333534",
-      "name": "Morning Run",
-      "date": "November 24, 2026",
-      "distanceKm": 8,
-      "stats": [
-        "8.0 km",
-        "57:00",
-        "4 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159827.4,
-  "totalDistanceKm": 282835.5,
+  "observedWeeksKm": 159833.4,
+  "totalDistanceKm": 282841.5,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298632.5
+    "totalWithEstimatesKm": 298638.5
   }
 }

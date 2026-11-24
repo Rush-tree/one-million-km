@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T07:00:55.894Z",
+  "generatedAt": "2026-11-24T07:30:52.527Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T07:00:55.893Z",
+  "memberCountUpdatedAt": "2026-11-24T07:30:52.527Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 166,
-    "distanceKm": 1477.8,
-    "elevationM": 9463,
-    "movingSeconds": 502380,
+    "activities": 168,
+    "distanceKm": 1499.2,
+    "elevationM": 9537,
+    "movingSeconds": 505860,
     "raw": {
-      "activities": "166",
-      "distance": "1,477.8 km",
-      "time": "139 h 33 m",
-      "elevation": "9,463 m"
+      "activities": "168",
+      "distance": "1,499.2 km",
+      "time": "140 h 31 m",
+      "elevation": "9,537 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21103735551",
+      "name": "Sykkeltur om morgenen",
+      "date": "November 24, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "19:08",
+        "56 m"
+      ]
+    },
     {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
@@ -45,19 +58,6 @@
       ]
     },
     {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "21103513944",
-      "name": "Yoga am Morgen",
-      "date": "November 24, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "16:29",
-        "0 m"
-      ]
-    },
-    {
       "athlete": "Philip Quirin",
       "athleteId": "103469042",
       "activityId": "21103462186",
@@ -71,16 +71,16 @@
       ]
     },
     {
-      "athlete": "Silvio Lazzarin",
-      "athleteId": "139275594",
-      "activityId": "21103299495",
-      "name": "Allenamento mattutino",
+      "athlete": "# MarshmallowBen",
+      "athleteId": "114783849",
+      "activityId": "21103830601",
+      "name": "Morgenausfahrt",
       "date": "November 24, 2026",
-      "distanceKm": 0,
+      "distanceKm": 16.8,
       "stats": [
-        "0 km",
-        "18:07",
-        "0 m"
+        "16.8 km",
+        "39:26",
+        "18 m"
       ]
     }
   ],
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159937.6,
-  "totalDistanceKm": 282945.7,
+  "observedWeeksKm": 159959,
+  "totalDistanceKm": 282967.1,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298742.7
+    "totalWithEstimatesKm": 298764.1
   }
 }

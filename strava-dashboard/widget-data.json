@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T07:30:52.527Z",
+  "generatedAt": "2026-11-24T08:00:55.868Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T07:30:52.527Z",
+  "memberCountUpdatedAt": "2026-11-24T08:00:55.868Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 168,
-    "distanceKm": 1499.2,
-    "elevationM": 9537,
-    "movingSeconds": 505860,
+    "activities": 174,
+    "distanceKm": 1558.7,
+    "elevationM": 9862,
+    "movingSeconds": 520740,
     "raw": {
-      "activities": "168",
-      "distance": "1,499.2 km",
-      "time": "140 h 31 m",
-      "elevation": "9,537 m"
+      "activities": "174",
+      "distance": "1,558.7 km",
+      "time": "144 h 39 m",
+      "elevation": "9,862 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Cristian Stănciulescu",
+      "athleteId": "67352997",
+      "activityId": "21103915826",
+      "name": "Morning Walk",
+      "date": "November 24, 2026",
+      "distanceKm": 1,
+      "stats": [
+        "1.0 km",
+        "17:35",
+        "3 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -32,6 +45,19 @@
       ]
     },
     {
+      "athlete": "Rareș Brânzoi",
+      "athleteId": "4792098",
+      "activityId": "21103902046",
+      "name": "Morning Run",
+      "date": "November 24, 2026",
+      "distanceKm": 10,
+      "stats": [
+        "10.0 km",
+        "1:05:37",
+        "137 m"
+      ]
+    },
+    {
       "athlete": "Falko Frese",
       "athleteId": "11833410",
       "activityId": "21103506376",
@@ -42,32 +68,6 @@
         "9.1 km",
         "22:11",
         "20 m"
-      ]
-    },
-    {
-      "athlete": "Susi Wong",
-      "athleteId": "44756315",
-      "activityId": "21103513932",
-      "name": "Gewichtstraining am Morgen",
-      "date": "November 24, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "13:34",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "21103462186",
-      "name": "Spaziergang am Morgen",
-      "date": "November 24, 2026",
-      "distanceKm": 2.9,
-      "stats": [
-        "2.9 km",
-        "34:02",
-        "55 m"
       ]
     },
     {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159959,
-  "totalDistanceKm": 282967.1,
+  "observedWeeksKm": 160018.5,
+  "totalDistanceKm": 283026.6,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298764.1
+    "totalWithEstimatesKm": 298823.6
   }
 }

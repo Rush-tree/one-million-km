@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T20:30:48.176Z",
+  "generatedAt": "2026-11-24T21:00:54.777Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699646,
+    "remainingKm": 699612,
     "percentComplete": 30.04,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3089.1,
-    "thisWeekActivities": 304,
-    "thisWeekHours": 262,
-    "thisWeekElevationM": 21860,
-    "timesAroundEarth": 7.49,
+    "thisWeekKm": 3123.1,
+    "thisWeekActivities": 306,
+    "thisWeekHours": 266,
+    "thisWeekElevationM": 22298,
+    "timesAroundEarth": 7.5,
     "percentToMoon": 78.1,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24538,
+  "totalActivities": 24540,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300354000,
-    "totalMovingTime": 85082747,
-    "totalElevation": 2200808.6
+    "totalDistance": 300388000,
+    "totalMovingTime": 85096007,
+    "totalElevation": 2201246.6
   },
   "monthStats": {
-    "totalDistance": 44353900,
-    "totalMovingTime": 12502920,
+    "totalDistance": 44387900,
+    "totalMovingTime": 12516180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3089100,
-    "totalMovingTime": 944640,
-    "count": 304
+    "totalDistance": 3123100,
+    "totalMovingTime": 957900,
+    "count": 306
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 284557,
+    "measuredDistanceKm": 284591,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "21112166410",
+        "name": "Zwift - Race: Zwift Racing League 2026/27 Round 2: Team Tempo - Open Aqua League Division 2 - Race 2 (D)",
+        "date": "November 24, 2026",
+        "distanceKm": 34,
+        "stats": [
+          "34.0 km",
+          "1:22:41",
+          "438 m"
+        ]
+      },
+      {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
         "activityId": "21112137221",
@@ -161,19 +174,6 @@
           "1:20:54",
           "0 m"
         ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "21111712361",
-        "name": "Schwimmen am Abend",
-        "date": "November 24, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "1:00:00",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300354
+      "totalWithEstimatesKm": 300388
     }
   }
 }

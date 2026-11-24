@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T14:30:55.119Z",
+  "generatedAt": "2026-11-24T15:00:57.548Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 700819,
-    "percentComplete": 29.92,
+    "remainingKm": 700745,
+    "percentComplete": 29.93,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 1915.8,
-    "thisWeekActivities": 212,
-    "thisWeekHours": 181,
-    "thisWeekElevationM": 12541,
+    "thisWeekKm": 1990.3,
+    "thisWeekActivities": 217,
+    "thisWeekHours": 187,
+    "thisWeekElevationM": 12979,
     "timesAroundEarth": 7.47,
     "percentToMoon": 77.8,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24446,
+  "totalActivities": 24451,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 299180700,
-    "totalMovingTime": 84788087,
-    "totalElevation": 2191489.6
+    "totalDistance": 299255200,
+    "totalMovingTime": 84811847,
+    "totalElevation": 2191927.6
   },
   "monthStats": {
-    "totalDistance": 43180600,
-    "totalMovingTime": 12208260,
+    "totalDistance": 43255100,
+    "totalMovingTime": 12232020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 1915800,
-    "totalMovingTime": 649980,
-    "count": 212
+    "totalDistance": 1990300,
+    "totalMovingTime": 673740,
+    "count": 217
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 283383.7,
+    "measuredDistanceKm": 283458.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "21108130772",
+        "name": "Night yoga",
+        "date": "November 24, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:02:46",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "21107512036",
-        "name": "Evening Walk",
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "21107967970",
+        "name": "Lauf am Nachmittag",
         "date": "November 24, 2026",
-        "distanceKm": 1.2,
+        "distanceKm": 13.5,
         "stats": [
-          "1.2 km",
-          "15:37",
-          "4 m"
+          "13.5 km",
+          "1:09:38",
+          "0 m"
         ]
       },
       {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21107420846",
-        "name": "Traillauf am Nachmittag",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "21107990922",
+        "name": "Afternoon Ride",
         "date": "November 24, 2026",
-        "distanceKm": 13.8,
+        "distanceKm": 10.7,
         "stats": [
-          "13.8 km",
-          "1:33:35",
-          "632 m"
+          "10.7 km",
+          "1:00:35",
+          "114 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21106921248",
-        "name": "Lunch Walk",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "21108170820",
+        "name": "Morning Walk",
         "date": "November 24, 2026",
-        "distanceKm": 3.9,
+        "distanceKm": 7.4,
         "stats": [
-          "3.9 km",
-          "1:47:22",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "21107273588",
-        "name": "Gravel-Fahrt zur Mittagszeit",
-        "date": "November 24, 2026",
-        "distanceKm": 71.9,
-        "stats": [
-          "71.9 km",
-          "3:12:38",
-          "168 m"
+          "7.4 km",
+          "4:48:27",
+          "72 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 299180.7
+      "totalWithEstimatesKm": 299255.2
     }
   }
 }

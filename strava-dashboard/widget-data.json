@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T05:01:01.230Z",
+  "generatedAt": "2026-11-24T05:30:47.310Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T05:01:01.230Z",
+  "memberCountUpdatedAt": "2026-11-24T05:30:47.310Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 151,
-    "distanceKm": 1385.8,
-    "elevationM": 8627,
-    "movingSeconds": 463740,
+    "activities": 153,
+    "distanceKm": 1397.4,
+    "elevationM": 8814,
+    "movingSeconds": 470880,
     "raw": {
-      "activities": "151",
-      "distance": "1,385.8 km",
-      "time": "128 h 49 m",
-      "elevation": "8,627 m"
+      "activities": "153",
+      "distance": "1,397.4 km",
+      "time": "130 h 48 m",
+      "elevation": "8,814 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Holger Ingo Friedrich",
+      "athleteId": "44997620",
+      "activityId": "21103087593",
+      "name": "Yoga am Morgen",
+      "date": "November 24, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "17:51",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -32,16 +45,29 @@
       ]
     },
     {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "21102807892",
-      "name": "Tuesday Morning HIIT",
+      "athlete": "Louis Mwanja",
+      "athleteId": "14992965",
+      "activityId": "21103073597",
+      "name": "Morning Run",
       "date": "November 24, 2026",
-      "distanceKm": 0,
+      "distanceKm": 11.6,
       "stats": [
-        "0 km",
-        "19:20",
-        "0 m"
+        "11.6 km",
+        "1:42:58",
+        "187 m"
+      ]
+    },
+    {
+      "athlete": "Bülent Sevil",
+      "athleteId": "156559910",
+      "activityId": "21102996837",
+      "name": "647/730 gün koşusu",
+      "date": "November 24, 2026",
+      "distanceKm": 12.1,
+      "stats": [
+        "12.1 km",
+        "1:05:03",
+        "77 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "1:22:30",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Kathi Anil Kumar🇮🇳",
-      "athleteId": "71379636",
-      "activityId": "21102538936",
-      "name": "☀️ Tuesday Morning Ride",
-      "date": "November 24, 2026",
-      "distanceKm": 61,
-      "stats": [
-        "61.0 km",
-        "3:08:38",
-        "158 m"
-      ]
-    },
-    {
-      "athlete": "Bülent Sevil",
-      "athleteId": "156559910",
-      "activityId": "21102996837",
-      "name": "Açık alanda koşu",
-      "date": "November 24, 2026",
-      "distanceKm": 12.1,
-      "stats": [
-        "12.1 km",
-        "1:05:03",
-        "77 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159845.6,
-  "totalDistanceKm": 282853.7,
+  "observedWeeksKm": 159857.2,
+  "totalDistanceKm": 282865.3,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298650.7
+    "totalWithEstimatesKm": 298662.3
   }
 }

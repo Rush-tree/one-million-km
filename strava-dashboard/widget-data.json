@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T11:01:03.001Z",
+  "generatedAt": "2026-11-24T11:30:51.057Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T11:01:03.001Z",
+  "memberCountUpdatedAt": "2026-11-24T11:30:51.057Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 184,
-    "distanceKm": 1587.6,
-    "elevationM": 10155,
-    "movingSeconds": 543060,
+    "activities": 189,
+    "distanceKm": 1607.6,
+    "elevationM": 10402,
+    "movingSeconds": 556020,
     "raw": {
-      "activities": "184",
-      "distance": "1,587.6 km",
-      "time": "150 h 51 m",
-      "elevation": "10,155 m"
+      "activities": "189",
+      "distance": "1,607.6 km",
+      "time": "154 h 27 m",
+      "elevation": "10,402 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21105697106",
+      "name": "20 min Low Impact Ride with Jenn Sherman",
+      "date": "November 24, 2026",
+      "distanceKm": 7.7,
+      "stats": [
+        "7.7 km",
+        "20:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "James White",
       "athleteId": "81513205",
@@ -29,6 +42,19 @@
         "13.6 km",
         "30:00",
         "0 m"
+      ]
+    },
+    {
+      "athlete": "Cathi Caesar",
+      "athleteId": "74482280",
+      "activityId": "21105653266",
+      "name": "Spaziergang am Morgen",
+      "date": "November 24, 2026",
+      "distanceKm": 4.5,
+      "stats": [
+        "4.5 km",
+        "1:26:47",
+        "48 m"
       ]
     },
     {
@@ -56,32 +82,6 @@
         "51:15",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Roland Baumann",
-      "athleteId": "87457914",
-      "activityId": "21104591205",
-      "name": "Lauf am Morgen",
-      "date": "November 24, 2026",
-      "distanceKm": 2.4,
-      "stats": [
-        "2.4 km",
-        "17:48",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Ricardo Ferre",
-      "athleteId": "45223374",
-      "activityId": "21104241988",
-      "name": "Spaziergang am Morgen",
-      "date": "November 24, 2026",
-      "distanceKm": 3,
-      "stats": [
-        "3.0 km",
-        "55:54",
-        "98 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 160047.4,
-  "totalDistanceKm": 283055.5,
+  "observedWeeksKm": 160067.4,
+  "totalDistanceKm": 283075.5,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298852.5
+    "totalWithEstimatesKm": 298872.5
   }
 }

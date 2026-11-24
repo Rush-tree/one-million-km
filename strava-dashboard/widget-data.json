@@ -1,23 +1,75 @@
 {
-  "generatedAt": "2026-11-24T06:30:46.794Z",
+  "generatedAt": "2026-11-24T07:00:55.894Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T06:30:46.794Z",
+  "memberCountUpdatedAt": "2026-11-24T07:00:55.893Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 161,
-    "distanceKm": 1465.7,
-    "elevationM": 9389,
-    "movingSeconds": 494460,
+    "activities": 166,
+    "distanceKm": 1477.8,
+    "elevationM": 9463,
+    "movingSeconds": 502380,
     "raw": {
-      "activities": "161",
-      "distance": "1,465.7 km",
-      "time": "137 h 21 m",
-      "elevation": "9,389 m"
+      "activities": "166",
+      "distance": "1,477.8 km",
+      "time": "139 h 33 m",
+      "elevation": "9,463 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Falko Frese",
+      "athleteId": "11833410",
+      "activityId": "21103506376",
+      "name": "Commute #135/2026 🏥🩺",
+      "date": "November 24, 2026",
+      "distanceKm": 9.1,
+      "stats": [
+        "9.1 km",
+        "22:11",
+        "20 m"
+      ]
+    },
+    {
+      "athlete": "Susi Wong",
+      "athleteId": "44756315",
+      "activityId": "21103513932",
+      "name": "Gewichtstraining am Morgen",
+      "date": "November 24, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "13:34",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Susi Wong",
+      "athleteId": "44756315",
+      "activityId": "21103513944",
+      "name": "Yoga am Morgen",
+      "date": "November 24, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "16:29",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "Philip Quirin",
+      "athleteId": "103469042",
+      "activityId": "21103462186",
+      "name": "Spaziergang am Morgen",
+      "date": "November 24, 2026",
+      "distanceKm": 2.9,
+      "stats": [
+        "2.9 km",
+        "34:02",
+        "55 m"
+      ]
+    },
     {
       "athlete": "Silvio Lazzarin",
       "athleteId": "139275594",
@@ -30,58 +82,6 @@
         "18:07",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Stefan Brueckmann",
-      "athleteId": "172247920",
-      "activityId": "21103202705",
-      "name": "Fahrt am Morgen",
-      "date": "November 24, 2026",
-      "distanceKm": 14.1,
-      "stats": [
-        "14.1 km",
-        "40:50",
-        "42 m"
-      ]
-    },
-    {
-      "athlete": "Holger Ingo Friedrich",
-      "athleteId": "44997620",
-      "activityId": "21103087593",
-      "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-      "date": "November 24, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "17:51",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Silvio Lazzarin",
-      "athleteId": "139275594",
-      "activityId": "21103168304",
-      "name": "Corsa mattutina",
-      "date": "November 24, 2026",
-      "distanceKm": 13.2,
-      "stats": [
-        "13.2 km",
-        "1:12:04",
-        "17 m"
-      ]
-    },
-    {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "21103175043",
-      "name": "Morning Walk",
-      "date": "November 24, 2026",
-      "distanceKm": 6.2,
-      "stats": [
-        "6.2 km",
-        "1:16:25",
-        "103 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 159925.5,
-  "totalDistanceKm": 282933.6,
+  "observedWeeksKm": 159937.6,
+  "totalDistanceKm": 282945.7,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298730.6
+    "totalWithEstimatesKm": 298742.7
   }
 }

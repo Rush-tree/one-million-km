@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-24T10:00:59.149Z",
+  "generatedAt": "2026-11-24T10:30:55.006Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-24T10:00:59.149Z",
+  "memberCountUpdatedAt": "2026-11-24T10:30:55.006Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 180,
-    "distanceKm": 1574.1,
-    "elevationM": 10075,
-    "movingSeconds": 537240,
+    "activities": 181,
+    "distanceKm": 1520.1,
+    "elevationM": 9990,
+    "movingSeconds": 532080,
     "raw": {
-      "activities": "180",
-      "distance": "1,574.1 km",
-      "time": "149 h 14 m",
-      "elevation": "10,075 m"
+      "activities": "181",
+      "distance": "1,520.1 km",
+      "time": "147 h 48 m",
+      "elevation": "9,990 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Alfonso Contreras Calderón",
+      "athleteId": "123434994",
+      "activityId": "21105186282",
+      "name": "Entrenamiento con pesas matutino",
+      "date": "November 24, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "40:43",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Nico Deckarm",
       "athleteId": "74766538",
@@ -58,19 +71,6 @@
       ]
     },
     {
-      "athlete": "Cristian Stănciulescu",
-      "athleteId": "67352997",
-      "activityId": "21103915826",
-      "name": "Morning Walk",
-      "date": "November 24, 2026",
-      "distanceKm": 1,
-      "stats": [
-        "1.0 km",
-        "17:35",
-        "3 m"
-      ]
-    },
-    {
       "athlete": "Tim Siber",
       "athleteId": "91630363",
       "activityId": "21104202400",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 160033.9,
-  "totalDistanceKm": 283042,
+  "observedWeeksKm": 159979.9,
+  "totalDistanceKm": 282988,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 298839
+    "totalWithEstimatesKm": 298785
   }
 }

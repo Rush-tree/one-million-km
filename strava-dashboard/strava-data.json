@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T09:30:50.859Z",
+  "generatedAt": "2026-11-25T10:00:56.110Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699324,
+    "remainingKm": 699307,
     "percentComplete": 30.07,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3411.1,
-    "thisWeekActivities": 355,
-    "thisWeekHours": 300,
-    "thisWeekElevationM": 24707,
+    "thisWeekKm": 3427.9,
+    "thisWeekActivities": 359,
+    "thisWeekHours": 304,
+    "thisWeekElevationM": 24962,
     "timesAroundEarth": 7.5,
     "percentToMoon": 78.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24592,
+  "totalActivities": 24596,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300676000,
-    "totalMovingTime": 85217747,
-    "totalElevation": 2203655.6
+    "totalDistance": 300692800,
+    "totalMovingTime": 85230887,
+    "totalElevation": 2203910.6
   },
   "monthStats": {
-    "totalDistance": 44675900,
-    "totalMovingTime": 12637920,
+    "totalDistance": 44692700,
+    "totalMovingTime": 12651060,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3411100,
-    "totalMovingTime": 1079640,
-    "count": 355
+    "totalDistance": 3427900,
+    "totalMovingTime": 1092780,
+    "count": 359
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 284879,
+    "measuredDistanceKm": 284895.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "21117476740",
+        "name": "Lauf am Morgen",
+        "date": "November 25, 2026",
+        "distanceKm": 2.1,
+        "stats": [
+          "2.1 km",
+          "20:10",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Nico Deckarm",
+        "athleteId": "74766538",
+        "activityId": "21117494047",
+        "name": "Gewichtstraining am Morgen",
+        "date": "November 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "54:52",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21116377460",
-        "name": "Sykkeltur om morgenen",
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "21117484535",
+        "name": "Morning Walk",
         "date": "November 25, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 5,
         "stats": [
-          "4.4 km",
-          "16:46",
-          "56 m"
-        ]
-      },
-      {
-        "athlete": "Chirag 🏃🏾‍♂️ & Henry 🐶",
-        "athleteId": "12021648",
-        "activityId": "21116765634",
-        "name": "Morning Walk 🐶🏃🏾‍♂️‍➡️🔗🌕🌤️🌊",
-        "date": "November 25, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "57:43",
-          "112 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "21116593830",
-        "name": "Arbeitsweg+ SHW",
-        "date": "November 25, 2026",
-        "distanceKm": 21.6,
-        "stats": [
-          "21.6 km",
-          "54:24",
-          "39 m"
+          "5.0 km",
+          "2:31:47",
+          "237 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300676
+      "totalWithEstimatesKm": 300692.8
     }
   }
 }

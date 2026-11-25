@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T13:30:48.301Z",
+  "generatedAt": "2026-11-25T14:00:59.714Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699086,
-    "percentComplete": 30.09,
+    "remainingKm": 699048,
+    "percentComplete": 30.1,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3648.9,
-    "thisWeekActivities": 382,
-    "thisWeekHours": 323,
-    "thisWeekElevationM": 26874,
+    "thisWeekKm": 3687,
+    "thisWeekActivities": 385,
+    "thisWeekHours": 326,
+    "thisWeekElevationM": 26985,
     "timesAroundEarth": 7.51,
     "percentToMoon": 78.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24620,
+  "totalActivities": 24623,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300913800,
-    "totalMovingTime": 85300847,
-    "totalElevation": 2205822.6
+    "totalDistance": 300951900,
+    "totalMovingTime": 85311527,
+    "totalElevation": 2205933.6
   },
   "monthStats": {
-    "totalDistance": 44913700,
-    "totalMovingTime": 12721020,
+    "totalDistance": 44951800,
+    "totalMovingTime": 12731700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3648900,
-    "totalMovingTime": 1162740,
-    "count": 382
+    "totalDistance": 3687000,
+    "totalMovingTime": 1173420,
+    "count": 385
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 285116.8,
+    "measuredDistanceKm": 285154.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "21119968575",
+        "name": "Gravel",
+        "date": "November 25, 2026",
+        "distanceKm": 6.2,
+        "stats": [
+          "6.2 km",
+          "18:32",
+          "25 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -120,6 +133,19 @@
         "stats": [
           "0 km",
           "28:30",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "James White",
+        "athleteId": "81513205",
+        "activityId": "21119794452",
+        "name": "45 min Power Zone 90s Rock Ride with Ben Alldis",
+        "date": "November 25, 2026",
+        "distanceKm": 22.2,
+        "stats": [
+          "22.2 km",
+          "45:00",
           "0 m"
         ]
       },
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "21119374845",
-        "name": "Afternoon Run",
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "21119770481",
+        "name": "Morning Walk",
         "date": "November 25, 2026",
-        "distanceKm": 12.2,
+        "distanceKm": 9.5,
         "stats": [
-          "12.2 km",
-          "56:16",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "21119379163",
-        "name": "Lunch Walk",
-        "date": "November 25, 2026",
-        "distanceKm": 2.4,
-        "stats": [
-          "2.4 km",
-          "49:42",
-          "7 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21119029866",
-        "name": "Test",
-        "date": "November 25, 2026",
-        "distanceKm": 16.4,
-        "stats": [
-          "16.4 km",
-          "1:06:37",
-          "107 m"
+          "9.5 km",
+          "3:35:32",
+          "87 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300913.8
+      "totalWithEstimatesKm": 300951.9
     }
   }
 }

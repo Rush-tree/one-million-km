@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T18:00:56.108Z",
+  "generatedAt": "2026-11-25T18:30:51.167Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 698389,
-    "percentComplete": 30.16,
+    "remainingKm": 698258,
+    "percentComplete": 30.17,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4346,
-    "thisWeekActivities": 443,
-    "thisWeekHours": 376,
-    "thisWeekElevationM": 31728,
+    "thisWeekKm": 4476.7,
+    "thisWeekActivities": 449,
+    "thisWeekHours": 383,
+    "thisWeekElevationM": 32766,
     "timesAroundEarth": 7.53,
     "percentToMoon": 78.5,
     "comparisons": [
@@ -46,21 +46,21 @@
       },
       {
         "key": "transatlantic",
-        "value": 47.2,
-        "text": "47.2 return trips Berlin to New York",
+        "value": 47.3,
+        "text": "47.3 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
         "key": "autobahn",
-        "value": 22.8,
-        "text": "22.8× the German autobahn network",
+        "value": 22.9,
+        "text": "22.9× the German autobahn network",
         "detail": "About 13,200 km of it."
       }
     ]
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24681,
+  "totalActivities": 24687,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 301610900,
-    "totalMovingTime": 85491527,
-    "totalElevation": 2210676.6
+    "totalDistance": 301741600,
+    "totalMovingTime": 85516187,
+    "totalElevation": 2211714.6
   },
   "monthStats": {
-    "totalDistance": 45610800,
-    "totalMovingTime": 12911700,
+    "totalDistance": 45741500,
+    "totalMovingTime": 12936360,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4346000,
-    "totalMovingTime": 1353420,
-    "count": 443
+    "totalDistance": 4476700,
+    "totalMovingTime": 1378080,
+    "count": 449
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 285813.9,
+    "measuredDistanceKm": 285944.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "21122843399",
+        "name": "Abendlauf",
+        "date": "November 25, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "1:01:30",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "21122564453",
+        "name": "43:56 row",
+        "date": "November 25, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "43:57",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Werner Hunold",
         "athleteId": "372952540",
@@ -127,7 +153,7 @@
         "athlete": "Jenny Heitschötter",
         "athleteId": "769523801",
         "activityId": "21122337176",
-        "name": "Abendlauf",
+        "name": "Grubenrunners",
         "date": "November 25, 2026",
         "distanceKm": 6,
         "stats": [
@@ -147,32 +173,6 @@
           "0 km",
           "54:57",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Martin Schwarz",
-        "athleteId": "20102625",
-        "activityId": "21122195828",
-        "name": "Lauf am Nachmittag",
-        "date": "November 25, 2026",
-        "distanceKm": 8,
-        "stats": [
-          "8.0 km",
-          "1:03:27",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "# MarshmallowBen",
-        "athleteId": "114783849",
-        "activityId": "21122188267",
-        "name": "Abendausfahrt",
-        "date": "November 25, 2026",
-        "distanceKm": 16,
-        "stats": [
-          "16.0 km",
-          "30:40",
-          "20 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 301610.9
+      "totalWithEstimatesKm": 301741.6
     }
   }
 }

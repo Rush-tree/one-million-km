@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T12:30:49.530Z",
+  "generatedAt": "2026-11-25T13:01:01.674Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699116,
+    "remainingKm": 699102,
     "percentComplete": 30.09,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3618.7,
-    "thisWeekActivities": 377,
-    "thisWeekHours": 320,
-    "thisWeekElevationM": 26692,
+    "thisWeekKm": 3633.6,
+    "thisWeekActivities": 381,
+    "thisWeekHours": 322,
+    "thisWeekElevationM": 26768,
     "timesAroundEarth": 7.51,
     "percentToMoon": 78.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24614,
+  "totalActivities": 24619,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300883600,
-    "totalMovingTime": 85288427,
-    "totalElevation": 2205640.6
+    "totalDistance": 300898500,
+    "totalMovingTime": 85296347,
+    "totalElevation": 2205716.6
   },
   "monthStats": {
-    "totalDistance": 44883500,
-    "totalMovingTime": 12708600,
+    "totalDistance": 44898400,
+    "totalMovingTime": 12716520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3618700,
-    "totalMovingTime": 1150320,
-    "count": 377
+    "totalDistance": 3633600,
+    "totalMovingTime": 1158240,
+    "count": 381
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 285086.6,
+    "measuredDistanceKm": 285101.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21119335857",
+        "name": "Crossrope AMP Workout",
+        "date": "November 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "28:30",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -123,28 +136,28 @@
         ]
       },
       {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "21118858183",
-        "name": "Afternoon Row",
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "21119374845",
+        "name": "Afternoon Run",
         "date": "November 25, 2026",
-        "distanceKm": 0,
+        "distanceKm": 12.2,
         "stats": [
-          "0 km",
-          "14:07",
-          "0 m"
+          "12.2 km",
+          "56:16",
+          "69 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21118862209",
+        "athlete": "Cristian Stănciulescu",
+        "athleteId": "67352997",
+        "activityId": "21119379163",
         "name": "Lunch Walk",
         "date": "November 25, 2026",
-        "distanceKm": 2.2,
+        "distanceKm": 2.4,
         "stats": [
-          "2.2 km",
-          "35:54",
+          "2.4 km",
+          "49:42",
           "7 m"
         ]
       },
@@ -159,19 +172,6 @@
           "16.4 km",
           "1:06:37",
           "107 m"
-        ]
-      },
-      {
-        "athlete": "gravelingo 🇩🇪 🇫🇷 🇪🇺",
-        "athleteId": "78581066",
-        "activityId": "21118968743",
-        "name": "Gewichtstraining zur Mittagszeit",
-        "date": "November 25, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:14:12",
-          "0 m"
         ]
       }
     ],
@@ -193,7 +193,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300883.6
+      "totalWithEstimatesKm": 300898.5
     }
   }
 }

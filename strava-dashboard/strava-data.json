@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T00:30:47.111Z",
+  "generatedAt": "2026-11-25T01:00:55.879Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699626,
+    "remainingKm": 699598,
     "percentComplete": 30.04,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3109.5,
-    "thisWeekActivities": 314,
-    "thisWeekHours": 270,
-    "thisWeekElevationM": 22445,
+    "thisWeekKm": 3137.6,
+    "thisWeekActivities": 316,
+    "thisWeekHours": 272,
+    "thisWeekElevationM": 22526,
     "timesAroundEarth": 7.5,
     "percentToMoon": 78.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24549,
+  "totalActivities": 24551,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300374400,
-    "totalMovingTime": 85111727,
-    "totalElevation": 2201393.6
+    "totalDistance": 300402500,
+    "totalMovingTime": 85116047,
+    "totalElevation": 2201474.6
   },
   "monthStats": {
-    "totalDistance": 44374300,
-    "totalMovingTime": 12531900,
+    "totalDistance": 44402400,
+    "totalMovingTime": 12536220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3109500,
-    "totalMovingTime": 973620,
-    "count": 314
+    "totalDistance": 3137600,
+    "totalMovingTime": 977940,
+    "count": 316
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 284577.4,
+    "measuredDistanceKm": 284605.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "21114549310",
+        "name": "Gravel-Fahrt in der Nacht 🌙",
+        "date": "November 25, 2026",
+        "distanceKm": 2.2,
+        "stats": [
+          "2.2 km",
+          "7:25",
+          "6 m"
+        ]
+      },
       {
         "athlete": "James White",
         "athleteId": "81513205",
@@ -161,19 +174,6 @@
           "1:46:21",
           "17 m"
         ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "21112166410",
-        "name": "Zwift - Race: Zwift Racing League 2026/27 Round 2: Team Tempo - Open Aqua League Division 2 - Race 2 (D)",
-        "date": "November 24, 2026",
-        "distanceKm": 34,
-        "stats": [
-          "34.0 km",
-          "1:22:41",
-          "438 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300374.4
+      "totalWithEstimatesKm": 300402.5
     }
   }
 }

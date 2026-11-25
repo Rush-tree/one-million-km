@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T06:30:49.794Z",
+  "generatedAt": "2026-11-25T07:00:57.385Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699452,
-    "percentComplete": 30.05,
+    "remainingKm": 699444,
+    "percentComplete": 30.06,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3283.6,
-    "thisWeekActivities": 336,
-    "thisWeekHours": 286,
-    "thisWeekElevationM": 23817,
+    "thisWeekKm": 3291.1,
+    "thisWeekActivities": 342,
+    "thisWeekHours": 288,
+    "thisWeekElevationM": 23838,
     "timesAroundEarth": 7.5,
     "percentToMoon": 78.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24572,
+  "totalActivities": 24578,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300548500,
-    "totalMovingTime": 85168067,
-    "totalElevation": 2202765.6
+    "totalDistance": 300556000,
+    "totalMovingTime": 85175027,
+    "totalElevation": 2202786.6
   },
   "monthStats": {
-    "totalDistance": 44548400,
-    "totalMovingTime": 12588240,
+    "totalDistance": 44555900,
+    "totalMovingTime": 12595200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3283600,
-    "totalMovingTime": 1029960,
-    "count": 336
+    "totalDistance": 3291100,
+    "totalMovingTime": 1036920,
+    "count": 342
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 284751.5,
+    "measuredDistanceKm": 284759,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Lara WSM",
+        "athleteId": "143255915",
+        "activityId": "21116116667",
+        "name": "Morning Yoga 🌕",
+        "date": "November 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "26:52",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "21116170483",
+        "name": "Gewichtstraining am Morgen",
+        "date": "November 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "10:05",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -124,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "21116168020",
+        "name": "Yoga am Morgen",
+        "date": "November 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "16:35",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Cosima Renner",
         "athleteId": "32997490",
         "activityId": "21115945672",
@@ -133,45 +172,6 @@
         "stats": [
           "2.0 km",
           "56:49",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21115766192",
-        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
-        "date": "November 25, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "28:50",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Mangala Pai",
-        "athleteId": "118301293",
-        "activityId": "21115778118",
-        "name": "Morning Walk",
-        "date": "November 25, 2026",
-        "distanceKm": 2,
-        "stats": [
-          "2.0 km",
-          "41:51",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Philip Quirin",
-        "athleteId": "103469042",
-        "activityId": "21115816109",
-        "name": "Morgentraining",
-        "date": "November 25, 2026",
-        "distanceKm": 0.1,
-        "stats": [
-          "0.1 km",
-          "1:00:20",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300548.5
+      "totalWithEstimatesKm": 300556
     }
   }
 }

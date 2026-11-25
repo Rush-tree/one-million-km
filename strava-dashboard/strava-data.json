@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T04:30:46.864Z",
+  "generatedAt": "2026-11-25T05:00:55.196Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699438,
-    "percentComplete": 30.06,
+    "remainingKm": 699478,
+    "percentComplete": 30.05,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3297,
-    "thisWeekActivities": 327,
-    "thisWeekHours": 283,
-    "thisWeekElevationM": 23573,
+    "thisWeekKm": 3257.2,
+    "thisWeekActivities": 329,
+    "thisWeekHours": 282,
+    "thisWeekElevationM": 23539,
     "timesAroundEarth": 7.5,
     "percentToMoon": 78.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24562,
+  "totalActivities": 24564,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300561900,
-    "totalMovingTime": 85155347,
-    "totalElevation": 2202521.6
+    "totalDistance": 300522100,
+    "totalMovingTime": 85153607,
+    "totalElevation": 2202487.6
   },
   "monthStats": {
-    "totalDistance": 44561800,
-    "totalMovingTime": 12575520,
+    "totalDistance": 44522000,
+    "totalMovingTime": 12573780,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3297000,
-    "totalMovingTime": 1017240,
-    "count": 327
+    "totalDistance": 3257200,
+    "totalMovingTime": 1015500,
+    "count": 329
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 284764.9,
+    "measuredDistanceKm": 284725.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,32 @@
           "6.1 km",
           "15:13",
           "20 m"
+        ]
+      },
+      {
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "21115649429",
+        "name": "Morning Run",
+        "date": "November 25, 2026",
+        "distanceKm": 12,
+        "stats": [
+          "12.0 km",
+          "1:08:44",
+          "25 m"
+        ]
+      },
+      {
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "21115635130",
+        "name": "Morning Run",
+        "date": "November 25, 2026",
+        "distanceKm": 10,
+        "stats": [
+          "10.0 km",
+          "56:52",
+          "87 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "43:06",
           "106 m"
         ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "21115133603",
-        "name": "Wednesday Morning Ride",
-        "date": "November 25, 2026",
-        "distanceKm": 61.4,
-        "stats": [
-          "61.4 km",
-          "2:53:14",
-          "90 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "21115134072",
-        "name": "☀️ Wednesday Morning Ride",
-        "date": "November 25, 2026",
-        "distanceKm": 61.8,
-        "stats": [
-          "61.8 km",
-          "2:54:04",
-          "146 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300561.9
+      "totalWithEstimatesKm": 300522.1
     }
   }
 }

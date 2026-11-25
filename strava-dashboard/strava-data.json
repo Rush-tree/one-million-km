@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-25T18:30:51.167Z",
+  "generatedAt": "2026-11-25T19:00:54.970Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 698258,
-    "percentComplete": 30.17,
+    "remainingKm": 698209,
+    "percentComplete": 30.18,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4476.7,
-    "thisWeekActivities": 449,
-    "thisWeekHours": 383,
-    "thisWeekElevationM": 32766,
+    "thisWeekKm": 4525.7,
+    "thisWeekActivities": 457,
+    "thisWeekHours": 387,
+    "thisWeekElevationM": 33078,
     "timesAroundEarth": 7.53,
     "percentToMoon": 78.5,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24687,
+  "totalActivities": 24695,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 301741600,
-    "totalMovingTime": 85516187,
-    "totalElevation": 2211714.6
+    "totalDistance": 301790600,
+    "totalMovingTime": 85531367,
+    "totalElevation": 2212026.6
   },
   "monthStats": {
-    "totalDistance": 45741500,
-    "totalMovingTime": 12936360,
+    "totalDistance": 45790500,
+    "totalMovingTime": 12951540,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4476700,
-    "totalMovingTime": 1378080,
-    "count": 449
+    "totalDistance": 4525700,
+    "totalMovingTime": 1393260,
+    "count": 457
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 285944.6,
+    "measuredDistanceKm": 285993.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "André Brune",
+        "athleteId": "4536289",
+        "activityId": "21123171397",
+        "name": "Gravel-Fahrt am Abend ☁",
+        "date": "November 25, 2026",
+        "distanceKm": 2.7,
+        "stats": [
+          "2.7 km",
+          "8:40",
+          "14 m"
+        ]
+      },
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "21123150708",
+        "name": "Abendlauf",
+        "date": "November 25, 2026",
+        "distanceKm": 15.4,
+        "stats": [
+          "15.4 km",
+          "1:19:39",
+          "172 m"
+        ]
+      },
       {
         "athlete": "Daniel Stodden",
         "athleteId": "23274828",
@@ -137,41 +163,15 @@
         ]
       },
       {
-        "athlete": "Werner Hunold",
-        "athleteId": "372952540",
-        "activityId": "21122270128",
-        "name": "Locker aufm Band",
-        "date": "November 25, 2026",
-        "distanceKm": 3,
-        "stats": [
-          "3.0 km",
-          "22:01",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Jenny Heitschötter",
-        "athleteId": "769523801",
-        "activityId": "21122337176",
-        "name": "Grubenrunners",
-        "date": "November 25, 2026",
-        "distanceKm": 6,
-        "stats": [
-          "6.0 km",
-          "39:39",
-          "17 m"
-        ]
-      },
-      {
-        "athlete": "Jules Göpel",
-        "athleteId": "150874653",
-        "activityId": "21122263299",
-        "name": "Gewichtstraining am Nachmittag",
+        "athlete": "Chirag 🏃🏾‍♂️ & Henry 🐶",
+        "athleteId": "12021648",
+        "activityId": "21122932370",
+        "name": "Strength GYM session 💪🏽🔗🚀🏃🏾‍♂️‍➡️",
         "date": "November 25, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "54:57",
+          "1:00:15",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 301741.6
+      "totalWithEstimatesKm": 301790.6
     }
   }
 }

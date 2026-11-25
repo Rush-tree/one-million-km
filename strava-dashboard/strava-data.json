@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T11:30:47.015Z",
+  "generatedAt": "2026-11-25T12:01:01.728Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 699146,
+    "remainingKm": 699135,
     "percentComplete": 30.09,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3589.4,
-    "thisWeekActivities": 368,
-    "thisWeekHours": 313,
-    "thisWeekElevationM": 26521,
+    "thisWeekKm": 3600,
+    "thisWeekActivities": 371,
+    "thisWeekHours": 316,
+    "thisWeekElevationM": 26578,
     "timesAroundEarth": 7.51,
     "percentToMoon": 78.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24605,
+  "totalActivities": 24608,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300854300,
-    "totalMovingTime": 85266587,
-    "totalElevation": 2205469.6
+    "totalDistance": 300864900,
+    "totalMovingTime": 85275287,
+    "totalElevation": 2205526.6
   },
   "monthStats": {
-    "totalDistance": 44854200,
-    "totalMovingTime": 12686760,
+    "totalDistance": 44864800,
+    "totalMovingTime": 12695460,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3589400,
-    "totalMovingTime": 1128480,
-    "count": 368
+    "totalDistance": 3600000,
+    "totalMovingTime": 1137180,
+    "count": 371
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,35 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 285057.3,
+    "measuredDistanceKm": 285067.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "21117694906",
-        "name": "Morning Ride",
+        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+        "athleteId": "40311376",
+        "activityId": "21118709077",
+        "name": "Kinomap - Lake Revelstoke Summer Evening",
         "date": "November 25, 2026",
-        "distanceKm": 31,
+        "distanceKm": 3.5,
         "stats": [
-          "31.0 km",
-          "42:22",
-          "110 m"
+          "3.5 km",
+          "13:53",
+          "13 m"
         ]
       },
       {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21117655894",
-        "name": "Morning Walk",
+        "athlete": "Ulf Nuglisch",
+        "athleteId": "62746305",
+        "activityId": "21118515880",
+        "name": "Gewichtstraining zur Mittagszeit",
         "date": "November 25, 2026",
-        "distanceKm": 3.2,
+        "distanceKm": 0,
         "stats": [
-          "3.2 km",
-          "47:00",
-          "17 m"
+          "0 km",
+          "1:26:12",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300854.3
+      "totalWithEstimatesKm": 300864.9
     }
   }
 }

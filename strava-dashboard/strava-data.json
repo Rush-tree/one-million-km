@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T05:30:46.801Z",
+  "generatedAt": "2026-11-25T05:33:05.116Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,8 +13,8 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 3259.2,
-    "thisWeekActivities": 331,
+    "thisWeekKm": 3259.4,
+    "thisWeekActivities": 332,
     "thisWeekHours": 283,
     "thisWeekElevationM": 23542,
     "timesAroundEarth": 7.5,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24567,
+  "totalActivities": 24568,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 300524100,
-    "totalMovingTime": 85156907,
+    "totalDistance": 300524300,
+    "totalMovingTime": 85157147,
     "totalElevation": 2202490.6
   },
   "monthStats": {
-    "totalDistance": 44524000,
-    "totalMovingTime": 12577080,
+    "totalDistance": 44524200,
+    "totalMovingTime": 12577320,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 3259200,
-    "totalMovingTime": 1018800,
-    "count": 331
+    "totalDistance": 3259400,
+    "totalMovingTime": 1019040,
+    "count": 332
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 284727.1,
+    "measuredDistanceKm": 284727.3,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,16 +137,16 @@
         ]
       },
       {
-        "athlete": "Benny Pos",
-        "athleteId": "85148884",
-        "activityId": "21115557117",
-        "name": "Work",
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "21115816109",
+        "name": "Morgentraining",
         "date": "November 25, 2026",
-        "distanceKm": 6.1,
+        "distanceKm": 0.1,
         "stats": [
-          "6.1 km",
-          "15:13",
-          "20 m"
+          "0.1 km",
+          "1:00:20",
+          "0 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 300524.1
+      "totalWithEstimatesKm": 300524.3
     }
   }
 }

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T17:00:59.797Z",
+  "generatedAt": "2026-11-25T17:28:18.681Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 698506,
+    "remainingKm": 698472,
     "percentComplete": 30.15,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4229.5,
-    "thisWeekActivities": 425,
-    "thisWeekHours": 360,
-    "thisWeekElevationM": 30985,
+    "thisWeekKm": 4263.1,
+    "thisWeekActivities": 433,
+    "thisWeekHours": 368,
+    "thisWeekElevationM": 31295,
     "timesAroundEarth": 7.52,
     "percentToMoon": 78.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24662,
+  "totalActivities": 24671,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 301494400,
-    "totalMovingTime": 85435307,
-    "totalElevation": 2209933.6
+    "totalDistance": 301528000,
+    "totalMovingTime": 85463207,
+    "totalElevation": 2210243.6
   },
   "monthStats": {
-    "totalDistance": 45494300,
-    "totalMovingTime": 12855480,
+    "totalDistance": 45527900,
+    "totalMovingTime": 12883380,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4229500,
-    "totalMovingTime": 1297200,
-    "count": 425
+    "totalDistance": 4263100,
+    "totalMovingTime": 1325100,
+    "count": 433
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 285697.4,
+    "measuredDistanceKm": 285731,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21121116913",
-        "name": "Ettermiddag med sykkeltur",
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "21122034571",
+        "name": "HIIT am Nachmittag",
         "date": "November 25, 2026",
-        "distanceKm": 4.4,
+        "distanceKm": 0,
         "stats": [
-          "4.4 km",
-          "16:50",
-          "65 m"
+          "0 km",
+          "36:40",
+          "0 m"
         ]
       },
       {
@@ -137,29 +137,16 @@
         ]
       },
       {
-        "athlete": "Julian Klaas",
-        "athleteId": "157058434",
-        "activityId": "21121518749",
-        "name": "11km Dauerlauf",
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "21122127919",
+        "name": "Akşam Sürüş",
         "date": "November 25, 2026",
-        "distanceKm": 11,
+        "distanceKm": 26,
         "stats": [
-          "11.0 km",
-          "1:07:46",
-          "111 m"
-        ]
-      },
-      {
-        "athlete": "Meenu Nagori",
-        "athleteId": "69685863",
-        "activityId": "21121501243",
-        "name": "Evening Walk",
-        "date": "November 25, 2026",
-        "distanceKm": 5.8,
-        "stats": [
-          "5.8 km",
-          "1:28:31",
-          "97 m"
+          "26.0 km",
+          "1:55:44",
+          "175 m"
         ]
       },
       {
@@ -173,6 +160,19 @@
           "3.6 km",
           "1:32:01",
           "45 m"
+        ]
+      },
+      {
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "21121986231",
+        "name": "Güç",
+        "date": "November 25, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:17:45",
+          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 301494.4
+      "totalWithEstimatesKm": 301528
     }
   }
 }

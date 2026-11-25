@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-25T20:00:54.837Z",
+  "generatedAt": "2026-11-25T20:30:48.851Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-25T20:00:54.837Z",
+  "memberCountUpdatedAt": "2026-11-25T20:30:48.851Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 464,
-    "distanceKm": 4634,
-    "elevationM": 33508,
-    "movingSeconds": 1419900,
+    "activities": 466,
+    "distanceKm": 4643.4,
+    "elevationM": 33615,
+    "movingSeconds": 1423440,
     "raw": {
-      "activities": "464",
-      "distance": "4,634.0 km",
-      "time": "394 h 25 m",
-      "elevation": "33,508 m"
+      "activities": "466",
+      "distance": "4,643.4 km",
+      "time": "395 h 24 m",
+      "elevation": "33,615 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nico Deckarm",
+      "athleteId": "74766538",
+      "activityId": "21124076385",
+      "name": "Traillauf am Abend",
+      "date": "November 25, 2026",
+      "distanceKm": 8.3,
+      "stats": [
+        "8.3 km",
+        "40:54",
+        "107 m"
+      ]
+    },
     {
       "athlete": "André Brune",
       "athleteId": "4536289",
@@ -69,19 +82,6 @@
         "1:29:36",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "21123150708",
-      "name": "Abendlauf",
-      "date": "November 25, 2026",
-      "distanceKm": 15.4,
-      "stats": [
-        "15.4 km",
-        "1:19:39",
-        "172 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 163093.8,
-  "totalDistanceKm": 286101.9,
+  "observedWeeksKm": 163103.2,
+  "totalDistanceKm": 286111.3,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 301898.9
+    "totalWithEstimatesKm": 301908.3
   }
 }

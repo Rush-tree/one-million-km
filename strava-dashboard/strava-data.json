@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-26T11:30:46.834Z",
+  "generatedAt": "2026-11-26T12:01:02.327Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 697715,
+    "remainingKm": 697692,
     "percentComplete": 30.23,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
     "weeksToGoal": 46,
-    "projectedDate": "2027-10-13",
+    "projectedDate": "2027-10-12",
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 5020.1,
-    "thisWeekActivities": 523,
-    "thisWeekHours": 445,
-    "thisWeekElevationM": 35927,
+    "thisWeekKm": 5042.7,
+    "thisWeekActivities": 530,
+    "thisWeekHours": 452,
+    "thisWeekElevationM": 36213,
     "timesAroundEarth": 7.54,
     "percentToMoon": 78.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24764,
+  "totalActivities": 24771,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 302285000,
-    "totalMovingTime": 85740407,
-    "totalElevation": 2214875.6
+    "totalDistance": 302307600,
+    "totalMovingTime": 85766627,
+    "totalElevation": 2215161.6
   },
   "monthStats": {
-    "totalDistance": 46284900,
-    "totalMovingTime": 13160580,
+    "totalDistance": 46307500,
+    "totalMovingTime": 13186800,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5020100,
-    "totalMovingTime": 1602300,
-    "count": 523
+    "totalDistance": 5042700,
+    "totalMovingTime": 1628520,
+    "count": 530
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,22 +105,48 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286488,
+    "measuredDistanceKm": 286510.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Andreas Glaser 🇩🇪🚲",
-        "athleteId": "3109388",
-        "activityId": "21129806977",
-        "name": "Zwift - Group Ride: Stage 2 - Zwift Power Play (A)",
+        "athlete": "Sascha Gebel",
+        "athleteId": "19964716",
+        "activityId": "21130265741",
+        "name": "Mittagslauf",
         "date": "November 26, 2026",
-        "distanceKm": 27.9,
+        "distanceKm": 7.2,
         "stats": [
-          "27.9 km",
-          "57:47",
-          "232 m"
+          "7.2 km",
+          "40:10",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "John Spence",
+        "athleteId": "97189936",
+        "activityId": "21130179514",
+        "name": "Lunch Walk",
+        "date": "November 26, 2026",
+        "distanceKm": 1.6,
+        "stats": [
+          "1.6 km",
+          "32:28",
+          "8 m"
+        ]
+      },
+      {
+        "athlete": "Ricardo Ferre",
+        "athleteId": "45223374",
+        "activityId": "21130260227",
+        "name": "Mittagspaziergang",
+        "date": "November 26, 2026",
+        "distanceKm": 4.5,
+        "stats": [
+          "4.5 km",
+          "1:57:10",
+          "160 m"
         ]
       },
       {
@@ -137,42 +163,16 @@
         ]
       },
       {
-        "athlete": "Herbert Tüns",
-        "athleteId": "42803858",
-        "activityId": "21129335652",
-        "name": "Zwift - Watopia",
-        "date": "November 26, 2026",
-        "distanceKm": 34,
-        "stats": [
-          "34.0 km",
-          "1:10:17",
-          "208 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21129190284",
-        "name": "Morning Workout",
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "21130259385",
+        "name": "Güç",
         "date": "November 26, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:30:27",
+          "1:20:41",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Bärbel Unser",
-        "athleteId": "73612084",
-        "activityId": "21129191891",
-        "name": "Zwift - Loopin Lava in Watopia",
-        "date": "November 26, 2026",
-        "distanceKm": 40,
-        "stats": [
-          "40.0 km",
-          "1:31:48",
-          "362 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 302285
+      "totalWithEstimatesKm": 302307.6
     }
   }
 }

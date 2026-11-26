@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T23:00:54.017Z",
+  "generatedAt": "2026-11-26T23:30:44.518Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696232,
+    "remainingKm": 696230,
     "percentComplete": 30.38,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6502.7,
-    "thisWeekActivities": 638,
-    "thisWeekHours": 551,
-    "thisWeekElevationM": 45698,
+    "thisWeekKm": 6505.3,
+    "thisWeekActivities": 639,
+    "thisWeekHours": 552,
+    "thisWeekElevationM": 45761,
     "timesAroundEarth": 7.58,
     "percentToMoon": 79,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24879,
+  "totalActivities": 24880,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303767600,
-    "totalMovingTime": 86122127,
-    "totalElevation": 2224646.6
+    "totalDistance": 303770200,
+    "totalMovingTime": 86124047,
+    "totalElevation": 2224709.6
   },
   "monthStats": {
-    "totalDistance": 47767500,
-    "totalMovingTime": 13542300,
+    "totalDistance": 47770100,
+    "totalMovingTime": 13544220,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6502700,
-    "totalMovingTime": 1984020,
-    "count": 638
+    "totalDistance": 6505300,
+    "totalMovingTime": 1985940,
+    "count": 639
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,77 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287970.6,
+    "measuredDistanceKm": 287973.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
-    "latestActivities": [
-      {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "21136950900",
-        "name": "Marche de nuit",
-        "date": "November 26, 2026",
-        "distanceKm": 1,
-        "stats": [
-          "1.0 km",
-          "8:22",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21136889651",
-        "name": "Zwift - Lockere Rad-Ausdauer mit 8sek Sprints (Pwr) - #AerobicBase2",
-        "date": "November 26, 2026",
-        "distanceKm": 16.4,
-        "stats": [
-          "16.4 km",
-          "55:26",
-          "322 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21136792713",
-        "name": "Sykkeltur på kvelden",
-        "date": "November 26, 2026",
-        "distanceKm": 38.1,
-        "stats": [
-          "38.1 km",
-          "1:20:34",
-          "110 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "21136201097",
-        "name": "Wieczorne bieganie",
-        "date": "November 26, 2026",
-        "distanceKm": 8.5,
-        "stats": [
-          "8.5 km",
-          "52:25",
-          "69 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "21136701195",
-        "name": "Zwift - Group Ride: The WATT Squad Spinlight Thursday (D)",
-        "date": "November 26, 2026",
-        "distanceKm": 60.3,
-        "stats": [
-          "60.3 km",
-          "2:09:25",
-          "560 m"
-        ]
-      }
-    ],
+    "latestActivities": [],
     "dataQuality": {
       "truncatedWeeks": [
         {
@@ -194,7 +128,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303767.6
+      "totalWithEstimatesKm": 303770.2
     }
   }
 }

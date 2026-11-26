@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-26T01:05:12.919Z",
+  "generatedAt": "2026-11-26T01:30:45.810Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-26T01:05:12.919Z",
+  "memberCountUpdatedAt": "2026-11-26T01:30:45.810Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 474,
-    "distanceKm": 4629.5,
-    "elevationM": 34312,
-    "movingSeconds": 1439040,
+    "activities": 475,
+    "distanceKm": 4634.5,
+    "elevationM": 34318,
+    "movingSeconds": 1441140,
     "raw": {
-      "activities": "474",
-      "distance": "4,629.5 km",
-      "time": "399 h 44 m",
-      "elevation": "34,312 m"
+      "activities": "475",
+      "distance": "4,634.5 km",
+      "time": "400 h 19 m",
+      "elevation": "34,318 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Nujaim Noorahdheen",
+      "athleteId": "191343444",
+      "activityId": "21126578102",
+      "name": "Morning Run",
+      "date": "November 26, 2026",
+      "distanceKm": 5,
+      "stats": [
+        "5.0 km",
+        "37:09",
+        "6 m"
+      ]
+    },
     {
       "athlete": "Holger Ingo Friedrich",
       "athleteId": "44997620",
@@ -69,19 +82,6 @@
         "1:26:25",
         "0 m"
       ]
-    },
-    {
-      "athlete": "Laurent ROBERT",
-      "athleteId": "139535489",
-      "activityId": "21124827390",
-      "name": "🏛️ Marche en soirée ✨",
-      "date": "November 25, 2026",
-      "distanceKm": 3.6,
-      "stats": [
-        "3.6 km",
-        "1:45:02",
-        "60 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 163089.3,
-  "totalDistanceKm": 286097.4,
+  "observedWeeksKm": 163094.3,
+  "totalDistanceKm": 286102.4,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 301894.4
+    "totalWithEstimatesKm": 301899.4
   }
 }

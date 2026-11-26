@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T17:30:48.389Z",
+  "generatedAt": "2026-11-26T18:00:54.067Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696832,
-    "percentComplete": 30.32,
+    "remainingKm": 696705,
+    "percentComplete": 30.33,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 5902.7,
-    "thisWeekActivities": 584,
-    "thisWeekHours": 504,
-    "thisWeekElevationM": 42649,
+    "thisWeekKm": 6030.1,
+    "thisWeekActivities": 595,
+    "thisWeekHours": 513,
+    "thisWeekElevationM": 42663,
     "timesAroundEarth": 7.57,
     "percentToMoon": 78.9,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24824,
+  "totalActivities": 24835,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303167600,
-    "totalMovingTime": 85952387,
-    "totalElevation": 2221597.6
+    "totalDistance": 303295000,
+    "totalMovingTime": 85983347,
+    "totalElevation": 2221611.6
   },
   "monthStats": {
-    "totalDistance": 47167500,
-    "totalMovingTime": 13372560,
+    "totalDistance": 47294900,
+    "totalMovingTime": 13403520,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5902700,
-    "totalMovingTime": 1814280,
-    "count": 584
+    "totalDistance": 6030100,
+    "totalMovingTime": 1845240,
+    "count": 595
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,74 +105,74 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287370.6,
+    "measuredDistanceKm": 287498,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Travis Woulfe",
-        "athleteId": "24823170",
-        "activityId": "21134126156",
-        "name": "Afternoon Walk",
+        "athlete": "Susi Wong",
+        "athleteId": "44756315",
+        "activityId": "21134706249",
+        "name": "Abendspaziergang",
         "date": "November 26, 2026",
-        "distanceKm": 2,
+        "distanceKm": 0.6,
         "stats": [
-          "2.0 km",
-          "22:37",
+          "0.6 km",
+          "11:25",
+          "2 m"
+        ]
+      },
+      {
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "21134739724",
+        "name": "ICG® - Open Goal",
+        "date": "November 26, 2026",
+        "distanceKm": 38.4,
+        "stats": [
+          "38.4 km",
+          "1:02:56",
           "0 m"
         ]
       },
       {
-        "athlete": "Alois Petrausch",
-        "athleteId": "40799429",
-        "activityId": "21134214875",
+        "athlete": "Cathi Caesar",
+        "athleteId": "74482280",
+        "activityId": "21134722250",
+        "name": "Crosstrainer-Einheit am Nachmittag",
+        "date": "November 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:10:52",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Jules Göpel",
+        "athleteId": "150874653",
+        "activityId": "21134387634",
+        "name": "Fahrt am Nachmittag",
+        "date": "November 26, 2026",
+        "distanceKm": 54,
+        "stats": [
+          "54.0 km",
+          "2:06:15",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Gisbert Drumm",
+        "athleteId": "10905376",
+        "activityId": "21134709459",
         "name": "Spaziergang am Nachmittag",
         "date": "November 26, 2026",
-        "distanceKm": 0.3,
+        "distanceKm": 4,
         "stats": [
-          "0.3 km",
-          "10:25",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "21133994832",
-        "name": "Zwift - Pacer Group Ride with Miguel",
-        "date": "November 26, 2026",
-        "distanceKm": 10.5,
-        "stats": [
-          "10.5 km",
-          "22:59",
-          "117 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "21133904857",
-        "name": "Gravel dans l'après-midi",
-        "date": "November 26, 2026",
-        "distanceKm": 8.2,
-        "stats": [
-          "8.2 km",
-          "19:19",
-          "17 m"
-        ]
-      },
-      {
-        "athlete": "Thomas Nanntt",
-        "athleteId": "15474485",
-        "activityId": "21134229267",
-        "name": "Zwift - Pacer Group Ride with Maria",
-        "date": "November 26, 2026",
-        "distanceKm": 27.1,
-        "stats": [
-          "27.1 km",
-          "45:58",
-          "188 m"
+          "4.0 km",
+          "5:28:36",
+          "79 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303167.6
+      "totalWithEstimatesKm": 303295
     }
   }
 }

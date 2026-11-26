@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T17:00:56.819Z",
+  "generatedAt": "2026-11-26T17:30:48.389Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696928,
-    "percentComplete": 30.31,
+    "remainingKm": 696832,
+    "percentComplete": 30.32,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 5807.5,
-    "thisWeekActivities": 578,
-    "thisWeekHours": 500,
-    "thisWeekElevationM": 41975,
-    "timesAroundEarth": 7.56,
-    "percentToMoon": 78.8,
+    "thisWeekKm": 5902.7,
+    "thisWeekActivities": 584,
+    "thisWeekHours": 504,
+    "thisWeekElevationM": 42649,
+    "timesAroundEarth": 7.57,
+    "percentToMoon": 78.9,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 78.8,
-        "text": "78.8% of the way to the Moon",
+        "value": 78.9,
+        "text": "78.9% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24818,
+  "totalActivities": 24824,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303072400,
-    "totalMovingTime": 85936907,
-    "totalElevation": 2220923.6
+    "totalDistance": 303167600,
+    "totalMovingTime": 85952387,
+    "totalElevation": 2221597.6
   },
   "monthStats": {
-    "totalDistance": 47072300,
-    "totalMovingTime": 13357080,
+    "totalDistance": 47167500,
+    "totalMovingTime": 13372560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5807500,
-    "totalMovingTime": 1798800,
-    "count": 578
+    "totalDistance": 5902700,
+    "totalMovingTime": 1814280,
+    "count": 584
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287275.4,
+    "measuredDistanceKm": 287370.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Travis Woulfe",
+        "athleteId": "24823170",
+        "activityId": "21134126156",
+        "name": "Afternoon Walk",
+        "date": "November 26, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "22:37",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Alois Petrausch",
+        "athleteId": "40799429",
+        "activityId": "21134214875",
+        "name": "Spaziergang am Nachmittag",
+        "date": "November 26, 2026",
+        "distanceKm": 0.3,
+        "stats": [
+          "0.3 km",
+          "10:25",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
+        "athleteId": "10923773",
+        "activityId": "21133994832",
+        "name": "Zwift - Pacer Group Ride with Miguel",
+        "date": "November 26, 2026",
+        "distanceKm": 10.5,
+        "stats": [
+          "10.5 km",
+          "22:59",
+          "117 m"
+        ]
+      },
       {
         "athlete": "Fabrice Clausse",
         "athleteId": "162101062",
@@ -124,55 +163,16 @@
         ]
       },
       {
-        "athlete": "Fabrice Clausse",
-        "athleteId": "162101062",
-        "activityId": "21133439524",
-        "name": "Gravel dans l'après-midi",
+        "athlete": "Thomas Nanntt",
+        "athleteId": "15474485",
+        "activityId": "21134229267",
+        "name": "Zwift - Pacer Group Ride with Maria",
         "date": "November 26, 2026",
-        "distanceKm": 8.2,
+        "distanceKm": 27.1,
         "stats": [
-          "8.2 km",
-          "21:06",
-          "25 m"
-        ]
-      },
-      {
-        "athlete": "Gerhard Kubach RC Pfeil Neckarsulm",
-        "athleteId": "10923773",
-        "activityId": "21133639028",
-        "name": "Zwift - Sacré Trois! in Paris",
-        "date": "November 26, 2026",
-        "distanceKm": 24.4,
-        "stats": [
-          "24.4 km",
-          "46:09",
-          "217 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "21133548764",
-        "name": "Runde um Mittelrot",
-        "date": "November 26, 2026",
-        "distanceKm": 10,
-        "stats": [
-          "10.0 km",
-          "57:59",
-          "116 m"
-        ]
-      },
-      {
-        "athlete": "Nico Hoßfeld",
-        "athleteId": "177308499",
-        "activityId": "21133700558",
-        "name": "HIIT am Nachmittag",
-        "date": "November 26, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "15:15",
-          "0 m"
+          "27.1 km",
+          "45:58",
+          "188 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303072.4
+      "totalWithEstimatesKm": 303167.6
     }
   }
 }

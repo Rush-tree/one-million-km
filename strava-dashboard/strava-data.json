@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T09:01:00.667Z",
+  "generatedAt": "2026-11-26T09:30:50.847Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 697926,
+    "remainingKm": 697897,
     "percentComplete": 30.21,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4808.9,
-    "thisWeekActivities": 511,
-    "thisWeekHours": 434,
-    "thisWeekElevationM": 34669,
+    "thisWeekKm": 4838.1,
+    "thisWeekActivities": 514,
+    "thisWeekHours": 436,
+    "thisWeekElevationM": 34985,
     "timesAroundEarth": 7.54,
     "percentToMoon": 78.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24752,
+  "totalActivities": 24755,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 302073800,
-    "totalMovingTime": 85699307,
-    "totalElevation": 2213617.6
+    "totalDistance": 302103000,
+    "totalMovingTime": 85705967,
+    "totalElevation": 2213933.6
   },
   "monthStats": {
-    "totalDistance": 46073700,
-    "totalMovingTime": 13119480,
+    "totalDistance": 46102900,
+    "totalMovingTime": 13126140,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4808900,
-    "totalMovingTime": 1561200,
-    "count": 511
+    "totalDistance": 4838100,
+    "totalMovingTime": 1567860,
+    "count": 514
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,50 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286276.8,
+    "measuredDistanceKm": 286306,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "21128968093",
+        "name": "Termin",
+        "date": "November 26, 2026",
+        "distanceKm": 4.1,
+        "stats": [
+          "4.1 km",
+          "11:06",
+          "22 m"
+        ]
+      },
+      {
+        "athlete": "Manfred H",
+        "athleteId": "85517467",
+        "activityId": "21128976391",
+        "name": "Lauf am Morgen",
+        "date": "November 26, 2026",
+        "distanceKm": 8.8,
+        "stats": [
+          "8.8 km",
+          "52:15",
+          "107 m"
+        ]
+      },
+      {
+        "athlete": "Flávio Pecorari Júnior .'.",
+        "athleteId": "6261934",
+        "activityId": "21128834059",
+        "name": "Pedalada matinal",
+        "date": "November 26, 2026",
+        "distanceKm": 16.1,
+        "stats": [
+          "16.1 km",
+          "49:16",
+          "187 m"
+        ]
+      },
       {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
@@ -121,45 +160,6 @@
           "0 km",
           "23:46",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21128159316",
-        "name": "Sykkeltur om morgenen",
-        "date": "November 26, 2026",
-        "distanceKm": 4.4,
-        "stats": [
-          "4.4 km",
-          "17:33",
-          "57 m"
-        ]
-      },
-      {
-        "athlete": "Susanne Liepert",
-        "athleteId": "28515644",
-        "activityId": "21128165210",
-        "name": "Spaziergang am Morgen",
-        "date": "November 26, 2026",
-        "distanceKm": 4.9,
-        "stats": [
-          "4.9 km",
-          "1:04:55",
-          "96 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "21128295892",
-        "name": "Sabah Sürüş",
-        "date": "November 26, 2026",
-        "distanceKm": 11.8,
-        "stats": [
-          "11.8 km",
-          "2:25:40",
-          "100 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 302073.8
+      "totalWithEstimatesKm": 302103
     }
   }
 }

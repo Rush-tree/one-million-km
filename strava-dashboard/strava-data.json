@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T13:30:49.457Z",
+  "generatedAt": "2026-11-26T14:01:04.710Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 697483,
-    "percentComplete": 30.25,
+    "remainingKm": 697364,
+    "percentComplete": 30.26,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,17 +13,17 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 5252.1,
-    "thisWeekActivities": 543,
-    "thisWeekHours": 466,
-    "thisWeekElevationM": 37774,
+    "thisWeekKm": 5371.3,
+    "thisWeekActivities": 547,
+    "thisWeekHours": 472,
+    "thisWeekElevationM": 39049,
     "timesAroundEarth": 7.55,
     "percentToMoon": 78.7,
     "comparisons": [
       {
         "key": "equator",
-        "value": 7.5,
-        "text": "7.5× around the equator",
+        "value": 7.6,
+        "text": "7.6× around the equator",
         "detail": "One million kilometres is exactly 25 laps of the Earth."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24784,
+  "totalActivities": 24787,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 302517000,
-    "totalMovingTime": 85814507,
-    "totalElevation": 2216722.6
+    "totalDistance": 302636200,
+    "totalMovingTime": 85836527,
+    "totalElevation": 2217997.6
   },
   "monthStats": {
-    "totalDistance": 46516900,
-    "totalMovingTime": 13234680,
+    "totalDistance": 46636100,
+    "totalMovingTime": 13256700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 5252100,
-    "totalMovingTime": 1676400,
-    "count": 543
+    "totalDistance": 5371300,
+    "totalMovingTime": 1698420,
+    "count": 547
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286720,
+    "measuredDistanceKm": 286839.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Alois Petrausch",
+        "athleteId": "40799429",
+        "activityId": "21131629152",
+        "name": "Spaziergang am Nachmittag",
+        "date": "November 26, 2026",
+        "distanceKm": 0.8,
+        "stats": [
+          "0.8 km",
+          "21:52",
+          "0 m"
+        ]
+      },
       {
         "athlete": "James White",
         "athleteId": "81513205",
@@ -134,19 +147,6 @@
           "10.0 km",
           "54:23",
           "137 m"
-        ]
-      },
-      {
-        "athlete": "Cristian Stănciulescu",
-        "athleteId": "67352997",
-        "activityId": "21130813618",
-        "name": "Afternoon Walk",
-        "date": "November 26, 2026",
-        "distanceKm": 1.8,
-        "stats": [
-          "1.8 km",
-          "34:14",
-          "5 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 302517
+      "totalWithEstimatesKm": 302636.2
     }
   }
 }

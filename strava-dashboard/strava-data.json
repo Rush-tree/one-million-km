@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T02:30:43.849Z",
+  "generatedAt": "2026-11-26T03:00:58.087Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 698101,
-    "percentComplete": 30.19,
+    "remainingKm": 697979,
+    "percentComplete": 30.2,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4634.5,
-    "thisWeekActivities": 476,
-    "thisWeekHours": 401,
-    "thisWeekElevationM": 34318,
-    "timesAroundEarth": 7.53,
-    "percentToMoon": 78.5,
+    "thisWeekKm": 4756.3,
+    "thisWeekActivities": 479,
+    "thisWeekHours": 408,
+    "thisWeekElevationM": 34630,
+    "timesAroundEarth": 7.54,
+    "percentToMoon": 78.6,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 78.5,
-        "text": "78.5% of the way to the Moon",
+        "value": 78.6,
+        "text": "78.6% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24715,
+  "totalActivities": 24717,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 301899400,
-    "totalMovingTime": 85580447,
-    "totalElevation": 2213266.6
+    "totalDistance": 302021200,
+    "totalMovingTime": 85607087,
+    "totalElevation": 2213578.6
   },
   "monthStats": {
-    "totalDistance": 45899300,
-    "totalMovingTime": 13000620,
+    "totalDistance": 46021100,
+    "totalMovingTime": 13027260,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4634500,
-    "totalMovingTime": 1442340,
-    "count": 476
+    "totalDistance": 4756300,
+    "totalMovingTime": 1468980,
+    "count": 479
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286102.4,
+    "measuredDistanceKm": 286224.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,6 +137,32 @@
         ]
       },
       {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21127050101",
+        "name": "Thursday Morning Ride",
+        "date": "November 26, 2026",
+        "distanceKm": 61.1,
+        "stats": [
+          "61.1 km",
+          "3:10:51",
+          "180 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21127048242",
+        "name": "Thursday Morning Ride",
+        "date": "November 26, 2026",
+        "distanceKm": 60.6,
+        "stats": [
+          "60.6 km",
+          "3:10:23",
+          "132 m"
+        ]
+      },
+      {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
         "activityId": "21125292343",
@@ -147,32 +173,6 @@
           "0 km",
           "31:23",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
-        "athleteId": "40311376",
-        "activityId": "21125093748",
-        "name": "Night Walk",
-        "date": "November 25, 2026",
-        "distanceKm": 0.9,
-        "stats": [
-          "0.9 km",
-          "24:25",
-          "2 m"
-        ]
-      },
-      {
-        "athlete": "Flávio Pecorari Júnior .'.",
-        "athleteId": "6261934",
-        "activityId": "21125018432",
-        "name": "Pedalada ao entardecer",
-        "date": "November 25, 2026",
-        "distanceKm": 13.1,
-        "stats": [
-          "13.1 km",
-          "40:58",
-          "169 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 301899.4
+      "totalWithEstimatesKm": 302021.2
     }
   }
 }

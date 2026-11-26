@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T20:30:52.716Z",
+  "generatedAt": "2026-11-26T21:00:52.208Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696356,
-    "percentComplete": 30.36,
+    "remainingKm": 696296,
+    "percentComplete": 30.37,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6378.9,
-    "thisWeekActivities": 631,
-    "thisWeekHours": 543,
-    "thisWeekElevationM": 44474,
+    "thisWeekKm": 6439.3,
+    "thisWeekActivities": 632,
+    "thisWeekHours": 545,
+    "thisWeekElevationM": 45034,
     "timesAroundEarth": 7.58,
     "percentToMoon": 79,
     "comparisons": [
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303643800,
-    "totalMovingTime": 86091767,
-    "totalElevation": 2223422.6
+    "totalDistance": 303704200,
+    "totalMovingTime": 86099567,
+    "totalElevation": 2223982.6
   },
   "monthStats": {
-    "totalDistance": 47643700,
-    "totalMovingTime": 13511940,
+    "totalDistance": 47704100,
+    "totalMovingTime": 13519740,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6378900,
-    "totalMovingTime": 1953660,
-    "count": 631
+    "totalDistance": 6439300,
+    "totalMovingTime": 1961460,
+    "count": 632
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287846.8,
+    "measuredDistanceKm": 287907.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -137,6 +137,19 @@
         ]
       },
       {
+        "athlete": "Jasper Mermans",
+        "athleteId": "25786886",
+        "activityId": "21136701195",
+        "name": "Zwift - Group Ride: The WATT Squad Spinlight Thursday (D)",
+        "date": "November 26, 2026",
+        "distanceKm": 60.3,
+        "stats": [
+          "60.3 km",
+          "2:09:25",
+          "560 m"
+        ]
+      },
+      {
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
         "activityId": "21135872962",
@@ -161,19 +174,6 @@
           "1:02:06",
           "24 m"
         ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21135760389",
-        "name": "Lauftreff TEAM BLAU 🏃🏃🏃 …",
-        "date": "November 26, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "1:01:41",
-          "77 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303643.8
+      "totalWithEstimatesKm": 303704.2
     }
   }
 }

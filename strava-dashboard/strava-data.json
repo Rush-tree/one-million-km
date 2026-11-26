@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T21:00:52.208Z",
+  "generatedAt": "2026-11-26T21:30:47.249Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696296,
-    "percentComplete": 30.37,
+    "remainingKm": 696210,
+    "percentComplete": 30.38,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6439.3,
-    "thisWeekActivities": 632,
-    "thisWeekHours": 545,
-    "thisWeekElevationM": 45034,
+    "thisWeekKm": 6525.5,
+    "thisWeekActivities": 637,
+    "thisWeekHours": 548,
+    "thisWeekElevationM": 45486,
     "timesAroundEarth": 7.58,
     "percentToMoon": 79,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24872,
+  "totalActivities": 24877,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303704200,
-    "totalMovingTime": 86099567,
-    "totalElevation": 2223982.6
+    "totalDistance": 303790400,
+    "totalMovingTime": 86112167,
+    "totalElevation": 2224434.6
   },
   "monthStats": {
-    "totalDistance": 47704100,
-    "totalMovingTime": 13519740,
+    "totalDistance": 47790300,
+    "totalMovingTime": 13532340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6439300,
-    "totalMovingTime": 1961460,
-    "count": 632
+    "totalDistance": 6525500,
+    "totalMovingTime": 1974060,
+    "count": 637
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,61 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287907.2,
+    "measuredDistanceKm": 287993.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "21136201097",
-        "name": "Wieczorne bieganie",
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "21136897783",
+        "name": "Nachtradfahrt",
         "date": "November 26, 2026",
-        "distanceKm": 8.5,
+        "distanceKm": 29.1,
         "stats": [
-          "8.5 km",
-          "52:25",
-          "69 m"
+          "29.1 km",
+          "48:49",
+          "0 m"
         ]
       },
       {
-        "athlete": "Phil Duffy",
-        "athleteId": "17634808",
-        "activityId": "21135733213",
-        "name": "Evening Walk",
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "21136950900",
+        "name": "Marche de nuit",
         "date": "November 26, 2026",
-        "distanceKm": 1.2,
+        "distanceKm": 1,
         "stats": [
-          "1.2 km",
-          "16:55",
-          "11 m"
+          "1.0 km",
+          "8:22",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "21136889651",
+        "name": "Zwift - Lockere Rad-Ausdauer mit 8sek Sprints (Pwr) - #AerobicBase2",
+        "date": "November 26, 2026",
+        "distanceKm": 16.4,
+        "stats": [
+          "16.4 km",
+          "55:26",
+          "322 m"
+        ]
+      },
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21136792713",
+        "name": "Sykkeltur på kvelden",
+        "date": "November 26, 2026",
+        "distanceKm": 38.1,
+        "stats": [
+          "38.1 km",
+          "1:20:34",
+          "110 m"
         ]
       },
       {
@@ -147,32 +173,6 @@
           "60.3 km",
           "2:09:25",
           "560 m"
-        ]
-      },
-      {
-        "athlete": "Marisa Funk",
-        "athleteId": "157343980",
-        "activityId": "21135872962",
-        "name": "Abendlauf 🌝",
-        "date": "November 26, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "55:12",
-          "70 m"
-        ]
-      },
-      {
-        "athlete": "Kupfer Hardy",
-        "athleteId": "19034101",
-        "activityId": "21135605866",
-        "name": "Evening Run",
-        "date": "November 26, 2026",
-        "distanceKm": 7.4,
-        "stats": [
-          "7.4 km",
-          "1:02:06",
-          "24 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303704.2
+      "totalWithEstimatesKm": 303790.4
     }
   }
 }

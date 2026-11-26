@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T10:01:03.034Z",
+  "generatedAt": "2026-11-26T10:30:52.803Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 697855,
-    "percentComplete": 30.21,
+    "remainingKm": 697821,
+    "percentComplete": 30.22,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4880.6,
-    "thisWeekActivities": 518,
-    "thisWeekHours": 439,
-    "thisWeekElevationM": 35455,
+    "thisWeekKm": 4914.6,
+    "thisWeekActivities": 519,
+    "thisWeekHours": 440,
+    "thisWeekElevationM": 35663,
     "timesAroundEarth": 7.54,
     "percentToMoon": 78.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24759,
+  "totalActivities": 24760,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 302145500,
-    "totalMovingTime": 85718807,
-    "totalElevation": 2214403.6
+    "totalDistance": 302179500,
+    "totalMovingTime": 85723007,
+    "totalElevation": 2214611.6
   },
   "monthStats": {
-    "totalDistance": 46145400,
-    "totalMovingTime": 13138980,
+    "totalDistance": 46179400,
+    "totalMovingTime": 13143180,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4880600,
-    "totalMovingTime": 1580700,
-    "count": 518
+    "totalDistance": 4914600,
+    "totalMovingTime": 1584900,
+    "count": 519
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286348.5,
+    "measuredDistanceKm": 286382.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,19 @@
           "4.1 km",
           "11:06",
           "22 m"
+        ]
+      },
+      {
+        "athlete": "Herbert Tüns",
+        "athleteId": "42803858",
+        "activityId": "21129335652",
+        "name": "Zwift - Watopia",
+        "date": "November 26, 2026",
+        "distanceKm": 34,
+        "stats": [
+          "34.0 km",
+          "1:10:17",
+          "208 m"
         ]
       },
       {
@@ -161,19 +174,6 @@
           "49:16",
           "187 m"
         ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "21128686354",
-        "name": "649/730 gün koşusu",
-        "date": "November 26, 2026",
-        "distanceKm": 21,
-        "stats": [
-          "21.0 km",
-          "1:35:04",
-          "41 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 302145.5
+      "totalWithEstimatesKm": 302179.5
     }
   }
 }

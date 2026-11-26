@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T08:30:47.096Z",
+  "generatedAt": "2026-11-26T09:01:00.667Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 697942,
+    "remainingKm": 697926,
     "percentComplete": 30.21,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4792.8,
+    "thisWeekKm": 4808.9,
     "thisWeekActivities": 511,
-    "thisWeekHours": 433,
-    "thisWeekElevationM": 34670,
+    "thisWeekHours": 434,
+    "thisWeekElevationM": 34669,
     "timesAroundEarth": 7.54,
     "percentToMoon": 78.6,
     "comparisons": [
@@ -70,18 +70,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 302057700,
-    "totalMovingTime": 85695167,
-    "totalElevation": 2213618.6
+    "totalDistance": 302073800,
+    "totalMovingTime": 85699307,
+    "totalElevation": 2213617.6
   },
   "monthStats": {
-    "totalDistance": 46057600,
-    "totalMovingTime": 13115340,
+    "totalDistance": 46073700,
+    "totalMovingTime": 13119480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4792800,
-    "totalMovingTime": 1557060,
+    "totalDistance": 4808900,
+    "totalMovingTime": 1561200,
     "count": 511
   },
   "lastWeekStats": {
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286260.7,
+    "measuredDistanceKm": 286276.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,19 +121,6 @@
           "0 km",
           "23:46",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Tim Siber",
-        "athleteId": "91630363",
-        "activityId": "21128381280",
-        "name": "Morning Ride",
-        "date": "November 26, 2026",
-        "distanceKm": 5,
-        "stats": [
-          "5.0 km",
-          "36:32",
-          "42 m"
         ]
       },
       {
@@ -174,6 +161,19 @@
           "2:25:40",
           "100 m"
         ]
+      },
+      {
+        "athlete": "Bülent Sevil",
+        "athleteId": "156559910",
+        "activityId": "21128686354",
+        "name": "Açık alanda koşu",
+        "date": "November 26, 2026",
+        "distanceKm": 21,
+        "stats": [
+          "21.0 km",
+          "1:35:04",
+          "41 m"
+        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 302057.7
+      "totalWithEstimatesKm": 302073.8
     }
   }
 }

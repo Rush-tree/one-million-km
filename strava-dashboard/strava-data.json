@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T22:30:46.136Z",
+  "generatedAt": "2026-11-26T23:00:54.017Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696203,
+    "remainingKm": 696232,
     "percentComplete": 30.38,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,9 +13,9 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6531.8,
-    "thisWeekActivities": 639,
-    "thisWeekHours": 552,
+    "thisWeekKm": 6502.7,
+    "thisWeekActivities": 638,
+    "thisWeekHours": 551,
     "thisWeekElevationM": 45698,
     "timesAroundEarth": 7.58,
     "percentToMoon": 79,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303796700,
-    "totalMovingTime": 86125067,
+    "totalDistance": 303767600,
+    "totalMovingTime": 86122127,
     "totalElevation": 2224646.6
   },
   "monthStats": {
-    "totalDistance": 47796600,
-    "totalMovingTime": 13545240,
+    "totalDistance": 47767500,
+    "totalMovingTime": 13542300,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6531800,
-    "totalMovingTime": 1986960,
-    "count": 639
+    "totalDistance": 6502700,
+    "totalMovingTime": 1984020,
+    "count": 638
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,24 +105,11 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287999.7,
+    "measuredDistanceKm": 287970.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21136897783",
-        "name": "Nachtradfahrt",
-        "date": "November 26, 2026",
-        "distanceKm": 29.1,
-        "stats": [
-          "29.1 km",
-          "48:49",
-          "0 m"
-        ]
-      },
       {
         "athlete": "Laurent ROBERT",
         "athleteId": "139535489",
@@ -163,6 +150,19 @@
         ]
       },
       {
+        "athlete": "Paweł Siergiej",
+        "athleteId": "147932574",
+        "activityId": "21136201097",
+        "name": "Wieczorne bieganie",
+        "date": "November 26, 2026",
+        "distanceKm": 8.5,
+        "stats": [
+          "8.5 km",
+          "52:25",
+          "69 m"
+        ]
+      },
+      {
         "athlete": "Jasper Mermans",
         "athleteId": "25786886",
         "activityId": "21136701195",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303796.7
+      "totalWithEstimatesKm": 303767.6
     }
   }
 }

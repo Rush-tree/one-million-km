@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-26T07:30:50.818Z",
+  "generatedAt": "2026-11-26T08:01:04.684Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 697963,
-    "percentComplete": 30.2,
+    "remainingKm": 697942,
+    "percentComplete": 30.21,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 4772,
-    "thisWeekActivities": 507,
-    "thisWeekHours": 429,
-    "thisWeekElevationM": 34471,
+    "thisWeekKm": 4792.8,
+    "thisWeekActivities": 511,
+    "thisWeekHours": 433,
+    "thisWeekElevationM": 34670,
     "timesAroundEarth": 7.54,
     "percentToMoon": 78.6,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 14.2,
-        "text": "14.2× the Great Wall of China",
+        "value": 14.3,
+        "text": "14.3× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24748,
+  "totalActivities": 24752,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 302036900,
-    "totalMovingTime": 85683587,
-    "totalElevation": 2213419.6
+    "totalDistance": 302057700,
+    "totalMovingTime": 85695167,
+    "totalElevation": 2213618.6
   },
   "monthStats": {
-    "totalDistance": 46036800,
-    "totalMovingTime": 13103760,
+    "totalDistance": 46057600,
+    "totalMovingTime": 13115340,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 4772000,
-    "totalMovingTime": 1545480,
-    "count": 507
+    "totalDistance": 4792800,
+    "totalMovingTime": 1557060,
+    "count": 511
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 286239.9,
+    "measuredDistanceKm": 286260.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "21128407623",
+        "name": "Yoga am Morgen",
+        "date": "November 26, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "23:46",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Tim Siber",
+        "athleteId": "91630363",
+        "activityId": "21128381280",
+        "name": "Morning Ride",
+        "date": "November 26, 2026",
+        "distanceKm": 5,
+        "stats": [
+          "5.0 km",
+          "36:32",
+          "42 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -121,19 +147,6 @@
           "4.4 km",
           "17:33",
           "57 m"
-        ]
-      },
-      {
-        "athlete": "Lara WSM",
-        "athleteId": "143255915",
-        "activityId": "21127960377",
-        "name": "Morning Yoga🌕 🌖",
-        "date": "November 26, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "27:59",
-          "0 m"
         ]
       },
       {
@@ -150,29 +163,16 @@
         ]
       },
       {
-        "athlete": "Nico Deckarm",
-        "athleteId": "74766538",
-        "activityId": "21127934116",
-        "name": "Lauf am Morgen",
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "21128295892",
+        "name": "Sabah Sürüş",
         "date": "November 26, 2026",
-        "distanceKm": 11.9,
+        "distanceKm": 11.8,
         "stats": [
-          "11.9 km",
-          "45:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Rareș Brânzoi",
-        "athleteId": "4792098",
-        "activityId": "21127925372",
-        "name": "Morning Run",
-        "date": "November 26, 2026",
-        "distanceKm": 10.2,
-        "stats": [
-          "10.2 km",
-          "1:06:31",
-          "154 m"
+          "11.8 km",
+          "2:25:40",
+          "100 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 302036.9
+      "totalWithEstimatesKm": 302057.7
     }
   }
 }

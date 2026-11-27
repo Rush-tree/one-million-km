@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T12:30:49.495Z",
+  "generatedAt": "2026-11-27T12:53:36.255Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 695830,
-    "percentComplete": 30.42,
+    "remainingKm": 695875,
+    "percentComplete": 30.41,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6904.7,
+    "thisWeekKm": 6860.5,
     "thisWeekActivities": 693,
-    "thisWeekHours": 591,
-    "thisWeekElevationM": 49160,
+    "thisWeekHours": 589,
+    "thisWeekElevationM": 49166,
     "timesAroundEarth": 7.59,
     "percentToMoon": 79.1,
     "comparisons": [
@@ -34,8 +34,8 @@
       },
       {
         "key": "greatwall",
-        "value": 14.4,
-        "text": "14.4× the Great Wall of China",
+        "value": 14.3,
+        "text": "14.3× the Great Wall of China",
         "detail": "21,196 km end to end."
       },
       {
@@ -70,18 +70,18 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 304169600,
-    "totalMovingTime": 86264207,
-    "totalElevation": 2228108.6
+    "totalDistance": 304125400,
+    "totalMovingTime": 86259227,
+    "totalElevation": 2228114.6
   },
   "monthStats": {
-    "totalDistance": 48169500,
-    "totalMovingTime": 13684380,
+    "totalDistance": 48125300,
+    "totalMovingTime": 13679400,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6904700,
-    "totalMovingTime": 2126100,
+    "totalDistance": 6860500,
+    "totalMovingTime": 2121120,
     "count": 693
   },
   "lastWeekStats": {
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288372.6,
+    "measuredDistanceKm": 288328.4,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Philip Quirin",
+        "athleteId": "103469042",
+        "activityId": "21142358246",
+        "name": "Mittagspaziergang",
+        "date": "November 27, 2026",
+        "distanceKm": 3,
+        "stats": [
+          "3.0 km",
+          "34:34",
+          "5 m"
+        ]
+      },
       {
         "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
         "athleteId": "129712916",
@@ -134,19 +147,6 @@
           "10.0 km",
           "39:59",
           "44 m"
-        ]
-      },
-      {
-        "athlete": "Alex 3R",
-        "athleteId": "89054684",
-        "activityId": "21141522453",
-        "name": "Intervalle. Alles friert ein. Sogar die Innenbahn und der Pulsmesser. 🧊🥶🙃",
-        "date": "November 27, 2026",
-        "distanceKm": 10.1,
-        "stats": [
-          "10.1 km",
-          "46:27",
-          "33 m"
         ]
       },
       {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 304169.6
+      "totalWithEstimatesKm": 304125.4
     }
   }
 }

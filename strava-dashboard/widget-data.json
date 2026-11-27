@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-27T21:00:55.346Z",
+  "generatedAt": "2026-11-27T21:30:48.652Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-27T21:00:55.346Z",
+  "memberCountUpdatedAt": "2026-11-27T21:30:48.652Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 764,
-    "distanceKm": 7725.6,
-    "elevationM": 56071,
-    "movingSeconds": 2388540,
+    "activities": 766,
+    "distanceKm": 7727.1,
+    "elevationM": 56074,
+    "movingSeconds": 2391120,
     "raw": {
-      "activities": "764",
-      "distance": "7,725.6 km",
-      "time": "663 h 29 m",
-      "elevation": "56,071 m"
+      "activities": "766",
+      "distance": "7,727.1 km",
+      "time": "664 h 12 m",
+      "elevation": "56,074 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
+      "athleteId": "40311376",
+      "activityId": "21147022056",
+      "name": "Night Walk",
+      "date": "November 27, 2026",
+      "distanceKm": 0.8,
+      "stats": [
+        "0.8 km",
+        "27:02",
+        "1 m"
+      ]
+    },
     {
       "athlete": "David Rondon",
       "athleteId": "1002628",
@@ -35,7 +48,7 @@
       "athlete": "Georg Weinig",
       "athleteId": "166650923",
       "activityId": "21146481578",
-      "name": "Gewichtstraining am Abend",
+      "name": "Upper + Stabi",
       "date": "November 27, 2026",
       "distanceKm": 0,
       "stats": [
@@ -54,19 +67,6 @@
       "stats": [
         "2.5 km",
         "57:00",
-        "0 m"
-      ]
-    },
-    {
-      "athlete": "Alex 3R",
-      "athleteId": "89054684",
-      "activityId": "21145818842",
-      "name": "Blackroll, Stretching, Stabi",
-      "date": "November 27, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0 km",
-        "1:00:19",
         "0 m"
       ]
     },
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 166185.4,
-  "totalDistanceKm": 289193.5,
+  "observedWeeksKm": 166186.9,
+  "totalDistanceKm": 289195,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 304990.5
+    "totalWithEstimatesKm": 304992
   }
 }

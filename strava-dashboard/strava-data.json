@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T15:00:59.136Z",
+  "generatedAt": "2026-11-27T15:30:55.111Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 695707,
+    "remainingKm": 695682,
     "percentComplete": 30.43,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7027.8,
-    "thisWeekActivities": 713,
-    "thisWeekHours": 606,
-    "thisWeekElevationM": 50511,
+    "thisWeekKm": 7053.3,
+    "thisWeekActivities": 717,
+    "thisWeekHours": 609,
+    "thisWeekElevationM": 50599,
     "timesAroundEarth": 7.59,
     "percentToMoon": 79.2,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24957,
+  "totalActivities": 24961,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 304292700,
-    "totalMovingTime": 86318927,
-    "totalElevation": 2229459.6
+    "totalDistance": 304318200,
+    "totalMovingTime": 86329307,
+    "totalElevation": 2229547.6
   },
   "monthStats": {
-    "totalDistance": 48292600,
-    "totalMovingTime": 13739100,
+    "totalDistance": 48318100,
+    "totalMovingTime": 13749480,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7027800,
-    "totalMovingTime": 2180820,
-    "count": 713
+    "totalDistance": 7053300,
+    "totalMovingTime": 2191200,
+    "count": 717
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288495.7,
+    "measuredDistanceKm": 288521.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "conny tonder",
+        "athleteId": "66434073",
+        "activityId": "21143660336",
+        "name": "Zwift - Volcano Circuit CCW in Watopia",
+        "date": "November 27, 2026",
+        "distanceKm": 7.6,
+        "stats": [
+          "7.6 km",
+          "16:13",
+          "37 m"
+        ]
+      },
       {
         "athlete": "David Rondon",
         "athleteId": "1002628",
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Ulf Nuglisch",
-        "athleteId": "62746305",
-        "activityId": "21143413959",
-        "name": "CARDIO",
+        "athlete": "Furansuwa B.",
+        "athleteId": "94754434",
+        "activityId": "21143772430",
+        "name": "Course à pied dans l'après-midi",
         "date": "November 27, 2026",
-        "distanceKm": 0,
+        "distanceKm": 7.5,
         "stats": [
-          "0 km",
-          "20:05",
+          "7.5 km",
+          "37:18",
+          "51 m"
+        ]
+      },
+      {
+        "athlete": "Julian Klaas",
+        "athleteId": "157058434",
+        "activityId": "21143844096",
+        "name": "Lauf am Nachmittag",
+        "date": "November 27, 2026",
+        "distanceKm": 10.2,
+        "stats": [
+          "10.2 km",
+          "57:39",
           "0 m"
         ]
       },
       {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "21143500673",
-        "name": "Zwift - Loopin Lava in Watopia",
-        "date": "November 27, 2026",
-        "distanceKm": 18.4,
-        "stats": [
-          "18.4 km",
-          "44:19",
-          "212 m"
-        ]
-      },
-      {
-        "athlete": "Jürgen Föll",
-        "athleteId": "41355823",
-        "activityId": "21143462837",
+        "athlete": "Daniel Stodden",
+        "athleteId": "23274828",
+        "activityId": "21143677931",
         "name": "Gewichtstraining am Nachmittag",
         "date": "November 27, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "1:36:32",
+          "1:01:40",
           "0 m"
-        ]
-      },
-      {
-        "athlete": "Walter Donè",
-        "athleteId": "31420262",
-        "activityId": "21143509019",
-        "name": "Pedalata pomeridiana",
-        "date": "November 27, 2026",
-        "distanceKm": 20.3,
-        "stats": [
-          "20.3 km",
-          "2:09:51",
-          "49 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 304292.7
+      "totalWithEstimatesKm": 304318.2
     }
   }
 }

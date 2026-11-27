@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T08:30:47.123Z",
+  "generatedAt": "2026-11-27T09:00:59.311Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696138,
+    "remainingKm": 696087,
     "percentComplete": 30.39,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6597.1,
-    "thisWeekActivities": 668,
-    "thisWeekHours": 570,
-    "thisWeekElevationM": 46682,
+    "thisWeekKm": 6648.1,
+    "thisWeekActivities": 671,
+    "thisWeekHours": 572,
+    "thisWeekElevationM": 46938,
     "timesAroundEarth": 7.58,
-    "percentToMoon": 79,
+    "percentToMoon": 79.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 79,
-        "text": "79% of the way to the Moon",
+        "value": 79.1,
+        "text": "79.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24911,
+  "totalActivities": 24914,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303862000,
-    "totalMovingTime": 86188787,
-    "totalElevation": 2225630.6
+    "totalDistance": 303913000,
+    "totalMovingTime": 86198507,
+    "totalElevation": 2225886.6
   },
   "monthStats": {
-    "totalDistance": 47861900,
-    "totalMovingTime": 13608960,
+    "totalDistance": 47912900,
+    "totalMovingTime": 13618680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6597100,
-    "totalMovingTime": 2050680,
-    "count": 668
+    "totalDistance": 6648100,
+    "totalMovingTime": 2060400,
+    "count": 671
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288065,
+    "measuredDistanceKm": 288116,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "21140376619",
+        "name": "Zwift - TT: Stage 3 - Zwift TT - Crit Cross (B)",
+        "date": "November 27, 2026",
+        "distanceKm": 15.5,
+        "stats": [
+          "15.5 km",
+          "26:14",
+          "39 m"
+        ]
+      },
       {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
@@ -137,42 +150,29 @@
         ]
       },
       {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "21140209031",
-        "name": "Morning ride",
-        "date": "November 27, 2026",
-        "distanceKm": 18.3,
+        "athlete": "heike moschel",
+        "athleteId": "79094374",
+        "activityId": "21140349562",
+        "name": "Zwift - Pacer Group Ride with Dani",
+        "date": "November 26, 2026",
+        "distanceKm": 32.3,
         "stats": [
-          "18.3 km",
-          "3:42:47",
-          "473 m"
+          "32.3 km",
+          "1:00:04",
+          "211 m"
         ]
       },
       {
         "athlete": "siavash Akbari",
         "athleteId": "56213794",
         "activityId": "21140212415",
-        "name": "Morning Run",
+        "name": "Cycling - November 2026 - Oshan. Ahar 🌞🚴‍♂️🕊",
         "date": "November 27, 2026",
         "distanceKm": 21.5,
         "stats": [
           "21.5 km",
           "3:40:37",
           "478 m"
-        ]
-      },
-      {
-        "athlete": "Chirag 🏃🏾‍♂️ & Henry 🐶",
-        "athleteId": "12021648",
-        "activityId": "21140140006",
-        "name": "Morning Walk @ Beach 🌤️🔗🌊🐶🏃🏾‍♂️‍➡️",
-        "date": "November 27, 2026",
-        "distanceKm": 4.3,
-        "stats": [
-          "4.3 km",
-          "59:04",
-          "109 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303862
+      "totalWithEstimatesKm": 303913
     }
   }
 }

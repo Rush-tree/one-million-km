@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T03:30:45.434Z",
+  "generatedAt": "2026-11-27T04:00:54.242Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696078,
+    "remainingKm": 696136,
     "percentComplete": 30.39,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6657.6,
-    "thisWeekActivities": 645,
-    "thisWeekHours": 561,
-    "thisWeekElevationM": 46489,
+    "thisWeekKm": 6599,
+    "thisWeekActivities": 646,
+    "thisWeekHours": 559,
+    "thisWeekElevationM": 46303,
     "timesAroundEarth": 7.58,
-    "percentToMoon": 79.1,
+    "percentToMoon": 79,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 79.1,
-        "text": "79.1% of the way to the Moon",
+        "value": 79,
+        "text": "79% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24885,
+  "totalActivities": 24887,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303922500,
-    "totalMovingTime": 86156807,
-    "totalElevation": 2225437.6
+    "totalDistance": 303863900,
+    "totalMovingTime": 86150507,
+    "totalElevation": 2225251.6
   },
   "monthStats": {
-    "totalDistance": 47922400,
-    "totalMovingTime": 13576980,
+    "totalDistance": 47863800,
+    "totalMovingTime": 13570680,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6657600,
-    "totalMovingTime": 2018700,
-    "count": 645
+    "totalDistance": 6599000,
+    "totalMovingTime": 2012400,
+    "count": 646
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288125.5,
+    "measuredDistanceKm": 288066.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21139062114",
+        "name": "Morning HIIT",
+        "date": "November 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "25:52",
+          "0 m"
+        ]
+      },
+      {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "21139035336",
+        "name": "Morning Walk",
+        "date": "November 27, 2026",
+        "distanceKm": 3.2,
+        "stats": [
+          "3.2 km",
+          "1:11:44",
+          "8 m"
+        ]
+      },
       {
         "athlete": "Nujaim Noorahdheen",
         "athleteId": "191343444",
@@ -127,26 +153,13 @@
         "athlete": "Kathi Anil Kumar🇮🇳",
         "athleteId": "71379636",
         "activityId": "21138823216",
-        "name": "🌤️ Friday Morning Ride",
+        "name": "NOVEMBER MNG RIDE NO 27 🚵‍♂️",
         "date": "November 27, 2026",
         "distanceKm": 61.4,
         "stats": [
           "61.4 km",
           "2:54:55",
           "180 m"
-        ]
-      },
-      {
-        "athlete": "Kathi Anil Kumar🇮🇳",
-        "athleteId": "71379636",
-        "activityId": "21138823225",
-        "name": "🌤️ Friday Morning Ride",
-        "date": "November 27, 2026",
-        "distanceKm": 61.8,
-        "stats": [
-          "61.8 km",
-          "2:55:26",
-          "193 m"
         ]
       },
       {
@@ -160,19 +173,6 @@
           "2.6 km",
           "32:31",
           "63 m"
-        ]
-      },
-      {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21136889651",
-        "name": "Zwift - Lockere Rad-Ausdauer mit 8sek Sprints (Pwr) - #AerobicBase2",
-        "date": "November 26, 2026",
-        "distanceKm": 16.4,
-        "stats": [
-          "16.4 km",
-          "55:26",
-          "322 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303922.5
+      "totalWithEstimatesKm": 303863.9
     }
   }
 }

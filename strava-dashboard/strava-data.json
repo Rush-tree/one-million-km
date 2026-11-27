@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T02:30:47.056Z",
+  "generatedAt": "2026-11-27T03:00:04.029Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696214,
-    "percentComplete": 30.38,
+    "remainingKm": 696078,
+    "percentComplete": 30.39,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6520.8,
-    "thisWeekActivities": 641,
-    "thisWeekHours": 554,
-    "thisWeekElevationM": 45779,
+    "thisWeekKm": 6657.6,
+    "thisWeekActivities": 645,
+    "thisWeekHours": 561,
+    "thisWeekElevationM": 46489,
     "timesAroundEarth": 7.58,
-    "percentToMoon": 79,
+    "percentToMoon": 79.1,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 79,
-        "text": "79% of the way to the Moon",
+        "value": 79.1,
+        "text": "79.1% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24882,
+  "totalActivities": 24885,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303785700,
-    "totalMovingTime": 86130707,
-    "totalElevation": 2224727.6
+    "totalDistance": 303922500,
+    "totalMovingTime": 86156807,
+    "totalElevation": 2225437.6
   },
   "monthStats": {
-    "totalDistance": 47785600,
-    "totalMovingTime": 13550880,
+    "totalDistance": 47922400,
+    "totalMovingTime": 13576980,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6520800,
-    "totalMovingTime": 1992600,
-    "count": 641
+    "totalDistance": 6657600,
+    "totalMovingTime": 2018700,
+    "count": 645
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 287988.7,
+    "measuredDistanceKm": 288125.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -121,6 +121,32 @@
           "15.0 km",
           "1:49:29",
           "15 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21138823216",
+        "name": "🌤️ Friday Morning Ride",
+        "date": "November 27, 2026",
+        "distanceKm": 61.4,
+        "stats": [
+          "61.4 km",
+          "2:54:55",
+          "180 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21138823225",
+        "name": "🌤️ Friday Morning Ride",
+        "date": "November 27, 2026",
+        "distanceKm": 61.8,
+        "stats": [
+          "61.8 km",
+          "2:55:26",
+          "193 m"
         ]
       },
       {
@@ -148,32 +174,6 @@
           "55:26",
           "322 m"
         ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21136792713",
-        "name": "Sykkeltur på kvelden",
-        "date": "November 26, 2026",
-        "distanceKm": 38.1,
-        "stats": [
-          "38.1 km",
-          "1:20:34",
-          "110 m"
-        ]
-      },
-      {
-        "athlete": "Jasper Mermans",
-        "athleteId": "25786886",
-        "activityId": "21136701195",
-        "name": "Zwift - Group Ride: The WATT Squad Spinlight Thursday (D)",
-        "date": "November 26, 2026",
-        "distanceKm": 60.3,
-        "stats": [
-          "60.3 km",
-          "2:09:25",
-          "560 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303785.7
+      "totalWithEstimatesKm": 303922.5
     }
   }
 }

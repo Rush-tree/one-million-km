@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T20:00:54.775Z",
+  "generatedAt": "2026-11-27T20:30:47.170Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 695012,
+    "remainingKm": 695010,
     "percentComplete": 30.5,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7723.5,
-    "thisWeekActivities": 762,
-    "thisWeekHours": 661,
-    "thisWeekElevationM": 56053,
+    "thisWeekKm": 7725.6,
+    "thisWeekActivities": 764,
+    "thisWeekHours": 663,
+    "thisWeekElevationM": 56071,
     "timesAroundEarth": 7.61,
     "percentToMoon": 79.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 25005,
+  "totalActivities": 25007,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 304988400,
-    "totalMovingTime": 86519147,
-    "totalElevation": 2235001.6
+    "totalDistance": 304990500,
+    "totalMovingTime": 86526647,
+    "totalElevation": 2235019.6
   },
   "monthStats": {
-    "totalDistance": 48988300,
-    "totalMovingTime": 13939320,
+    "totalDistance": 48990400,
+    "totalMovingTime": 13946820,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7723500,
-    "totalMovingTime": 2381040,
-    "count": 762
+    "totalDistance": 7725600,
+    "totalMovingTime": 2388540,
+    "count": 764
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289191.4,
+    "measuredDistanceKm": 289193.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "David Rondon",
+        "athleteId": "1002628",
+        "activityId": "21146462579",
+        "name": "Gåtur på kvelden",
+        "date": "November 27, 2026",
+        "distanceKm": 2,
+        "stats": [
+          "2.0 km",
+          "23:16",
+          "18 m"
+        ]
+      },
+      {
+        "athlete": "Georg Weinig",
+        "athleteId": "166650923",
+        "activityId": "21146481578",
+        "name": "Gewichtstraining am Abend",
+        "date": "November 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:41:39",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Bärbel Unser",
         "athleteId": "73612084",
@@ -148,32 +174,6 @@
           "3:38:19",
           "36 m"
         ]
-      },
-      {
-        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
-        "athleteId": "9696032",
-        "activityId": "21145799470",
-        "name": "Zum Sankt Annagarten Glühwein trinken",
-        "date": "November 27, 2026",
-        "distanceKm": 3.6,
-        "stats": [
-          "3.6 km",
-          "3:18:08",
-          "31 m"
-        ]
-      },
-      {
-        "athlete": "Chirag 🏃🏾‍♂️ & Henry 🐶",
-        "athleteId": "12021648",
-        "activityId": "21145702102",
-        "name": "Friday Fever - Strength 🤍🩶🖤💪🏽🔗🏃🏾‍♂️‍➡️🚀",
-        "date": "November 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:03:28",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 304988.4
+      "totalWithEstimatesKm": 304990.5
     }
   }
 }

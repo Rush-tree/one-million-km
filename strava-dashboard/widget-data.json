@@ -1,23 +1,49 @@
 {
-  "generatedAt": "2026-11-27T13:30:48.536Z",
+  "generatedAt": "2026-11-27T14:00:55.009Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-27T13:30:48.536Z",
+  "memberCountUpdatedAt": "2026-11-27T14:00:55.009Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 697,
-    "distanceKm": 6885.5,
+    "activities": 700,
+    "distanceKm": 6895.1,
     "elevationM": 49386,
-    "movingSeconds": 2132760,
+    "movingSeconds": 2140920,
     "raw": {
-      "activities": "697",
-      "distance": "6,885.5 km",
-      "time": "592 h 26 m",
+      "activities": "700",
+      "distance": "6,895.1 km",
+      "time": "594 h 42 m",
       "elevation": "49,386 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "Herbert Tüns",
+      "athleteId": "42803858",
+      "activityId": "21142840765",
+      "name": "Crossfit am Nachmittag",
+      "date": "November 27, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "35:00",
+        "0 m"
+      ]
+    },
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21142863113",
+      "name": "45 min Full Body Strength with Rebecca Kennedy",
+      "date": "November 27, 2026",
+      "distanceKm": 0,
+      "stats": [
+        "0 km",
+        "45:08",
+        "0 m"
+      ]
+    },
     {
       "athlete": "Gisbert Drumm",
       "athleteId": "10905376",
@@ -45,32 +71,6 @@
       ]
     },
     {
-      "athlete": "Philip Quirin",
-      "athleteId": "103469042",
-      "activityId": "21142358246",
-      "name": "Mittagspaziergang",
-      "date": "November 27, 2026",
-      "distanceKm": 3,
-      "stats": [
-        "3.0 km",
-        "34:34",
-        "5 m"
-      ]
-    },
-    {
-      "athlete": "Gemütlicher Radler (Loud Hub Safes Lives)",
-      "athleteId": "129712916",
-      "activityId": "21141912889",
-      "name": "Spaziergang am Mittag",
-      "date": "November 27, 2026",
-      "distanceKm": 4.4,
-      "stats": [
-        "4.4 km",
-        "42:09",
-        "8 m"
-      ]
-    },
-    {
       "athlete": "Sascha Gebel",
       "athleteId": "19964716",
       "activityId": "21142779121",
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 165345.3,
-  "totalDistanceKm": 288353.4,
+  "observedWeeksKm": 165354.9,
+  "totalDistanceKm": 288363,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 304150.4
+    "totalWithEstimatesKm": 304160
   }
 }

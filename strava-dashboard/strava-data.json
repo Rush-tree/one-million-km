@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T10:00:54.327Z",
+  "generatedAt": "2026-11-27T10:30:51.476Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696040,
-    "percentComplete": 30.4,
+    "remainingKm": 695879,
+    "percentComplete": 30.41,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6694.7,
-    "thisWeekActivities": 679,
-    "thisWeekHours": 576,
-    "thisWeekElevationM": 47196,
-    "timesAroundEarth": 7.58,
+    "thisWeekKm": 6855.7,
+    "thisWeekActivities": 684,
+    "thisWeekHours": 583,
+    "thisWeekElevationM": 48723,
+    "timesAroundEarth": 7.59,
     "percentToMoon": 79.1,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24922,
+  "totalActivities": 24926,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303959600,
-    "totalMovingTime": 86212367,
-    "totalElevation": 2226144.6
+    "totalDistance": 304120600,
+    "totalMovingTime": 86237987,
+    "totalElevation": 2227671.6
   },
   "monthStats": {
-    "totalDistance": 47959500,
-    "totalMovingTime": 13632540,
+    "totalDistance": 48120500,
+    "totalMovingTime": 13658160,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6694700,
-    "totalMovingTime": 2074260,
-    "count": 679
+    "totalDistance": 6855700,
+    "totalMovingTime": 2099880,
+    "count": 684
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288162.6,
+    "measuredDistanceKm": 288323.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
+        "athleteId": "4351490",
+        "activityId": "21140942435",
+        "name": "Zwift - Pacer Group Ride with Mochi",
+        "date": "November 27, 2026",
+        "distanceKm": 20.7,
+        "stats": [
+          "20.7 km",
+          "46:51",
+          "174 m"
+        ]
+      },
+      {
         "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
         "athleteId": "9696032",
         "activityId": "21140889035",
@@ -137,41 +150,28 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "21140574004",
-        "name": "Zwift - Race: Stage 3 - ZRacing - Watopia Islands - Seafoam Circuit (C)",
+        "athlete": "Bart ter Stege 🇳🇱Holland🇳🇱",
+        "athleteId": "24992941",
+        "activityId": "21141002808",
+        "name": "Ochtendloop",
         "date": "November 27, 2026",
-        "distanceKm": 2.1,
+        "distanceKm": 10,
         "stats": [
-          "2.1 km",
-          "4:06",
-          "17 m"
+          "10.0 km",
+          "49:59",
+          "8 m"
         ]
       },
       {
         "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
         "athleteId": "4351490",
-        "activityId": "21140512743",
-        "name": "Zwift - Pacer Group Ride with Mochi",
+        "activityId": "21140967460",
+        "name": "Fahrt am Morgen",
         "date": "November 27, 2026",
-        "distanceKm": 6,
+        "distanceKm": 47.2,
         "stats": [
-          "6.0 km",
-          "17:06",
-          "85 m"
-        ]
-      },
-      {
-        "athlete": "John Spence",
-        "athleteId": "97189936",
-        "activityId": "21140647554",
-        "name": "Morning Workout",
-        "date": "November 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:26:17",
+          "47.2 km",
+          "2:04:24",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303959.6
+      "totalWithEstimatesKm": 304120.6
     }
   }
 }

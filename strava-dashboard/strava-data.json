@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T15:30:55.111Z",
+  "generatedAt": "2026-11-27T16:00:57.496Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 695682,
-    "percentComplete": 30.43,
+    "remainingKm": 695561,
+    "percentComplete": 30.44,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7053.3,
-    "thisWeekActivities": 717,
-    "thisWeekHours": 609,
-    "thisWeekElevationM": 50599,
-    "timesAroundEarth": 7.59,
+    "thisWeekKm": 7174.3,
+    "thisWeekActivities": 722,
+    "thisWeekHours": 618,
+    "thisWeekElevationM": 51873,
+    "timesAroundEarth": 7.6,
     "percentToMoon": 79.2,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24961,
+  "totalActivities": 24965,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 304318200,
-    "totalMovingTime": 86329307,
-    "totalElevation": 2229547.6
+    "totalDistance": 304439200,
+    "totalMovingTime": 86361527,
+    "totalElevation": 2230821.6
   },
   "monthStats": {
-    "totalDistance": 48318100,
-    "totalMovingTime": 13749480,
+    "totalDistance": 48439100,
+    "totalMovingTime": 13781700,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7053300,
-    "totalMovingTime": 2191200,
-    "count": 717
+    "totalDistance": 7174300,
+    "totalMovingTime": 2223420,
+    "count": 722
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288521.2,
+    "measuredDistanceKm": 288642.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "conny tonder",
-        "athleteId": "66434073",
-        "activityId": "21143660336",
-        "name": "Zwift - Volcano Circuit CCW in Watopia",
+        "athlete": "Meenu Nagori",
+        "athleteId": "69685863",
+        "activityId": "21144035165",
+        "name": "Evening Walk",
         "date": "November 27, 2026",
-        "distanceKm": 7.6,
+        "distanceKm": 3.4,
         "stats": [
-          "7.6 km",
-          "16:13",
-          "37 m"
-        ]
-      },
-      {
-        "athlete": "David Rondon",
-        "athleteId": "1002628",
-        "activityId": "21143597178",
-        "name": "Ettermiddag med sykkeltur",
-        "date": "November 27, 2026",
-        "distanceKm": 4.5,
-        "stats": [
-          "4.5 km",
-          "17:47",
-          "58 m"
+          "3.4 km",
+          "42:51",
+          "36 m"
         ]
       },
       {
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Daniel Stodden",
-        "athleteId": "23274828",
-        "activityId": "21143677931",
-        "name": "Gewichtstraining am Nachmittag",
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "21143986652",
+        "name": "Öğleden Sonra Sürüş",
         "date": "November 27, 2026",
-        "distanceKm": 0,
+        "distanceKm": 16.3,
         "stats": [
-          "0 km",
-          "1:01:40",
-          "0 m"
+          "16.3 km",
+          "2:23:23",
+          "102 m"
+        ]
+      },
+      {
+        "athlete": "René Sauer",
+        "athleteId": "190842154",
+        "activityId": "21144022638",
+        "name": "Gran Canaria Tag 2",
+        "date": "November 27, 2026",
+        "distanceKm": 75.5,
+        "stats": [
+          "75.5 km",
+          "5:22:04",
+          "1,022 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 304318.2
+      "totalWithEstimatesKm": 304439.2
     }
   }
 }

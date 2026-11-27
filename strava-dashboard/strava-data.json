@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T05:30:46.524Z",
+  "generatedAt": "2026-11-27T06:00:58.425Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 696127,
+    "remainingKm": 696087,
     "percentComplete": 30.39,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 6607.7,
-    "thisWeekActivities": 651,
-    "thisWeekHours": 561,
-    "thisWeekElevationM": 46402,
+    "thisWeekKm": 6647.9,
+    "thisWeekActivities": 656,
+    "thisWeekHours": 567,
+    "thisWeekElevationM": 46669,
     "timesAroundEarth": 7.58,
     "percentToMoon": 79.1,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24892,
+  "totalActivities": 24897,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 303872600,
-    "totalMovingTime": 86159387,
-    "totalElevation": 2225350.6
+    "totalDistance": 303912800,
+    "totalMovingTime": 86180267,
+    "totalElevation": 2225617.6
   },
   "monthStats": {
-    "totalDistance": 47872500,
-    "totalMovingTime": 13579560,
+    "totalDistance": 47912700,
+    "totalMovingTime": 13600440,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 6607700,
-    "totalMovingTime": 2021280,
-    "count": 651
+    "totalDistance": 6647900,
+    "totalMovingTime": 2042160,
+    "count": 656
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,16 +105,29 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 288075.6,
+    "measuredDistanceKm": 288115.8,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
+        "athlete": "Cosima Renner",
+        "athleteId": "32997490",
+        "activityId": "21139440463",
+        "name": "Schwimmen am Morgen",
+        "date": "November 27, 2026",
+        "distanceKm": 1.5,
+        "stats": [
+          "1.5 km",
+          "43:58",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Holger Ingo Friedrich",
         "athleteId": "44997620",
         "activityId": "21139309465",
-        "name": "Yoga am Morgen",
+        "name": "Mobi und Stabi für den Start in den Tag 🧘🏻‍♂️🧘🏻‍♂️🧘🏻‍♂️ …",
         "date": "November 27, 2026",
         "distanceKm": 0,
         "stats": [
@@ -124,55 +137,42 @@
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "21139169588",
-        "name": "Morning Ride",
+        "athlete": "Silvio Lazzarin",
+        "athleteId": "139275594",
+        "activityId": "21139416779",
+        "name": "500mt Ripetizioni Rotanti",
         "date": "November 27, 2026",
-        "distanceKm": 1.6,
+        "distanceKm": 14.1,
         "stats": [
-          "1.6 km",
-          "7:48",
-          "8 m"
+          "14.1 km",
+          "1:11:18",
+          "27 m"
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "21139169583",
-        "name": "Gym Day 32",
+        "athlete": "Amit Zadka",
+        "athleteId": "25927820",
+        "activityId": "21139407791",
+        "name": "Morning Run",
         "date": "November 27, 2026",
-        "distanceKm": 0,
+        "distanceKm": 14,
         "stats": [
-          "0 km",
-          "54:45",
-          "0 m"
+          "14.0 km",
+          "1:27:06",
+          "39 m"
         ]
       },
       {
-        "athlete": "Louis Mwanja",
-        "athleteId": "14992965",
-        "activityId": "21139169566",
-        "name": "Morning Ride",
-        "date": "November 27, 2026",
-        "distanceKm": 1.4,
-        "stats": [
-          "1.4 km",
-          "7:50",
-          "23 m"
-        ]
-      },
-      {
-        "athlete": "siavash Akbari",
-        "athleteId": "56213794",
-        "activityId": "21139193410",
+        "athlete": "Justin Mwenda",
+        "athleteId": "160236798",
+        "activityId": "21139444161",
         "name": "Morning Walk",
-        "date": "November 26, 2026",
-        "distanceKm": 5.6,
+        "date": "November 27, 2026",
+        "distanceKm": 10.4,
         "stats": [
-          "5.6 km",
-          "59:52",
-          "67 m"
+          "10.4 km",
+          "2:00:51",
+          "201 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 303872.6
+      "totalWithEstimatesKm": 303912.8
     }
   }
 }

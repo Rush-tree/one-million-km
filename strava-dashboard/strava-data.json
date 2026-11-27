@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T17:00:57.860Z",
+  "generatedAt": "2026-11-27T17:30:47.698Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 695155,
-    "percentComplete": 30.48,
+    "remainingKm": 695106,
+    "percentComplete": 30.49,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7580.1,
-    "thisWeekActivities": 740,
-    "thisWeekHours": 641,
-    "thisWeekElevationM": 54879,
+    "thisWeekKm": 7629.6,
+    "thisWeekActivities": 745,
+    "thisWeekHours": 647,
+    "thisWeekElevationM": 55523,
     "timesAroundEarth": 7.61,
     "percentToMoon": 79.3,
     "comparisons": [
@@ -46,8 +46,8 @@
       },
       {
         "key": "transatlantic",
-        "value": 47.7,
-        "text": "47.7 return trips Berlin to New York",
+        "value": 47.8,
+        "text": "47.8 return trips Berlin to New York",
         "detail": "6,385 km one way."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24982,
+  "totalActivities": 24987,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 304845000,
-    "totalMovingTime": 86447087,
-    "totalElevation": 2233827.6
+    "totalDistance": 304894500,
+    "totalMovingTime": 86466947,
+    "totalElevation": 2234471.6
   },
   "monthStats": {
-    "totalDistance": 48844900,
-    "totalMovingTime": 13867260,
+    "totalDistance": 48894400,
+    "totalMovingTime": 13887120,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7580100,
-    "totalMovingTime": 2308980,
-    "count": 740
+    "totalDistance": 7629600,
+    "totalMovingTime": 2328840,
+    "count": 745
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289048,
+    "measuredDistanceKm": 289097.5,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Holger Ingo Friedrich",
+        "athleteId": "44997620",
+        "activityId": "21145096539",
+        "name": "Zwift - Group Ride: Chasing SYNers Ride (C)",
+        "date": "November 27, 2026",
+        "distanceKm": 14,
+        "stats": [
+          "14.0 km",
+          "29:43",
+          "84 m"
+        ]
+      },
+      {
+        "athlete": "Benny Pos",
+        "athleteId": "85148884",
+        "activityId": "21144994607",
+        "name": "Zwift - Loopin Lava in Watopia",
+        "date": "November 27, 2026",
+        "distanceKm": 18.7,
+        "stats": [
+          "18.7 km",
+          "40:06",
+          "215 m"
+        ]
+      },
       {
         "athlete": "Susanne Liepert",
         "athleteId": "28515644",
@@ -148,32 +174,6 @@
           "2:55:26",
           "16 m"
         ]
-      },
-      {
-        "athlete": "Hans-Georg Acker ♣",
-        "athleteId": "34456629",
-        "activityId": "21144314358",
-        "name": "RR Paradies ♣️😍🌞🍁🇮🇹 ...",
-        "date": "November 27, 2026",
-        "distanceKm": 72,
-        "stats": [
-          "72.0 km",
-          "3:45:41",
-          "1,107 m"
-        ]
-      },
-      {
-        "athlete": "Bülent Sevil",
-        "athleteId": "156559910",
-        "activityId": "21144383677",
-        "name": "Güç",
-        "date": "November 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "32:20",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 304845
+      "totalWithEstimatesKm": 304894.5
     }
   }
 }

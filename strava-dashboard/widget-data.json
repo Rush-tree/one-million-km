@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-27T07:00:51.695Z",
+  "generatedAt": "2026-11-27T07:30:48.175Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-27T07:00:51.695Z",
+  "memberCountUpdatedAt": "2026-11-27T07:30:48.175Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 663,
-    "distanceKm": 6675.1,
-    "elevationM": 46982,
-    "movingSeconds": 2053620,
+    "activities": 662,
+    "distanceKm": 6595.2,
+    "elevationM": 46081,
+    "movingSeconds": 2037840,
     "raw": {
-      "activities": "663",
-      "distance": "6,675.1 km",
-      "time": "570 h 27 m",
-      "elevation": "46,982 m"
+      "activities": "662",
+      "distance": "6,595.2 km",
+      "time": "566 h 4 m",
+      "elevation": "46,081 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "David Rondon",
+      "athleteId": "1002628",
+      "activityId": "21139813612",
+      "name": "Sykkeltur om morgenen",
+      "date": "November 27, 2026",
+      "distanceKm": 4.4,
+      "stats": [
+        "4.4 km",
+        "16:34",
+        "61 m"
+      ]
+    },
     {
       "athlete": "Benny Pos",
       "athleteId": "85148884",
@@ -69,19 +82,6 @@
         "30:54",
         "52 m"
       ]
-    },
-    {
-      "athlete": "Justin Mwenda",
-      "athleteId": "160236798",
-      "activityId": "21139444161",
-      "name": "Morning Walk",
-      "date": "November 27, 2026",
-      "distanceKm": 10.4,
-      "stats": [
-        "10.4 km",
-        "2:00:51",
-        "201 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 165134.9,
-  "totalDistanceKm": 288143,
+  "observedWeeksKm": 165055,
+  "totalDistanceKm": 288063.1,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 303940
+    "totalWithEstimatesKm": 303860.1
   }
 }

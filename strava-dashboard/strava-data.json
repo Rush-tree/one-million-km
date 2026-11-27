@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T18:30:48.583Z",
+  "generatedAt": "2026-11-27T19:01:01.500Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 695049,
+    "remainingKm": 695017,
     "percentComplete": 30.5,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7685.7,
-    "thisWeekActivities": 754,
-    "thisWeekHours": 654,
-    "thisWeekElevationM": 55790,
+    "thisWeekKm": 7717.8,
+    "thisWeekActivities": 760,
+    "thisWeekHours": 660,
+    "thisWeekElevationM": 56017,
     "timesAroundEarth": 7.61,
     "percentToMoon": 79.3,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 24997,
+  "totalActivities": 25003,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 304950600,
-    "totalMovingTime": 86491187,
-    "totalElevation": 2234738.6
+    "totalDistance": 304982700,
+    "totalMovingTime": 86513027,
+    "totalElevation": 2234965.6
   },
   "monthStats": {
-    "totalDistance": 48950500,
-    "totalMovingTime": 13911360,
+    "totalDistance": 48982600,
+    "totalMovingTime": 13933200,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7685700,
-    "totalMovingTime": 2353080,
-    "count": 754
+    "totalDistance": 7717800,
+    "totalMovingTime": 2374920,
+    "count": 760
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,7 +105,7 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289153.6,
+    "measuredDistanceKm": 289185.7,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
@@ -124,6 +124,19 @@
         ]
       },
       {
+        "athlete": "Alex 3R",
+        "athleteId": "89054684",
+        "activityId": "21145818842",
+        "name": "Blackroll, Stretching, Stabi",
+        "date": "November 27, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0 km",
+          "1:00:19",
+          "0 m"
+        ]
+      },
+      {
         "athlete": "Benny Pos",
         "athleteId": "85148884",
         "activityId": "21145665640",
@@ -137,41 +150,28 @@
         ]
       },
       {
-        "athlete": "Laurent ROBERT",
-        "athleteId": "139535489",
-        "activityId": "21145426785",
-        "name": "Entraînement aux poids en soirée",
+        "athlete": "Manuela Bootsmann (RC Pfeil Rebellunas)",
+        "athleteId": "9696032",
+        "activityId": "21145799470",
+        "name": "Zum Sankt Annagarten Glühwein trinken",
+        "date": "November 27, 2026",
+        "distanceKm": 3.6,
+        "stats": [
+          "3.6 km",
+          "3:18:08",
+          "31 m"
+        ]
+      },
+      {
+        "athlete": "Chirag 🏃🏾‍♂️ & Henry 🐶",
+        "athleteId": "12021648",
+        "activityId": "21145702102",
+        "name": "Friday Fever - Strength 🤍🩶🖤💪🏽🔗🏃🏾‍♂️‍➡️🚀",
         "date": "November 27, 2026",
         "distanceKm": 0,
         "stats": [
           "0 km",
-          "51:30",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Ricardo Ferre",
-        "athleteId": "45223374",
-        "activityId": "21145580527",
-        "name": "Abendspaziergang",
-        "date": "November 27, 2026",
-        "distanceKm": 1.9,
-        "stats": [
-          "1.9 km",
-          "2:06:53",
-          "22 m"
-        ]
-      },
-      {
-        "athlete": "Paweł Siergiej",
-        "athleteId": "147932574",
-        "activityId": "21145245412",
-        "name": "Popołudniowy trening siłowy",
-        "date": "November 27, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "1:39:41",
+          "1:03:28",
           "0 m"
         ]
       }
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 304950.6
+      "totalWithEstimatesKm": 304982.7
     }
   }
 }

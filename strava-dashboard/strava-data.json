@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T23:00:56.526Z",
+  "generatedAt": "2026-11-27T23:30:47.338Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
@@ -13,8 +13,8 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7737.2,
-    "thisWeekActivities": 769,
+    "thisWeekKm": 7737.3,
+    "thisWeekActivities": 770,
     "thisWeekHours": 668,
     "thisWeekElevationM": 56170,
     "timesAroundEarth": 7.61,
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 25013,
+  "totalActivities": 25014,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 305002100,
+    "totalDistance": 305002200,
     "totalMovingTime": 86543387,
     "totalElevation": 2235118.6
   },
   "monthStats": {
-    "totalDistance": 49002000,
+    "totalDistance": 49002100,
     "totalMovingTime": 13963560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7737200,
+    "totalDistance": 7737300,
     "totalMovingTime": 2405280,
-    "count": 769
+    "count": 770
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289205.1,
+    "measuredDistanceKm": 289205.2,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
+        "athleteId": "47897742",
+        "activityId": "21147756433",
+        "name": "Gece Koşu",
+        "date": "November 28, 2026",
+        "distanceKm": 0,
+        "stats": [
+          "0.0 km",
+          "2:00",
+          "0 m"
+        ]
+      },
       {
         "athlete": "Fabrice M 🇫🇷 - 🇬🇷",
         "athleteId": "40311376",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Erwin Bootsmann RC Pfeil Neckarsulm",
-        "athleteId": "4351490",
-        "activityId": "21145974722",
-        "name": "Zum Glühwein trinken zum Stankt Annagarten in Beilstein",
-        "date": "November 27, 2026",
-        "distanceKm": 3.2,
-        "stats": [
-          "3.2 km",
-          "3:38:19",
-          "36 m"
-        ]
-      },
-      {
         "athlete": "Marisa Funk",
         "athleteId": "157343980",
         "activityId": "21147615602",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 305002.1
+      "totalWithEstimatesKm": 305002.2
     }
   }
 }

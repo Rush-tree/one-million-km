@@ -1,23 +1,36 @@
 {
-  "generatedAt": "2026-11-28T02:30:51.429Z",
+  "generatedAt": "2026-11-28T03:00:55.123Z",
   "source": "strava-embed-widget",
   "clubId": "1491053",
   "memberCount": 245,
-  "memberCountUpdatedAt": "2026-11-28T02:30:51.429Z",
+  "memberCountUpdatedAt": "2026-11-28T03:00:55.122Z",
   "currentWeek": {
     "week": "Nov 23, 2026 - Nov 29, 2026",
-    "activities": 773,
-    "distanceKm": 7779,
-    "elevationM": 56213,
-    "movingSeconds": 2412360,
+    "activities": 776,
+    "distanceKm": 7811.2,
+    "elevationM": 56238,
+    "movingSeconds": 2426280,
     "raw": {
-      "activities": "773",
-      "distance": "7,779.0 km",
-      "time": "670 h 6 m",
-      "elevation": "56,213 m"
+      "activities": "776",
+      "distance": "7,811.2 km",
+      "time": "673 h 58 m",
+      "elevation": "56,238 m"
     }
   },
   "latestActivities": [
+    {
+      "athlete": "James White",
+      "athleteId": "81513205",
+      "activityId": "21149128112",
+      "name": "30 min Country Ride with Hannah Corbin",
+      "date": "November 28, 2026",
+      "distanceKm": 11.5,
+      "stats": [
+        "11.5 km",
+        "30:00",
+        "0 m"
+      ]
+    },
     {
       "athlete": "James White",
       "athleteId": "81513205",
@@ -32,15 +45,28 @@
       ]
     },
     {
+      "athlete": "Mangala Pai",
+      "athleteId": "118301293",
+      "activityId": "21149199645",
+      "name": "Morning Ride",
+      "date": "November 28, 2026",
+      "distanceKm": 20.5,
+      "stats": [
+        "20.5 km",
+        "1:48:31",
+        "25 m"
+      ]
+    },
+    {
       "athlete": "James White",
       "athleteId": "81513205",
-      "activityId": "21148801064",
-      "name": "60 min Sweat Steady Ride with Jess King",
-      "date": "November 28, 2026",
-      "distanceKm": 23.3,
+      "activityId": "21149198443",
+      "name": "Evening Ride",
+      "date": "November 27, 2026",
+      "distanceKm": 0,
       "stats": [
-        "23.3 km",
-        "1:00:00",
+        "0 km",
+        "2:09:30",
         "0 m"
       ]
     },
@@ -56,32 +82,6 @@
         "2:44:17",
         "89 m"
       ]
-    },
-    {
-      "athlete": "Goro Shigeno",
-      "athleteId": "37029557",
-      "activityId": "21149027720",
-      "name": "Morning Ride",
-      "date": "November 28, 2026",
-      "distanceKm": 6.6,
-      "stats": [
-        "6.6 km",
-        "45:45",
-        "43 m"
-      ]
-    },
-    {
-      "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-      "athleteId": "47897742",
-      "activityId": "21147756433",
-      "name": "Gece Koşu",
-      "date": "November 28, 2026",
-      "distanceKm": 0,
-      "stats": [
-        "0.0 km",
-        "2:00",
-        "0 m"
-      ]
     }
   ],
   "baseline": {
@@ -90,8 +90,8 @@
     "asOf": "2026-09-01T16:01:01.586Z",
     "setAt": "2026-09-10T13:18:19.782Z"
   },
-  "observedWeeksKm": 166238.8,
-  "totalDistanceKm": 289246.9,
+  "observedWeeksKm": 166271,
+  "totalDistanceKm": 289279.1,
   "weeksTracked": 12,
   "dataQuality": {
     "truncatedWeeks": [
@@ -111,6 +111,6 @@
       }
     ],
     "estimatedGapKm": 15797,
-    "totalWithEstimatesKm": 305043.9
+    "totalWithEstimatesKm": 305076.1
   }
 }

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-28T02:30:51.429Z",
+  "generatedAt": "2026-11-28T03:00:55.123Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 694956,
-    "percentComplete": 30.5,
+    "remainingKm": 694924,
+    "percentComplete": 30.51,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7779,
-    "thisWeekActivities": 773,
-    "thisWeekHours": 670,
-    "thisWeekElevationM": 56213,
+    "thisWeekKm": 7811.2,
+    "thisWeekActivities": 776,
+    "thisWeekHours": 674,
+    "thisWeekElevationM": 56238,
     "timesAroundEarth": 7.61,
     "percentToMoon": 79.4,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 25017,
+  "totalActivities": 25020,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 305043900,
-    "totalMovingTime": 86550467,
-    "totalElevation": 2235161.6
+    "totalDistance": 305076100,
+    "totalMovingTime": 86564387,
+    "totalElevation": 2235186.6
   },
   "monthStats": {
-    "totalDistance": 49043800,
-    "totalMovingTime": 13970640,
+    "totalDistance": 49076000,
+    "totalMovingTime": 13984560,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7779000,
-    "totalMovingTime": 2412360,
-    "count": 773
+    "totalDistance": 7811200,
+    "totalMovingTime": 2426280,
+    "count": 776
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289246.9,
+    "measuredDistanceKm": 289279.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "James White",
+        "athleteId": "81513205",
+        "activityId": "21149128112",
+        "name": "30 min Country Ride with Hannah Corbin",
+        "date": "November 28, 2026",
+        "distanceKm": 11.5,
+        "stats": [
+          "11.5 km",
+          "30:00",
+          "0 m"
+        ]
+      },
       {
         "athlete": "James White",
         "athleteId": "81513205",
@@ -124,15 +137,28 @@
         ]
       },
       {
+        "athlete": "Mangala Pai",
+        "athleteId": "118301293",
+        "activityId": "21149199645",
+        "name": "Morning Ride",
+        "date": "November 28, 2026",
+        "distanceKm": 20.5,
+        "stats": [
+          "20.5 km",
+          "1:48:31",
+          "25 m"
+        ]
+      },
+      {
         "athlete": "James White",
         "athleteId": "81513205",
-        "activityId": "21148801064",
-        "name": "60 min Sweat Steady Ride with Jess King",
-        "date": "November 28, 2026",
-        "distanceKm": 23.3,
+        "activityId": "21149198443",
+        "name": "Evening Ride",
+        "date": "November 27, 2026",
+        "distanceKm": 0,
         "stats": [
-          "23.3 km",
-          "1:00:00",
+          "0 km",
+          "2:09:30",
           "0 m"
         ]
       },
@@ -147,32 +173,6 @@
           "13.1 km",
           "2:44:17",
           "89 m"
-        ]
-      },
-      {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "21149027720",
-        "name": "Morning Ride",
-        "date": "November 28, 2026",
-        "distanceKm": 6.6,
-        "stats": [
-          "6.6 km",
-          "45:45",
-          "43 m"
-        ]
-      },
-      {
-        "athlete": "Muhammed Edip KARABACAK 🇹🇷",
-        "athleteId": "47897742",
-        "activityId": "21147756433",
-        "name": "Gece Koşu",
-        "date": "November 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0.0 km",
-          "2:00",
-          "0 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 305043.9
+      "totalWithEstimatesKm": 305076.1
     }
   }
 }

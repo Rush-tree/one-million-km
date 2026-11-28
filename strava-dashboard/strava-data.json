@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-28T03:00:55.123Z",
+  "generatedAt": "2026-11-28T03:30:50.181Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 694924,
-    "percentComplete": 30.51,
+    "remainingKm": 694780,
+    "percentComplete": 30.52,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,11 +13,11 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 7811.2,
-    "thisWeekActivities": 776,
-    "thisWeekHours": 674,
-    "thisWeekElevationM": 56238,
-    "timesAroundEarth": 7.61,
+    "thisWeekKm": 7955,
+    "thisWeekActivities": 779,
+    "thisWeekHours": 681,
+    "thisWeekElevationM": 56661,
+    "timesAroundEarth": 7.62,
     "percentToMoon": 79.4,
     "comparisons": [
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 25020,
+  "totalActivities": 25022,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 305076100,
-    "totalMovingTime": 86564387,
-    "totalElevation": 2235186.6
+    "totalDistance": 305219900,
+    "totalMovingTime": 86588447,
+    "totalElevation": 2235609.6
   },
   "monthStats": {
-    "totalDistance": 49076000,
-    "totalMovingTime": 13984560,
+    "totalDistance": 49219800,
+    "totalMovingTime": 14008620,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 7811200,
-    "totalMovingTime": 2426280,
-    "count": 776
+    "totalDistance": 7955000,
+    "totalMovingTime": 2450340,
+    "count": 779
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,35 +105,22 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289279.1,
+    "measuredDistanceKm": 289422.9,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
       {
-        "athlete": "James White",
-        "athleteId": "81513205",
-        "activityId": "21149128112",
-        "name": "30 min Country Ride with Hannah Corbin",
+        "athlete": "Rajesh Khandare",
+        "athleteId": "129925061",
+        "activityId": "21149252408",
+        "name": "Morning Run",
         "date": "November 28, 2026",
-        "distanceKm": 11.5,
+        "distanceKm": 5.4,
         "stats": [
-          "11.5 km",
-          "30:00",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "James White",
-        "athleteId": "81513205",
-        "activityId": "21148972956",
-        "name": "30 min Climb Ride with Denis Morton",
-        "date": "November 28, 2026",
-        "distanceKm": 11.7,
-        "stats": [
-          "11.7 km",
-          "30:00",
-          "0 m"
+          "5.4 km",
+          "47:39",
+          "27 m"
         ]
       },
       {
@@ -163,16 +150,29 @@
         ]
       },
       {
-        "athlete": "Goro Shigeno",
-        "athleteId": "37029557",
-        "activityId": "21149048461",
-        "name": "Morning Run",
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21149262078",
+        "name": "Saturday Morning Ride",
         "date": "November 28, 2026",
-        "distanceKm": 13.1,
+        "distanceKm": 69.5,
         "stats": [
-          "13.1 km",
-          "2:44:17",
-          "89 m"
+          "69.5 km",
+          "3:25:37",
+          "209 m"
+        ]
+      },
+      {
+        "athlete": "Kathi Anil Kumar🇮🇳",
+        "athleteId": "71379636",
+        "activityId": "21149259345",
+        "name": "☀️ Morning Ride",
+        "date": "November 28, 2026",
+        "distanceKm": 68.8,
+        "stats": [
+          "68.8 km",
+          "3:25:08",
+          "186 m"
         ]
       }
     ],
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 305076.1
+      "totalWithEstimatesKm": 305219.9
     }
   }
 }

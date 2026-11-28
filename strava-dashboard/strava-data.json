@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-28T08:30:46.708Z",
+  "generatedAt": "2026-11-28T09:01:06.386Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 694608,
+    "remainingKm": 694578,
     "percentComplete": 30.54,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
@@ -13,12 +13,12 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 8127.4,
-    "thisWeekActivities": 795,
-    "thisWeekHours": 695,
-    "thisWeekElevationM": 57576,
+    "thisWeekKm": 8156.7,
+    "thisWeekActivities": 800,
+    "thisWeekHours": 698,
+    "thisWeekElevationM": 57772,
     "timesAroundEarth": 7.62,
-    "percentToMoon": 79.4,
+    "percentToMoon": 79.5,
     "comparisons": [
       {
         "key": "equator",
@@ -28,8 +28,8 @@
       },
       {
         "key": "moon",
-        "value": 79.4,
-        "text": "79.4% of the way to the Moon",
+        "value": 79.5,
+        "text": "79.5% of the way to the Moon",
         "detail": "384,400 km — the club is climbing towards it."
       },
       {
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 25038,
+  "totalActivities": 25044,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 305392300,
-    "totalMovingTime": 86638547,
-    "totalElevation": 2236524.6
+    "totalDistance": 305421600,
+    "totalMovingTime": 86650667,
+    "totalElevation": 2236720.6
   },
   "monthStats": {
-    "totalDistance": 49392200,
-    "totalMovingTime": 14058720,
+    "totalDistance": 49421500,
+    "totalMovingTime": 14070840,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8127400,
-    "totalMovingTime": 2500440,
-    "count": 795
+    "totalDistance": 8156700,
+    "totalMovingTime": 2512560,
+    "count": 800
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,24 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 289595.3,
+    "measuredDistanceKm": 289624.6,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Bärbel Unser",
+        "athleteId": "73612084",
+        "activityId": "21150737804",
+        "name": "Lauf am Morgen",
+        "date": "November 28, 2026",
+        "distanceKm": 10.5,
+        "stats": [
+          "10.5 km",
+          "1:11:13",
+          "103 m"
+        ]
+      },
       {
         "athlete": "Philip Quirin",
         "athleteId": "103469042",
@@ -150,19 +163,6 @@
         ]
       },
       {
-        "athlete": "Holger Ingo Friedrich",
-        "athleteId": "44997620",
-        "activityId": "21149699350",
-        "name": "Moni und Stabi für den Start in den Tag 🧘‍♂️🧘‍♂️🧘‍♂️ …",
-        "date": "November 28, 2026",
-        "distanceKm": 0,
-        "stats": [
-          "0 km",
-          "18:08",
-          "0 m"
-        ]
-      },
-      {
         "athlete": "Amit Zadka",
         "athleteId": "25927820",
         "activityId": "21150003003",
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 305392.3
+      "totalWithEstimatesKm": 305421.6
     }
   }
 }

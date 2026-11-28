@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-28T11:30:50.912Z",
+  "generatedAt": "2026-11-28T12:00:58.717Z",
   "clubId": "1491053",
   "facts": {
     "goalKm": 1000000,
-    "remainingKm": 694192,
-    "percentComplete": 30.58,
+    "remainingKm": 694069,
+    "percentComplete": 30.59,
     "paceBasisWeeks": 10,
     "avgWeekKm": 15238.4,
     "avgDayKm": 2176.9,
@@ -13,10 +13,10 @@
     "kmPerMemberWeek": 62.2,
     "activitiesPerWeek": 1179,
     "avgActivityKm": 12.9,
-    "thisWeekKm": 8542.7,
-    "thisWeekActivities": 825,
-    "thisWeekHours": 722,
-    "thisWeekElevationM": 59097,
+    "thisWeekKm": 8666.2,
+    "thisWeekActivities": 828,
+    "thisWeekHours": 728,
+    "thisWeekElevationM": 59399,
     "timesAroundEarth": 7.63,
     "percentToMoon": 79.6,
     "comparisons": [
@@ -60,7 +60,7 @@
   },
   "clubName": "One Million Kilometers - The Million Project",
   "clubProfile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1491053/36850120/3/medium.jpg",
-  "totalActivities": 25068,
+  "totalActivities": 25070,
   "memberCount": 245,
   "memberGrowth": {
     "day": 0,
@@ -70,19 +70,19 @@
     "reason": "Strava removed the club members endpoint on 2026-09-01"
   },
   "allTimeStats": {
-    "totalDistance": 305807600,
-    "totalMovingTime": 86737787,
-    "totalElevation": 2238045.6
+    "totalDistance": 305931100,
+    "totalMovingTime": 86758847,
+    "totalElevation": 2238347.6
   },
   "monthStats": {
-    "totalDistance": 49807500,
-    "totalMovingTime": 14157960,
+    "totalDistance": 49931000,
+    "totalMovingTime": 14179020,
     "count": 0
   },
   "weekStats": {
-    "totalDistance": 8542700,
-    "totalMovingTime": 2599680,
-    "count": 825
+    "totalDistance": 8666200,
+    "totalMovingTime": 2620740,
+    "count": 828
   },
   "lastWeekStats": {
     "totalDistance": 0,
@@ -105,11 +105,37 @@
   "dataSource": {
     "source": "strava-embed-widget",
     "note": "Strava removed the club API endpoints on 2026-09-01; figures come from Strava's official embeddable club widget.",
-    "measuredDistanceKm": 290010.6,
+    "measuredDistanceKm": 290134.1,
     "estimatedGapKm": 15797,
     "includesEstimates": true,
     "estimateBasis": "Conservative lower bound for the 2026-09-01 to 2026-09-15 outage: each missing day valued at the weakest August day of the same weekday. Deliberately understates rather than overstates.",
     "latestActivities": [
+      {
+        "athlete": "Laurent ROBERT",
+        "athleteId": "139535489",
+        "activityId": "21152681382",
+        "name": "4K ☀️ Nelson Time 🦮",
+        "date": "November 28, 2026",
+        "distanceKm": 4,
+        "stats": [
+          "4.0 km",
+          "47:21",
+          "43 m"
+        ]
+      },
+      {
+        "athlete": "Jules Göpel",
+        "athleteId": "150874653",
+        "activityId": "21152999994",
+        "name": "Fahrt am Morgen",
+        "date": "November 28, 2026",
+        "distanceKm": 53.1,
+        "stats": [
+          "53.1 km",
+          "2:00:37",
+          "0 m"
+        ]
+      },
       {
         "athlete": "John Spence",
         "athleteId": "97189936",
@@ -148,32 +174,6 @@
           "51:44",
           "58 m"
         ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "21151627822",
-        "name": "Fahrt am Morgen",
-        "date": "November 28, 2026",
-        "distanceKm": 22.8,
-        "stats": [
-          "22.8 km",
-          "53:03",
-          "0 m"
-        ]
-      },
-      {
-        "athlete": "Anja Habermeier",
-        "athleteId": "80382525",
-        "activityId": "21151563039",
-        "name": "Fahrt am Morgen",
-        "date": "November 28, 2026",
-        "distanceKm": 28.9,
-        "stats": [
-          "28.9 km",
-          "1:00:38",
-          "0 m"
-        ]
       }
     ],
     "dataQuality": {
@@ -194,7 +194,7 @@
         }
       ],
       "estimatedGapKm": 15797,
-      "totalWithEstimatesKm": 305807.6
+      "totalWithEstimatesKm": 305931.1
     }
   }
 }
